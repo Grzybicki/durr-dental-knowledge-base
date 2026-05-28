@@ -1,5 +1,12 @@
 # Dürr Dental — Base de connaissance publique
 
+[![Licence : CC BY 4.0](https://img.shields.io/badge/Licence-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![CI](https://github.com/Grzybicki/durr-dental-knowledge-base/actions/workflows/ci.yml/badge.svg)](https://github.com/Grzybicki/durr-dental-knowledge-base/actions/workflows/ci.yml)
+[![GitHub Pages](https://img.shields.io/website?url=https%3A%2F%2Fgrzybicki.github.io%2Fdurr-dental-knowledge-base%2F&label=site)](https://grzybicki.github.io/durr-dental-knowledge-base/)
+[![Langue principale](https://img.shields.io/badge/langue-fran%C3%A7ais-blue)](docs/fr/)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![CDI déclaré](https://img.shields.io/badge/conflit%20d%27int%C3%A9r%C3%AAts-d%C3%A9clar%C3%A9-orange)](README.md#déclaration-de-conflit-dintérêts)
+
 > Documentation indépendante et publiquement sourcée des produits Dürr Dental :
 > imagerie dentaire (VistaSoft, VistaVox, VistaPano, VistaScan, VistaRay, VistaCam, VistaIntra),
 > conventionnel (Tyscor compresseurs et aspiration), hygiène et chimie de désinfection.

@@ -7,6 +7,7 @@
   <meta name="format-detection" content="telephone=no">
   <meta name="author" content="{{ site.author.name }}">
   <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta property="og:locale" content="{{ site.locale | default: 'fr_FR' }}">
 
   {%- if page.keywords -%}
   <meta name="keywords" content="{{ page.keywords | join: ', ' }}">
@@ -17,6 +18,16 @@
   {%- if page.canonical_url -%}
   <link rel="canonical" href="{{ page.canonical_url }}">
   {%- endif -%}
+
+  <!-- Hreflang : actuellement FR uniquement, x-default pointe sur la version FR -->
+  <link rel="alternate" hreflang="fr" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
+
+  <!-- Identité décentralisée (rel=me) -->
+  <link rel="me" href="https://github.com/Grzybicki">
+
+  <!-- Favicon SVG -->
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 

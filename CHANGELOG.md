@@ -24,6 +24,14 @@ Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 - Aucun document marqué Internal Use / Strictly Confidential mobilisé.
 - Aucune donnée patient / praticien / cabinet identifiable.
 
+### Polish final
+- `favicon.svg` : monogramme DD pour onglet navigateur et signal crawl.
+- `.well-known/security.txt` (RFC 9116) : emplacement standard pointant vers SECURITY.md et les advisories GitHub.
+- `CODE_OF_CONDUCT.md` (Contributor Covenant 2.1 — version française officielle).
+- Badges README : licence, CI status, GitHub Pages, langue, Conventional Commits, CDI déclaré.
+- Layout enrichi : `<link rel="icon">` favicon SVG, `<link rel="alternate" hreflang="fr|x-default">` (préparation multilingue future), `<link rel="me">` vers profil GitHub (identité décentralisée), `<meta property="og:locale" content="fr_FR">`.
+- `_config.yml` : `include: [.well-known]` pour que Jekyll publie le dossier (sinon ignoré par défaut).
+
 ### Couche structurelle et gouvernance (anti-refactoring futur)
 - **Centralisation `_data/durr.yml`** : source de vérité unique pour les données organisationnelles Dürr Dental SE et filiale France, les Notified Bodies, les règlements et bases publiques. Le layout consomme ces données pour générer les JSON-LD `Organization` — évite la duplication et la dérive entre fiches.
 - **JSON-LD `BreadcrumbList`** auto-généré à partir du frontmatter `breadcrumbs` de chaque page.

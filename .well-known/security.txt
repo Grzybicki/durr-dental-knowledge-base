@@ -1,0 +1,15 @@
+# RFC 9116 — security.txt
+# https://www.rfc-editor.org/rfc/rfc9116.html
+
+Contact: https://github.com/Grzybicki/durr-dental-knowledge-base/security/advisories/new
+Contact: https://github.com/Grzybicki/durr-dental-knowledge-base/issues/new/choose
+Expires: 2027-05-28T00:00:00.000Z
+Preferred-Languages: fr, en
+Canonical: https://grzybicki.github.io/durr-dental-knowledge-base/.well-known/security.txt
+Policy: https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/SECURITY.md
+Hiring: https://www.duerrdental.com/fr/
+
+# Scope: static documentation repository (Jekyll + GitHub Pages).
+# No backend, no user data, no authentication. Risks limited to dependency
+# chain, factual errors on medical devices, and inadvertent reproduction
+# of confidential material. See Policy for details.

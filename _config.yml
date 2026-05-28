@@ -52,6 +52,7 @@ exclude:
   - CHANGELOG.md
   - CONTRIBUTING.md
   - SECURITY.md
+  - CODE_OF_CONDUCT.md
   - LICENSE
   - .gitignore
   - .gitattributes
@@ -65,3 +66,7 @@ exclude:
   - vendor/
   - .github/
   - node_modules/
+
+# Inclure les dossiers commençant par "." (Jekyll les ignore par défaut)
+include:
+  - .well-known
