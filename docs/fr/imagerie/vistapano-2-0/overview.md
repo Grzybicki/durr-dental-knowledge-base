@@ -53,12 +53,39 @@ source_documents:
     reference: "9922-626 Rev D"
     language: "en"
     note: "Publiée par Air Techniques, filiale officielle de Dürr Dental aux États-Unis"
-  - title: "Instructions d'installation EN — VistaPano S 2.0 Installation Instructions"
-    url: "https://www.airtechniques.com/wp-content/uploads/2025/05/A9302A-VistaPano-S-2.0-Installation-Instructions.pdf"
-    type: "instructions d'installation"
-    reference: "A9302A"
+  - title: "Operating Instructions EN — VistaPano S 2.0"
+    url: "https://www.airtechniques.com/wp-content/uploads/2025/05/VistaPanoS2.0OperatingInstructions.pdf"
+    type: "manuel utilisateur"
     language: "en"
-    note: "Publiée par Air Techniques (filiale officielle Dürr Dental US)"
+    note: "Publié par Air Techniques (filiale officielle Dürr Dental US) — manuel utilisateur complet en anglais"
+  - title: "Installation Instructions EN — VistaPano S 2.0 (Rev C)"
+    url: "https://www.airtechniques.com/wp-content/uploads/2025/05/A9302C-VistaPano-S-2.0-Installation-Instructions.pdf"
+    type: "instructions d'installation"
+    reference: "A9302C"
+    language: "en"
+    note: "Publié par Air Techniques (filiale officielle Dürr Dental US) — Révision C de mai 2025, version la plus récente"
+  - title: "Installation Guide EN — VistaPano S 2.0 (décembre 2025)"
+    url: "https://www.airtechniques.com/wp-content/uploads/2025/12/A9304A.pdf"
+    type: "guide d'installation"
+    reference: "A9304A"
+    language: "en"
+    note: "Publié par Air Techniques (filiale officielle Dürr Dental US) en décembre 2025"
+  - title: "Quick Start Guide EN — VistaPano S 2.0"
+    url: "https://www.airtechniques.com/wp-content/uploads/2025/05/A9303C-VistaPano-S-2.0-Quick-Start-Guide.pdf"
+    type: "guide de démarrage rapide"
+    reference: "A9303C"
+    language: "en"
+    note: "Publié par Air Techniques (filiale officielle Dürr Dental US)"
+  - title: "News Dürr Dental SE (CH/DE) — Anwenderfreundlicher, schneller, designstärker : DÜRR DENTAL launcht zwei neue Röntgengeräte"
+    url: "https://www.duerrdental.com/de/CH/news/detail/anwenderfreundlicher-schneller-designstaerker-duerr-dental-launcht-zwei-neue-roentgengeraete/"
+    type: "communiqué officiel"
+    language: "de"
+    note: "Communiqué officiel Dürr Dental annonçant les nouveaux appareils, incluant la VistaPano S 2.0"
+  - title: "News Dürr Dental SE (EN) — THE BEST, BY DESIGN — Dürr Dental at the IDS 2025"
+    url: "https://www.duerrdental.com/en/news/detail/the-best-by-design-duerr-dental-at-the-ids-2025/"
+    type: "communiqué officiel"
+    language: "en"
+    note: "Communiqué officiel Dürr Dental couvrant la gamme VistaPano S 2.0 lors de l'IDS 2025 (Cologne)"
   # === Conformité réglementaire ===
   - title: "Déclaration de Conformité VistaPano S et VistaPano S Ceph"
     type: "Déclaration de Conformité MDD"
@@ -523,12 +550,16 @@ documentaire important.
 
 Air Techniques est la filiale officielle Dürr Dental aux États-Unis. Les documents
 publiés par Air Techniques sont des supports officiels constructeur, en langue anglaise,
-publiquement téléchargeables.
+publiquement téléchargeables. Il s'agit du **corpus public le plus complet** pour
+la VistaPano S 2.0.
 
 | Document | Référence | Langue | URL publique |
 |---|---|---|---|
 | Brochure *Efficiency in a new light* (VistaPano S 2.0 + Ceph 2.0) | 9922-626 Rev D | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf> |
-| Installation Instructions VistaPano S 2.0 | A9302A | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9302A-VistaPano-S-2.0-Installation-Instructions.pdf> |
+| Operating Instructions VistaPano S 2.0 (manuel utilisateur complet) | — | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/05/VistaPanoS2.0OperatingInstructions.pdf> |
+| Installation Instructions VistaPano S 2.0 (Rev C — mai 2025) | A9302C | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9302C-VistaPano-S-2.0-Installation-Instructions.pdf> |
+| Installation Guide VistaPano S 2.0 (décembre 2025) | A9304A | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/12/A9304A.pdf> |
+| Quick Start Guide VistaPano S 2.0 | A9303C | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9303C-VistaPano-S-2.0-Quick-Start-Guide.pdf> |
 
 ### Notices publiques (qr.duerrdental.com)
 
@@ -563,6 +594,13 @@ chaque code redirige vers le Centre de téléchargements officiel avec la notice
 | Eudamed (UE — registre dispositifs médicaux MDR) | <https://ec.europa.eu/tools/eudamed/> | Recherche par fabricant : <https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation> |
 | FDA 510(k) database (États-Unis) | <https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm> | Le cas échéant pour les dispositifs distribués aux US |
 
+### Communiqués officiels Dürr Dental SE
+
+| Document | Langue | URL publique |
+|---|---|---|
+| News *Anwenderfreundlicher, schneller, designstärker — DÜRR DENTAL launcht zwei neue Röntgengeräte* | 🇩🇪 de | <https://www.duerrdental.com/de/CH/news/detail/anwenderfreundlicher-schneller-designstaerker-duerr-dental-launcht-zwei-neue-roentgengeraete/> |
+| News *THE BEST, BY DESIGN — Dürr Dental at the IDS 2025* | 🇬🇧 en | <https://www.duerrdental.com/en/news/detail/the-best-by-design-duerr-dental-at-the-ids-2025/> |
+
 ### Presse spécialisée dentaire
 
 | Document | URL publique |
@@ -590,7 +628,11 @@ par défaut.
 | Page S-Pan | <https://web.archive.org/web/2026*/duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/> |
 | Notice installation | <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100006> |
 | Notice utilisation | <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100028> |
-| Brochure Air Techniques | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf> |
+| Brochure Air Techniques (9922-626 Rev D) | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf> |
+| Operating Instructions Air Techniques | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/VistaPanoS2.0OperatingInstructions.pdf> |
+| Installation Instructions Air Techniques (A9302C) | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/A9302C-VistaPano-S-2.0-Installation-Instructions.pdf> |
+| Installation Guide Air Techniques (A9304A) | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/12/A9304A.pdf> |
+| Quick Start Guide Air Techniques (A9303C) | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/A9303C-VistaPano-S-2.0-Quick-Start-Guide.pdf> |
 | Brochure FR (ADPG) | <https://web.archive.org/web/2026*/adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf> |
 
 Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.org/save/`

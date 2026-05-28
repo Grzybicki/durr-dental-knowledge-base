@@ -36,7 +36,12 @@ Cette page sert d'index canonique des URLs publiques utilisées comme sources da
 | Page technologie S-Pan | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/> | — |
 | Brochure commerciale FR — L'efficacité sous un nouveau jour | Page produit FR ou mirror [ADPG Provence](https://www.adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf) | `P007-772/03-T01` |
 | Brochure EN — Efficiency in a new light (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf> | `9922-626 Rev D` |
-| Installation Instructions EN (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9302A-VistaPano-S-2.0-Installation-Instructions.pdf> | `A9302A` |
+| Operating Instructions EN — manuel utilisateur complet (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/05/VistaPanoS2.0OperatingInstructions.pdf> | — |
+| Installation Instructions EN Rev C — mai 2025 (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9302C-VistaPano-S-2.0-Installation-Instructions.pdf> | `A9302C` |
+| Installation Guide EN — décembre 2025 (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/12/A9304A.pdf> | `A9304A` |
+| Quick Start Guide EN (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9303C-VistaPano-S-2.0-Quick-Start-Guide.pdf> | `A9303C` |
+| News Dürr Dental SE — Anwenderfreundlicher, schneller, designstärker (DE/CH) | <https://www.duerrdental.com/de/CH/news/detail/anwenderfreundlicher-schneller-designstaerker-duerr-dental-launcht-zwei-neue-roentgengeraete/> | communiqué officiel |
+| News Dürr Dental SE — THE BEST, BY DESIGN (IDS 2025, EN) | <https://www.duerrdental.com/en/news/detail/the-best-by-design-duerr-dental-at-the-ids-2025/> | communiqué officiel |
 | Vidéo officielle FR — Panoramique 2D VistaPano S | <https://www.youtube.com/watch?v=UJsXEaJcLmQ> | YouTube Dürr Dental |
 | Vidéo officielle EN — S-Pan technology | <https://www.youtube.com/watch?v=IvYWC3ayR9Y> | YouTube Dürr Dental |
 | Vidéo officielle DE — Einführung einer neuen Generation (2024-04-29) | <https://www.youtube.com/watch?v=ckAyrOls-uA> | YouTube Dürr Dental |
