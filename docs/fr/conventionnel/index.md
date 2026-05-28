@@ -13,17 +13,22 @@ license: CC-BY-4.0
 Documentation publique de la ligne **conventionnel** Dürr Dental :
 **compresseurs dentaires** et **systèmes d'aspiration centralisés**, sous la marque Tyscor.
 
-## Compresseurs Tyscor
+## Air comprimé — compresseurs
 
-Gamme **Tyscor V** et **Tyscor VS3** — compresseurs sans huile à variation de vitesse pour cabinets dentaires.
+| Gamme | Description | Fiche |
+|---|---|---|
+| **[Silver Airline](silver-airline/overview/)** | Compresseurs à pistons linéaires sans huile (Primo, Duo, Trio, Quattro + variants Tandem évolutifs). German Design Award 2022. ISO 22052. | DM IIa MDR |
+| **[Tornado](tornado/overview/)** | Nouvelle génération compresseurs (Tornado 1, 2, 4 + Super Silent). Jusqu'à 12 % d'économies d'énergie. Max 8 bar. German Design Award 2026 + Innovations-Champion 2025. | DM IIa MDR |
+| **[Power Tower](power-tower/overview/)** | Compresseur + aspiration combinés dans un même châssis (0,3–0,4 m²). Variants Silence et View, 230 V et 400 V. | DM IIa MDR |
+| **[Compresseurs CAD/CAM](cad-cam-compresseurs/overview/)** | Déclinaison Silver Airline dédiée aux systèmes CAD/CAM (CFAO de cabinet et laboratoire). | DM IIa MDR |
 
-*Fiches détaillées à venir.*
+## Aspiration
 
-## Aspiration centralisée Tyscor
-
-Gamme **Tyscor Pure** — aspirateurs centralisés à séparation des solides et des liquides.
-
-*Fiches détaillées à venir.*
+| Gamme | Description | Fiche |
+|---|---|---|
+| **[Tyscor — aspiration centralisée](tyscor-aspiration/overview/)** | Gamme premium aspiration humide (VS/VSA) et sèche (V), à poste unique ou centralisée (1/2/4 praticiens). Technologie radiale, jusqu'à 75 % d'économies d'énergie. | DM IIa MDR |
+| **[Récupérateurs d'amalgame](recuperateurs-amalgame/overview/)** | CA 1, CA 2, CA 4 + Sepamatic CS 1 / CAS 1. Conformité Règlement UE 2017/852 mercure. | DM IIa MDR |
+| **[Aspiration chirurgicale VC 65](aspiration-chirurgicale/overview/)** | Unité dédiée aux interventions chirurgicales (chirurgie buccale, implantologie). | DM IIa MDR |
 
 ---
 

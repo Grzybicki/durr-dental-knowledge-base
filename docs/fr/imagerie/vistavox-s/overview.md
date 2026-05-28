@@ -167,6 +167,13 @@ panoramique 2D :
 VistaVox S propose **17 programmes panoramiques complémentaires** au mode
 CBCT.
 
+#### Sources publiques sur S-Pan
+
+- [Page technologie S-Pan sur duerrdental.com](https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/) (page officielle Dürr Dental SE).
+- Vidéo officielle FR : [Panoramique 2D VistaPano S — DÜRR DENTAL](https://www.youtube.com/watch?v=UJsXEaJcLmQ) (vidéo S-Pan partagée avec VistaPano S 2.0).
+- Vidéo officielle EN : [The digital panoramic X-ray unit with S-Pan technology](https://www.youtube.com/watch?v=IvYWC3ayR9Y).
+- Brochure VistaPano S 2.0 (réf. P007-772/03-T01, page 5) — verbatim techniques sur S-Pan.
+
 ## Logiciel associé — VistaSoft
 
 VistaSoft propose plusieurs **vues spécifiques pour le diagnostic CBCT** :
