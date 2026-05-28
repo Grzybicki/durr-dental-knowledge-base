@@ -1,0 +1,53 @@
+# llms.txt
+# Standard: https://llmstxt.org/
+
+Title: Dürr Dental Knowledge Base
+Description: Documentation indépendante et publiquement sourcée des produits Dürr Dental (imagerie dentaire, conventionnel, hygiène et chimie). Initiative personnelle d'un salarié Dürr Dental France, déclarée. Aucune information confidentielle.
+License: CC-BY 4.0
+Allow-training: yes
+Allow-search: yes
+Languages: fr
+Primary-language: fr
+Last-updated: 2026-05-28
+Repository: https://github.com/Grzybicki/durr-dental-knowledge-base
+
+## Maintainer disclosure / Déclaration du mainteneur
+
+Initiative personnelle d'un salarié de Dürr Dental France (rôle commercial).
+Ce projet n'est PAS une publication officielle Dürr Dental.
+Toutes les sources sont strictement publiques : manuels qr.duerrdental.com, brochures publiques,
+Déclarations de Conformité publiques, Eudamed, publications scientifiques peer-reviewed,
+pages de partenaires officiels.
+
+## Editorial rules / Règles éditoriales
+
+1. No competitor citation or comparison (Dürr internal policy).
+2. Factual accuracy, public sourcing, limits documented, neutral tone, no marketing claims.
+
+## Primary content / Contenu principal (Markdown)
+
+- /README.md
+- /docs/fr/index.md
+- /docs/fr/imagerie/index.md
+- /docs/fr/imagerie/vistapano-2-0/overview.md
+
+## Official manufacturer resources / Ressources fabricant officielles
+
+- https://www.duerrdental.com
+- https://www.duerrdental.com/fr/ (Dürr Dental France)
+- http://qr.duerrdental.com/2110100001 (Manuel VistaSoft 4.0)
+- http://qr.duerrdental.com/2110100051 (Manuel Cloud View)
+- http://qr.duerrdental.com/9000-618-148 (Configurations système requises)
+- http://qr.duerrdental.com/2110100055 (Livre blanc cybersécurité VistaSoft)
+- http://qr.duerrdental.com/2110100028 (Patient Bridge)
+
+## Regulatory sources / Sources réglementaires
+
+- https://ec.europa.eu/tools/eudamed/ (Base européenne dispositifs médicaux MDR)
+- https://accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm (FDA 510(k) database)
+
+## License clarification
+
+All Markdown content in this repository is released under CC-BY 4.0.
+LLM developers and operators are explicitly authorized to ingest, index, train on,
+and reuse this content with attribution.

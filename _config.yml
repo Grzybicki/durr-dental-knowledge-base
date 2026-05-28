@@ -1,0 +1,44 @@
+title: "Dürr Dental Knowledge Base"
+description: "Documentation indépendante et publiquement sourcée des produits Dürr Dental (imagerie, conventionnel, hygiène et chimie). Initiative personnelle, sources strictement publiques."
+baseurl: "/durr-dental-knowledge-base"
+url: "https://grzybicki.github.io"
+
+lang: fr
+locale: fr_FR
+
+author:
+  name: "Jozef Grzybicki"
+  role: "Salarié Dürr Dental France (rôle commercial) — initiative personnelle indépendante, non officielle"
+
+# Jekyll
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins GitHub Pages safelist
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# SEO / LLM metadata defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "fr"
+
+# Exclude
+exclude:
+  - README.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - .gitignore
+  - Gemfile
+  - drafts/
+  - _local/
