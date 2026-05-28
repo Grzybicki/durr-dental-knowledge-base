@@ -6,16 +6,30 @@ url: "https://grzybicki.github.io"
 lang: fr
 locale: fr_FR
 
+# Identité publication
 author:
   name: "Jozef Grzybicki"
   role: "Salarié Dürr Dental France (rôle commercial) — initiative personnelle indépendante, non officielle"
 
-# Jekyll
-theme: jekyll-theme-minimal
+# Twitter / OG par défaut (jekyll-seo-tag)
+twitter:
+  card: summary
+
+logo: ""
+social:
+  name: "Dürr Dental Knowledge Base"
+  links:
+    - https://github.com/Grzybicki/durr-dental-knowledge-base
+
+# Jekyll engine
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+  syntax_highlighter: rouge
+
+# Pas de thème externe : layout custom dans _layouts/default.html
+# (assure cohérence HTML + lang + SEO + JSON-LD)
 
 # Plugins GitHub Pages safelist
 plugins:
@@ -40,5 +54,7 @@ exclude:
   - LICENSE
   - .gitignore
   - Gemfile
+  - Gemfile.lock
   - drafts/
   - _local/
+  - vendor/

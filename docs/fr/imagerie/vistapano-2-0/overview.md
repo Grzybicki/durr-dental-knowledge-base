@@ -15,6 +15,63 @@ last_factual_review: 2026-05-28
 license: CC-BY-4.0
 ---
 
+<!-- JSON-LD : MedicalDevice (dispositif spécifique de cette fiche) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "VistaPano S 2.0",
+  "alternateName": ["VistaPano S Ceph 2.0", "Dürr Dental VistaPano S 2.0"],
+  "category": "Dental panoramic and cephalometric X-ray imaging system",
+  "description": "Appareils Dürr Dental de radiographie panoramique numérique 2D avec capteur CsI et technologie S-Pan. Version Ceph avec module céphalométrique intégré et second capteur CsI dédié.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Höpfigheimer Straße 17",
+      "postalCode": "74321",
+      "addressLocality": "Bietigheim-Bissingen",
+      "addressCountry": "DE"
+    }
+  },
+  "regulatoryClass": "Class IIb (EU MDD 93/42/EEC Annex 9 Rule 10, transitioned MDR EU 2017/745)",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "CE marking", "value": "CE 2460" },
+    { "@type": "PropertyValue", "name": "Notified Body", "value": "DNV Product Assurance AS (code 2460)" },
+    { "@type": "PropertyValue", "name": "Certificate number", "value": "10877-2017-CE-KOR-NA-PS Rev 3.0" },
+    { "@type": "PropertyValue", "name": "Declaration of Conformity date", "value": "2024-01-29" },
+    { "@type": "PropertyValue", "name": "RoHS compliance", "value": "Directive 2011/65/EU" },
+    { "@type": "PropertyValue", "name": "HV generator voltage", "value": "60-99 kV" },
+    { "@type": "PropertyValue", "name": "Tube current", "value": "4-16 mA" },
+    { "@type": "PropertyValue", "name": "Focal spot", "value": "0.5 mm (IEC 60336)" },
+    { "@type": "PropertyValue", "name": "Total filtration", "value": "2.5 mm Al eq." },
+    { "@type": "PropertyValue", "name": "Sensor type", "value": "CsI:TI" },
+    { "@type": "PropertyValue", "name": "Pixel size", "value": "100 µm" },
+    { "@type": "PropertyValue", "name": "Panoramic sensor active area", "value": "6 x 151.2 mm" },
+    { "@type": "PropertyValue", "name": "Cephalometric sensor active area", "value": "15.6 x 259.2 mm (Ceph version only)" },
+    { "@type": "PropertyValue", "name": "Panoramic scan time (fast mode adult)", "value": "7.2 s" },
+    { "@type": "PropertyValue", "name": "Cephalometric scan time (fast mode lateral)", "value": "1.9 s" },
+    { "@type": "PropertyValue", "name": "Pediatric dose reduction", "value": "45 to 56 percent" },
+    { "@type": "PropertyValue", "name": "Panoramic programs count", "value": "17" },
+    { "@type": "PropertyValue", "name": "Cephalometric programs count (Ceph version)", "value": "6" },
+    { "@type": "PropertyValue", "name": "Imaging technology", "value": "S-Pan multi-layer reconstruction" },
+    { "@type": "PropertyValue", "name": "Touch display", "value": "8 inch" },
+    { "@type": "PropertyValue", "name": "Laser class", "value": "Class 1" },
+    { "@type": "PropertyValue", "name": "Mains voltage", "value": "200-240 V AC, 50/60 Hz" },
+    { "@type": "PropertyValue", "name": "Rated power", "value": "2.2 kVA" }
+  ],
+  "isRelatedTo": {
+    "@type": "SoftwareApplication",
+    "name": "Dürr Dental VistaSoft",
+    "applicationCategory": "MedicalImagingSoftware"
+  }
+}
+</script>
+
 # VistaPano S 2.0 et VistaPano S Ceph 2.0 — Vue d'ensemble
 
 ## Identification du dispositif
