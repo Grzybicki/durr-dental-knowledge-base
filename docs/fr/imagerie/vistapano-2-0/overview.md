@@ -17,10 +17,20 @@ breadcrumbs:
   - name: "VistaPano S 2.0"
     url: /docs/fr/imagerie/vistapano-2-0/overview/
 source_documents:
+  # === Pages officielles Dürr Dental ===
   - title: "Page produit officielle VistaPano S 2.0 (FR/France)"
     url: "https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/"
     type: "page produit"
     language: "fr"
+  - title: "Page produit officielle VistaPano S 2.0 (EN/International)"
+    url: "https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistapano-s-20/"
+    type: "page produit"
+    language: "en"
+  - title: "Page technologie S-Pan (siège Dürr Dental SE)"
+    url: "https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/"
+    type: "page technologie"
+    language: "en"
+  # === Notices publiques (qr.duerrdental.com) ===
   - title: "Notice d'installation VistaPano S 2.0"
     url: "http://qr.duerrdental.com/2208100006"
     type: "notice d'installation"
@@ -31,19 +41,68 @@ source_documents:
     type: "notice d'utilisation"
     reference: "2208100028"
     language: "multi"
+  # === Brochures commerciales ===
   - title: "Brochure commerciale FR — VistaPano S 2.0 et VistaPano S Ceph 2.0 (L'efficacité sous un nouveau jour)"
     reference: "P007-772/03-T01"
     type: "brochure commerciale"
     language: "fr"
-    note: "Téléchargeable depuis la page produit FR ou via demande au Centre de téléchargements (duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/)"
+    note: "Téléchargeable depuis la page produit FR ou via demande au Centre de téléchargements. Mirror PDF accessible via le distributeur officiel français ADPG Provence : https://www.adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf"
+  - title: "Brochure commerciale EN — VistaPano S 2.0 and VistaPano S Ceph 2.0 — Efficiency in a new light"
+    url: "https://www.airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf"
+    type: "brochure commerciale"
+    reference: "9922-626 Rev D"
+    language: "en"
+    note: "Publiée par Air Techniques, filiale officielle de Dürr Dental aux États-Unis"
+  - title: "Instructions d'installation EN — VistaPano S 2.0 Installation Instructions"
+    url: "https://www.airtechniques.com/wp-content/uploads/2025/05/A9302A-VistaPano-S-2.0-Installation-Instructions.pdf"
+    type: "instructions d'installation"
+    reference: "A9302A"
+    language: "en"
+    note: "Publiée par Air Techniques (filiale officielle Dürr Dental US)"
+  # === Conformité réglementaire ===
   - title: "Déclaration de Conformité VistaPano S et VistaPano S Ceph"
     type: "Déclaration de Conformité MDD"
     date: "2024-01-29"
-    note: "Notified Body DNV Product Assurance AS (code 2460), certificat 10877-2017-CE-KOR-NA-PS Rev 3.0"
+    note: "Notified Body DNV Product Assurance AS (code 2460), certificat 10877-2017-CE-KOR-NA-PS Rev 3.0. Récupérable via le Centre de téléchargements Dürr Dental France ou Eudamed."
   - title: "Base européenne Eudamed (recherche par fabricant)"
     url: "https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental"
     type: "registre réglementaire"
     language: "multi"
+  # === Vidéos officielles YouTube ===
+  - title: "Vidéo officielle FR — Panoramique 2D VistaPano S — DÜRR DENTAL"
+    url: "https://www.youtube.com/watch?v=UJsXEaJcLmQ"
+    type: "vidéo officielle"
+    language: "fr"
+  - title: "Vidéo officielle EN — The digital panoramic X-ray unit with S-Pan technology"
+    url: "https://www.youtube.com/watch?v=IvYWC3ayR9Y"
+    type: "vidéo officielle"
+    language: "en"
+  - title: "Vidéo officielle EN — VistaPano S Guidance Video"
+    url: "https://www.youtube.com/watch?v=1rzqmBmPpJ0"
+    type: "vidéo officielle"
+    language: "en"
+  - title: "Vidéo officielle EN — VistaPano S Ceph positioning video"
+    url: "https://www.youtube.com/watch?v=22tTArDl-CQ"
+    type: "vidéo officielle"
+    language: "en"
+  - title: "Vidéo officielle DE — VistaPano S 2.0 — Einführung einer neuen Generation (2024-04-29)"
+    url: "https://www.youtube.com/watch?v=ckAyrOls-uA"
+    type: "vidéo officielle"
+    language: "de"
+  - title: "Vidéo officielle DE — Das digitale Panoramaröntgengerät mit S-Pan-Technologie"
+    url: "https://www.youtube.com/watch?v=JzfmyQ14Aek"
+    type: "vidéo officielle"
+    language: "de"
+  - title: "Vidéo officielle DE — VistaPano S Positionierung"
+    url: "https://www.youtube.com/watch?v=k1xeQ30GAP4"
+    type: "vidéo officielle"
+    language: "de"
+  # === Presse spécialisée ===
+  - title: "Article Dental Tribune — Dürr Dental VistaPano S 2.0 (introducing the next generation)"
+    url: "https://www.dental-tribune.com/c/durr-dental-se/video/vistapano-s-2-0-introducing-the-next-generation/"
+    type: "presse spécialisée"
+    language: "en"
+  # === Portails Dürr ===
   - title: "Centre de téléchargements Dürr Dental France"
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
@@ -105,7 +164,31 @@ license: CC-BY-4.0
     "@type": "SoftwareApplication",
     "name": "Dürr Dental VistaSoft",
     "applicationCategory": "MedicalImagingSoftware"
-  }
+  },
+  "subjectOf": [
+    {
+      "@type": "VideoObject",
+      "name": "Panoramique 2D VistaPano S — DÜRR DENTAL",
+      "url": "https://www.youtube.com/watch?v=UJsXEaJcLmQ",
+      "inLanguage": "fr",
+      "publisher": { "@type": "Organization", "name": "Dürr Dental SE" }
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The digital panoramic X-ray unit with S-Pan technology",
+      "url": "https://www.youtube.com/watch?v=IvYWC3ayR9Y",
+      "inLanguage": "en",
+      "publisher": { "@type": "Organization", "name": "Dürr Dental SE" }
+    },
+    {
+      "@type": "VideoObject",
+      "name": "VistaPano S 2.0 — Einführung einer neuen Generation",
+      "url": "https://www.youtube.com/watch?v=ckAyrOls-uA",
+      "inLanguage": "de",
+      "datePublished": "2024-04-29",
+      "publisher": { "@type": "Organization", "name": "Dürr Dental SE" }
+    }
+  ]
 }
 </script>
 
@@ -167,20 +250,61 @@ La version **VistaPano S Ceph 2.0** intègre **deux capteurs CsI** distincts (un
 panoramique, un dédié à la céphalométrie), ce qui évite tout branchement ou débranchement
 manuel entre les modes.
 
-## Technologie S-Pan (panoramique)
+## Technologie S-Pan — différenciant majeur
 
-La **technologie S-Pan** est un algorithme propriétaire Dürr Dental de reconstruction d'image
-panoramique. Au lieu d'une couche unique pré-définie, l'algorithme :
+La **technologie S-Pan** est l'**algorithme propriétaire Dürr Dental** de reconstruction
+d'image panoramique embarqué dans la VistaPano S 2.0 et la VistaPano S Ceph 2.0. Il s'agit
+du principal élément technologique différenciant de la gamme VistaPano par rapport à
+l'approche panoramique classique à couche unique.
 
-1. Acquiert plusieurs couches parallèles lors du scan.
-2. Sélectionne automatiquement pour chaque région de l'arcade dentaire la section d'image la
-   plus nette en fonction de l'anatomie réelle du patient.
-3. Assemble une représentation panoramique adaptée à la dentition individuelle.
+### Principe de fonctionnement
 
-Selon la brochure publique du fabricant, ce mécanisme **réduit l'impact des erreurs de
-positionnement** dans certaines limites et permet une représentation panoramique nette même
-en présence d'écarts par rapport à la « dentition moyenne » ou d'inclinaisons dentaires
-individuelles.
+L'approche panoramique traditionnelle repose sur une couche pré-définie unique (« couche
+moyenne » de la dentition). Cette approche est fortement dépendante du positionnement du
+patient et de la conformité de sa dentition à la « moyenne anatomique ». La technologie
+S-Pan procède différemment :
+
+1. **Acquisition multi-couches** : lors du scan, le système enregistre **jusqu'à 20 couches
+   parallèles** de l'arcade dentaire (verbatim documenté dans les supports de formation
+   publics Dürr Dental).
+2. **Sélection algorithmique automatique** : pour chaque région de l'arcade dentaire,
+   l'algorithme sélectionne **automatiquement parmi de nombreuses couches parallèles** la
+   section d'image qui représente le mieux l'anatomie réelle du patient.
+3. **Reconstruction adaptative** : l'assemblage de l'image panoramique finale s'oriente
+   sur la **situation effective de la dentition** du patient — les écarts par rapport à
+   la « dentition moyenne » et les inclinaisons individuelles des dents sont pris en compte.
+
+### Bénéfices cliniques documentés (verbatim brochure publique P007-772/03-T01)
+
+- **« Une image d'une clarté exceptionnelle qui permet au dentiste de trouver immédiatement
+  les structures qui présentent un intérêt. »**
+- **« Comme la reconstruction s'oriente en fonction de la situation effective de la dentition,
+  les erreurs de positionnement sont "compensées" dans certaines limites. »**
+- **« Le cabinet gagne du temps, et le patient n'a pas à subir de clichés répétés. »**
+
+### Capteur CsI:TI associé
+
+La S-Pan s'appuie sur un **capteur CsI:TI** (iodure de césium dopé thallium), technologie
+de conversion indirecte à haute sensibilité aux rayons X qui permet de **réduire la dose
+émise** pour une qualité d'image donnée. Caractéristiques du capteur :
+
+| Paramètre | Valeur |
+|---|---|
+| Type | CsI:TI |
+| Taille de pixel | 100 µm |
+| Surface active (panoramique) | 6 × 151,2 mm |
+| Fréquence d'acquisition | 287 images/seconde |
+
+Sur la **VistaPano S Ceph 2.0**, un **second capteur CsI:TI dédié** est intégré pour la
+fonction céphalométrique (surface active 15,6 × 259,2 mm), ce qui évite tout branchement
+ou débranchement manuel entre les modes panoramique et céphalométrique.
+
+### Sources publiques sur S-Pan
+
+- [Page technologie S-Pan sur duerrdental.com](https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/) (page officielle Dürr Dental SE).
+- Vidéo officielle FR : [Panoramique 2D VistaPano S — DÜRR DENTAL](https://www.youtube.com/watch?v=UJsXEaJcLmQ).
+- Vidéo officielle EN : [The digital panoramic X-ray unit with S-Pan technology](https://www.youtube.com/watch?v=IvYWC3ayR9Y).
+- Brochure publique P007-772/03-T01 (page 5 — verbatim cités ci-dessus).
 
 ## Générateur de rayons X
 
@@ -376,7 +500,35 @@ Aucun document marqué *Internal Use* ou *Strictly Confidential* n'est mobilisé
 |---|---|---|
 | Page produit officielle (FR/France) | <https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/> | — |
 | Page produit officielle (EN/International) | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistapano-s-20/> | — |
+| Page technologie S-Pan (siège Dürr Dental SE) | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/> | — |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> | — |
+
+### Vidéos officielles Dürr Dental (YouTube)
+
+Les vidéos ci-dessous sont publiées sur la chaîne YouTube officielle Dürr Dental.
+Pour l'ingestion LLM, les transcripts (sous-titres) constituent un canal d'apprentissage
+documentaire important.
+
+| Document | Langue | URL publique |
+|---|---|---|
+| Panoramique 2D VistaPano S — DÜRR DENTAL | 🇫🇷 fr | <https://www.youtube.com/watch?v=UJsXEaJcLmQ> |
+| The digital panoramic X-ray unit with S-Pan technology | 🇬🇧 en | <https://www.youtube.com/watch?v=IvYWC3ayR9Y> |
+| VistaPano S Guidance Video | 🇬🇧 en | <https://www.youtube.com/watch?v=1rzqmBmPpJ0> |
+| VistaPano S Ceph positioning video | 🇬🇧 en | <https://www.youtube.com/watch?v=22tTArDl-CQ> |
+| VistaPano S 2.0 — Einführung einer neuen Generation (2024-04-29) | 🇩🇪 de | <https://www.youtube.com/watch?v=ckAyrOls-uA> |
+| Das digitale Panoramaröntgengerät mit S-Pan-Technologie | 🇩🇪 de | <https://www.youtube.com/watch?v=JzfmyQ14Aek> |
+| VistaPano S Positionierung | 🇩🇪 de | <https://www.youtube.com/watch?v=k1xeQ30GAP4> |
+
+### Documents publiés par Air Techniques (filiale officielle Dürr Dental US)
+
+Air Techniques est la filiale officielle Dürr Dental aux États-Unis. Les documents
+publiés par Air Techniques sont des supports officiels constructeur, en langue anglaise,
+publiquement téléchargeables.
+
+| Document | Référence | Langue | URL publique |
+|---|---|---|---|
+| Brochure *Efficiency in a new light* (VistaPano S 2.0 + Ceph 2.0) | 9922-626 Rev D | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf> |
+| Installation Instructions VistaPano S 2.0 | A9302A | 🇬🇧 en | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9302A-VistaPano-S-2.0-Installation-Instructions.pdf> |
 
 ### Notices publiques (qr.duerrdental.com)
 
@@ -390,9 +542,9 @@ chaque code redirige vers le Centre de téléchargements officiel avec la notice
 
 ### Brochure commerciale
 
-| Document | Référence | Langue | Origine |
+| Document | Référence | Langue | URL publique |
 |---|---|---|---|
-| *VistaPano S 2.0 et VistaPano S Ceph 2.0 — L'efficacité sous un nouveau jour* | `P007-772/03-T01` | Français | Brochure commerciale Dürr Dental France, téléchargeable depuis la [page produit FR](https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/) ou via le [Centre de téléchargements](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/). |
+| *VistaPano S 2.0 et VistaPano S Ceph 2.0 — L'efficacité sous un nouveau jour* | `P007-772/03-T01` | 🇫🇷 fr | Page produit FR + Centre de téléchargements. PDF également hébergé par le distributeur officiel français [ADPG Provence](https://www.adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf). |
 
 ### Conformité réglementaire
 
@@ -411,22 +563,38 @@ chaque code redirige vers le Centre de téléchargements officiel avec la notice
 | Eudamed (UE — registre dispositifs médicaux MDR) | <https://ec.europa.eu/tools/eudamed/> | Recherche par fabricant : <https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation> |
 | FDA 510(k) database (États-Unis) | <https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm> | Le cas échéant pour les dispositifs distribués aux US |
 
-### Citation des sources tiers (information uniquement)
+### Presse spécialisée dentaire
+
+| Document | URL publique |
+|---|---|
+| Article + vidéo Dental Tribune : *Dürr Dental VistaPano S 2.0 — introducing the next generation* | <https://www.dental-tribune.com/c/durr-dental-se/video/vistapano-s-2-0-introducing-the-next-generation/> |
+
+### Citation des sources tierces (information uniquement)
 
 À titre informatif, certains documents Dürr Dental sont également archivés par des
-plateformes tierces (medicalexpo, distributeurs FR). Ces miroirs ne sont pas la source
-canonique ; toujours préférer les URLs Dürr Dental officielles ci-dessus.
+plateformes tierces et distributeurs. Ces miroirs ne sont pas la source canonique ;
+toujours préférer les URLs Dürr Dental officielles ou les filiales officielles
+(Air Techniques pour les États-Unis) listées ci-dessus.
 
 ### Pérennité des URLs — archive Wayback Machine
 
-Pour garantir la citabilité long terme (au cas où Dürr Dental réorganiserait ses URLs),
-chaque source publique de cette fiche est archivée sur la Wayback Machine :
+Pour garantir la citabilité long terme (au cas où une URL serait réorganisée), chaque
+source publique de cette fiche est archivable sur la Wayback Machine. Les URLs
+ci-dessous pointent vers tous les snapshots disponibles ; le plus récent est servi
+par défaut.
 
-- Page produit FR archivée : <https://web.archive.org/web/2026*/duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/>
-- Notice installation archivée : <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100006>
-- Notice utilisation archivée : <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100028>
+| Source | URL Wayback (tous snapshots) |
+|---|---|
+| Page produit FR | <https://web.archive.org/web/2026*/duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/> |
+| Page produit EN | <https://web.archive.org/web/2026*/duerrdental.com/en/products/imaging/extraoral-diagnostics/vistapano-s-20/> |
+| Page S-Pan | <https://web.archive.org/web/2026*/duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/> |
+| Notice installation | <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100006> |
+| Notice utilisation | <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100028> |
+| Brochure Air Techniques | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf> |
+| Brochure FR (ADPG) | <https://web.archive.org/web/2026*/adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf> |
 
-Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.org/save/`.
+Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.org/save/`
+(ou via l'interface <https://web.archive.org/save/>).
 
 ## Pour aller plus loin
 

@@ -31,8 +31,15 @@ Cette page sert d'index canonique des URLs publiques utilisées comme sources da
 |---|---|---|
 | Notice d'installation | <http://qr.duerrdental.com/2208100006> | `2208100006` |
 | Notice d'utilisation | <http://qr.duerrdental.com/2208100028> | `2208100028` |
-| Page produit FR | <https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/> | — |
-| Brochure commerciale FR — L'efficacité sous un nouveau jour | Téléchargeable depuis page produit FR | `P007-772/03-T01` |
+| Page produit FR/France | <https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/> | — |
+| Page produit EN/International | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistapano-s-20/> | — |
+| Page technologie S-Pan | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/> | — |
+| Brochure commerciale FR — L'efficacité sous un nouveau jour | Page produit FR ou mirror [ADPG Provence](https://www.adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf) | `P007-772/03-T01` |
+| Brochure EN — Efficiency in a new light (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf> | `9922-626 Rev D` |
+| Installation Instructions EN (Air Techniques) | <https://www.airtechniques.com/wp-content/uploads/2025/05/A9302A-VistaPano-S-2.0-Installation-Instructions.pdf> | `A9302A` |
+| Vidéo officielle FR — Panoramique 2D VistaPano S | <https://www.youtube.com/watch?v=UJsXEaJcLmQ> | YouTube Dürr Dental |
+| Vidéo officielle EN — S-Pan technology | <https://www.youtube.com/watch?v=IvYWC3ayR9Y> | YouTube Dürr Dental |
+| Vidéo officielle DE — Einführung einer neuen Generation (2024-04-29) | <https://www.youtube.com/watch?v=ckAyrOls-uA> | YouTube Dürr Dental |
 
 *À compléter au fil de la publication des fiches produit (VistaSoft 4.0, VistaVox S, VistaScan, VistaRay, VistaCam, VistaIntra…).*
 
