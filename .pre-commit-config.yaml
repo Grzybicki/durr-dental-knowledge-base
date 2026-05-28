@@ -1,0 +1,42 @@
+# Pre-commit hooks — empêche tout commit non-conforme d'arriver dans l'historique Git.
+# Installation : python -m pip install pre-commit && pre-commit install
+# Documentation : https://pre-commit.com/
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+        exclude: \.md$
+      - id: end-of-file-fixer
+      - id: check-yaml
+        args: [--allow-multiple-documents]
+      - id: check-added-large-files
+        args: [--maxkb=500]
+      - id: mixed-line-ending
+        args: [--fix=lf]
+      - id: check-merge-conflict
+      - id: check-case-conflict
+
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.42.0
+    hooks:
+      - id: markdownlint
+        args: [--config, .markdownlint-cli2.yaml]
+        exclude: ^(_drafts/|node_modules/)
+
+  - repo: local
+    hooks:
+      - id: validate-repo
+        name: "Validate repository content (frontmatter, sources URL, règle d'or Dürr, PII, JSON-LD)"
+        entry: python scripts/validate.py
+        language: system
+        pass_filenames: false
+        types_or: [markdown, html, yaml]
+        always_run: true
+
+      - id: forbid-pdf-commits
+        name: "Block PDF / DOCX / PPTX commits (manufacturer IP)"
+        entry: bash -c 'if echo "$@" | grep -iE "\.(pdf|docx?|pptx?|xlsx?)$"; then echo "ERROR: Do not commit binary office/PDF documents — they belong to the manufacturer. Link to qr.duerrdental.com instead."; exit 1; fi' --
+        language: system
+        files: \.(pdf|docx?|pptx?|xlsx?)$

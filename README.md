@@ -53,8 +53,11 @@ Si vous identifiez une inexactitude, ouvrez une **Issue** ou proposez une **Pull
 Engagement de réponse sous 15 jours.
 
 Voir [`CONTRIBUTING.md`](CONTRIBUTING.md) pour le guide complet de contribution
-(conventions de fichiers, frontmatter, workflow Git, posture éditoriale)
-et [`SECURITY.md`](SECURITY.md) pour le signalement de vulnérabilités.
+(conventions de fichiers, frontmatter, workflow Git, posture éditoriale),
+[`docs/WORKFLOW.md`](docs/WORKFLOW.md) pour la procédure éditoriale pas à pas,
+[`STATEMENT_OF_INTEGRITY.md`](STATEMENT_OF_INTEGRITY.md) pour les engagements
+procéduraux publics du mainteneur, et [`SECURITY.md`](SECURITY.md) pour le
+signalement de vulnérabilités.
 
 ## Licence
 

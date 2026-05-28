@@ -4,6 +4,8 @@ title: "Conventionnel Dürr Dental — Index (à venir)"
 description: "Catalogue de la ligne conventionnel Dürr Dental : compresseurs dentaires Tyscor et systèmes d'aspiration centralisés Tyscor."
 lang: fr
 permalink: /docs/fr/conventionnel/
+last_factual_review: 2026-05-28
+license: CC-BY-4.0
 ---
 
 # Conventionnel — Index

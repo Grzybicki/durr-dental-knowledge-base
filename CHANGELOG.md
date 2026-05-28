@@ -24,6 +24,24 @@ Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 - Aucun document marqué Internal Use / Strictly Confidential mobilisé.
 - Aucune donnée patient / praticien / cabinet identifiable.
 
+### Workflow non-contestable — validation déterministe
+- **`scripts/validate.py`** : script Python de validation déterministe du dépôt. Vérifications automatiques :
+  - règle d'or Dürr (regex de ~20 marques concurrentes bannies + exception Sidexis hors contexte Image Bridge)
+  - pas de mention `Internal Use` / `Strictly Confidential` / `Sales Information interne`
+  - pas de donnée personnelle praticien (regex `Dr|Dre|Pr + Nom propre`)
+  - frontmatter YAML obligatoire avec champs requis (`layout`, `title`, `description`, `lang`, `permalink`, `last_factual_review`, `license`)
+  - `schema_type` parmi liste blanche Schema.org
+  - `source_documents` : chaque entrée doit avoir `url` OU `note` explicite
+  - blocs JSON-LD inline doivent être du JSON valide
+  - liens internes Markdown résolvables
+  - sortie : rapport humain avec code retour 0 (clean) / 1 (erreurs)
+- **`.pre-commit-config.yaml`** : 4 catégories de hooks (sanity, markdownlint-cli, `validate-repo` local, `forbid-pdf-commits`). Installation : `pre-commit install` une seule fois.
+- **`.github/workflows/ci.yml`** : ajout du job `validate-repo` (`python scripts/validate.py --warn-as-error`) — bloque tout PR non-conforme.
+- **`docs/WORKFLOW.md`** : procédure éditoriale en 10 étapes, des pré-requis à la correction d'erreur. Garanties procédurales tabulées en synthèse.
+- **`STATEMENT_OF_INTEGRITY.md`** : déclaration publique des 8 engagements procéduraux du mainteneur (identité + CDI, périmètre sources, règle d'or, garanties techniques vérifiables, procédure de correction, licence, non-renonciation droits fabricant, recours). Sert de référence opposable en cas de contestation.
+- **`CONTRIBUTING.md`** : section *Validation déterministe pré-commit* avec instructions d'installation et liste des hooks.
+- **`README.md`** : liens enrichis vers WORKFLOW + STATEMENT.
+
 ### Sourçage renforcé (URLs directes obligatoires)
 - **Fiche pilote VistaPano S 2.0 — section *Sources publiques* restructurée** : 4 tableaux par catégorie (pages officielles, notices `qr.duerrdental.com`, brochure commerciale, conformité réglementaire) avec **URL publique directe par source**. Ajout des URLs `qr.duerrdental.com/2208100006` (notice installation) et `qr.duerrdental.com/2208100028` (notice utilisation), URL page produit FR officielle confirmée (`duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/`), URL Centre de téléchargements FR, URL Eudamed avec recherche fabricant pré-filtrée.
 - **`source_documents` frontmatter restructuré en YAML enrichi** : `title`, `url`, `type`, `reference`, `language`, `date`, `note` par source — exploitable pour génération future de JSON-LD `Citation` et pour inspection automatisée.

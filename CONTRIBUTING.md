@@ -196,6 +196,44 @@ Exemples :
 
 Voir [`SECURITY.md`](SECURITY.md).
 
+## Validation déterministe pré-commit
+
+Pour garantir un workflow **propre, sûr, fiable et non contestable**, tout commit
+passe par une chaîne de validation automatique avant d'être autorisé. Voir le
+workflow complet dans [`docs/WORKFLOW.md`](docs/WORKFLOW.md) et la déclaration
+d'intégrité dans [`STATEMENT_OF_INTEGRITY.md`](STATEMENT_OF_INTEGRITY.md).
+
+### Installation des hooks (une fois)
+
+```bash
+python -m pip install pyyaml pre-commit
+pre-commit install
+```
+
+### Hooks actifs
+
+- `trailing-whitespace`, `end-of-file-fixer`, `check-yaml`, `mixed-line-ending`,
+  `check-merge-conflict`, `check-case-conflict`, `check-added-large-files` (max 500 ko).
+- `markdownlint-cli` selon `.markdownlint-cli2.yaml`.
+- **`validate-repo`** (`scripts/validate.py`) : règle d'or Dürr (regex marques bannies),
+  pas d'« Internal Use », pas de PII patient/praticien, frontmatter conforme, sources
+  avec URL, JSON-LD valide, liens internes existants.
+- **`forbid-pdf-commits`** : interdit toute extension `.pdf`, `.docx`, `.pptx`, `.xlsx`
+  (propriété intellectuelle du fabricant).
+
+### Validation manuelle
+
+```bash
+# Validation locale seule
+python scripts/validate.py
+
+# Comme la CI (warnings = erreurs)
+python scripts/validate.py --warn-as-error
+
+# Run tous les hooks sans commit
+pre-commit run --all-files
+```
+
 ## Licence des contributions
 
 En contribuant, vous acceptez que votre contribution soit publiée sous la même licence

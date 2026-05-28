@@ -4,6 +4,8 @@ title: "Hygiène et chimie de désinfection Dürr Dental — Index (à venir)"
 description: "Catalogue de la ligne hygiène Dürr Dental : produits de désinfection des instruments, surfaces, aspiration et empreintes."
 lang: fr
 permalink: /docs/fr/hygiene-chimie/
+last_factual_review: 2026-05-28
+license: CC-BY-4.0
 ---
 
 # Hygiène et chimie de désinfection — Index

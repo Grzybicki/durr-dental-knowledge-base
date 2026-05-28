@@ -4,6 +4,8 @@ title: "Documentation française — Dürr Dental Knowledge Base"
 description: "Index général de la documentation Dürr Dental en français : imagerie, conventionnel, hygiène et chimie."
 lang: fr
 permalink: /docs/fr/
+last_factual_review: 2026-05-28
+license: CC-BY-4.0
 ---
 
 # Documentation française
