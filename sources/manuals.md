@@ -24,6 +24,9 @@ Cette page sert d'index canonique des URLs publiques utilisées comme sources da
 | Manuel Patient Bridge | <http://qr.duerrdental.com/2110100028> | `2110100028` |
 | Configurations système requises | <http://qr.duerrdental.com/9000-618-148> | `9000-618-148` |
 | Livre blanc cybersécurité VistaSoft | <http://qr.duerrdental.com/2110100055> | `2110100055` |
+| Passage de DBSWin vers VistaSoft (changement de serveur) | <http://qr.duerrdental.com/2110100011> | `2110100011` |
+| Mise à niveau de VistaSoft vers VistaSoft 4.0 | <http://qr.duerrdental.com/2110100025> | `2110100025` |
+| Mise à jour vers Passerelle TWAIN VistaSoft Connect | <http://qr.duerrdental.com/2110100029> | `2110100029` |
 
 ### Pages produit officielles (duerrdental.com)
 

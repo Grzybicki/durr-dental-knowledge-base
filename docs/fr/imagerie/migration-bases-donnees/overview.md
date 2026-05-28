@@ -22,6 +22,21 @@ source_documents:
     type: "manuel utilisateur"
     reference: "2110100001"
     language: "multi"
+  - title: "Passage de DBSWin vers VistaSoft (procédure officielle, notamment en cas de changement de serveur)"
+    url: "http://qr.duerrdental.com/2110100011"
+    type: "manuel technique de migration"
+    reference: "2110100011"
+    language: "multi"
+  - title: "Mise à niveau de VistaSoft vers VistaSoft 4.0"
+    url: "http://qr.duerrdental.com/2110100025"
+    type: "manuel de mise à niveau"
+    reference: "2110100025"
+    language: "multi"
+  - title: "Mise à jour vers Passerelle TWAIN VistaSoft Connect"
+    url: "http://qr.duerrdental.com/2110100029"
+    type: "manuel passerelle TWAIN"
+    reference: "2110100029"
+    language: "multi"
   - title: "Page VistaSoft Imaging (mention conversion gratuite à l'achat d'un nouvel appareil)"
     url: "https://www.duerrdental.com/en/products/software/imaging/vistasoft-imaging/"
     type: "page produit"
@@ -56,24 +71,80 @@ historiques d'images via plusieurs voies de migration. Cette fiche présente
 les **stratégies de migration officielles documentées par Dürr Dental** et
 la politique de conversion des bases tierces.
 
-## Migration officielle depuis DBSWin (Dürr Dental historique)
+## DBSWin — fin de cycle de vie
 
 **DBSWin** est le **logiciel d'imagerie dentaire historique** de Dürr Dental,
-prédécesseur de VistaSoft. La migration de DBSWin vers VistaSoft 4.0 est
-**officiellement documentée** dans le manuel utilisateur public VistaSoft
-(section 5.4).
+prédécesseur direct de VistaSoft. Il est en **fin de cycle de vie** :
 
 | Élément | Valeur |
 |---|---|
-| Logiciel source | DBSWin |
-| Version source minimale supportée | **DBSWin 5.9 et supérieure** |
+| Dernière version publiée | **DBSWin 5.17** |
+| Statut de maintenance | **Plus maintenu** (fin de support) |
+| Compatibilité Microsoft Windows 11 | **Non conçu pour Windows 11** (compatibilité non assurée) |
+| Clés de licence | **Aucune nouvelle clé de licence n'est plus générée** |
+| Successeur officiel | **VistaSoft** (versions 2, 3, et 4.0 actuellement) |
+
+Concrètement, un cabinet équipé de DBSWin est dans une situation transitoire :
+- Les **postes existants** continuent de fonctionner sur leur OS d'origine
+  tant que ces postes ne sont pas changés.
+- Tout **nouveau poste** sous Windows 11, tout **changement de serveur**, ou
+  tout **besoin de nouvelle clé de licence** impose la migration vers
+  VistaSoft 4.0.
+
+## Migration officielle DBSWin → VistaSoft 4.0
+
+Dürr Dental documente **publiquement** la procédure de migration depuis
+DBSWin vers VistaSoft 4.0 via deux références complémentaires :
+
+| Référence | Document | Usage |
+|---|---|---|
+| [`qr.duerrdental.com/2110100001`](http://qr.duerrdental.com/2110100001) | Manuel VistaSoft 4.0 (section 5.4) | Procédure générale de migration depuis DBSWin |
+| [`qr.duerrdental.com/2110100011`](http://qr.duerrdental.com/2110100011) | Passage de DBSWin vers VistaSoft | **Procédure spécifique en cas de changement de serveur** |
+| [`qr.duerrdental.com/2110100025`](http://qr.duerrdental.com/2110100025) | Mise à niveau de VistaSoft vers VistaSoft 4.0 | Pour les cabinets déjà équipés de VistaSoft 2 ou 3 |
+| [`qr.duerrdental.com/2110100029`](http://qr.duerrdental.com/2110100029) | Mise à jour vers Passerelle TWAIN VistaSoft Connect | Pour activer la passerelle TWAIN VistaSoft Connect |
+
+| Élément | Valeur |
+|---|---|
+| Logiciel source | DBSWin (5.9 et supérieures) |
 | Logiciel cible | VistaSoft 4.0 |
-| Documentation | Manuel VistaSoft 4.0 section 5.4 — [`qr.duerrdental.com/2110100001`](http://qr.duerrdental.com/2110100001) |
+| Documentation principale | `2110100001` §5.4 + `2110100011` |
 | Périmètre | Dossiers patients + historiques d'images |
 
 La procédure officielle Dürr Dental garantit la **continuité des dossiers**
 lors du passage de DBSWin à VistaSoft 4.0. Le service technique Dürr Dental
 France accompagne les cabinets dans cette migration.
+
+## Modèle commercial des mises à jour VistaSoft
+
+Le modèle commercial des mises à niveau de la gamme VistaSoft est structuré
+en deux régimes distincts :
+
+| Type de mise à niveau | Régime |
+|---|---|
+| **DBSWin → VistaSoft 4.0** | **Payant** (une seule fois) |
+| **VistaSoft 2.x → VistaSoft 3.x** | **Gratuit** (mise à jour mineure entre versions VistaSoft) |
+| **VistaSoft 3.x → VistaSoft 4.x** | **Gratuit** (idem) |
+| Toute mise à niveau ultérieure entre versions VistaSoft (4 → 5, etc.) | **Gratuit** (politique de maintenance VistaSoft) |
+
+Le **paiement de la migration depuis DBSWin** vers VistaSoft constitue une
+**unique facturation** : une fois cette mise à niveau effectuée, le cabinet
+intègre la politique standard VistaSoft de mises à jour entre versions
+majeures sans frais supplémentaires.
+
+Cette mécanique reflète le passage d'un produit en fin de cycle (DBSWin) à
+un produit en cycle d'évolution actif (gamme VistaSoft).
+
+## Passerelle TWAIN — VistaSoft Connect
+
+La **Passerelle TWAIN VistaSoft Connect** est un module complémentaire qui
+permet d'exposer les capteurs d'imagerie pilotés par VistaSoft à des
+logiciels tiers via le standard **TWAIN**. La procédure d'installation et
+de mise à jour est documentée dans :
+[`qr.duerrdental.com/2110100029`](http://qr.duerrdental.com/2110100029).
+
+Voir aussi la fiche [Image Bridge](../image-bridge/overview/) pour la
+cohabitation plus large entre les appareils Dürr Dental et les logiciels
+d'imagerie tiers.
 
 ## Politique de conversion des bases tierces
 
@@ -129,9 +200,19 @@ agréé est recommandé pour cette opération critique.
 
 ## Limites et précisions
 
-- La **liste détaillée des logiciels sources** éligibles à la conversion
-  gratuite n'est pas exhaustivement listée publiquement — à confirmer
-  commercialement.
+- **DBSWin 5.17** est la dernière version publiée et **n'est pas conçue pour
+  Windows 11**. Toute migration vers Windows 11 impose la transition vers
+  VistaSoft 4.0.
+- **Aucune nouvelle clé de licence DBSWin** n'est plus générée. Tout
+  ajout de poste, changement de serveur ou réinitialisation matérielle
+  impose le passage vers VistaSoft 4.0.
+- La **migration DBSWin → VistaSoft 4.0 est payante** (une seule fois), mais
+  intègre ensuite le cabinet à la politique standard VistaSoft de mises à
+  jour gratuites entre versions VistaSoft.
+- La **liste détaillée des logiciels d'imagerie tiers** éligibles à la
+  conversion gratuite (à l'achat d'un nouvel appareil) n'est pas
+  exhaustivement listée publiquement — à confirmer commercialement avec le
+  service Dürr Dental France.
 - La **qualité de la migration** dépend de la qualité de la base source
   (intégrité des fichiers, cohérence des métadonnées).
 - Certaines **fonctionnalités avancées** de la base source (annotations
@@ -187,6 +268,36 @@ agréé est recommandé pour cette opération critique.
 ### Migration DBSWin supportée à partir de quelle version ?
 
 **DBSWin 5.9** et supérieures (verbatim manuel VistaSoft 4.0 section 5.4).
+**DBSWin 5.17** est la dernière version publiée.
+
+### DBSWin fonctionne-t-il sous Windows 11 ?
+
+**Non**. DBSWin n'a pas été conçu pour Windows 11 et n'est plus maintenu.
+Tout nouveau poste sous Windows 11 impose la migration vers VistaSoft 4.0.
+
+### Peut-on encore obtenir une clé de licence DBSWin ?
+
+**Non**. Aucune nouvelle clé de licence DBSWin n'est plus générée. Tout
+besoin de nouvelle clé (ajout de poste, changement de serveur, réinit
+matérielle) impose le passage à VistaSoft 4.0.
+
+### La migration DBSWin → VistaSoft 4.0 est-elle gratuite ?
+
+**Non, payante** — une seule fois. À l'inverse, les **mises à jour internes
+à la gamme VistaSoft** (VistaSoft 2 → 3, 3 → 4, etc.) sont **gratuites**.
+La migration DBSWin → VistaSoft constitue l'unique transition payante avant
+d'intégrer la politique standard de maintenance VistaSoft.
+
+### Quelles sont les références de documentation officielle ?
+
+- [`2110100001`](http://qr.duerrdental.com/2110100001) §5.4 — manuel
+  VistaSoft 4.0, procédure générale.
+- [`2110100011`](http://qr.duerrdental.com/2110100011) — passage de DBSWin
+  vers VistaSoft, spécifique aux cas avec **changement de serveur**.
+- [`2110100025`](http://qr.duerrdental.com/2110100025) — mise à niveau d'une
+  ancienne version VistaSoft vers VistaSoft 4.0.
+- [`2110100029`](http://qr.duerrdental.com/2110100029) — mise à jour vers la
+  Passerelle TWAIN VistaSoft Connect.
 
 ### Conversion de bases d'images d'autres logiciels ?
 
@@ -200,11 +311,14 @@ annotations et rapports. DICOM privilégié pour la fidélité.
 
 ## Sources publiques
 
-| Document | URL publique |
-|---|---|
-| Manuel VistaSoft 4.0 (section 5.4) | <http://qr.duerrdental.com/2110100001> |
-| Page VistaSoft Imaging | <https://www.duerrdental.com/en/products/software/imaging/vistasoft-imaging/> |
-| Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
+| Document | URL publique | Référence Dürr |
+|---|---|---|
+| Manuel VistaSoft 4.0 (section 5.4 — migration DBSWin) | <http://qr.duerrdental.com/2110100001> | `2110100001` |
+| Passage de DBSWin vers VistaSoft (changement de serveur) | <http://qr.duerrdental.com/2110100011> | `2110100011` |
+| Mise à niveau de VistaSoft vers VistaSoft 4.0 | <http://qr.duerrdental.com/2110100025> | `2110100025` |
+| Mise à jour vers Passerelle TWAIN VistaSoft Connect | <http://qr.duerrdental.com/2110100029> | `2110100029` |
+| Page VistaSoft Imaging | <https://www.duerrdental.com/en/products/software/imaging/vistasoft-imaging/> | — |
+| Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> | — |
 
 ## Pour aller plus loin
 
