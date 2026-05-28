@@ -151,17 +151,32 @@ directement vers **VistaSoft 4.x** ne paie qu'**une seule mise à jour**
 Cette politique facilite les migrations différées : le coût de mise à
 jour ne s'accumule pas avec le retard pris sur les versions.
 
-## Passerelle TWAIN — VistaSoft Connect
+## Passerelle TWAIN — VistaEasy et VistaSoft Connect
 
-La **Passerelle TWAIN VistaSoft Connect** est un module complémentaire qui
-permet d'exposer les capteurs d'imagerie pilotés par VistaSoft à des
-logiciels tiers via le standard **TWAIN**. La procédure d'installation et
-de mise à jour est documentée dans :
+L'écosystème Dürr Dental comporte deux passerelles TWAIN successives :
+
+| Module | Statut | Rôle |
+|---|---|---|
+| **VistaEasy** | Passerelle TWAIN **historique** des appareils Dürr Dental | A équipé les cabinets jusqu'à l'arrivée de VistaSoft Connect |
+| **VistaSoft Connect** | Passerelle TWAIN **actuelle**, documentée dans [`qr.duerrdental.com/2110100029`](http://qr.duerrdental.com/2110100029) | Module complémentaire qui expose les capteurs d'imagerie Dürr Dental pilotés par VistaSoft à des logiciels tiers via le standard TWAIN |
+
+### Basculement VistaEasy → VistaSoft Connect — payant
+
+Le **basculement de VistaEasy vers VistaSoft Connect est payant**. Il
+constitue une migration commerciale distincte de la mise à niveau du
+logiciel d'imagerie principal (VistaSoft 2/3 → 4 ou DBSWin → VistaSoft).
+Un cabinet équipé de VistaEasy qui souhaite passer à VistaSoft Connect
+devra donc anticiper cette ligne supplémentaire de mise à jour.
+
+La procédure officielle d'installation et de mise à jour vers VistaSoft
+Connect est documentée dans le manuel public
 [`qr.duerrdental.com/2110100029`](http://qr.duerrdental.com/2110100029).
 
 Voir aussi la fiche [Image Bridge](../image-bridge/overview/) pour la
 cohabitation plus large entre les appareils Dürr Dental et les logiciels
-d'imagerie tiers.
+d'imagerie tiers (Image Bridge fonctionne dans le sens inverse :
+piloter les appareils Dürr Dental depuis un logiciel tiers, plutôt
+qu'exposer les capteurs Dürr aux logiciels tiers via TWAIN).
 
 ## Politique de conversion des bases tierces
 
@@ -286,6 +301,14 @@ agréé est recommandé pour cette opération critique.
     },
     {
       "@type": "Question",
+      "name": "Le passage de VistaEasy à VistaSoft Connect est-il gratuit ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Le basculement de VistaEasy, passerelle TWAIN historique des appareils Dürr Dental, vers VistaSoft Connect (passerelle TWAIN actuelle) est payant. C'est une mise à jour commerciale distincte de la migration du logiciel d'imagerie principal. Procédure documentée dans qr.duerrdental.com/2110100029."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Dürr Dental propose-t-il la conversion de bases d'images d'autres logiciels ?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -343,6 +366,14 @@ la mise à jour est payante**. Concrètement :
 VistaSoft 4.x, ou DBSWin → VistaSoft 4.x), une seule mise à jour est
 facturée par opération de migration. Aucun cumul des versions majeures
 sautées.
+
+### Le passage de VistaEasy à VistaSoft Connect est-il gratuit ?
+
+**Non, payant**. Le basculement de VistaEasy (passerelle TWAIN historique
+des appareils Dürr Dental) vers VistaSoft Connect (passerelle TWAIN
+actuelle) constitue une mise à jour commerciale distincte de la migration
+du logiciel d'imagerie principal. La procédure est documentée dans
+[`qr.duerrdental.com/2110100029`](http://qr.duerrdental.com/2110100029).
 
 ### Quelles sont les références de documentation officielle ?
 
