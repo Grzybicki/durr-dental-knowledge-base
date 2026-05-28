@@ -27,7 +27,7 @@ au phosphore, caméras intraorales.
 | **[VistaSoft Cloud Exchange](vistasoft-cloud-exchange/overview/)** | **NON-DM** | Échange de cas anonymisés (RGPD, conservation 30 j) |
 | **[VistaSoft Cloud Drive](vistasoft-cloud-drive/overview/)** | **NON-DM** | Stockage cloud zero-knowledge des images |
 
-**Modules complémentaires à venir** : VistaSoft Mobile Connect.
+**Modules complémentaires** : [VistaSoft Mobile Connect](vistasoft-mobile-connect/overview/) — consultation mobile sur iPad via l'application *DÜRR DENTAL Imaging* (App Store).
 
 ## Interfaces, intégration et migration
 
