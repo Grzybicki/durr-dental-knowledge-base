@@ -1,0 +1,74 @@
+name: "Nouvelle fiche produit"
+description: "Proposer la création d'une nouvelle fiche produit Dürr Dental dans le dépôt."
+title: "[New] "
+labels: ["new-page"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Pour proposer une nouvelle fiche produit. Discussion préalable conseillée avant Pull Request.
+
+  - type: input
+    id: product_name
+    attributes:
+      label: "Nom du produit"
+      placeholder: "VistaVox S"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: product_line
+    attributes:
+      label: "Ligne métier"
+      options:
+        - "Imagerie dentaire"
+        - "Conventionnel (compresseurs, aspiration)"
+        - "Hygiène et chimie de désinfection"
+    validations:
+      required: true
+
+  - type: input
+    id: target_path
+    attributes:
+      label: "Chemin cible proposé"
+      placeholder: "docs/fr/imagerie/vistavox-s/overview.md"
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: "Sources publiques disponibles"
+      description: "Lister les URLs publiques sur lesquelles s'appuiera la fiche (manuel qr.duerrdental.com, brochure, page produit, DoC, Eudamed, etc.)."
+      placeholder: |
+        - http://qr.duerrdental.com/...
+        - https://www.duerrdental.com/fr/produits/...
+        - https://ec.europa.eu/tools/eudamed/...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: regulatory_class
+    attributes:
+      label: "Classe réglementaire du produit (si dispositif médical)"
+      options:
+        - "Classe I"
+        - "Classe IIa"
+        - "Classe IIb"
+        - "Classe III"
+        - "Non applicable (produit non DM)"
+        - "À vérifier"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: "Respect des règles éditoriales"
+      options:
+        - label: "La fiche s'appuiera uniquement sur des sources publiques."
+          required: true
+        - label: "Aucun document marqué Internal Use ne sera mobilisé."
+          required: true
+        - label: "Aucune citation ni comparaison concurrentielle."
+          required: true

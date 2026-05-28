@@ -1,0 +1,76 @@
+# Source de vérité unique pour les données Dürr Dental (entité, filiales, lignes métier)
+# Utilisée par les layouts pour générer les JSON-LD Organization de manière cohérente.
+
+manufacturer:
+  name: "Dürr Dental SE"
+  legal_form: "SE"
+  url: "https://www.duerrdental.com"
+  address:
+    street: "Höpfigheimer Straße 17"
+    postal_code: "74321"
+    locality: "Bietigheim-Bissingen"
+    country_code: "DE"
+  founded: 1941
+  industry: "Dental medical devices"
+
+subsidiaries:
+  france:
+    name: "Dürr Dental France SARL"
+    url: "https://www.duerrdental.com/fr/"
+    address:
+      street: "71 rue des Hautes Pâtures"
+      postal_code: "92000"
+      locality: "Nanterre"
+      country_code: "FR"
+    email: "infodurrfr@duerrdental.com"
+
+product_lines:
+  - id: imagerie
+    name: "Imagerie dentaire"
+    description: "Logiciel d'imagerie, panoramiques numériques, CBCT, capteurs intraoraux, scanners de plaques au phosphore, caméras intraorales."
+    path: "/docs/fr/imagerie/"
+  - id: conventionnel
+    name: "Conventionnel"
+    description: "Compresseurs dentaires Tyscor et systèmes d'aspiration centralisés Tyscor."
+    path: "/docs/fr/conventionnel/"
+  - id: hygiene-chimie
+    name: "Hygiène et chimie de désinfection"
+    description: "Solutions de désinfection des instruments, surfaces, aspiration et empreintes."
+    path: "/docs/fr/hygiene-chimie/"
+
+# Notified Bodies et organismes de certification rencontrés
+notified_bodies:
+  - code: "0297"
+    name: "DQS Medizinprodukte GmbH"
+    country: "DE"
+  - code: "2460"
+    name: "DNV Product Assurance AS"
+    country: "NO"
+
+# Règlements et directives
+regulations:
+  mdr_eu_2017_745:
+    name: "Règlement (UE) 2017/745 relatif aux dispositifs médicaux (MDR)"
+    short: "MDR EU 2017/745"
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0745"
+  mdd_93_42_eec:
+    name: "Directive 93/42/CEE relative aux dispositifs médicaux (MDD)"
+    short: "MDD 93/42/EEC"
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31993L0042"
+  rohs_2011_65_eu:
+    name: "Directive 2011/65/UE (RoHS — Restriction of Hazardous Substances)"
+    short: "RoHS 2011/65/EU"
+    url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32011L0065"
+  fda_title_21:
+    name: "FDA 21 CFR — Title 21 Code of Federal Regulations"
+    short: "FDA Title 21"
+    url: "https://www.ecfr.gov/current/title-21"
+
+# Bases publiques régulatoires
+public_registries:
+  eudamed:
+    name: "Eudamed — Base européenne des dispositifs médicaux"
+    url: "https://ec.europa.eu/tools/eudamed/"
+  fda_510k:
+    name: "FDA 510(k) Premarket Notification database"
+    url: "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm"

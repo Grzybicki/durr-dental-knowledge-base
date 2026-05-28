@@ -7,6 +7,15 @@ lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/
 permalink: /docs/fr/imagerie/vistapano-2-0/overview/
 schema_type: MedicalDevice
+breadcrumbs:
+  - name: "Accueil"
+    url: /
+  - name: "Documentation FR"
+    url: /docs/fr/
+  - name: "Imagerie"
+    url: /docs/fr/imagerie/
+  - name: "VistaPano S 2.0"
+    url: /docs/fr/imagerie/vistapano-2-0/overview/
 source_documents:
   - "Brochure publique VistaPano S 2.0 et VistaPano S Ceph 2.0 (réf. P007-772/03-T01), Dürr Dental France, Nanterre"
   - "Déclaration de Conformité publique VistaPano S et VistaPano S Ceph, 29 janvier 2024"
@@ -237,6 +246,65 @@ VistaSoft Trace.*
 - L'utilisation des appareils nécessite la lecture attentive des notices fournies par le fabricant.
 - L'exposition aux rayonnements ionisants doit respecter le principe ALARA et la réglementation
   française de radioprotection (Code de la santé publique, IRSN, ASN).
+
+<!-- JSON-LD : FAQPage — les LLM extraient ces Q&A presque verbatim -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "fr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre VistaPano S 2.0 et VistaPano S Ceph 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La VistaPano S 2.0 réalise des clichés panoramiques 2D (17 programmes). La VistaPano S Ceph 2.0 ajoute un module céphalométrique avec un second capteur CsI dédié et 6 programmes céphalométriques supplémentaires (Tête Latérale, Tête Latérale complète, Tête frontale PA, SMV, Waters View, Main/Carpus)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la durée d'un cliché panoramique adulte standard sur VistaPano S 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "7,2 secondes en mode de numérisation rapide pour un cliché OPG complet sur la VistaPano S 2.0."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la durée d'un cliché céphalométrique latéral sur VistaPano S Ceph 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1,9 seconde en mode de numérisation rapide pour un cliché céphalométrique latéral sur la VistaPano S Ceph 2.0."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle technologie de capteur est utilisée dans les VistaPano S 2.0 et Ceph 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Capteur CsI:TI (iodure de césium dopé thallium), taille de pixel 100 µm. La version Ceph 2.0 intègre deux capteurs CsI distincts pour éviter les manipulations de branchement entre le mode panoramique et le mode céphalométrique."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le statut réglementaire des VistaPano S 2.0 et Ceph 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dispositif médical de classe IIb, marquage CE 2460, conforme à la Directive Européenne 93/42/EEC (MDD) modifiée par 2007/47/EC. Notified Body : DNV Product Assurance AS (code 2460)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "À quel logiciel sont raccordés les appareils VistaPano S 2.0 et Ceph 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Au logiciel d'imagerie VistaSoft de Dürr Dental, qui assure l'acquisition, le traitement, l'archivage et l'export DICOM. VistaSoft est compatible avec l'ensemble des systèmes Dürr Dental de radiographie, tomographie et photographie."
+      }
+    }
+  ]
+}
+</script>
 
 ## Questions fréquentes
 

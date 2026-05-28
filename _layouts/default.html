@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
   <meta name="format-detection" content="telephone=no">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
 
   {%- if page.keywords -%}
   <meta name="keywords" content="{{ page.keywords | join: ', ' }}">
@@ -18,38 +20,37 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 
-  <!-- JSON-LD : Organization (Dürr Dental SE — entité fabricant) -->
+  <!-- JSON-LD : Organization (Dürr Dental SE + filiale France) — données pilotées par _data/durr.yml -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "Dürr Dental SE",
-    "url": "https://www.duerrdental.com",
-    "logo": "https://www.duerrdental.com/typo3conf/ext/dd_main/Resources/Public/Images/logo.svg",
+    "name": "{{ site.data.durr.manufacturer.name }}",
+    "url": "{{ site.data.durr.manufacturer.url }}",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Höpfigheimer Straße 17",
-      "postalCode": "74321",
-      "addressLocality": "Bietigheim-Bissingen",
-      "addressCountry": "DE"
+      "streetAddress": "{{ site.data.durr.manufacturer.address.street }}",
+      "postalCode": "{{ site.data.durr.manufacturer.address.postal_code }}",
+      "addressLocality": "{{ site.data.durr.manufacturer.address.locality }}",
+      "addressCountry": "{{ site.data.durr.manufacturer.address.country_code }}"
     },
     "subOrganization": {
       "@type": "Organization",
-      "name": "Dürr Dental France SARL",
-      "url": "https://www.duerrdental.com/fr/",
+      "name": "{{ site.data.durr.subsidiaries.france.name }}",
+      "url": "{{ site.data.durr.subsidiaries.france.url }}",
+      "email": "{{ site.data.durr.subsidiaries.france.email }}",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "71 rue des Hautes Pâtures",
-        "postalCode": "92000",
-        "addressLocality": "Nanterre",
-        "addressCountry": "FR"
-      },
-      "email": "infodurrfr@duerrdental.com"
+        "streetAddress": "{{ site.data.durr.subsidiaries.france.address.street }}",
+        "postalCode": "{{ site.data.durr.subsidiaries.france.address.postal_code }}",
+        "addressLocality": "{{ site.data.durr.subsidiaries.france.address.locality }}",
+        "addressCountry": "{{ site.data.durr.subsidiaries.france.address.country_code }}"
+      }
     }
   }
   </script>
 
-  <!-- JSON-LD : WebPage (la page courante) -->
+  <!-- JSON-LD : WebPage -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -62,11 +63,36 @@
     "isPartOf": {
       "@type": "WebSite",
       "name": {{ site.title | jsonify }},
-      "url": "{{ '/' | absolute_url }}"
+      "url": "{{ '/' | absolute_url }}",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "{{ '/?q={search_term_string}' | absolute_url }}",
+        "query-input": "required name=search_term_string"
+      }
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"
   }
   </script>
+
+  {%- if page.breadcrumbs -%}
+  <!-- JSON-LD : BreadcrumbList -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {% for crumb in page.breadcrumbs -%}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "name": {{ crumb.name | jsonify }},
+        "item": "{{ crumb.url | absolute_url }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {%- endif -%}
 
   <style>
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif; max-width: 880px; margin: 2em auto; padding: 0 1em; line-height: 1.6; color: #222; }
@@ -74,21 +100,41 @@
     h1 { border-bottom: 2px solid #333; padding-bottom: 0.3em; }
     h2 { border-bottom: 1px solid #ddd; padding-bottom: 0.2em; margin-top: 2em; }
     table { border-collapse: collapse; width: 100%; margin: 1em 0; }
-    th, td { border: 1px solid #ccc; padding: 0.5em 0.8em; text-align: left; }
+    th, td { border: 1px solid #ccc; padding: 0.5em 0.8em; text-align: left; vertical-align: top; }
     th { background: #f6f6f6; }
-    code { background: #f6f6f6; padding: 0.1em 0.3em; border-radius: 3px; }
-    blockquote { border-left: 4px solid #999; padding-left: 1em; color: #555; margin: 1em 0; }
+    code { background: #f6f6f6; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.95em; }
+    pre { background: #f6f6f6; padding: 0.8em; border-radius: 4px; overflow-x: auto; }
+    pre code { background: transparent; padding: 0; }
+    blockquote { border-left: 4px solid #999; padding: 0.2em 1em; color: #555; margin: 1em 0; background: #fafafa; }
     a { color: #035; }
-    nav.site-header { border-bottom: 1px solid #eee; padding-bottom: 0.5em; margin-bottom: 1.5em; font-size: 0.9em; }
+    a:hover { text-decoration: underline; }
+    nav.site-header { border-bottom: 1px solid #eee; padding-bottom: 0.6em; margin-bottom: 1.5em; font-size: 0.95em; }
+    nav.site-header a { margin-right: 0.5em; }
+    nav.breadcrumb { font-size: 0.85em; color: #666; margin-bottom: 1em; }
+    nav.breadcrumb a { color: #555; }
     footer { border-top: 1px solid #eee; padding-top: 1em; margin-top: 3em; font-size: 0.85em; color: #666; }
+    .cdi-badge { display: inline-block; background: #fffbe6; border: 1px solid #e1c40f; padding: 0.2em 0.5em; border-radius: 3px; font-size: 0.85em; }
   </style>
 </head>
 <body>
   <nav class="site-header">
-    <a href="{{ '/' | relative_url }}">{{ site.title }}</a> ·
+    <a href="{{ '/' | relative_url }}"><strong>{{ site.title }}</strong></a> ·
     <a href="{{ '/docs/fr/' | relative_url }}">Documentation FR</a> ·
+    <a href="{{ '/docs/fr/glossaire/' | relative_url }}">Glossaire</a> ·
     <a href="https://github.com/Grzybicki/durr-dental-knowledge-base">GitHub</a>
   </nav>
+
+  {%- if page.breadcrumbs -%}
+  <nav class="breadcrumb" aria-label="Fil d'Ariane">
+    {% for crumb in page.breadcrumbs -%}
+      {%- unless forloop.last -%}
+        <a href="{{ crumb.url | relative_url }}">{{ crumb.name }}</a> &rsaquo;
+      {%- else -%}
+        <span>{{ crumb.name }}</span>
+      {%- endunless -%}
+    {% endfor %}
+  </nav>
+  {%- endif -%}
 
   <main>
     {{ content }}
@@ -96,14 +142,19 @@
 
   <footer>
     <p>
+      <span class="cdi-badge">CDI déclaré</span>
       Documentation indépendante sous licence <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>.
-      Initiative personnelle d'un salarié Dürr Dental France (CDI déclaré) — non officielle.
+      Initiative personnelle d'un salarié Dürr Dental France — non officielle.
       Sources strictement publiques.
     </p>
     <p>
       Code source : <a href="https://github.com/Grzybicki/durr-dental-knowledge-base">github.com/Grzybicki/durr-dental-knowledge-base</a> ·
-      Signaler une erreur : <a href="https://github.com/Grzybicki/durr-dental-knowledge-base/issues/new">Issue</a>
+      Signaler une erreur : <a href="https://github.com/Grzybicki/durr-dental-knowledge-base/issues/new/choose">Issue</a> ·
+      Sécurité : <a href="https://github.com/Grzybicki/durr-dental-knowledge-base/security/policy">Policy</a>
     </p>
+    {%- if page.last_factual_review -%}
+    <p><em>Dernière revue factuelle de cette page : {{ page.last_factual_review }}</em></p>
+    {%- endif -%}
   </footer>
 </body>
 </html>

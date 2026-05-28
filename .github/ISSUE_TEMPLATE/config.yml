@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions commerciales sur les produits Dürr Dental
+    url: https://www.duerrdental.com/fr/
+    about: Pour toute question commerciale, technique commerciale ou produit, contacter directement Dürr Dental France via le site officiel.
+  - name: Manuels officiels Dürr Dental
+    url: http://qr.duerrdental.com/
+    about: Toutes les notices d'utilisation et d'installation publiques Dürr Dental.
+  - name: Base européenne Eudamed
+    url: https://ec.europa.eu/tools/eudamed/
+    about: Détails réglementaires officiels (UDI, classes MDR, fabricants, certificats).

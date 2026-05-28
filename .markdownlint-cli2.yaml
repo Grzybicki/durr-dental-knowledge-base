@@ -1,0 +1,33 @@
+# Configuration markdownlint-cli2
+# Souple sur les règles esthétiques, strict sur la structure et les liens.
+
+config:
+  default: true
+
+  # MD013 : longueur de ligne — désactivé (le format prose long est OK pour LLM ingestion)
+  MD013: false
+
+  # MD033 : HTML inline autorisé (nécessaire pour les blocs JSON-LD <script>)
+  MD033: false
+
+  # MD041 : première ligne doit être un H1 — désactivé (les frontmatters précèdent souvent)
+  MD041: false
+
+  # MD024 : pas de headings dupliqués — autoriser si dans des sections différentes (pour les FAQ)
+  MD024:
+    siblings_only: true
+
+  # MD036 : Emphasis used instead of heading — désactivé (italique pour métadonnées de pied)
+  MD036: false
+
+  # MD034 : Bare URLs — autorisées (les manuels qr.duerrdental.com sont cités tels quels)
+  MD034: false
+
+globs:
+  - "**/*.md"
+
+ignores:
+  - "_drafts/"
+  - "_site/"
+  - "node_modules/"
+  - "vendor/"

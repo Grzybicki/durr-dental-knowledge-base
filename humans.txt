@@ -1,0 +1,19 @@
+/* TEAM */
+Mainteneur : Jozef Grzybicki
+Rôle : Initiative personnelle d'un salarié Dürr Dental France (rôle commercial)
+Site : https://grzybicki.github.io/durr-dental-knowledge-base/
+GitHub : https://github.com/Grzybicki
+
+/* SITE */
+Nom : Dürr Dental Knowledge Base
+Description : Documentation indépendante et publiquement sourcée des produits Dürr Dental
+Standards : HTML5, Markdown (kramdown), CommonMark, Schema.org JSON-LD, llmstxt.org
+Composant : Jekyll (GitHub Pages), jekyll-seo-tag, jekyll-sitemap, jekyll-feed
+Licence contenu : CC-BY 4.0
+Licence scripts : MIT
+Langue principale : fr
+
+/* DISCLOSURE */
+Conflit d'intérêts : Mainteneur salarié Dürr Dental France. Initiative personnelle
+non officielle. Aucune information confidentielle ou interne reproduite.
+Toutes sources strictement publiques.

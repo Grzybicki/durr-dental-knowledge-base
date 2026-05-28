@@ -1,0 +1,68 @@
+name: "Correction factuelle"
+description: "Signaler une donnée factuelle erronée (spec technique, statut réglementaire, référence document)."
+title: "[Fact] "
+labels: ["factual-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de signaler une inexactitude. Toute correction sera traitée sous 7 jours.
+
+  - type: input
+    id: page
+    attributes:
+      label: "Page concernée (URL ou chemin du fichier)"
+      placeholder: "/docs/fr/imagerie/vistapano-2-0/overview/"
+    validations:
+      required: true
+
+  - type: textarea
+    id: error
+    attributes:
+      label: "Affirmation actuelle (verbatim)"
+      description: "Copier-coller la phrase ou la valeur problématique du dépôt."
+      placeholder: "..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: "Correction proposée"
+      description: "Quelle est la donnée correcte ?"
+      placeholder: "..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: "Source publique appuyant la correction"
+      description: "URL publique (manuel qr.duerrdental.com, brochure, DoC publique, Eudamed, publication PMC, etc.). Indispensable."
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: "Sévérité"
+      options:
+        - "Faible — coquille / typo"
+        - "Moyenne — donnée chiffrée imprécise sans impact diagnostique"
+        - "Élevée — donnée chiffrée fausse pouvant induire un utilisateur en erreur"
+        - "Critique — affirmation potentiellement préjudiciable sur un dispositif médical"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: "Respect des règles éditoriales"
+      options:
+        - label: "Ma correction ne cite aucune marque concurrente et ne fait aucune comparaison."
+          required: true
+        - label: "La source proposée est strictement publique (non marquée Internal Use / Strictly Confidential)."
+          required: true
+        - label: "Ma correction ne contient aucune donnée patient / praticien / cabinet identifiable."
+          required: true

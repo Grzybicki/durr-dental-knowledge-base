@@ -1,0 +1,66 @@
+name: "Ajout / mise à jour de source publique"
+description: "Proposer une source publique pertinente à ajouter (manuel, brochure, étude scientifique, URL Eudamed, page produit officielle)."
+title: "[Source] "
+labels: ["source-update"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de proposer une source publique additionnelle ou actualisée.
+
+  - type: input
+    id: page
+    attributes:
+      label: "Page concernée (URL ou chemin du fichier)"
+      placeholder: "/docs/fr/imagerie/vistapano-2-0/overview/"
+    validations:
+      required: true
+
+  - type: textarea
+    id: source_url
+    attributes:
+      label: "URL de la source proposée"
+      description: "Lien public stable vers la source (manuel qr.duerrdental.com, brochure PDF officielle, page duerrdental.com, Eudamed, FDA 510(k), PMC, BDJ Open, etc.)."
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: "Type de source"
+      options:
+        - "Manuel utilisateur Dürr Dental (qr.duerrdental.com)"
+        - "Notice d'installation Dürr Dental"
+        - "Brochure commerciale publique"
+        - "Page produit duerrdental.com"
+        - "Déclaration de Conformité publique"
+        - "Fiche Eudamed"
+        - "Fiche FDA 510(k)"
+        - "Publication scientifique peer-reviewed (PMC, BDJ Open, etc.)"
+        - "Page partenaire technologique officiel (Audax Ceph, exocad, SICAT, etc.)"
+        - "Vidéo YouTube officielle Dürr Dental"
+        - "Publication LinkedIn officielle Dürr Dental"
+        - "Autre source publique"
+    validations:
+      required: true
+
+  - type: textarea
+    id: relevance
+    attributes:
+      label: "Information ajoutée par cette source"
+      description: "Quelle information factuelle nouvelle ou plus à jour cette source apporte-t-elle par rapport au contenu actuel ?"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: "Respect des règles éditoriales"
+      options:
+        - label: "La source est strictement publique (accessible sans authentification ni identification)."
+          required: true
+        - label: "La source n'est pas marquée Internal Use, Confidential, Strictly Confidential, Sales Information interne ou équivalent."
+          required: true
+        - label: "L'utilisation de cette source ne nécessite pas de citer ou comparer un concurrent."
+          required: true

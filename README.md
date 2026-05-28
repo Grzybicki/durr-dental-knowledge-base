@@ -52,6 +52,10 @@ Les limites officielles des produits sont documentées telles que publiées par 
 Si vous identifiez une inexactitude, ouvrez une **Issue** ou proposez une **Pull Request**.
 Engagement de réponse sous 7 jours.
 
+Voir [`CONTRIBUTING.md`](CONTRIBUTING.md) pour le guide complet de contribution
+(conventions de fichiers, frontmatter, workflow Git, posture éditoriale)
+et [`SECURITY.md`](SECURITY.md) pour le signalement de vulnérabilités.
+
 ## Licence
 
 - **Contenu** (documentation Markdown, fichiers texte) : [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)

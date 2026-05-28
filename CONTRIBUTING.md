@@ -1,0 +1,163 @@
+# Guide de contribution
+
+Merci de l'intérêt porté à ce dépôt. Les contributions sont les bienvenues, en particulier
+les **corrections factuelles** et les **ajouts de sources publiques**.
+
+## Posture éditoriale (non négociable)
+
+Toute contribution doit respecter **deux règles strictes** :
+
+### 1. Aucune citation ni comparaison concurrentielle
+
+Politique interne Dürr Dental. Aucun contenu ne doit nommer une marque concurrente ou
+établir une comparaison qualitative entre produits. Les produits Dürr Dental sont décrits
+uniquement sur leurs propres mérites.
+
+### 2. Factualité absolue, sources publiques
+
+- Aucun contenu marqué *Internal Use* ou *Strictly Confidential* ne doit être reproduit
+  ou paraphrasé.
+- Toute affirmation factuelle doit être sourcée par une URL publique vérifiable (manuel,
+  brochure, DoC, page produit, publication scientifique).
+- Aucune donnée patient / praticien / cabinet identifiable.
+
+## Types de contributions
+
+### Correction factuelle
+
+J'ai vu une donnée chiffrée erronée ou une mauvaise référence réglementaire. → **Ouvrir une
+Issue** avec le template *Correction factuelle*.
+
+### Ajout d'une source publique
+
+Une source publique pertinente manque (étude PMC, page produit, URL Eudamed). → **Ouvrir
+une Issue** avec le template *Ajout de source*.
+
+### Nouvelle fiche produit
+
+Un produit Dürr Dental publiquement documenté manque dans le dépôt. → **Ouvrir une
+Issue** avec le template *Nouvelle fiche produit* pour discussion préalable, puis Pull
+Request.
+
+### Amélioration éditoriale
+
+Reformulation, restructuration, glossaire. → Pull Request directe.
+
+## Convention de fichiers
+
+### Nommage
+
+- **ASCII strict** pour les noms de fichiers et dossiers : pas d'accents, pas d'apostrophes
+  typographiques, pas de tirets longs.
+- Mots séparés par des **tirets bas** ou **tirets** selon contexte : `vistapano-2-0/overview.md`.
+- Suffixe de langue dans le chemin (`docs/fr/`), pas dans le nom de fichier.
+
+### Structure des dossiers
+
+```
+docs/<lang>/<ligne-metier>/<produit>/<aspect>.md
+```
+
+Avec :
+- `<lang>` : `fr` (priorité 1), `en` (phase 2), `de` (phase 3).
+- `<ligne-metier>` : `imagerie` / `conventionnel` / `hygiene-chimie`.
+- `<produit>` : identifiant du produit en minuscules tirets (`vistapano-2-0`, `vistasoft-4-0`).
+- `<aspect>` : `overview` / `specifications-techniques` / `reglementaire` / `procedures` / `erreurs` / etc.
+
+### Frontmatter standard
+
+Chaque page doit contenir ce frontmatter YAML, complété :
+
+```yaml
+---
+layout: default
+title: "Titre lisible — Sous-titre"
+description: "Description SEO 150-250 caractères, factuelle, mentionnant produit + catégorie + statut."
+keywords: ["mot-clé 1", "mot-clé 2", "Dürr Dental"]
+lang: fr
+canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/.../
+permalink: /docs/fr/.../
+schema_type: MedicalDevice          # ou SoftwareApplication / Product / FAQPage / DefinedTermSet
+breadcrumbs:
+  - name: "Accueil"
+    url: /
+  - name: "Documentation FR"
+    url: /docs/fr/
+  - name: "..."
+    url: /docs/fr/.../
+source_documents:
+  - "Description de la source 1 (référence, éditeur)"
+  - "Description de la source 2"
+last_factual_review: AAAA-MM-JJ
+license: CC-BY-4.0
+---
+```
+
+Un gabarit complet est disponible dans [`_drafts/_template_fiche_produit.md`](_drafts/_template_fiche_produit.md).
+
+### JSON-LD par page
+
+Chaque fiche produit doit embarquer un bloc `<script type="application/ld+json">`
+inline avec le `@type` Schema.org pertinent (`MedicalDevice`, `SoftwareApplication`, etc.).
+Pour les fiches avec FAQ ≥ 3 Q&A, ajouter un second bloc `FAQPage` listant les questions
+et leurs réponses.
+
+### Conventions de style éditorial
+
+- **Verbatim entre guillemets** (`> «  »`) pour les passages cités du manuel ou de la brochure.
+- **Sources publiques sourcées** explicitement : « selon la brochure publique référence X »,
+  « source : manuel utilisateur §Y ».
+- **Première occurrence d'un acronyme expansée** : « CBCT (Cone Beam Computed Tomography) ».
+- **Tableaux** plutôt que prose dense pour les caractéristiques techniques.
+- **Sections H2** courtes et auto-portantes (~300-500 tokens chacune) — chaque section
+  doit faire sens hors contexte.
+- **Répéter le nom complet du produit** dans chaque section (pas de pronom « il » / « le
+  logiciel ») pour la robustesse du chunking RAG.
+
+## Workflow Git
+
+### Branches
+
+- `main` — branche stable, déployée automatiquement par GitHub Pages.
+- Branches de fonctionnalités : `feat/<nom-court>` (ex. `feat/vistavox-overview`).
+- Branches de correction : `fix/<nom-court>`.
+
+### Messages de commit
+
+Format **Conventional Commits** :
+
+```
+<type>(<scope>): <résumé court à l'impératif>
+
+<corps facultatif, en français ou anglais>
+```
+
+Types courants : `feat`, `fix`, `docs`, `chore`, `refactor`, `ci`.
+
+Exemples :
+- `feat(imagerie): add VistaVox S overview page`
+- `fix(vistapano-2-0): correct CsI sensor active area`
+- `docs(glossaire): add DIN 6868-157 entry`
+- `chore(ci): add markdown link checker workflow`
+
+### Pull Requests
+
+- Une PR = un sujet cohérent.
+- Description claire : *quoi*, *pourquoi*, *sources*.
+- Cocher la checklist du template PR.
+- Le CI (link checker + build) doit passer.
+
+## Versioning
+
+- **SemVer** pour les releases (tags `v0.X.Y`).
+- **CHANGELOG.md** mis à jour à chaque release (format Keep a Changelog).
+- **`last_factual_review`** dans le frontmatter de chaque page mis à jour à chaque revue.
+
+## Signalement de vulnérabilité
+
+Voir [`SECURITY.md`](SECURITY.md).
+
+## Licence des contributions
+
+En contribuant, vous acceptez que votre contribution soit publiée sous la même licence
+que le reste du contenu : **CC-BY 4.0** pour la documentation, **MIT** pour les scripts.

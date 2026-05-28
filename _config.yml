@@ -51,10 +51,17 @@ exclude:
   - README.md
   - CHANGELOG.md
   - CONTRIBUTING.md
+  - SECURITY.md
   - LICENSE
   - .gitignore
+  - .gitattributes
+  - .editorconfig
+  - .markdownlint-cli2.yaml
   - Gemfile
   - Gemfile.lock
   - drafts/
+  - _drafts/
   - _local/
   - vendor/
+  - .github/
+  - node_modules/

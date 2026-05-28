@@ -1,0 +1,77 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Vérification hebdomadaire des liens externes (le contenu source peut changer)
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    name: "Lychee — vérification des liens"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restaurer le cache lychee
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Lancer lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --cache --max-cache-age 7d
+            --no-progress
+            --accept 200,206,301,302,308,403,429
+            --timeout 20
+            --retry-wait-time 2
+            --max-retries 2
+            --exclude-mail
+            --exclude-file .github/lychee-exclude.txt
+            './**/*.md' './**/*.html' './llms.txt' './humans.txt' './robots.txt'
+          fail: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+  markdown-lint:
+    name: "Markdownlint"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v17
+        with:
+          globs: |
+            **/*.md
+            !node_modules
+            !_drafts
+            !_site
+        continue-on-error: true
+
+  jekyll-build:
+    name: "Jekyll — build de vérification"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+          bundler-cache: true
+
+      - name: Build Jekyll
+        run: bundle exec jekyll build --strict_front_matter --trace
+        env:
+          JEKYLL_ENV: production

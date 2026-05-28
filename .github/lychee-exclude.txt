@@ -1,0 +1,8 @@
+# URLs exclues du link checker lychee (false positives ou blocage CDN)
+
+# qr.duerrdental.com renvoie 302 vers le PDF, OK
+# Pas d'exclusion par défaut.
+
+# Exemples si nécessaire :
+# https://www.linkedin.com/.*
+# https://twitter.com/.*

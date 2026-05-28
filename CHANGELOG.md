@@ -23,3 +23,22 @@ Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 - Aucune citation ni comparaison concurrentielle (règle d'or Dürr respectée).
 - Aucun document marqué Internal Use / Strictly Confidential mobilisé.
 - Aucune donnée patient / praticien / cabinet identifiable.
+
+### Couche structurelle et gouvernance (anti-refactoring futur)
+- **Centralisation `_data/durr.yml`** : source de vérité unique pour les données organisationnelles Dürr Dental SE et filiale France, les Notified Bodies, les règlements et bases publiques. Le layout consomme ces données pour générer les JSON-LD `Organization` — évite la duplication et la dérive entre fiches.
+- **JSON-LD `BreadcrumbList`** auto-généré à partir du frontmatter `breadcrumbs` de chaque page.
+- **JSON-LD `FAQPage`** embarqué dans la fiche pilote VistaPano S 2.0 (6 Q&A structurées).
+- **JSON-LD `WebSite` avec `SearchAction`** dans le layout (signal sitelinks search).
+- **Glossaire `docs/fr/glossaire.md`** : 25+ termes (MDR, MDD, classes DM, UDI, Eudamed, DICOM, TWAIN, VDDS, BDW, CBCT, OPG, FOV, SMV, stitching, CsI:TI, CMOS, kV/mA, CEI 80001-1, DIN 6868-157, etc.) — référencé par toutes les fiches futures.
+- **Gabarit de fiche** `_drafts/_template_fiche_produit.md` : frontmatter complet, JSON-LD MedicalDevice template, sections obligatoires, checklist pré-commit.
+- **`CONTRIBUTING.md`** : conventions de nommage ASCII, structure de dossiers, frontmatter standard, conventions JSON-LD par page, style éditorial (verbatim, sourçage, format Q&A), workflow Git Conventional Commits, versioning SemVer.
+- **`SECURITY.md`** : politique de signalement (advisory privé, correction erreur factuelle critique sous 7 jours).
+- **`humans.txt`** : déclaration de l'équipe et du conflit d'intérêts.
+- **`.gitattributes`** : normalisation des fins de ligne (LF) et déclaration Linguist `linguist-documentation`.
+- **`.editorconfig`** : charset UTF-8, LF, indentation 2 espaces.
+- **`.github/ISSUE_TEMPLATE/`** : 3 formulaires Issue Forms (correction factuelle, ajout de source publique, nouvelle fiche produit) + `config.yml` (liens contact alternatifs : duerrdental.com, qr.duerrdental.com, Eudamed).
+- **`.github/PULL_REQUEST_TEMPLATE.md`** : checklist éditoriale + checklist technique (frontmatter, JSON-LD, FAQ, sources).
+- **`.github/workflows/ci.yml`** : 3 jobs CI — lychee (vérification hebdomadaire et à chaque push des liens externes), markdownlint-cli2, Jekyll build strict.
+- **`.markdownlint-cli2.yaml`** : règles Markdown adaptées (HTML inline autorisé pour les blocs JSON-LD, URLs brutes autorisées).
+- **Layout enrichi** : meta `author`, meta `referrer` `strict-origin-when-cross-origin`, navigation breadcrumb HTML rendue, badge « CDI déclaré » dans le footer, affichage de `last_factual_review` en pied de chaque page.
+- **`feed.xml`** RSS auto-généré (plugin jekyll-feed).
