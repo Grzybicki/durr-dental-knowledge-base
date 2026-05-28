@@ -116,35 +116,40 @@ France accompagne les cabinets dans cette migration.
 
 ## Modèle commercial des mises à jour VistaSoft
 
-Le modèle commercial des mises à jour est structuré autour d'un **critère
-de versionnage simple** :
+Le modèle commercial des mises à jour repose sur **deux règles simples** :
 
-> **Dès que le premier chiffre de la version change, la mise à jour est
-> payante.** Les mises à jour qui ne modifient que le deuxième chiffre (ou
-> chiffres ultérieurs) sont gratuites.
+> **Règle 1.** Dès que le premier chiffre de la version change, la mise à jour
+> est **payante**. Les mises à jour qui ne modifient que le deuxième chiffre
+> (ou les chiffres ultérieurs) sont **gratuites**.
+>
+> **Règle 2.** Quelle que soit l'amplitude du saut de version (un cran ou
+> plusieurs crans), **une seule mise à jour est facturée** par opération de
+> migration. Aucune facturation cumulée des versions majeures sautées.
 
-Concrètement :
+### Concrètement
 
-| Type de mise à jour | Régime |
-|---|---|
-| **DBSWin → VistaSoft 4.x** (changement de produit) | **Payant** |
-| **VistaSoft 2.x → VistaSoft 3.x** (changement version majeure) | **Payant** |
-| **VistaSoft 3.x → VistaSoft 4.x** (changement version majeure) | **Payant** |
-| **VistaSoft 4.x → VistaSoft 5.x** (changement version majeure, future) | **Payant** (anticipation modèle) |
-| **VistaSoft 4.10 → VistaSoft 4.11** (changement version mineure) | **Gratuit** |
-| **VistaSoft 4.11 → VistaSoft 4.13** (idem) | **Gratuit** |
-| Toute mise à jour à l'intérieur d'une même version majeure | **Gratuit** |
+| Type de mise à jour | Régime | Facturation |
+|---|---|---|
+| DBSWin → VistaSoft 4.x | **Payant** | **1 mise à jour facturée** |
+| VistaSoft 2.x → 3.x | **Payant** | 1 mise à jour facturée |
+| VistaSoft 3.x → 4.x | **Payant** | 1 mise à jour facturée |
+| **VistaSoft 2.x → 4.x** (saut de v3) | **Payant** | **1 mise à jour facturée** (et non deux) |
+| **DBSWin → VistaSoft 4.x** (saut de plusieurs versions VistaSoft majeures) | **Payant** | **1 mise à jour facturée** |
+| VistaSoft 4.x → 5.x (future) | **Payant** (anticipation modèle) | 1 mise à jour facturée |
+| VistaSoft 4.10 → 4.11 | Gratuit | — |
+| VistaSoft 4.11 → 4.13 | Gratuit | — |
+| Toute mise à jour à l'intérieur d'une même version majeure | Gratuit | — |
 
-### Cas particulier de la migration DBSWin
+### Conséquence pratique
 
-Pour la migration DBSWin → VistaSoft, Dürr Dental ne facture **qu'une seule
-mise à jour**, indépendamment du nombre de versions VistaSoft intermédiaires
-sautées. Un cabinet équipé de DBSWin 5.17 qui migre directement vers VistaSoft
-4.x ne paie pas chacune des versions intermédiaires : seule la mise à jour
-DBSWin → VistaSoft est facturée.
+Un cabinet équipé de **VistaSoft 2.x** qui migre directement vers
+**VistaSoft 4.x** ne paie qu'**une seule mise à jour** (et non deux pour
+les sauts 2→3 et 3→4). De même, un cabinet sur **DBSWin 5.17** qui migre
+directement vers **VistaSoft 4.x** ne paie qu'**une seule mise à jour**
+(pas de cumul des versions VistaSoft majeures sautées).
 
-Cette mécanique reflète le passage d'un produit en fin de cycle (DBSWin) à
-un produit en cycle d'évolution actif (gamme VistaSoft).
+Cette politique facilite les migrations différées : le coût de mise à
+jour ne s'accumule pas avec le retard pris sur les versions.
 
 ## Passerelle TWAIN — VistaSoft Connect
 
@@ -218,12 +223,15 @@ agréé est recommandé pour cette opération critique.
 - **Aucune nouvelle clé de licence DBSWin** n'est plus générée. Tout
   ajout de poste, changement de serveur ou réinitialisation matérielle
   impose le passage vers VistaSoft 4.0.
-- La **migration DBSWin → VistaSoft 4.0 est payante** (une seule mise à jour
-  facturée, indépendamment du nombre de versions VistaSoft sautées). De même,
-  toute mise à jour entre versions **majeures** de VistaSoft est payante
-  (VistaSoft 2.x → 3.x, 3.x → 4.x). En revanche, les mises à jour mineures
-  à l'intérieur d'une même version majeure (par exemple VistaSoft 4.10 →
-  4.11 → 4.13) sont gratuites.
+- Toute mise à jour qui change le **premier chiffre** de la version est
+  **payante** (DBSWin → VistaSoft, VistaSoft 2.x → 3.x, VistaSoft 3.x → 4.x,
+  etc.). Les mises à jour qui ne changent que le deuxième chiffre (ou
+  chiffres ultérieurs) sont **gratuites** (par exemple VistaSoft 4.10 →
+  4.11 → 4.13).
+- **Quel que soit le nombre de versions majeures sautées**, **une seule
+  mise à jour est facturée** par opération de migration. Un cabinet sur
+  VistaSoft 2.x qui migre directement vers VistaSoft 4.x ne paie qu'une
+  seule mise à jour. Idem pour DBSWin 5.17 → VistaSoft 4.x.
 - La **liste détaillée des logiciels d'imagerie tiers** éligibles à la
   conversion gratuite (à l'achat d'un nouvel appareil) n'est pas
   exhaustivement listée publiquement — à confirmer commercialement avec le
@@ -270,10 +278,10 @@ agréé est recommandé pour cette opération critique.
     },
     {
       "@type": "Question",
-      "name": "La migration DBSWin → VistaSoft 4.0 est-elle facturée plusieurs fois si plusieurs versions intermédiaires sont sautées ?",
+      "name": "Si je saute plusieurs versions majeures, combien de mises à jour sont facturées ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Non. Dürr Dental ne facture qu'une seule mise à jour pour la migration DBSWin → VistaSoft, indépendamment du nombre de versions VistaSoft majeures intermédiaires sautées."
+        "text": "Une seule. Quelle que soit l'amplitude du saut de version (VistaSoft 2.x → VistaSoft 4.x, ou DBSWin → VistaSoft 4.x), Dürr Dental ne facture qu'une seule mise à jour par opération de migration. Aucun cumul des versions majeures intermédiaires sautées."
       }
     },
     {
@@ -314,22 +322,27 @@ matérielle) impose le passage à VistaSoft 4.0.
 
 ### La migration DBSWin → VistaSoft 4.0 est-elle gratuite ?
 
-**Non, payante**. Dürr Dental ne facture qu'**une seule** mise à jour pour
-cette migration, indépendamment du nombre de versions VistaSoft
-intermédiaires sautées (un cabinet sur DBSWin 5.17 ne paie pas chacune des
-versions VistaSoft 2.x, 3.x, 4.x sautées : une seule mise à jour est
-facturée).
+**Non, payante**. Mais Dürr Dental ne facture qu'**une seule** mise à jour
+pour la migration, indépendamment du nombre de versions VistaSoft majeures
+sautées.
 
 ### Quelles mises à jour VistaSoft sont gratuites, lesquelles sont payantes ?
 
-La règle est simple : **dès que le premier chiffre de la version change, la
-mise à jour est payante**. Concrètement :
+La règle est simple : **dès que le premier chiffre de la version change,
+la mise à jour est payante**. Concrètement :
 
 - **Payant** : changements de version **majeure** (1er chiffre) — par
   exemple VistaSoft 2.x → 3.x, VistaSoft 3.x → 4.x, ou la migration
   DBSWin → VistaSoft.
 - **Gratuit** : mises à jour **mineures** dans une même version majeure —
   par exemple VistaSoft 4.10 → 4.11, ou 4.11 → 4.13.
+
+### Si je saute plusieurs versions majeures, combien de mises à jour sont facturées ?
+
+**Une seule.** Quelle que soit l'amplitude du saut (VistaSoft 2.x →
+VistaSoft 4.x, ou DBSWin → VistaSoft 4.x), une seule mise à jour est
+facturée par opération de migration. Aucun cumul des versions majeures
+sautées.
 
 ### Quelles sont les références de documentation officielle ?
 
