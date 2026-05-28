@@ -60,7 +60,8 @@ BANNED_COMPETITOR_NAMES = [
     r"\bVisiodent\b",
     r"\bJulie\b",
     r"\bLogosw\b",
-    r"\bDBSWIN\b",
+    # DBSWin (DBSWIN) = logiciel Dürr historique, prédécesseur de VistaSoft.
+    # Citable comme tel — chemin de migration officiel documenté (manuel public §5.4, DBSWin >= 5.9).
 ]
 
 # Exceptions autorisées (mentions techniques non-comparatives, cf. audit 17)

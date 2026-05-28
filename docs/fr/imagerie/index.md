@@ -27,7 +27,20 @@ au phosphore, caméras intraorales.
 | **[VistaSoft Cloud Exchange](vistasoft-cloud-exchange/overview/)** | **NON-DM** | Échange de cas anonymisés (RGPD, conservation 30 j) |
 | **[VistaSoft Cloud Drive](vistasoft-cloud-drive/overview/)** | **NON-DM** | Stockage cloud zero-knowledge des images |
 
-**Modules complémentaires à venir** : VistaSoft Inspect (contrôle qualité DIN 6868-157), VistaSoft Mobile Connect, Patient Bridge, Image Bridge.
+**Modules complémentaires à venir** : VistaSoft Mobile Connect.
+
+## Interfaces, intégration et migration
+
+| Sujet | Fiche |
+|---|---|
+| **[Patient Bridge](patient-bridge/overview/)** | Interface VistaSoft ↔ PMS (4 voies : VDDS-media, BDW, patimport.txt, protocole propre) |
+| **[Image Bridge](image-bridge/overview/)** | Pilotage des appareils Dürr depuis un logiciel d'imagerie tiers (cohabitation technique) |
+| **[DICOM dans VistaSoft 4.0](dicom/overview/)** | Conformance Statement, Modality Worklist, Storage, Print, modalités supportées |
+| **[VDDS-media et BDW](vdds-bdw/overview/)** | Standards d'interface dentaire allemands (VDDS e.V.) |
+| **[Intégration PMS](integration-pms/overview/)** | Vue d'ensemble des 5 voies d'intégration logiciels de gestion |
+| **[Intégration 3Shape](integration-3shape/overview/)** | Partenariat officiel — Trios, Unite, format PLY |
+| **[Migration vers VistaSoft 4.0](migration-bases-donnees/overview/)** | Migration officielle DBSWin ≥ 5.9 + politique conversion bases existantes |
+| **[VistaSoft Inspect](vistasoft-inspect/overview/)** | Contrôle qualité radiographique selon DIN 6868-157 |
 
 ⚠️ **Désambiguïsation cardinale** : **VistaSoft 4.0** (logiciel d'imagerie diagnostique, DM IIb) et **VistaSoft Monitor** (système IoT de surveillance d'équipement, non-DM) sont **deux produits distincts**. Voir la [fiche dédiée](vistasoft-monitor/overview/).
 
