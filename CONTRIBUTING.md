@@ -114,6 +114,45 @@ et leurs réponses.
 - **Répéter le nom complet du produit** dans chaque section (pas de pronom « il » / « le
   logiciel ») pour la robustesse du chunking RAG.
 
+### URL directe obligatoire pour chaque source
+
+**Règle non négociable** : chaque source citée dans une fiche **doit inclure une URL
+publique directe** (ou un pointeur explicite vers la page où elle est téléchargeable).
+Une référence sans URL n'est pas une source vérifiable.
+
+Patterns standards pour Dürr Dental :
+
+| Type de document | Pattern d'URL publique |
+|---|---|
+| Notices (utilisation, installation) | `http://qr.duerrdental.com/<CODE>` (redirect officiel vers le Centre de téléchargements) |
+| Pages produit FR/France | `https://www.duerrdental.com/fr/FR/produits/<categorie>/<produit>/` |
+| Pages produit EN/International | `https://www.duerrdental.com/en/products/<categorie>/<produit>/` |
+| Centre de téléchargements FR | `https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/` |
+| Eudamed (base UE des DM MDR) | `https://ec.europa.eu/tools/eudamed/screen/search` |
+| FDA 510(k) | `https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm` |
+
+### Archivage Wayback Machine
+
+Pour chaque nouvelle source citée, **déclencher un archivage Wayback Machine** afin de
+garantir la citabilité long terme (en cas de réorganisation des URLs Dürr Dental) :
+
+```
+https://web.archive.org/save/<URL_DE_LA_SOURCE>
+```
+
+L'archive devient ensuite citable à l'URL `https://web.archive.org/web/<TIMESTAMP>/<URL>`.
+
+Inclure si possible dans la section *Sources publiques* de la fiche un lien
+`https://web.archive.org/web/2026*/<URL>` qui pointe vers tous les snapshots de l'URL
+(le plus récent étant servi par défaut).
+
+### Note sur la copie locale des PDF
+
+**Ne pas committer dans ce dépôt** les PDF originaux Dürr Dental. Les manuels et notices
+restent la propriété intellectuelle du fabricant ; ce dépôt s'appuie sur les URLs
+publiques officielles. Seuls de courts passages cités sous forme de verbatim (droit de
+courte citation) sont admis, et systématiquement entre guillemets avec mention de la source.
+
 ## Workflow Git
 
 ### Branches

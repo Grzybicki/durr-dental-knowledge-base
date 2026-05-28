@@ -25,7 +25,16 @@ Cette page sert d'index canonique des URLs publiques utilisées comme sources da
 
 ## Imagerie
 
-*À compléter au fil de la publication des fiches produit.*
+### VistaPano S 2.0 / VistaPano S Ceph 2.0
+
+| Document | URL publique | Référence Dürr |
+|---|---|---|
+| Notice d'installation | <http://qr.duerrdental.com/2208100006> | `2208100006` |
+| Notice d'utilisation | <http://qr.duerrdental.com/2208100028> | `2208100028` |
+| Page produit FR | <https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/> | — |
+| Brochure commerciale FR — L'efficacité sous un nouveau jour | Téléchargeable depuis page produit FR | `P007-772/03-T01` |
+
+*À compléter au fil de la publication des fiches produit (VistaSoft 4.0, VistaVox S, VistaScan, VistaRay, VistaCam, VistaIntra…).*
 
 ## Conventionnel
 

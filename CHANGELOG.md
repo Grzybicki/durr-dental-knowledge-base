@@ -24,6 +24,15 @@ Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 - Aucun document marqué Internal Use / Strictly Confidential mobilisé.
 - Aucune donnée patient / praticien / cabinet identifiable.
 
+### Sourçage renforcé (URLs directes obligatoires)
+- **Fiche pilote VistaPano S 2.0 — section *Sources publiques* restructurée** : 4 tableaux par catégorie (pages officielles, notices `qr.duerrdental.com`, brochure commerciale, conformité réglementaire) avec **URL publique directe par source**. Ajout des URLs `qr.duerrdental.com/2208100006` (notice installation) et `qr.duerrdental.com/2208100028` (notice utilisation), URL page produit FR officielle confirmée (`duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/`), URL Centre de téléchargements FR, URL Eudamed avec recherche fabricant pré-filtrée.
+- **`source_documents` frontmatter restructuré en YAML enrichi** : `title`, `url`, `type`, `reference`, `language`, `date`, `note` par source — exploitable pour génération future de JSON-LD `Citation` et pour inspection automatisée.
+- **Section *Pérennité Wayback Machine*** ajoutée à la fiche pilote : 3 URLs archivées pré-renseignées pour citabilité long terme.
+- **`sources/manuals.md`** mis à jour avec les références VistaPano S 2.0 et URL directes `qr.duerrdental.com`.
+- **`sources/certificates.md`** mis à jour avec le numéro de certificat complet (`10877-2017-CE-KOR-NA-PS Rev 3.0`) et la procédure de récupération de la DoC via Centre de téléchargements et Eudamed.
+- **`_drafts/_template_fiche_produit.md`** mis à jour : `source_documents` en format YAML structuré obligatoire, section *Sources publiques* avec 6 tableaux standards + Wayback.
+- **`CONTRIBUTING.md`** complété : règle non-négociable « URL directe obligatoire par source » + patterns d'URL standards Dürr Dental (notices, page produit FR/EN, Centre de téléchargements, Eudamed, FDA 510(k)) + procédure d'archivage Wayback + note sur l'interdiction de committer les PDF originaux (propriété intellectuelle fabricant).
+
 ### Intégrité et durcissement
 - `.github/CODEOWNERS` : revue obligatoire du mainteneur pour les fichiers critiques (`_data/`, `_layouts/`, `llms.txt`, `robots.txt`, `LICENSE`, `SECURITY.md`, `CONTRIBUTING.md`, `.well-known/`, fiches réglementaires).
 - `.github/dependabot.yml` : mises à jour hebdomadaires automatiques (Bundler + GitHub Actions), labellisées, format Conventional Commits.

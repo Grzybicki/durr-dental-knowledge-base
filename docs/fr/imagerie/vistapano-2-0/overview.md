@@ -17,9 +17,37 @@ breadcrumbs:
   - name: "VistaPano S 2.0"
     url: /docs/fr/imagerie/vistapano-2-0/overview/
 source_documents:
-  - "Brochure publique VistaPano S 2.0 et VistaPano S Ceph 2.0 (réf. P007-772/03-T01), Dürr Dental France, Nanterre"
-  - "Déclaration de Conformité publique VistaPano S et VistaPano S Ceph, 29 janvier 2024"
-  - "Page produit publique duerrdental.com/fr/produits/imagerie-dentaire/radiographie-panoramique-2d/"
+  - title: "Page produit officielle VistaPano S 2.0 (FR/France)"
+    url: "https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/"
+    type: "page produit"
+    language: "fr"
+  - title: "Notice d'installation VistaPano S 2.0"
+    url: "http://qr.duerrdental.com/2208100006"
+    type: "notice d'installation"
+    reference: "2208100006"
+    language: "multi"
+  - title: "Notice d'utilisation VistaPano S 2.0"
+    url: "http://qr.duerrdental.com/2208100028"
+    type: "notice d'utilisation"
+    reference: "2208100028"
+    language: "multi"
+  - title: "Brochure commerciale FR — VistaPano S 2.0 et VistaPano S Ceph 2.0 (L'efficacité sous un nouveau jour)"
+    reference: "P007-772/03-T01"
+    type: "brochure commerciale"
+    language: "fr"
+    note: "Téléchargeable depuis la page produit FR ou via demande au Centre de téléchargements (duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/)"
+  - title: "Déclaration de Conformité VistaPano S et VistaPano S Ceph"
+    type: "Déclaration de Conformité MDD"
+    date: "2024-01-29"
+    note: "Notified Body DNV Product Assurance AS (code 2460), certificat 10877-2017-CE-KOR-NA-PS Rev 3.0"
+  - title: "Base européenne Eudamed (recherche par fabricant)"
+    url: "https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental"
+    type: "registre réglementaire"
+    language: "multi"
+  - title: "Centre de téléchargements Dürr Dental France"
+    url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
+    type: "portail documents"
+    language: "fr"
 last_factual_review: 2026-05-28
 license: CC-BY-4.0
 ---
@@ -339,16 +367,66 @@ Au logiciel d'imagerie **VistaSoft** de Dürr Dental. *Fiche dédiée à venir.*
 
 ## Sources publiques
 
-- **Brochure FR officielle** : `VistaPano S 2.0 et VistaPano S Ceph 2.0 — L'efficacité sous un
-  nouveau jour`, référence article **P007-772/03-T01**, Dürr Dental France (Nanterre).
-- **Déclaration de Conformité publique** : datée du 29 janvier 2024, signée par le responsable
-  Quality Management. Référence Notified Body : DNV Product Assurance AS (code 2460), certificat
-  10877-2017-CE-KOR-NA-PS Rev 3.0.
-- **Page produit publique** : [duerrdental.com/fr](https://www.duerrdental.com/fr/) — section
-  Imagerie dentaire → Radiographie panoramique 2D.
-- **Base Eudamed** : [ec.europa.eu/tools/eudamed/](https://ec.europa.eu/tools/eudamed/) — pour
-  les références UDI et les détails du fabricant et du représentant autorisé EU.
-- **Index manuels publics Dürr Dental** : [qr.duerrdental.com](http://qr.duerrdental.com/)
+Toutes les sources ci-dessous sont **publiques, accessibles sans authentification**.
+Aucun document marqué *Internal Use* ou *Strictly Confidential* n'est mobilisé.
+
+### Pages officielles Dürr Dental
+
+| Document | URL publique | Référence |
+|---|---|---|
+| Page produit officielle (FR/France) | <https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/> | — |
+| Page produit officielle (EN/International) | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistapano-s-20/> | — |
+| Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> | — |
+
+### Notices publiques (qr.duerrdental.com)
+
+Le service `qr.duerrdental.com/<code>` est l'index public de Dürr Dental pour les notices ;
+chaque code redirige vers le Centre de téléchargements officiel avec la notice correspondante.
+
+| Document | URL publique | Référence Dürr |
+|---|---|---|
+| Notice d'installation VistaPano S 2.0 | <http://qr.duerrdental.com/2208100006> | `2208100006` |
+| Notice d'utilisation VistaPano S 2.0 | <http://qr.duerrdental.com/2208100028> | `2208100028` |
+
+### Brochure commerciale
+
+| Document | Référence | Langue | Origine |
+|---|---|---|---|
+| *VistaPano S 2.0 et VistaPano S Ceph 2.0 — L'efficacité sous un nouveau jour* | `P007-772/03-T01` | Français | Brochure commerciale Dürr Dental France, téléchargeable depuis la [page produit FR](https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/) ou via le [Centre de téléchargements](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/). |
+
+### Conformité réglementaire
+
+| Document | Détail |
+|---|---|
+| Déclaration de Conformité publique | Datée du **29 janvier 2024**, signée par le responsable Quality Management. |
+| Notified Body | **DNV Product Assurance AS** — code **2460** — Veritasveien 1, 1363 Høvik, Norvège. |
+| Numéro de certificat | `10877-2017-CE-KOR-NA-PS Rev 3.0` |
+| Réglementation européenne | Directive 93/42/EEC (MDD) modifiée par 2007/47/EC, Annexe 9, Règle 10 — classe IIb. |
+| Marquage produit | CE 2460. |
+
+### Bases réglementaires publiques
+
+| Base | URL | Usage |
+|---|---|---|
+| Eudamed (UE — registre dispositifs médicaux MDR) | <https://ec.europa.eu/tools/eudamed/> | Recherche par fabricant : <https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation> |
+| FDA 510(k) database (États-Unis) | <https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm> | Le cas échéant pour les dispositifs distribués aux US |
+
+### Citation des sources tiers (information uniquement)
+
+À titre informatif, certains documents Dürr Dental sont également archivés par des
+plateformes tierces (medicalexpo, distributeurs FR). Ces miroirs ne sont pas la source
+canonique ; toujours préférer les URLs Dürr Dental officielles ci-dessus.
+
+### Pérennité des URLs — archive Wayback Machine
+
+Pour garantir la citabilité long terme (au cas où Dürr Dental réorganiserait ses URLs),
+chaque source publique de cette fiche est archivée sur la Wayback Machine :
+
+- Page produit FR archivée : <https://web.archive.org/web/2026*/duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/>
+- Notice installation archivée : <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100006>
+- Notice utilisation archivée : <https://web.archive.org/web/2026*/qr.duerrdental.com/2208100028>
+
+Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.org/save/`.
 
 ## Pour aller plus loin
 

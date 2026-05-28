@@ -17,10 +17,36 @@ breadcrumbs:
   - name: "NOM PRODUIT"
     url: /docs/fr/CATEGORIE/SOUS-DOSSIER/PAGE/
 source_documents:
-  - "Brochure publique <réf>, Dürr Dental France"
-  - "Manuel utilisateur <réf URL qr.duerrdental.com>"
-  - "Déclaration de Conformité publique du <date>"
-  - "Page produit publique duerrdental.com/fr/produits/..."
+  # IMPORTANT : chaque source DOIT inclure une URL publique directe.
+  # Si l'URL n'est pas connue, mentionner explicitement où la source est téléchargeable
+  # (page produit, Centre de téléchargements) — JAMAIS un simple nom sans pointeur.
+  - title: "Page produit officielle (FR/France)"
+    url: "https://www.duerrdental.com/fr/FR/produits/<categorie>/<produit>/"
+    type: "page produit"
+    language: "fr"
+  - title: "Notice d'installation <NOM PRODUIT>"
+    url: "http://qr.duerrdental.com/<code>"
+    type: "notice d'installation"
+    reference: "<code Dürr>"
+    language: "multi"
+  - title: "Notice d'utilisation <NOM PRODUIT>"
+    url: "http://qr.duerrdental.com/<code>"
+    type: "notice d'utilisation"
+    reference: "<code Dürr>"
+    language: "multi"
+  - title: "Brochure commerciale FR — <Titre>"
+    reference: "<référence article>"
+    type: "brochure commerciale"
+    language: "fr"
+    note: "Téléchargeable depuis la page produit FR ou via le Centre de téléchargements"
+  - title: "Déclaration de Conformité <NOM PRODUIT>"
+    type: "Déclaration de Conformité MDD/MDR"
+    date: "AAAA-MM-JJ"
+    note: "Notified Body, code, numéro de certificat"
+  - title: "Centre de téléchargements Dürr Dental France"
+    url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
+    type: "portail documents"
+    language: "fr"
 last_factual_review: AAAA-MM-JJ
 license: CC-BY-4.0
 ---
@@ -101,10 +127,51 @@ Réponse en 2-3 phrases concises et factuelles.
 
 ## Sources publiques
 
-- **Brochure FR officielle** : référence article, éditeur.
-- **Déclaration de Conformité publique** : date, certification.
-- **Page produit publique** : URL.
-- **Base Eudamed** : URL.
+Toutes les sources ci-dessous sont **publiques, accessibles sans authentification**.
+Aucun document marqué *Internal Use* ou *Strictly Confidential* n'est mobilisé.
+
+### Pages officielles Dürr Dental
+
+| Document | URL publique | Référence |
+|---|---|---|
+| Page produit officielle (FR/France) | <https://www.duerrdental.com/fr/FR/produits/.../> | — |
+| Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> | — |
+
+### Notices publiques (qr.duerrdental.com)
+
+| Document | URL publique | Référence Dürr |
+|---|---|---|
+| Notice d'installation | <http://qr.duerrdental.com/CODE> | `CODE` |
+| Notice d'utilisation | <http://qr.duerrdental.com/CODE> | `CODE` |
+
+### Brochure commerciale
+
+| Document | Référence | Langue | Origine |
+|---|---|---|---|
+| *Titre brochure* | `RÉFÉRENCE` | Français | Téléchargeable depuis la page produit FR. |
+
+### Conformité réglementaire
+
+| Élément | Valeur |
+|---|---|
+| Déclaration de Conformité | Date, signataire |
+| Notified Body | Nom, code |
+| Numéro de certificat | ... |
+| Réglementation | MDR EU 2017/745 / MDD 93/42/EEC, classe X |
+
+### Bases réglementaires publiques
+
+| Base | URL |
+|---|---|
+| Eudamed | <https://ec.europa.eu/tools/eudamed/> |
+| FDA 510(k) | <https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm> |
+
+### Pérennité — archive Wayback Machine
+
+- Page produit archivée : <https://web.archive.org/web/2026*/duerrdental.com/fr/FR/.../>
+- Notices archivées : <https://web.archive.org/web/2026*/qr.duerrdental.com/CODE>
+
+*Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.org/save/`.*
 
 ## Pour aller plus loin
 
