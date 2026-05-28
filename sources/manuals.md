@@ -13,15 +13,59 @@ ou via la page produit correspondante sur [duerrdental.com](https://www.duerrden
 
 Cette page sert d'index canonique des URLs publiques utilisées comme sources dans ce dépôt.
 
-## Logiciel
+## Logiciel — VistaSoft
+
+### Notices publiques (qr.duerrdental.com)
+
+| Document | URL publique | Référence |
+|---|---|---|
+| Manuel utilisateur VistaSoft 4.0 (FR / EN / DE) | <http://qr.duerrdental.com/2110100001> | `2110100001` |
+| Manuel VistaSoft Cloud View | <http://qr.duerrdental.com/2110100051> | `2110100051` |
+| Manuel Patient Bridge | <http://qr.duerrdental.com/2110100028> | `2110100028` |
+| Configurations système requises | <http://qr.duerrdental.com/9000-618-148> | `9000-618-148` |
+| Livre blanc cybersécurité VistaSoft | <http://qr.duerrdental.com/2110100055> | `2110100055` |
+
+### Pages produit officielles (duerrdental.com)
+
+| Module | URL publique |
+|---|---|
+| VistaSoft (imagerie) | <https://www.duerrdental.com/en/products/software/imaging/vistasoft-imaging/> |
+| VistaSoft suite | <https://www.duerrdental.com/en/products/software/vistasoft-suite/> |
+| VistaSoft AI inclusive | <https://www.duerrdental.com/en/products/imaging/software/vistasoft-ai-inklusive/> |
+| VistaSoft 3D / CBCT | <https://www.duerrdental.com/en/products/software/imaging/3d-x-ray/> |
+| VistaSoft Monitor (IoT) | <https://www.duerrdental.com/en/solutions/networking/vistasoft-monitor/> |
+| VistaSoft Monitor — praticiens | <https://www.duerrdental.com/en/products/software/networking-for-dental-practices/vistasoft-monitor/vistasoft-monitor-for-practice-operators/> |
+| VistaSoft Monitor — techniciens | <https://www.duerrdental.com/en/products/software/networking-for-dental-practices/vistasoft-monitor/vistasoft-monitor-for-service-technicians/> |
+| VistaSoft AID (DM IIa) | <https://www.duerrdental.com/en/products/software/imaging/vistasoft-aid/> |
+| VistaSoft Trace (orthodontie) | <https://www.duerrdental.com/en/products/software/imaging/orthodontics/> |
+| VistaSoft Implant (technology) | <https://www.duerrdental.com/en/products/software/imaging/implant-technology/> |
+| VistaSoft Cloud View | <https://www.duerrdental.com/en/products/imaging/software/vistasoft-cloud-view/> |
+| VistaSoft Cloud Exchange | <https://www.duerrdental.com/en/products/software/imaging/vistasoft-cloud-exchange/> |
+| VistaSoft Cloud Drive | <https://www.duerrdental.com/en/products/software/imaging/vistasoft-cloud-drive/> |
+| Service Web VistaSoft Cloud View | <https://view.vistasoft.com/> |
+
+### Air Techniques (filiale officielle Dürr Dental US)
+
+| Document | URL publique | Référence |
+|---|---|---|
+| Page produit VistaSoft (Air Techniques) | <https://www.airtechniques.com/vistasoft/> | — |
+| Manuel VistaSoft 4.0 EN | <https://www.airtechniques.com/wp-content/uploads/2025/11/E7392-Rev-A-VistaSoft-4.0-Manual-EN-2110100001L02_2510V032.pdf> | `E7392 Rev A` |
+| Brochure VistaSoft Imaging | <https://www.airtechniques.com/wp-content/uploads/2025/12/VistaSoftBrochureRevC.pdf> | `Rev C` |
+| Computer System Requirements | <https://www.airtechniques.com/wp-content/uploads/2025/04/E7201-Rev-K-Computer-system-requirements-2151100031L29_2412V022_en.pdf> | `E7201 Rev K` |
+
+### Partenaires technologiques officiels
+
+| Partenaire | Lien | Pertinence |
+|---|---|---|
+| Audax Ceph (technologie céphalométrie) | <https://www.audaxceph.com/> | VistaSoft Trace |
+| exocad (CAO laboratoire) | <https://exocad.com/you-exocad/for-integration-partners> | VistaSoft Implant & Guide |
+| SICAT (intégration CEREC) | <https://www.sicat.com/> | VistaSoft Implant & Guide |
+
+### Presse spécialisée FR
 
 | Document | URL publique |
 |---|---|
-| Manuel utilisateur VistaSoft 4.0 (FR / EN / DE) | http://qr.duerrdental.com/2110100001 |
-| Manuel VistaSoft Cloud View | http://qr.duerrdental.com/2110100051 |
-| Manuel Patient Bridge | http://qr.duerrdental.com/2110100028 |
-| Configurations système requises | http://qr.duerrdental.com/9000-618-148 |
-| Livre blanc cybersécurité VistaSoft | http://qr.duerrdental.com/2110100055 |
+| Article Dynamique Dentaire — VistaSoft | <https://www.dynamiquedentaire.com/optimisez-votre-imagerie-dentaire-avec-le-logiciel-vistasoft-de-durr-dental/> |
 
 ## Imagerie
 

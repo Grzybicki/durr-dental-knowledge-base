@@ -14,15 +14,22 @@ Documentation publique de la ligne **imagerie dentaire** Dürr Dental :
 logiciel d'imagerie, panoramiques numériques, CBCT, capteurs intraoraux, scanners de plaques
 au phosphore, caméras intraorales.
 
-## Logiciel d'imagerie
+## Logiciel d'imagerie — VistaSoft (gamme complète)
 
-**VistaSoft 4.0** — logiciel d'imagerie diagnostique, dispositif médical de classe IIb selon le règlement MDR EU 2017/745, classifié Class II par la FDA américaine. Couvre la prise de vue, le traitement, le stockage et la représentation de clichés radiographiques 2D et 3D. *Fiche détaillée à venir.*
+| Module | Statut réglementaire | Fiche |
+|---|---|---|
+| **[VistaSoft 4.0](vistasoft-4-0/overview/)** | DM **classe IIb** (MDR EU 2017/745, DQS 0297, certif 518373) | Logiciel d'imagerie diagnostique 2D / 3D — socle |
+| **[VistaSoft Monitor](vistasoft-monitor/overview/)** | **NON-DM** (surveillance IoT d'équipement) | ⚠️ Désambiguïsation : à ne pas confondre avec VistaSoft 4.0 |
+| **[VistaSoft AID](vistasoft-aid/overview/)** | DM **classe IIa** (MDR EU 2017/745, DQS 0297) | Aide au diagnostic des caries par IA |
+| **[VistaSoft Trace](vistasoft-trace/overview/)** | Module orthodontie | Analyse céphalométrique assistée par IA (technologie partenaire Audax Ceph) |
+| **[VistaSoft Implant & Guide](vistasoft-implant-guide/overview/)** | Module planification implantaire | Backward planning + guides de forage, export STL ouvert (intégration exocad + SICAT) |
+| **[VistaSoft Cloud View](vistasoft-cloud-view/overview/)** | **NON-DM** | Visualisation des images dans le navigateur (en ligne / hors ligne) |
+| **[VistaSoft Cloud Exchange](vistasoft-cloud-exchange/overview/)** | **NON-DM** | Échange de cas anonymisés (RGPD, conservation 30 j) |
+| **[VistaSoft Cloud Drive](vistasoft-cloud-drive/overview/)** | **NON-DM** | Stockage cloud zero-knowledge des images |
 
-**VistaSoft AID** — module d'aide au diagnostic radiologique par intelligence artificielle, dispositif médical de classe IIa. *Fiche détaillée à venir.*
+**Modules complémentaires à venir** : VistaSoft Inspect (contrôle qualité DIN 6868-157), VistaSoft Mobile Connect, Patient Bridge, Image Bridge.
 
-**Modules complémentaires** : VistaSoft Trace (céphalométrie), VistaSoft Inspect (contrôle qualité), VistaSoft Implant et VistaSoft Guide (planification implantaire), VistaSoft Mobile Connect (consultation mobile), modules Cloud (View, Exchange, Drive), Patient Bridge, Image Bridge. *Fiches détaillées à venir.*
-
-⚠️ **À ne pas confondre** : **VistaSoft 4.0** (logiciel d'imagerie diagnostique, DM IIb) et **VistaSoft Monitor** (système IoT de surveillance d'équipement) sont deux produits distincts. *Fiche de désambiguïsation à venir.*
+⚠️ **Désambiguïsation cardinale** : **VistaSoft 4.0** (logiciel d'imagerie diagnostique, DM IIb) et **VistaSoft Monitor** (système IoT de surveillance d'équipement, non-DM) sont **deux produits distincts**. Voir la [fiche dédiée](vistasoft-monitor/overview/).
 
 ## Radiographie panoramique et céphalométrique
 

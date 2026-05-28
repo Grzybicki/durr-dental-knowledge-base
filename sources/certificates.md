@@ -16,12 +16,18 @@ cités dans ce dépôt.
 - **Eudamed** (base européenne des dispositifs médicaux MDR) : https://ec.europa.eu/tools/eudamed/
 - **FDA 510(k) database** (États-Unis) : https://accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm
 
-## Logiciel
+## Logiciel — gamme VistaSoft
 
 | Produit | Classe | Réglementation | Notified Body | Référence certificat |
 |---|---|---|---|---|
-| VistaSoft 4.0 | IIb | MDR EU 2017/745 | DQS Medizinprodukte (0297) | 518373 MDR2017Q |
-| VistaSoft AID | IIa | MDR EU 2017/745 | DQS Medizinprodukte (0297) | (à compléter) |
+| **VistaSoft 4.0** | **IIb** | MDR EU 2017/745 | DQS Medizinprodukte (0297) | 518373 MDR2017Q |
+| **VistaSoft AID** | **IIa** | MDR EU 2017/745 | DQS Medizinprodukte (0297) | (à compléter via Centre de téléchargements / Eudamed) |
+| VistaSoft Trace | À confirmer (probable IIa via socle Audax Ceph) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À compléter |
+| VistaSoft Implant & Guide | À confirmer (probable IIa) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À compléter |
+| VistaSoft Monitor | **Non-DM** (surveillance équipement) | — | — | — |
+| VistaSoft Cloud View | **Non-DM** (visualisation) | — | — | — |
+| VistaSoft Cloud Exchange | **Non-DM** (partage) | — | — | — |
+| VistaSoft Cloud Drive | **Non-DM** (stockage zero-knowledge) | — | — | — |
 
 ## Imagerie
 
