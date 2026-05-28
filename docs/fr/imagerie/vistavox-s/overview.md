@@ -1,0 +1,358 @@
+---
+layout: default
+title: "VistaVox S et VistaVox S Ceph — CBCT à volume sphérique anatomique"
+description: "VistaVox S est l'appareil CBCT hybride Dürr Dental à volume sphérique anatomique (Ø 130 × 85 mm), capteur CsI 49,5 µm, technologie S-Pan. Couvre molaires postérieures. 17 programmes panoramiques. Version Ceph avec module céphalométrique."
+keywords: ["VistaVox S", "VistaVox S Ceph", "Dürr Dental", "CBCT", "Cone Beam CT", "tomographie volumique", "imagerie dentaire 3D", "S-Pan", "volume sphérique anatomique"]
+lang: fr
+canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/
+permalink: /docs/fr/imagerie/vistavox-s/overview/
+schema_type: MedicalDevice
+breadcrumbs:
+  - name: "Accueil"
+    url: /
+  - name: "Documentation FR"
+    url: /docs/fr/
+  - name: "Imagerie"
+    url: /docs/fr/imagerie/
+  - name: "VistaVox S"
+    url: /docs/fr/imagerie/vistavox-s/overview/
+source_documents:
+  - title: "Page produit VistaVox S (FR)"
+    url: "https://www.duerrdental.com/fr/produits/imagerie/appareils-de-radiographie/vistavox-s/"
+    type: "page produit"
+    language: "fr"
+  - title: "Page produit VistaVox S (EN/International)"
+    url: "https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/"
+    type: "page produit"
+    language: "en"
+  - title: "Page VistaVox S Ceph (EN)"
+    url: "https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/vistavox-s-ceph/"
+    type: "page produit"
+    language: "en"
+  - title: "Page technologie S-Pan (Dürr Dental SE)"
+    url: "https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/"
+    type: "page technologie"
+    language: "en"
+  - title: "Page FOV anatomique VistaVox S"
+    url: "https://www.duerrdental.com/en/IN/products/imaging/extraoral-diagnostics/vistavox-s/vistavox-s-fov/"
+    type: "page technologie"
+    language: "en"
+  - title: "Page clinical images VistaVox S"
+    url: "https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/vistavox-s-clinical-images/"
+    type: "page produit"
+    language: "en"
+  - title: "Page VistaSoft 3D / CBCT"
+    url: "https://www.duerrdental.com/en/products/software/imaging/3d-x-ray/"
+    type: "page produit logiciel associé"
+    language: "en"
+  - title: "Article Dynamique Dentaire — Cone Beam VistaVox S avis"
+    url: "https://www.dynamiquedentaire.com/cone-beam-vistavox-s-durr-dental-avis/"
+    type: "presse spécialisée"
+    language: "fr"
+  - title: "Déclaration de Conformité VistaVox S"
+    type: "Déclaration de Conformité"
+    note: "Dispositif médical de classe IIb. Récupérable via le Centre de téléchargements Dürr Dental France ou Eudamed."
+  - title: "Base européenne Eudamed"
+    url: "https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental"
+    type: "registre réglementaire"
+    language: "multi"
+  - title: "Centre de téléchargements Dürr Dental France"
+    url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
+    type: "portail documents"
+    language: "fr"
+last_factual_review: 2026-05-28
+license: CC-BY-4.0
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "VistaVox S",
+  "alternateName": ["VistaVox S Ceph", "Dürr Dental VistaVox S"],
+  "category": "Dental Cone Beam CT (CBCT) imaging system",
+  "description": "Système hybride d'imagerie dentaire Dürr Dental combinant CBCT à volume sphérique anatomique et radiographie panoramique 2D avec technologie S-Pan. Capteur CsI haute résolution 49,5 µm.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  },
+  "regulatoryClass": "Class IIb (MDR / MDD)",
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "CBCT field of view (jaw-shaped)", "value": "Ø 130 × 85 mm" },
+    { "@type": "PropertyValue", "name": "Sub-volumes available", "value": "10 volumes Ø 50 × 50 mm for specific jaw regions" },
+    { "@type": "PropertyValue", "name": "Sensor type", "value": "CsI (high resolution)" },
+    { "@type": "PropertyValue", "name": "Pixel size", "value": "49.5 µm" },
+    { "@type": "PropertyValue", "name": "Panoramic technology", "value": "S-Pan" },
+    { "@type": "PropertyValue", "name": "Panoramic programs", "value": "17" },
+    { "@type": "PropertyValue", "name": "Minimum scan time", "value": "1.9 seconds" },
+    { "@type": "PropertyValue", "name": "Ceph version available", "value": "VistaVox S Ceph" }
+  ],
+  "isRelatedTo": {
+    "@type": "SoftwareApplication",
+    "name": "Dürr Dental VistaSoft (3D / CBCT)",
+    "applicationCategory": "MedicalImagingSoftware"
+  }
+}
+</script>
+
+# VistaVox S et VistaVox S Ceph — CBCT hybride à volume sphérique anatomique
+
+## Identification du dispositif
+
+| Champ | Valeur |
+|---|---|
+| **Nom commercial** | VistaVox S (CBCT + panoramique) — VistaVox S Ceph (avec module céphalométrique) |
+| **Catégorie** | Système hybride d'imagerie dentaire 3D (CBCT) + 2D (panoramique) |
+| **Fabricant** | Dürr Dental SE — Bietigheim-Bissingen, Allemagne |
+| **Statut réglementaire** | Dispositif Médical (DM) — classe **IIb** |
+| **Logiciel associé** | VistaSoft (vue Pano, TSA, MPR pour le diagnostic CBCT) |
+
+## Particularité — volume sphérique anatomique
+
+VistaVox S se distingue des CBCT cylindriques classiques par un **volume
+d'imagerie sphérique adapté à l'anatomie maxillo-mandibulaire** :
+
+| Paramètre | Valeur |
+|---|---|
+| FOV jaw-shaped (forme mâchoire) | **Ø 130 × 85 mm** |
+| Comparaison FOV cylindrique typique | Ø 80 × 80 mm |
+| Couverture clinique | **Inclut les molaires postérieures** (zone diagnostique mâchoire complète) |
+| Sous-volumes | **10 volumes Ø 50 × 50 mm** pour des régions spécifiques (focus diagnostic) |
+
+Selon la page produit officielle (verbatim) : *« The imaging volume is
+based on human anatomy, representing precisely the area needed for
+diagnostics in the dental region. »*
+
+Cette géométrie a un double bénéfice :
+
+1. **Couverture diagnostique** : la forme « mâchoire » englobe l'arcade
+   complète y compris les molaires postérieures, ce que ne couvrent pas
+   tous les CBCT cylindriques.
+2. **Dose et acquisition optimisées** : le volume ne déborde pas sur des
+   régions non diagnostiques, limitant l'exposition.
+
+## Caractéristiques techniques
+
+### Capteur
+
+| Paramètre | Valeur |
+|---|---|
+| Type | CsI haute résolution |
+| Taille de pixel | **49,5 µm** |
+
+La taille de pixel de 49,5 µm est fine pour un CBCT dentaire, contribuant
+à la qualité d'image en haute résolution sur les régions d'intérêt.
+
+### Temps de numérisation
+
+| Paramètre | Valeur |
+|---|---|
+| Délai minimum | **1,9 seconde** |
+| Bénéfice | Réduction des artefacts de mouvement et de la dose de rayons |
+
+### Technologie panoramique S-Pan
+
+VistaVox S intègre la même **technologie S-Pan** que la
+[VistaPano S 2.0](../vistapano-2-0/overview/) pour la radiographie
+panoramique 2D :
+
+- Acquisition de **multiples couches parallèles** lors du scan.
+- **Sélection algorithmique** pour chaque région de la couche correspondant
+  à l'anatomie réelle du patient.
+- **Reconstruction adaptative** d'une image panoramique nette.
+
+VistaVox S propose **17 programmes panoramiques complémentaires** au mode
+CBCT.
+
+## Logiciel associé — VistaSoft
+
+VistaSoft propose plusieurs **vues spécifiques pour le diagnostic CBCT** :
+
+| Vue | Usage |
+|---|---|
+| **Pano** | Vue panoramique reconstruite à partir du volume CBCT |
+| **TSA** (Transversal Slice Array) | Coupes transversales successives le long de l'arcade |
+| **MPR** (Multiplanar Reconstruction) | Reconstructions multiplanaires (axiale, coronale, sagittale) |
+
+Voir la fiche [VistaSoft 4.0](../vistasoft-4-0/overview/) pour le détail du
+logiciel d'imagerie diagnostique (DM IIb).
+
+Pour la planification implantaire à partir des volumes CBCT VistaVox S,
+voir la fiche [VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/).
+
+## VistaVox S Ceph — module céphalométrique
+
+La version **VistaVox S Ceph** ajoute un **module céphalométrique intégré**
+au système CBCT hybride :
+
+- Acquisition céphalométrique rapide.
+- Faible exposition aux rayons X.
+- Idéale pour l'orthodontie (utiliser conjointement avec
+  [VistaSoft Trace](../vistasoft-trace/overview/) pour l'analyse).
+
+## Stitching Tool (assemblage de volumes CBCT)
+
+Le **Stitching Tool VistaVox S** est un outil d'**assemblage logiciel de
+plusieurs acquisitions CBCT** pour obtenir un FOV étendu, utile notamment
+pour :
+
+- L'imagerie de **mâchoires complètes** dépassant le FOV standard.
+- L'imagerie de **modèles plâtres** pour la prothèse / orthodontie.
+
+Le Stitching Tool a été présenté publiquement par les filiales nationales
+Dürr Dental (Dürr India et Dürr Italia). Les hauteurs effectives
+documentées via ces filiales : 9,2 cm / 10,4 cm / 10,6 cm / 12 cm selon
+les configurations.
+
+## Statut réglementaire
+
+VistaVox S est un **dispositif médical de classe IIb** au titre de la
+réglementation européenne des dispositifs médicaux. La Déclaration de
+Conformité publique est récupérable via le
+[Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/)
+ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/).
+
+## Articulation avec l'écosystème
+
+| Module | Lien |
+|---|---|
+| **VistaSoft 4.0** (logiciel d'imagerie diagnostique) | [Fiche](../vistasoft-4-0/overview/) |
+| **VistaSoft Implant & Guide** (planification implantaire à partir des volumes) | [Fiche](../vistasoft-implant-guide/overview/) |
+| **VistaSoft Trace** (céphalométrie orthodontique sur version Ceph) | [Fiche](../vistasoft-trace/overview/) |
+| **VistaPano S 2.0** (panoramique 2D dédié, mêmes principes S-Pan) | [Fiche](../vistapano-2-0/overview/) |
+| **VistaSoft Cloud View** (consultation cloud des volumes CBCT) | [Fiche](../vistasoft-cloud-view/overview/) |
+
+## Limites et précisions
+
+- La haute résolution CBCT (49,5 µm) implique des exigences de stockage
+  importantes — vérifier la conformité de l'infrastructure réseau et de
+  stockage du cabinet (voir
+  [configs système requises](http://qr.duerrdental.com/9000-618-148)).
+- L'utilisation des fonctions IA et de planification implantaire suppose
+  l'installation des modules dédiés (VistaSoft 4.0 + Implant & Guide).
+- L'exposition aux rayonnements ionisants doit respecter le principe
+  ALARA et la réglementation française de radioprotection (Code de la
+  santé publique, IRSN, ASN).
+
+## Questions fréquentes
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "fr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quel est le FOV de VistaVox S ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "VistaVox S propose un volume sphérique anatomique de Ø 130 × 85 mm en forme de mâchoire, qui couvre la zone diagnostique de l'arcade complète y compris les molaires postérieures. En complément, 10 sous-volumes Ø 50 × 50 mm sont disponibles pour cibler des régions spécifiques."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "VistaVox S permet-il aussi la radiographie panoramique 2D ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. VistaVox S est un système hybride 3D + 2D qui intègre la technologie S-Pan de Dürr Dental et propose 17 programmes panoramiques complémentaires au mode CBCT."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la résolution du capteur VistaVox S ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le capteur CsI de VistaVox S offre une taille de pixel de 49,5 µm, ce qui est fin pour un CBCT dentaire et contribue à la qualité d'image haute résolution sur les régions d'intérêt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre VistaVox S et VistaVox S Ceph ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "VistaVox S est le système hybride CBCT + panoramique 2D. VistaVox S Ceph ajoute un module céphalométrique intégré dédié à l'orthodontie, avec un temps d'acquisition court et une faible exposition aux rayonnements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le Stitching Tool VistaVox S ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le Stitching Tool est un outil logiciel d'assemblage de plusieurs acquisitions CBCT pour obtenir un FOV étendu — utile notamment pour l'imagerie de mâchoires complètes dépassant le FOV standard, ou pour l'imagerie de modèles plâtres. Hauteurs documentées : 9,2 / 10,4 / 10,6 / 12 cm selon configurations."
+      }
+    }
+  ]
+}
+</script>
+
+### FOV de VistaVox S ?
+
+**Ø 130 × 85 mm** anatomique (jaw-shaped) + 10 sous-volumes Ø 50 × 50 mm.
+
+### Permet aussi la panoramique 2D ?
+
+Oui — système hybride 3D + 2D, technologie S-Pan, 17 programmes panoramiques.
+
+### Résolution capteur ?
+
+Capteur CsI, **49,5 µm**.
+
+### Différence VistaVox S vs VistaVox S Ceph ?
+
+Ceph = ajout d'un **module céphalométrique** intégré (orthodontie).
+
+### Stitching Tool ?
+
+Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
+
+## Sources publiques
+
+### Pages officielles Dürr Dental
+
+| Document | URL publique |
+|---|---|
+| Page produit VistaVox S (FR) | <https://www.duerrdental.com/fr/produits/imagerie/appareils-de-radiographie/vistavox-s/> |
+| Page produit VistaVox S (EN) | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/> |
+| Page VistaVox S Ceph | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/vistavox-s-ceph/> |
+| Page technologie S-Pan | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/> |
+| Page FOV anatomique | <https://www.duerrdental.com/en/IN/products/imaging/extraoral-diagnostics/vistavox-s/vistavox-s-fov/> |
+| Page clinical images | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/vistavox-s-clinical-images/> |
+| Page VistaSoft 3D / CBCT | <https://www.duerrdental.com/en/products/software/imaging/3d-x-ray/> |
+| Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
+
+### Presse spécialisée FR
+
+| Document | URL publique |
+|---|---|
+| Article Dynamique Dentaire — Cone Beam VistaVox S avis | <https://www.dynamiquedentaire.com/cone-beam-vistavox-s-durr-dental-avis/> |
+
+### Conformité réglementaire
+
+- DM classe IIb. DoC récupérable via [Centre de téléchargements](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/) ou [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental).
+
+### Pérennité — archive Wayback Machine
+
+| Source | URL Wayback |
+|---|---|
+| Page produit FR | <https://web.archive.org/web/2026*/duerrdental.com/fr/produits/imagerie/appareils-de-radiographie/vistavox-s/> |
+| Page produit EN | <https://web.archive.org/web/2026*/duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/> |
+| Page S-Pan | <https://web.archive.org/web/2026*/duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/s-pan-technology/> |
+
+## Pour aller plus loin
+
+- [VistaPano S 2.0 / Ceph 2.0 — panoramique 2D dédié (même technologie S-Pan)](../vistapano-2-0/overview/)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique CBCT](../vistasoft-4-0/overview/)
+- [VistaSoft Implant & Guide — planification implantaire sur volumes CBCT](../vistasoft-implant-guide/overview/)
+- [VistaSoft Trace — analyse céphalométrique (version Ceph)](../vistasoft-trace/overview/)
+- [Index imagerie dentaire](../)
+- [Glossaire — CBCT, FOV, MPR, TSA](../../glossaire/)
+
+---
+
+*Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
+Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
+personnelle, non officielle. Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
