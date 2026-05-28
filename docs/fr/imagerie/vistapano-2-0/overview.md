@@ -46,7 +46,7 @@ source_documents:
     reference: "P007-772/03-T01"
     type: "brochure commerciale"
     language: "fr"
-    note: "Téléchargeable depuis la page produit FR ou via demande au Centre de téléchargements. Mirror PDF accessible via le distributeur officiel français ADPG Provence : https://www.adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf"
+    note: "Source canonique : page produit FR et Centre de téléchargements Dürr Dental France. Un miroir non-canonique est hébergé par le revendeur ADPG Provence — non recommandé comme source principale (canal non officiel)."
   - title: "Brochure commerciale EN — VistaPano S 2.0 and VistaPano S Ceph 2.0 — Efficiency in a new light"
     url: "https://www.airtechniques.com/wp-content/uploads/2025/05/9922-626-Rev-D-VistaPano-SPan-Ceph.pdf"
     type: "brochure commerciale"
@@ -575,7 +575,7 @@ chaque code redirige vers le Centre de téléchargements officiel avec la notice
 
 | Document | Référence | Langue | URL publique |
 |---|---|---|---|
-| *VistaPano S 2.0 et VistaPano S Ceph 2.0 — L'efficacité sous un nouveau jour* | `P007-772/03-T01` | 🇫🇷 fr | Page produit FR + Centre de téléchargements. PDF également hébergé par le distributeur officiel français [ADPG Provence](https://www.adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf). |
+| *VistaPano S 2.0 et VistaPano S Ceph 2.0 — L'efficacité sous un nouveau jour* | `P007-772/03-T01` | 🇫🇷 fr | Téléchargeable depuis la [page produit FR](https://www.duerrdental.com/fr/FR/produits/imagerie/diagnostic-extra-oral/vistapano-s-20/) ou le [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/). |
 
 ### Conformité réglementaire
 
@@ -607,12 +607,26 @@ chaque code redirige vers le Centre de téléchargements officiel avec la notice
 |---|---|
 | Article + vidéo Dental Tribune : *Dürr Dental VistaPano S 2.0 — introducing the next generation* | <https://www.dental-tribune.com/c/durr-dental-se/video/vistapano-s-2-0-introducing-the-next-generation/> |
 
-### Citation des sources tierces (information uniquement)
+### Sources tierces (information uniquement — miroirs non-canoniques)
 
-À titre informatif, certains documents Dürr Dental sont également archivés par des
-plateformes tierces et distributeurs. Ces miroirs ne sont pas la source canonique ;
-toujours préférer les URLs Dürr Dental officielles ou les filiales officielles
-(Air Techniques pour les États-Unis) listées ci-dessus.
+Certains documents Dürr Dental sont également hébergés par des plateformes tierces
+(revendeurs, distributeurs non agréés, agrégateurs). Ces miroirs **ne constituent pas
+la source canonique** et **ne sont pas recommandés** comme référence principale.
+Ils peuvent être périmés, modifiés ou retirés sans préavis et n'engagent en aucune
+manière Dürr Dental SE ni ses filiales officielles.
+
+Ordre de priorité des sources, à observer systématiquement :
+
+1. URLs Dürr Dental SE (`duerrdental.com`) et notices `qr.duerrdental.com` — **canonique**.
+2. URLs des filiales officielles Dürr Dental (ex. Air Techniques pour les États-Unis,
+   Dürr Dental France, Dürr Dental India, etc.) — **équivalent canonique constructeur**.
+3. Presse spécialisée dentaire reconnue (Dental Tribune, etc.) — **secondaire**.
+4. Distributeurs officiels accrédités Dürr Dental France — **secondaire**.
+5. Revendeurs et miroirs tiers — **dernier recours**, à vérifier contre la source canonique.
+
+Exemple de miroir non-canonique identifié pour la brochure P007-772/03-T01 :
+[adpg-provence.com](https://www.adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf)
+(revendeur — non officiellement agréé Dürr Dental).
 
 ### Pérennité des URLs — archive Wayback Machine
 
@@ -633,7 +647,6 @@ par défaut.
 | Installation Instructions Air Techniques (A9302C) | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/A9302C-VistaPano-S-2.0-Installation-Instructions.pdf> |
 | Installation Guide Air Techniques (A9304A) | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/12/A9304A.pdf> |
 | Quick Start Guide Air Techniques (A9303C) | <https://web.archive.org/web/2026*/airtechniques.com/wp-content/uploads/2025/05/A9303C-VistaPano-S-2.0-Quick-Start-Guide.pdf> |
-| Brochure FR (ADPG) | <https://web.archive.org/web/2026*/adpg-provence.com/form/uploads/articles/pdf/221_186_0_47_111_0_durr%20dental_brochure_vistapanos_ceph.pdf> |
 
 Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.org/save/`
 (ou via l'interface <https://web.archive.org/save/>).

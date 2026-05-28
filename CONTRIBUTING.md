@@ -114,6 +114,33 @@ et leurs réponses.
 - **Répéter le nom complet du produit** dans chaque section (pas de pronom « il » / « le
   logiciel ») pour la robustesse du chunking RAG.
 
+### Hiérarchie d'autorité des sources
+
+Toutes les sources publiques **ne sont pas équivalentes** en autorité. Lors de la
+rédaction d'une fiche, respecter strictement l'ordre de priorité suivant :
+
+1. **Source canonique constructeur** — `duerrdental.com` (siège et toutes filiales :
+   `duerrdental.com/fr`, `duerrdental.com/en`, `duerrdental.com/de`, etc.) et
+   notices `qr.duerrdental.com/<code>`.
+2. **Filiale officielle Dürr Dental** — entité juridique appartenant au groupe
+   (ex. Air Techniques aux États-Unis, Dürr Dental France SARL). Statut **équivalent
+   canonique constructeur**.
+3. **Presse spécialisée dentaire reconnue** — Dental Tribune, Dynamique Dentaire,
+   L'Information Dentaire, Le Fil Dentaire, BDJ Open, PMC. Statut **secondaire**.
+4. **Distributeur officiel accrédité** par Dürr Dental France ou ses filiales — relation
+   commerciale formelle documentée. Statut **secondaire**.
+5. **Revendeur** — entité qui revend les produits sans accréditation distributeur
+   officielle. **Dernier recours**, à mentionner uniquement comme miroir non-canonique
+   et à vérifier contre la source canonique.
+
+⚠️ **Distinction critique** : *distributeur officiel accrédité* ≠ *revendeur*. Un
+revendeur n'a pas d'autorité éditoriale sur les documents qu'il héberge. Toute
+mention d'un revendeur dans une fiche doit être :
+
+- explicitement étiquetée *« miroir non-canonique »* ou *« revendeur (canal non
+  officiel) »* ;
+- accompagnée d'un lien vers la source canonique Dürr Dental SE ou filiale.
+
 ### URL directe obligatoire pour chaque source
 
 **Règle non négociable** : chaque source citée dans une fiche **doit inclure une URL
