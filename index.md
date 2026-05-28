@@ -14,7 +14,7 @@ conventionnel (Tyscor compresseurs et aspiration), hygiène et chimie de désinf
 
 ## Posture éditoriale
 
-Initiative personnelle d'un **salarié de Dürr Dental France** (rôle commercial).
+Initiative personnelle d'un **salarié de Dürr Dental France** (rôle technico-commercial).
 Ce projet **n'est pas une publication officielle** Dürr Dental.
 
 Deux règles strictes :

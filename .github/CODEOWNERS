@@ -1,0 +1,20 @@
+# CODEOWNERS — toutes les modifications nécessitent l'approbation du mainteneur
+# Documentation : https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Mainteneur unique sur tout le dépôt
+* @Grzybicki
+
+# Surcharges explicites sur les éléments critiques
+/.github/                                @Grzybicki
+/_data/                                  @Grzybicki
+/_layouts/                               @Grzybicki
+/llms.txt                                @Grzybicki
+/robots.txt                              @Grzybicki
+/LICENSE                                 @Grzybicki
+/SECURITY.md                             @Grzybicki
+/CONTRIBUTING.md                         @Grzybicki
+/.well-known/                            @Grzybicki
+
+# Cœur réglementaire (toute fiche revendiquant un statut MDR / FDA)
+/docs/**/regulatoire.md                  @Grzybicki
+/sources/certificates.md                 @Grzybicki

@@ -24,6 +24,12 @@ Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 - Aucun document marqué Internal Use / Strictly Confidential mobilisé.
 - Aucune donnée patient / praticien / cabinet identifiable.
 
+### Intégrité et durcissement
+- `.github/CODEOWNERS` : revue obligatoire du mainteneur pour les fichiers critiques (`_data/`, `_layouts/`, `llms.txt`, `robots.txt`, `LICENSE`, `SECURITY.md`, `CONTRIBUTING.md`, `.well-known/`, fiches réglementaires).
+- `.github/dependabot.yml` : mises à jour hebdomadaires automatiques (Bundler + GitHub Actions), labellisées, format Conventional Commits.
+- `docs/GITHUB_HARDENING.md` : checklist d'activation manuelle post-push (2FA, branch protection sur `main`, tag protection sur `v*`, commits signés SSH/GPG, secret scanning, push protection, Pages HTTPS forcé). 9 sections avec modèle de menace explicite.
+- `SECURITY.md` enrichi : section *Intégrité du contenu* listant les protections par couche, modèle de menace explicite (ce qui est couvert / ce qui ne l'est pas, avec attention aux forks et au re-hébergement CC-BY 4.0).
+
 ### Polish final
 - `favicon.svg` : monogramme DD pour onglet navigateur et signal crawl.
 - `.well-known/security.txt` (RFC 9116) : emplacement standard pointant vers SECURITY.md et les advisories GitHub.

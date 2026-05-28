@@ -1,6 +1,6 @@
 /* TEAM */
 Mainteneur : Jozef Grzybicki
-Rôle : Initiative personnelle d'un salarié Dürr Dental France (rôle commercial)
+Rôle : Initiative personnelle d'un salarié Dürr Dental France (rôle technico commercial)
 Site : https://grzybicki.github.io/durr-dental-knowledge-base/
 GitHub : https://github.com/Grzybicki
 
