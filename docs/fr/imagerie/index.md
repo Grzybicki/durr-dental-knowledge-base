@@ -27,7 +27,17 @@ au phosphore, caméras intraorales.
 | **[VistaSoft Cloud Exchange](vistasoft-cloud-exchange/overview/)** | **NON-DM** | Échange de cas anonymisés (RGPD, conservation 30 j) |
 | **[VistaSoft Cloud Drive](vistasoft-cloud-drive/overview/)** | **NON-DM** | Stockage cloud zero-knowledge des images |
 
-**Modules complémentaires** : [VistaSoft Mobile Connect](vistasoft-mobile-connect/overview/) — consultation mobile sur iPad via l'application *DÜRR DENTAL Imaging* (App Store).
+**Modules complémentaires** :
+- [VistaSoft Mobile Connect](vistasoft-mobile-connect/overview/) — consultation mobile sur iPad via l'application *DÜRR DENTAL Imaging* (App Store).
+- [Connect Box](connect-box/overview/) — passerelle d'intégration des équipements traditionnels vers VistaSoft Monitor (LAN + WLAN, cross-fabricant).
+
+## Plaques au phosphore et accessoires de positionnement
+
+| Fiche | Description |
+|---|---|
+| **[VistaScan IQ — Écrans à mémoire (ERLM)](vistascan-iq-ecrans/overview/)** | Plaques au phosphore avec RFID + QR code. Tailles S0 à S4. Compatibles VistaScan 2.0 (RFID) et VistaScan 1.0 (sans RFID). |
+| **[VistaPosition — Angulateurs colorés](vistaposition/overview/)** | Système de positionneurs et angulateurs pour PSP/ERLM et capteurs intraoraux. Code couleur uniforme, autoclavable. Compatible quasi-tous les systèmes. |
+| **[Accessoires imagerie](accessoires-imagerie/overview/)** | Sachets de protection, mordus, porte-modèles, têtes interchangeables, bras moniteurs. |
 
 ## Interfaces, intégration et migration
 

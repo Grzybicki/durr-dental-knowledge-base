@@ -113,6 +113,14 @@ Selon la documentation officielle Dürr Dental :
 - **Long cycle de vie** — *« Built for the long run »*.
 - **Qualité d'air dentaire conforme ISO 22052**.
 
+## Compatibilité VistaSoft Monitor
+
+La gamme Tornado est connectable à
+[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/), soit
+nativement, soit via [Connect Box](/docs/fr/imagerie/connect-box/overview/).
+Paramètres surveillés : état, pression, températures, alertes
+maintenance, économies d'énergie réalisées.
+
 ## Accessoires compatibles
 
 | Famille | Notes |

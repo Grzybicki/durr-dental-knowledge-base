@@ -33,6 +33,26 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/software/networking-for-dental-practices/vistasoft-monitor/vistasoft-monitor-for-service-technicians/"
     type: "page produit"
     language: "en"
+  - title: "Page VistaSoft Monitor pour gestionnaires de dépôt (EN)"
+    url: "https://www.duerrdental.com/en/products/software/networking-for-dental-practices/vistasoft-monitor/vistasoft-monitor-for-depot-service-managers/"
+    type: "page produit"
+    language: "en"
+  - title: "Page Connect Box (EN)"
+    url: "https://www.duerrdental.com/en/solutions/networking/connect-box/"
+    type: "page produit"
+    language: "en"
+  - title: "Portail aide VistaSoft Monitor"
+    url: "https://help.vsmonitor.com/dd/www.duerrdental.com/en/vistasoftmonitor/"
+    type: "portail aide officiel"
+    language: "en"
+  - title: "Application iOS VistaSoft Monitor"
+    url: "https://apps.apple.com/in/app/vistasoft-monitor/id966166778"
+    type: "application mobile officielle"
+    language: "en"
+  - title: "Application Android VistaSoft Monitor"
+    url: "https://play.google.com/store/apps/details?id=com.duerrdental.vistasoftmonitor"
+    type: "application mobile officielle"
+    language: "en"
   - title: "Centre de téléchargements Dürr Dental France"
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
@@ -146,6 +166,43 @@ VistaSoft Monitor et VistaSoft 4.0 sont **deux produits indépendants**. Ils :
 
 Le seul lien entre les deux produits est la **marque commune Dürr Dental** et
 le préfixe « VistaSoft ».
+
+## Connect Box — passerelle pour équipements sans réseau natif
+
+Pour les équipements dentaires **plus anciens** ou ceux **sans interface
+réseau native**, la **[Connect Box](../connect-box/overview/)** permet leur
+intégration dans VistaSoft Monitor. Cette passerelle supporte LAN (filaire)
+ou WLAN (sans fil) et offre une **compatibilité cross-fabricant**.
+
+## Équipements Dürr Dental connectables à VistaSoft Monitor
+
+VistaSoft Monitor surveille en temps réel l'ensemble des équipements
+techniques du cabinet, en natif (équipements récents) ou via
+[Connect Box](../connect-box/overview/) (équipements plus anciens) :
+
+### Air comprimé
+
+- [Silver Airline](/docs/fr/conventionnel/silver-airline/overview/) (Primo, Duo, Trio, Quattro, Tandem)
+- [Tornado](/docs/fr/conventionnel/tornado/overview/) (1, 2, 4, Super Silent)
+- [Power Tower](/docs/fr/conventionnel/power-tower/overview/) (Silence, View)
+- [Compresseurs CAD/CAM](/docs/fr/conventionnel/cad-cam-compresseurs/overview/)
+
+### Aspiration
+
+- [Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/) (humide / sec, à poste unique ou centralisé)
+- [Récupérateurs d'amalgame](/docs/fr/conventionnel/recuperateurs-amalgame/overview/) (CA 1, CA 2, CA 4, Sepamatic)
+- [VC 65 — aspiration chirurgicale](/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
+
+### Hygiène et traitement de l'eau
+
+- [Hygoclave 40 / 50 / 90 (stérilisateurs)](/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Hygowater (traitement eau fauteuils)](/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
+
+### Applications mobiles VistaSoft Monitor
+
+- **iOS** : <https://apps.apple.com/in/app/vistasoft-monitor/id966166778>
+- **Android** : <https://play.google.com/store/apps/details?id=com.duerrdental.vistasoftmonitor>
+- **Portail aide** : <https://help.vsmonitor.com/dd/www.duerrdental.com/en/vistasoftmonitor/>
 
 ## Limites et précisions
 

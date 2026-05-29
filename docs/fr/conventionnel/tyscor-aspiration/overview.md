@@ -140,6 +140,39 @@ Selon la page produit officielle :
 | **Tyscor V 4** | 4 praticiens premium |
 | **V 2400** | Très grande |
 
+## Norme et performances cliniques — réduction des aérosols
+
+La norme **DIN EN ISO 7494-2** spécifie les exigences pour les **units
+dentaires** : alimentation en air, alimentation en eau, **aspiration**
+et évacuation des eaux usées.
+
+Concernant la **réduction des aérosols** lors des soins (un enjeu
+sanitaire majeur), la littérature scientifique converge sur un seuil
+critique : un **débit d'aspiration ≥ 300 l/min** sur la **grosse canule
+(HVE — High-Volume Evacuation)** est nécessaire pour réduire
+significativement les particules de spray (5–50 µm) générées par les
+turbines à haute vitesse.
+
+| Paramètre | Seuil |
+|---|---|
+| Débit HVE recommandé pour réduction aérosols | **≥ 300 l/min** |
+| Débit insuffisant (canule mal positionnée) | ≤ 160 l/min — réduction d'efficacité significative |
+
+La gamme Tyscor est dimensionnée pour atteindre ce seuil critique
+sur les configurations multi-postes correctement installées. Voir le
+document public Dürr Dental *Informations sur la planification —
+Aspiration* (réf. `9000-617-03/03`) pour les recommandations d'installation
+détaillées.
+
+## Compatibilité VistaSoft Monitor
+
+L'ensemble des systèmes d'aspiration Tyscor est connectable à
+[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/), soit
+nativement (générations récentes), soit via [Connect Box](/docs/fr/imagerie/connect-box/overview/)
+(générations antérieures sans interface réseau native). Paramètres
+typiquement remontés : état de fonctionnement, dépressions, alertes
+de maintenance, consommations.
+
 ## Choix humide vs sec
 
 - **Aspiration humide (VS, VSA)** : sépare les liquides dans un cycle

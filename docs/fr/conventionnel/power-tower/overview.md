@@ -137,6 +137,17 @@ Dispositifs médicaux de **classe IIa** selon le règlement **MDR EU
 - **Évolutivité** : configuration adaptable à la taille du cabinet (de
   Silence 120/02 jusqu'à View VS 1200 S).
 
+## Compatibilité VistaSoft Monitor
+
+Les Power Tower Silence et Power Tower View intègrent **avertissements
+précoces** et **rappels de maintenance automatiques** (verbatim page
+officielle). Cette intelligence embarquée est exposée à
+[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/) en
+natif (générations récentes) ou via
+[Connect Box](/docs/fr/imagerie/connect-box/overview/). Comme les Power
+Tower combinent **compresseur + aspiration**, ils remontent les
+paramètres des deux fonctions dans un même équipement.
+
 ## Sources publiques
 
 | Document | URL publique |

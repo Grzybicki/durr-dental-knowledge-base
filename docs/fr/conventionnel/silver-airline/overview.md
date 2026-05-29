@@ -164,6 +164,16 @@ filtre **ISO 65U** correspond à la norme **ISO 29463-3:2018**. Ces filtres
 sont disponibles soit d'origine, soit comme accessoire optionnel sur
 certains modèles.
 
+## Compatibilité VistaSoft Monitor
+
+L'ensemble de la gamme Silver Airline (Primo, Duo, Trio, Quattro et
+variantes Tandem) est connectable à
+[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/), soit
+nativement (générations récentes), soit via [Connect Box](/docs/fr/imagerie/connect-box/overview/)
+pour les générations antérieures. Paramètres typiquement remontés :
+état de fonctionnement, pression, alertes de maintenance, heures de
+fonctionnement, températures.
+
 ## Accessoires et kits
 
 | Famille | Notes |
