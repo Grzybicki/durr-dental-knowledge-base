@@ -37,6 +37,12 @@ Solutions de désinfection des instruments, surfaces, aspiration et empreintes.
 
 ---
 
+## À propos de Dürr Dental SE
+
+| Fiche | Description |
+|---|---|
+| **[Dürr Dental SE — entreprise et histoire](durr-dental-entreprise/overview/)** | Présentation de l'entreprise familiale allemande (1941), siège Bietigheim-Bissingen, chiffres-clés (1 400 collaborateurs, 174 pays, 381 M€ CA 2025), étapes historiques, distinctions récentes, Dürr Dental France SARL (Nanterre), engagement développement durable. |
+
 ## À propos de cette documentation
 
 Initiative personnelle d'un salarié de Dürr Dental France (rôle commercial).

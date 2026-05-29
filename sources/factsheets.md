@@ -48,6 +48,20 @@ référence pratique mais à **toujours croiser** avec la page produit
 canonique Dürr Dental ou le Centre de téléchargements pour la version
 la plus récente.
 
+### Hygiène — Brochures et factsheets DSH publiques
+
+| Document | URL publique |
+|---|---|
+| **Brochure System-Hygiene** (EN) | <https://pdf.medicalexpo.com/pdf/duerr-dental/brochure-system-hygiene/72550-118271.html> |
+| **Brochure System-Hygiene** (FR) | <https://pdf.medicalexpo.fr/pdf/duerr-dental/brochure-system-hygiene/72550-118275.html> |
+| **DSH (Dental System Hygiene)** | <https://pdf.medicalexpo.com/pdf/duerr-dental/dsh/72550-222297.html> |
+| **DSH Range Package** | <https://pdf.medicalexpo.com/pdf/duerr-dental/dsh-range-package/72550-138414.html> |
+| **Hygiene Technology** | <https://pdf.medicalexpo.com/pdf/duerr-dental/hygiene-technology/72550-138416.html> |
+| Download Center — Hygiene DSH (canonique) | <https://www.duerrdental.com/en/service/download-center/?fam=Instruments&unit=Hygiene+DSH> |
+| **Catalogue général** (FR — page directe Medical Expo) | <https://pdf.medicalexpo.fr/pdf/duerr-dental/general-catalog/72550-74488.html> |
+| **Brochure Clinics** (systèmes cliniques) | <https://pdf.medicalexpo.com/pdf/duerr-dental/brochure-clinics/72550-151378.html> |
+| **Tornado factsheet** | <https://pdf.medicalexpo.com/pdf/duerr-dental/tornado/72550-88815.html> |
+
 ### Factsheets indexées sur Medical Expo
 
 | Produit | URL Medical Expo |

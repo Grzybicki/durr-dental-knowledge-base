@@ -116,10 +116,54 @@ Selon la documentation officielle Dürr Dental :
 ## Compatibilité VistaSoft Monitor
 
 La gamme Tornado est connectable à
-[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/), soit
-nativement, soit via [Connect Box](/docs/fr/imagerie/connect-box/overview/).
+[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/) **via
+la Connect Box** ([fiche dédiée](/docs/fr/imagerie/connect-box/overview/)).
 Paramètres surveillés : état, pression, températures, alertes
 maintenance, économies d'énergie réalisées.
+
+## FAQ officielle — The NEW Tornado
+
+D'après la page officielle FAQ Dürr Dental sur le nouveau Tornado
+([source officielle](https://www.duerrdental.com/en/products/compressed-air/devices/tornado-compressors/)) :
+
+### Conformité ISO 22052 — sous conditions
+
+> *« The NEW Tornado complies with ISO 22052 under certain conditions :
+> the Tornado must be equipped with a membrane drying system and a
+> retrofitted bacterial filter. »*
+
+⚠️ **Point opérationnel important** : le NEW Tornado **n'est pas livré
+d'usine** avec un filtre bactériologique. Il est équipé d'un **filtre
+fin** uniquement. Pour atteindre les exigences de qualité d'air
+**ISO 22052**, il faut **rétrofitter un filtre bactériologique**
+(ULPA U16 / ISO 65U — voir
+[fiche filtres HEPA/ULPA](../filtres-hepa-ulpa-compresseurs/overview/)).
+
+### Compatibilité CAD/CAM — non recommandée
+
+> *« The NEW Tornado is not compatible with CAD/CAM systems. Please use
+> a Dürr Dental CAD CAM compressor to supply CAD/CAM systems.
+> Furthermore the maximum pressure of the Tornado is 8 bar. »*
+
+Pour les besoins **CAD/CAM**, voir la
+[fiche compresseurs CAD/CAM dédiés](../cad-cam-compresseurs/overview/).
+La pression maximale du Tornado (**8 bar**) est insuffisante pour
+certains systèmes CAD/CAM qui exigent **plus de 8 bar**.
+
+### Maintenance
+
+> *« The filter in the compressor should be changed 1× per year. »*
+
+Cette **maintenance annuelle** (changement du filtre fin) est la
+condition de maintien des **performances** et de la **valeur** du
+système d'air comprimé.
+
+### Connexion VistaSoft Monitor
+
+> *« Connection to VistaSoft Monitor via a Connect Box is possible. »*
+
+Le NEW Tornado ne dispose pas d'interface réseau native — la mise en
+réseau s'effectue via la [Connect Box](/docs/fr/imagerie/connect-box/overview/).
 
 ## Accessoires compatibles
 
