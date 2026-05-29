@@ -71,11 +71,17 @@ Page hub : <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations
 
 ## Famille ID — Désinfection instruments
 
-| Produit | Indication | Concentration / temps |
-|---|---|---|
-| **ID 213** | Concentré désinfectant et nettoyant aldéhyde-free pour instruments chirurgicaux, classiques et **rotatifs sensibles aux alcalins et à l'alcool** | 2 % — 5 min bain immersion / 2 min ultrasons (jusqu'à 60 min selon spectre) |
+| Produit | Indication | Dilution | Temps action | **Conservation solution diluée** | Rendement |
+|---|---|---|---|---|---|
+| **ID 212** | Concentré aldéhyde-free + **instruments rotatifs sensibles aux alcalins et alcool** (burs carbide soudés, NiTi endodontique) | 2 % | 5 min bain / 2 min US (jusqu'à 60 min selon spectre) | **7 jours** | 2,5 l = 125 l solution |
+| **ID 213** | Concentré aldéhyde-free + **inhibiteurs de corrosion** (instruments classiques + chirurgicaux) | 2 % | 5 min bain / 2 min US (jusqu'à 60 min selon spectre) | **Jusqu'à 14 jours** ⭐ | 2,5 l = 125 l solution |
 
-Fiche dédiée : [Désinfection des empreintes et des instruments (ID 213, Hygojet)](../desinfection-empreintes/overview/).
+> **Avantage économique majeur des ID** : **longue conservation de la
+> solution diluée** (7 jours ID 212, **jusqu'à 14 jours ID 213**). Le
+> cabinet prépare son bain **1 fois par semaine** au lieu d'1 fois par
+> jour → consommable et main-d'œuvre divisés par 5-7.
+
+Fiche dédiée : [Désinfection des empreintes et des instruments (ID 212, ID 213, Hygojet)](../desinfection-empreintes/overview/).
 
 ## Famille MD — Désinfection matériel spécifique
 
@@ -114,6 +120,42 @@ Fiche dédiée : [Désinfection des mains](../desinfection-mains/overview/).
 | Lingettes (alcool / sans alcool / sèches) | Disponibles selon protocole cabinet |
 
 Fiche dédiée : [Désinfection des surfaces](../desinfection-surfaces/overview/).
+
+## Protocoles d'usage standards Orotol Plus + MD 555
+
+Cette section synthétise les protocoles publics de référence. Le détail
+opérationnel figure dans la
+[fiche Désinfection des systèmes d'aspiration (Orotol Plus)](../desinfection-aspiration/overview/).
+
+### Orotol Plus — quotidien
+
+| Élément | Valeur |
+|---|---|
+| Concentration | **2 %** (20 ml d'Orotol Plus + eau pour 1 l) |
+| Fréquence | **1 fois par jour minimum** (idéalement le soir après la journée) |
+| Doseur | **OroCup** (intégré au Kit de démarrage Orotol — réf. `CDS110P9950`) |
+| Action en cours de journée | Aspirer 1 verre d'eau après chaque patient |
+| Avant cycle de nettoyage | Aspirer 2 litres d'eau pour rincer |
+
+### MD 555 — hebdomadaire (combiné à Orotol Plus)
+
+| Élément | Valeur standard | Variante biofilm marqué |
+|---|---|---|
+| Concentration | **5 %** | **10 %** |
+| Fréquence | 1 à 2 fois par semaine | 1 à 5 fois par semaine en alternance avec Orotol Plus |
+| Temps de contact | **1 à 2 heures** | 1 à 2 heures |
+| Rinçage post-MD 555 | Rincer abondamment à l'eau | Idem |
+
+### EPI lors des préparations de dilution
+
+| EPI | Cas d'usage |
+|---|---|
+| Gants nitrile | Manipulation du concentré |
+| Lunettes de protection | Si risque de projection |
+| Blouse / tablier | Protection vestimentaire standard |
+
+Lors de l'**usage en routine** de la solution **diluée**, les EPI
+quotidiens du cabinet suffisent.
 
 ## Kit de démarrage Orotol (toutes familles)
 
