@@ -147,15 +147,86 @@ Les compresseurs des **générations antérieures** — notamment
 — peuvent avoir été livrés à l'origine **sans filtre bactériologique**,
 uniquement avec un **filtre fin standard**.
 
-Pour ces appareils, un **kit de rétrofit** est disponible :
+Pour ces appareils, un **kit de rétrofit** est disponible.
 
-| Kit | Référence (à confirmer commercialement) | Indication |
+## Outil officiel — Filter Finder Dürr Dental
+
+Dürr Dental met à disposition un **outil officiel de recherche de
+filtres** par numéro de référence du compresseur :
+
+> [**Filter Finder Dürr Dental** — `duerrdental.com/.../filter-finder/`](https://www.duerrdental.com/en/products/compressed-air/materials-and-accessories/filter-finder/)
+
+**Mode d'emploi** :
+
+1. Localiser le **numéro d'article** (REF) sur la **plaque
+   signalétique** du compresseur.
+2. Saisir ce numéro dans le Filter Finder en ligne.
+3. L'outil retourne les **références exactes des filtres** compatibles
+   avec ce compresseur précis, y compris :
+   - Filtre d'admission (intake filter)
+   - Filtre fin
+   - Filtre coalesceur (pour le dessiccateur à membrane)
+   - Filtre bactériologique (ULPA U16) si applicable
+4. Fréquence de remplacement standard : **1× par an** pour tous les
+   filtres (verbatim communication officielle).
+
+## Tableau récapitulatif filtres par génération (références indicatives)
+
+> ⚠️ **Important** : ce tableau référence des numéros de filtres
+> observés publiquement (catalogue 2026, distributeurs e-commerce
+> agréés, sites de pièces détachées). Il est **indicatif** — pour la
+> référence **exacte** d'un compresseur donné, **toujours utiliser le
+> Filter Finder officiel** ci-dessus avec le REF du compresseur.
+
+### Filtres d'admission (intake filters)
+
+| Génération | Compresseurs concernés | Référence intake filter |
 |---|---|---|
-| Kit de filtre bactériologique pour compresseur 1 cylindre | À demander au service commercial | Mise en conformité ISO 22052 sur Tornado 70 / Primo / Tornado 1 historique |
-| Kit de filtre bactériologique pour compresseur 2-4 cylindres | À demander au service commercial | Idem sur Duo / Trio / Quattro / Tornado 2 / Tornado 4 historiques |
+| Silver Airline 1ʳᵉ gen / classique | Primo, Duo, Trio, Quattro | **`0832-982-00`** |
+| Tornado 2ᵉ gen | Tornado 1, Tornado 2, Tornado 2+ | **`5430-982-00`** |
+| NEW Tornado | Tornado 1, 2, 4 (gen 2024-2026) | À identifier via Filter Finder |
+| Silver Airline catalogue 2026 — kit filtres fins 1 cylindre | Primo | **`5150100015`** (kit complet) |
+| Silver Airline 3 cylindres | Trio | **`5350-980-60`** (Fine Filter Set) |
 
-Voir le **service commercial Dürr Dental France** pour la configuration
-exacte d'un appareil donné et la disponibilité des kits de rétrofit.
+### Filtres bactériologiques (ULPA U16 / ISO 65U)
+
+| Génération / configuration | Référence kit |
+|---|---|
+| Compresseur **1 cylindre** (Primo, Tornado 1) — kit complet bactério | **`5150100016`** |
+| Compresseur **2 cylindres** (Duo, Tornado 2) | À identifier via Filter Finder ou service commercial |
+| Compresseur **3 cylindres** (Trio) | À identifier via Filter Finder |
+| Compresseur **4 cylindres** (Quattro, Tornado 4) | À identifier via Filter Finder |
+| Configurations **Tandem** (Duo Tandem, Quattro Tandem) | À identifier via Filter Finder |
+
+### Filtres d'aspiration (pour les pompes à canal latéral V/VS et Power Tower)
+
+| Compresseur / aspiration | Référence |
+|---|---|
+| **V/VS 600, V/VS 900 S, V/VS 1200 S, V 2400, Tyscor V/VS** | Filtre bactériologique **`0705-991-50`** |
+| Cartouche pour filtre bactériologique `0705-991-50` (renouvellement) | **`0705-991-05`** (à remplacer après 3 500 h ou tous les 2 ans) |
+| **V/VS/VSA 300 S, Variosuc** | Filtre bactériologique **`7119100010`** |
+| **V/VS/VSA 300 S** (kit avec équerre, installable sur boîtier) | **`7120-143-00`** |
+| **V/VS/VSA 300 S** (boîtier avec filtre bactériologique) | **`7120100000`** |
+
+> Ces références d'aspiration concernent les fiches
+> [Tyscor](../tyscor-aspiration/overview/) et
+> [Power Tower](../power-tower/overview/) — incluses ici pour la
+> cohérence globale du tableau filtres.
+
+### Fréquence de remplacement standard
+
+| Type de filtre | Fréquence |
+|---|---|
+| Filtres compresseur (admission, fin, bactério) | **1× par an** |
+| Cartouche filtre bactériologique aspiration `0705-991-05` | **3 500 h de fonctionnement OU 2 ans** |
+
+## Pour aller plus loin
+
+- [**Filter Finder Dürr Dental** (outil officiel)](https://www.duerrdental.com/en/products/compressed-air/materials-and-accessories/filter-finder/)
+- [Silver Airline — gamme compresseurs](../silver-airline/overview/)
+- [Tornado — gamme compresseurs (évolution 70/130 → 1/2 → NEW)](../tornado/overview/)
+- [Power Tower](../power-tower/overview/)
+- [Tyscor — aspiration centralisée](../tyscor-aspiration/overview/)
 
 ## Référence pour les commandes
 
