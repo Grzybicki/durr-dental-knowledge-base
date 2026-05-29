@@ -33,7 +33,12 @@ source_documents:
     url: "https://www.duerrdental.com/en/news/detail/built-for-the-long-run-the-new-tornado-compressors/"
     type: "communiqué officiel"
     language: "en"
-last_factual_review: 2026-05-28
+  - title: "Brochure Compresseurs Tornado — Conçus pour durer (FR)"
+    ref: "P007100308L03/T09"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+    note: "Source des caractéristiques techniques complètes (dimensions, débits, niveaux sonores, poids)"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -198,15 +203,92 @@ système d'air comprimé.
 Le NEW Tornado ne dispose pas d'interface réseau native — la mise en
 réseau s'effectue via la [Connect Box](/docs/fr/imagerie/connect-box/overview/).
 
-## Accessoires compatibles
+## Données techniques — NEW Tornado (factsheet P007100308L03)
 
-| Famille | Notes |
+Source : brochure officielle **« Compresseurs Tornado — Conçus pour
+durer »** (réf. `P007100308L03/T09`), publiée par Dürr Dental France
+(71 rue des Hautes Pâtures, 92000 Nanterre). Valeurs valables pour la
+**génération NEW Tornado** (2025-2026).
+
+### Tableau complet — caractéristiques techniques
+
+| Caractéristique | Tornado 1 | Tornado 2 | Tornado 4 |
+|---|---|---|---|
+| Tension (V) | 230 (1∼) | 230 (1∼) | 230 (1∼) |
+| Fréquence (Hz) | 50 / 60 | 50 / 60 | 50 / 60 |
+| **Praticiens** | **1** | **2** | **4** |
+| Débit à 5 bar **sans dessiccateur** (l/min) | 68 / 78 | 134 / 153 | 260 / 296 |
+| Débit à 5 bar **avec dessiccateur à membranes** (l/min) | 62 / 70 | 118 / 137 | 229 / 261 |
+| **Capacité réservoir** (L) | 20 | 20 | 50 |
+| Plage de pression (bar) | 6 – 7,8 | 6 – 7,8 | 6 – 7,8 |
+| **Niveau sonore à 5 bar dB(A)** (nu) | **64 / 68** | **68 / 71** | **73 / 75** |
+| **Niveau sonore avec carter dB(A)** | **58 / 61** | **60 / 62** | n.d. |
+| **Niveau sonore dans l'armoire dB(A)** | **47 / 49** | **51 / 53** | n.d. |
+| Dimensions H × l × p (cm) — sans dessiccateur | **69 × 48 × 41** | **67 × 48 × 41** | **73 × 78 × 54** |
+| Dimensions H × l × p (cm) — avec dessiccateur | 69 × 49 × 47 | 67 × 49 × 47 | 73 × 78 × 61 |
+| Dimensions H × l × p (cm) — **avec capot insonor. + dessiccateur** | **84 × 63 × 60** | **84 × 63 × 60** | n.d. |
+| Poids sans dessiccateur (kg) | 32 | 38 | 84 |
+| Poids avec dessiccateur (kg) | 38 | 44 | 90 |
+| Poids **avec capot + dessiccateur** (kg) | **49** | **57** | n.d. |
+
+### Lecture du tableau
+
+- **Deux valeurs séparées par `/`** : la première correspond au
+  fonctionnement à **50 Hz** (Europe), la seconde à **60 Hz** (Amérique
+  du Nord / Japon).
+- Le **capot d'insonorisation aérodynamique** est **disponible
+  uniquement pour Tornado 1 et 2** (cellules `n.d.` pour Tornado 4) —
+  installation typique du Tornado 4 en local technique dédié.
+- L'**armoire d'insonorisation** (option additionnelle) apporte un gain
+  acoustique supplémentaire de ~17 dB(A) par rapport au compresseur nu
+  (Tornado 1 : 64 → 47 dB(A) à 50 Hz). Comparable selon Dürr Dental à
+  *« une légère averse d'été »*.
+- Le **détendeur** est disponible **en option** (note ¹ du factsheet).
+- L'**armoire en bois** est disponible **en option** (note ² du
+  factsheet) — coloris compatible décoration cabinet.
+- Tornado 1 sans dessiccateur = **32 kg** → peut être manipulé par un
+  technicien seul. Tornado 4 avec dessiccateur = **90 kg** → installation
+  à 2 obligatoire.
+
+### Capot d'insonorisation aérodynamique
+
+Le **capot aérodynamique** dédié Tornado 1 / Tornado 2 réduit le niveau
+sonore de **~6 dB(A)** par rapport au compresseur nu (Tornado 1 :
+64 → 58 dB(A) ; Tornado 2 : 68 → 60 dB(A) à 50 Hz). Conçu avec une
+géométrie spécifique pour la circulation d'air et le rayonnement
+acoustique, il est plus compact qu'une armoire (84 × 63 × 60 cm vs
+armoire séparée).
+
+La déclinaison **Tornado 1 Super Silent** intègre l'optimisation
+acoustique **directement dans la conception** du compresseur.
+
+### Accessoires et filtres (visuels factsheet)
+
+| Accessoire | Notes |
 |---|---|
-| Armoires d'insonorisation | Optionnelles pour réduction sonore supplémentaire |
-| Kits de filtres fins | Maintenance annuelle |
-| Filtres bactériologiques ULPA U16 / ISO 65U | Disponibles en option |
-| Détendeurs | Avec raccord rapide, compatibles toute la gamme Tornado et Silver Airline |
-| Extensions de garantie 5 ans (Tornado 1, Primo) | Disponibles via le service client |
+| **Connect Box** | Connexion à [VistaSoft Monitor](/docs/fr/imagerie/connect-box/overview/) (pas d'interface réseau native sur Tornado) |
+| **Petite armoire en bois** | Option d'insonorisation — gain ~17 dB(A) supplémentaires vs capot |
+| **Détendeur avec raccord rapide** | Compatible toute la gamme Tornado et Silver Airline |
+| **Filtre d'admission** | Premier étage de filtration (groupe compresseur) — voir [fiche filtres](../filtres-hepa-ulpa-compresseurs/overview/) |
+| **Filtre bactériologique** ULPA U16 (EN 1822-1:2019-10 / ISO 65U / ISO 29463-3:2018) | Troisième étage — élimine tous les germes restants |
+| **Filtre fin** | Anti-contamination micro-organismes en aval du dessiccateur |
+| **Filtre à coalescence** | Avec récipient collecteur d'eau, protège la membrane |
+| **Kit filtres complet** | Tous les filtres en pack pour la maintenance annuelle (1×/an) |
+| Extensions de garantie 5 ans (Tornado 1) | Via service client Dürr Dental France |
+
+### Système de filtration à 3 niveaux
+
+| Étage | Filtre | Rôle |
+|---|---|---|
+| 1 | **Filtre d'admission** | Sur le groupe compresseur — particules grossières |
+| 2 | **Filtre à coalescence** + récipient | Filtre d'entrée du dessiccateur, retire l'eau avant la membrane |
+| 3 | **Filtre bactériologique** ULPA U16 | Élimine les germes restants — qualité ISO 22052 |
+| Aval | **Filtre fin** + dessiccateur à membranes 1 200 fibres creuses | Air sec, exempt d'huile, hygiénique |
+
+> **Maintenance** : remplacement de l'ensemble des filtres **1× par an**.
+> Le dessiccateur à membranes ne nécessite **pas de régénération** (à la
+> différence des dessiccateurs par adsorption qui doivent être
+> régénérés). Le **manchon du piston** se remplace tous les **10 ans**.
 
 ## Sources publiques
 

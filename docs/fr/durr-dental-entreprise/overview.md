@@ -51,6 +51,10 @@ source_documents:
     url: "https://en.wikipedia.org/wiki/D%C3%BCrr_Dental"
     type: "encyclopédie collaborative"
     language: "en"
+  - title: "Annuaire entreprises — fiche INSEE Dürr Dental France"
+    url: "https://annuaire-entreprises.data.gouv.fr/entreprise/durr-dental-france-311995609"
+    type: "registre INSEE / SIRENE"
+    language: "fr"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
@@ -89,7 +93,10 @@ license: CC-BY-4.0
       "addressCountry": "FR"
     },
     "email": "infodurrfr@duerrdental.com",
-    "identifier": "311995609"
+    "telephone": "+33155691150",
+    "identifier": "311995609",
+    "foundingDate": "1978-01-01",
+    "isicV4": "4646"
   }
 }
 </script>
@@ -126,25 +133,45 @@ dans **174 pays** et a réalisé en 2025 un chiffre d'affaires
 
 ## Étapes historiques notables
 
-- **1941** : Fondation à Gechingen.
-- **1947** : Premiers contre-angles et pièces à main avec refroidissement
-  par eau.
-- **1965** : Introduction des systèmes de séchage dans les unités d'air
-  comprimé — Dürr Dental devient le **premier fabricant au monde** à
-  abandonner la lubrification à base d'huile sur les compresseurs
-  dentaires. Lancement d'**Orotol**, premier désinfectant au monde
-  pour systèmes d'aspiration ([fiche Orotol Plus](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)).
-- **2019** : Ouverture d'un **nouveau site à Paris** (bureaux modernes
-  et showroom) pour Dürr Dental France.
-- **2021** : 80 ans de l'entreprise. Site anniversaire dédié :
-  <https://80.duerrdental.com/en/>.
-- **2022** : **Silver Airline** récompensé par le **German Design Award
-  2022** ([fiche Silver Airline](/docs/fr/conventionnel/silver-airline/overview/)).
-- **2025** : **Tornado** récompensé par l'**Innovations-Champion Award
-  2025** ([fiche Tornado](/docs/fr/conventionnel/tornado/overview/)).
-- **2026** : **Tornado** récompensé par le **German Design Award 2026**.
+Source officielle : <https://www.duerrdental.com/en/company/duerr-dental-se/milestones/>.
 
-Page officielle des étapes : <https://www.duerrdental.com/en/company/duerr-dental-se/milestones/>.
+### Fondation et premiers développements (1941-1965)
+
+| Année | Étape |
+|---|---|
+| **1941** | Les frères **Karl et Wilhelm Dürr**, originaires de Gechingen près de Calw, fondent un atelier de mécanique de précision à **Stuttgart-Feuerbach**. |
+| **1947** | Premiers **contre-angles et pièces à main** avec **refroidissement par eau** pour la préparation dentaire. |
+| **1954** | **Transfert du siège** à Bietigheim — construction du premier hall de production. |
+| **1956** | Démarrage de la **production de compresseurs dentaires** (à l'époque encore lubrifiés à l'huile). |
+| **1965** | **Année charnière** : introduction du **premier compresseur sans huile au monde** pour la médecine dentaire (séchage à membrane Dürr Dental). Lancement simultané d'**Orotol**, premier désinfectant au monde pour systèmes d'aspiration ([fiche Orotol Plus](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)). |
+
+### Évolution des systèmes air comprimé et aspiration (1974-2002)
+
+| Année | Étape |
+|---|---|
+| **1974** | Introduction des **unités d'air sec** au niveau mondial — protection des instruments dentaires (turbines, contre-angles) par air sec exempt d'humidité. |
+| **1993** | Lancement de l'**unité d'aspiration VS 300** — première intégration **aspiration + séparation + récupérateur d'amalgame** dans un seul châssis. Précurseur de la gamme [Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/). |
+| **1995** | Lancement du **système vidéo dentaire VistaCam** — première caméra intraorale Dürr Dental pour l'amélioration du diagnostic. |
+| **1997** | Introduction des **capteurs VistaRay** pour la **radiologie intraorale numérique** — entrée de Dürr Dental dans l'imagerie numérique. |
+| **2002** | Présentation du **VistaScan** — scanner de plaques au phosphore pour radiographies numériques. Aujourd'hui gamme complète ([Mini Easy 2.0, Nano Easy, Combi View, Ultra View](/docs/fr/imagerie/vistascan-gamme/overview/)). |
+
+### Imagerie 3D et système complet (2013-2021)
+
+| Année | Étape |
+|---|---|
+| **2013** | Lancement du **panoramique VistaPano S** et du **générateur intraoral VistaIntra DC** ([fiche VistaIntra DC](/docs/fr/imagerie/vistaintra-dc/overview/)). |
+| **2016** | Introduction du **système Lunos®** ([fiche Lunos](/docs/fr/hygiene-chimie/lunos-system/overview/)), du **CBCT VistaVox S** ([fiche VistaVox S](/docs/fr/imagerie/vistavox-s/overview/)) et du **stérilisateur Hygoclave 90** ([fiche Hygoclave](/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)). |
+| **2019** | Ouverture d'un **nouveau site à Paris** (bureaux modernes et showroom) pour Dürr Dental France. |
+| **2021** | **80 ans** de l'entreprise. Site anniversaire dédié : <https://80.duerrdental.com/en/>. |
+
+### Génération récente (2022-2026)
+
+| Année | Étape |
+|---|---|
+| **2022** | **Silver Airline** récompensé par le **German Design Award 2022** ([fiche Silver Airline](/docs/fr/conventionnel/silver-airline/overview/)). |
+| **2024** | Lancement de **VistaSoft 4.0** ([fiche VistaSoft](/docs/fr/imagerie/vistasoft-4-0/overview/)) — refonte du logiciel d'imagerie diagnostique 2D/3D, DM classe IIb. |
+| **2025** | Nouvelle génération **NEW Tornado** ([fiche Tornado](/docs/fr/conventionnel/tornado/overview/)) — récompensée par l'**Innovations-Champion Award 2025** (1ʳᵉ place). **60 ans d'Orotol** et de l'aspiration sans huile. |
+| **2026** | **NEW Tornado** récompensé par le **German Design Award 2026**. Tous les compresseurs Dürr Dental livrés sont équipés **de série** d'un filtre HEPA H14 / ULPA U16 (ISO 65U). |
 
 ## Distinctions récentes
 
@@ -169,16 +196,54 @@ le cabinet dentaire :
 | **Hygiène et chimie de désinfection** | Stérilisateurs Hygoclave, désinfectants Orotol/MD/ID/HD/FD, traitement de l'eau Hygowater | [Index hygiène et chimie](/docs/fr/hygiene-chimie/) |
 | **Parodontologie et prophylaxie** | Système Lunos (MyLunos, poudres, pâtes), Vector Paro | [Index hygiène et chimie](/docs/fr/hygiene-chimie/) |
 
+## Gouvernance — Dürr Dental SE
+
+| Fonction | Titulaire | Période |
+|---|---|---|
+| **Président-directeur général (CEO)** | **Martin Dürrstein** | en fonction (2026) |
+| Président du Conseil de surveillance (Aufsichtsrat) — historique | Walter Dürr (né 1939) | 2008 – juin 2012 |
+
+La gouvernance opérationnelle complète (autres membres du Vorstand, Aufsichtsrat actuel) n'est pas systématiquement publiée sur les pages corporate. Voir la page officielle pour les mises à jour : <https://www.duerrdental.com/en/company/duerr-dental-se/company/>.
+
 ## Dürr Dental France SARL
+
+### Coordonnées principales
 
 | Champ | Valeur |
 |---|---|
-| Nom | **Dürr Dental France SARL** |
-| Adresse | **71 rue des Hautes Pâtures, 92000 Nanterre** |
-| Email | infodurrfr@duerrdental.com |
-| SIREN | **311 995 609** (cf. [annuaire entreprises data.gouv.fr](https://annuaire-entreprises.data.gouv.fr/entreprise/durr-dental-france-311995609)) |
-| Site Web | <https://www.duerrdental.com/fr/FR/> |
-| Page entreprise (FR/BE) | <https://www.duerrdental.com/fr/BE/entreprise/duerr-dental-france/> |
+| **Raison sociale** | Dürr Dental France SARL |
+| **Adresse siège** | **71 rue des Hautes Pâtures, 92000 Nanterre** |
+| **Téléphone** | **+33 1 55 69 11 50** |
+| **Email général** | infodurrfr@duerrdental.com |
+| **Site Web France** | <https://www.duerrdental.com/fr/FR/> |
+| **Formulaire de contact** | <https://www.duerrdental.com/fr/FR/formulaire-de-contact/> |
+
+### Données administratives officielles (INSEE / SIRENE)
+
+Source : [Annuaire des entreprises (data.gouv.fr)](https://annuaire-entreprises.data.gouv.fr/entreprise/durr-dental-france-311995609).
+
+| Champ | Valeur |
+|---|---|
+| **SIREN** | **311 995 609** |
+| **SIRET du siège** | **311 995 609 00063** |
+| **Forme juridique** | Société à responsabilité limitée (SARL) |
+| **Date de création** | **1ᵉʳ janvier 1978** |
+| **Capital social** | 7 622,45 € |
+| **Code NAF / APE** | **46.46Z** — Commerce de gros (commerce interentreprises) de produits pharmaceutiques |
+| **Tranche d'effectifs** | 10 à 19 salariés (déclaration 2023) |
+| **Catégorie d'entreprise** | PME |
+| **Établissements** | 4 au total, 1 actif (siège Nanterre) |
+
+### Positionnement et activité
+
+Dürr Dental France assure pour l'ensemble du **territoire français** (métropole et DOM-TOM) :
+
+- **Importation et distribution** des produits Dürr Dental SE.
+- **Support commercial** (équipe de représentants régionaux).
+- **Support technique et hotline** (équipement et logiciel).
+- **Showroom** (présentation appareils et formations à Paris).
+
+Les **revendeurs et distributeurs** spécialisés dentaires français (négociants en équipement, dépôts dentaires) commercialisent les produits à la marque Dürr Dental ; le **service après-vente premier niveau** est assuré par leurs équipes techniques, le **support deuxième niveau** par la hotline Dürr Dental France.
 
 ## Engagement développement durable
 

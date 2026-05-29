@@ -87,7 +87,26 @@ source_documents:
     url: "https://www.dynamiquedentaire.com/optimisez-votre-imagerie-dentaire-avec-le-logiciel-vistasoft-de-durr-dental/"
     type: "presse spécialisée"
     language: "fr"
-last_factual_review: 2026-05-28
+  - title: "Brochure VistaSoft (FR) — Le cœur de votre exercice"
+    ref: "P007100021L01/L08"
+    type: "brochure commerciale Dürr Dental France"
+    language: "fr"
+    note: "Source des 4 fonctions IA inclusive (rotation auto, contrôle qualité IQ, traçage canal nerveux, panoramique IA)"
+  - title: "Manuel utilisateur VistaSoft FR — édition 2311V029"
+    ref: "2110100001L03 (2311V029)"
+    type: "manuel utilisateur"
+    language: "fr"
+    note: "Source des 21 filtres numériques de traitement d'image classiques (intra-oral / pano / céphalo / Proof) — antérieur au filtre UHD"
+  - title: "Page produit Dürr Dental UK — VistaSoft 2D X-ray (mention filtre UHD)"
+    url: "https://www.duerrdental.com/en/GB/products/software/imaging/2d-x-ray/"
+    type: "page produit filiale UK"
+    language: "en"
+  - title: "Publication officielle Facebook Dürr Dental — vidéo filtre UHD"
+    url: "https://www.facebook.com/DuerrDental/posts/-vistasoft-40-uhd-filter-for-brilliant-image-quality-the-new-uhd-filter-in-vista/1188788203282973/"
+    type: "communication officielle"
+    language: "en"
+    note: "Source primaire confirmant le filtre UHD VistaSoft 4.0 — présenté IDS 2025"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -189,20 +208,211 @@ modules complémentaires :
 
 ## Fonctions IA incluses (VistaSoft AI inclusive)
 
-Selon la page produit publique
-[VistaSoft AI inclusive](https://www.duerrdental.com/en/products/imaging/software/vistasoft-ai-inklusive/),
-VistaSoft 4.0 intègre **plusieurs fonctions d'intelligence artificielle
-disponibles sans abonnement séparé** :
+Sources : page produit [VistaSoft AI inclusive](https://www.duerrdental.com/en/products/imaging/software/vistasoft-ai-inklusive/)
+et brochure officielle Dürr Dental France
+**« VistaSoft — Le cœur de votre exercice en chirurgie dentaire »**
+(réf. `P007100021L01/L08`).
 
-- Rotation automatique de l'image intra-orale (orientation anatomique).
-- Détection automatique du canal mandibulaire (sur volumes CBCT).
-- Optimisation automatique d'image.
-- Détection et alerte sur les pathologies suspectes (en complément de l'AID).
-- Autres fonctions de traitement assisté.
+VistaSoft 4.0 intègre **quatre fonctions d'intelligence artificielle
+incluses dans le pack** (sans abonnement séparé), réparties entre flux
+intra-oral et flux 3D / CBCT.
 
-Les fonctions IA inclusives sont distinctes du module
-[VistaSoft AID](../vistasoft-aid/overview/), qui est un DM classe IIa dédié à
-l'aide au diagnostic radiologique des caries.
+### Flux intra-oral
+
+#### 1. Rotation automatique de l'image
+
+Un algorithme d'IA **analyse l'anatomie** du cliché intra-oral, identifie
+l'orientation correcte (mandibulaire vs maxillaire, droite vs gauche)
+et **corrige automatiquement la rotation** si nécessaire. Verbatim
+brochure : *« Vous gagnez un temps de travail précieux. »*
+
+#### 2. Détection automatique du côté inversé (plaque IQ)
+
+Avec les **écrans à mémoire VistaScan IQ** ([fiche](../vistascan-iq-ecrans/overview/)),
+VistaSoft AI détecte automatiquement si la **mauvaise face** de la plaque
+a été exposée — alerte avant intégration dans le dossier patient.
+
+#### 3. Contrôle automatique qualité des écrans IQ
+
+Combiné aux **écrans à mémoire VistaScan IQ** (RFID + QR code), VistaSoft
+AI **évalue la dégradation de la qualité d'image** de chaque plaque au
+fil des acquisitions. Lorsque la qualité descend sous un seuil, le
+**remplacement est recommandé** pour préserver le diagnostic. La page
+officielle précise que ce contrôle est compatible avec le scanner
+d'écrans à mémoire de dernière génération (VistaScan Mini Easy 2.0 /
+Mini View 2.0 / Nano Easy avec lecture RFID).
+
+#### 4. Détection / attribution automatique des dents
+
+Les dents visibles sur le cliché sont **reconnues immédiatement après
+acquisition** et **stockées dans le schéma dentaire** (charting), sans
+saisie manuelle.
+
+### Flux 3D / CBCT
+
+#### 5. Traçage IA du canal mandibulaire
+
+Sur les **volumes CBCT 3D**, l'algorithme **calcule automatiquement la
+position du canal nerveux mandibulaire** (canal alvéolaire inférieur).
+Le praticien doit ensuite **contrôler la proposition** — l'IA reste une
+**aide**, le praticien décide.
+
+Particulièrement utile en planification implantaire postérieure
+mandibulaire ([VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/)).
+
+#### 6. Représentation panoramique basée sur l'IA (« Clear Pan »)
+
+À partir d'un volume CBCT, VistaSoft génère une **vue panoramique
+reconstruite** ajustée automatiquement à l'**anatomie du patient** par
+algorithmes intelligents. Verbatim brochure : *« un OPG nettement
+amélioré est affiché »*.
+
+### Module IA distinct (DM IIa) — VistaSoft AID
+
+Les **fonctions IA inclusives** ci-dessus sont distinctes du module
+[**VistaSoft AID**](../vistasoft-aid/overview/), qui est un **DM classe
+IIa** dédié à l'aide au diagnostic radiologique des **caries** (statut
+réglementaire séparé, MDR EU 2017/745).
+
+### Module IA orthodontique — VistaSoft Trace
+
+[VistaSoft Trace](../vistasoft-trace/overview/) intègre une IA dédiée à
+l'**analyse céphalométrique** : identification automatique des **points
+de référence** et des **contours des tissus mous** sur les téléradio-
+graphies de profil. Permet la simulation d'**OVT** (objectif visualisé
+de traitement) et la superposition tracés / photos de profil pour le
+suivi de traitement orthodontique. (Technologie partenaire Audax Ceph.)
+
+## Filtres numériques de traitement d'image (X-ray)
+
+Source : manuel utilisateur officiel `2110100001L03` (édition 2311V029),
+§ « Corrections d'image > Filtre » (p. 130-131). Tous les filtres
+ci-dessous sont **inclus** dans VistaSoft 4.0 (module `VistaSoft X-ray`)
+et **s'affichent automatiquement** dans la boîte à outils selon le **type
+de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
+**combinés** entre eux et avec le filtre **« Inverser »**.
+
+### Filtres intra-oraux (7)
+
+| Filtre | Effet |
+|---|---|
+| **Intra-oral fin** | Contraste des structures fines augmenté |
+| **Intra-oral Carie 1** | Contraste des zones cariées augmenté — structures fines privilégiées |
+| **Intra-oral Carie 2** | Contraste des zones cariées augmenté — structures grossières privilégiées |
+| **Intra-oral Endo** | Représentation optimale de la lime dans le canal radiculaire |
+| **Intra-oral Paro** | Accentuation du contraste des zones d'interstices parodontaux |
+| **Intra-oral Haut Diagnostic** | Renforcement du contraste — objets d'une certaine taille représentés de manière optimale |
+| **Intra-oral Réduction du bruit** | Réduction des bruits d'images gênants tout en conservant la netteté |
+
+### Filtres panoramiques (4)
+
+| Filtre | Effet |
+|---|---|
+| **Panoramique fin** | Contraste des structures fines augmenté |
+| **Panoramique Standard** | Contraste des structures grossières augmenté |
+| **Panoramique Haut Diagnostic** | Renforcement du contraste — objets d'une certaine taille représentés optimalement |
+| **Panoramique Réduction du bruit** | Réduction du bruit + netteté conservée |
+
+### Filtres céphalométriques (8)
+
+| Filtre | Effet |
+|---|---|
+| **Céphalométrie fin** | Contraste des structures fines augmenté |
+| **Céphalométrie 1** | Contraste des structures grossières augmenté |
+| **Céphalométrie PA** (Postérieur-antérieur) | Vue arrière → avant ; très forte accentuation contraste structures grossières |
+| **Céphalométrie Haut Diagnostic-10** | Renforcement contraste — objets de **10 mm** optimaux |
+| **Céphalométrie Haut Diagnostic-5s** | Objets de **5 mm** optimaux + amélioration netteté **filtre Unsharp-Mask** |
+| **Céphalométrie Haut Diagnostic-5g** | Objets de **5 mm** optimaux + amélioration netteté **filtre Gauss** |
+| **Céphalométrie Réduction du bruit** | Réduction du bruit + netteté conservée |
+| **Inverser** | Inversion des valeurs de luminosité — combinable avec tout autre filtre |
+
+### Filtres caméra intra-orale (VistaCam Proof)
+
+| Filtre | Effet |
+|---|---|
+| **Filtre caries** ([VistaCam iX HD](../vistacam-ix-hd-smart/overview/) tête Proof) | Évalue la **fluorescence propre** des substances — échelle de couleurs + indication chiffrée des lésions cariées |
+| **Aperçu de prophylaxie** | Visualisation détection de la plaque dentaire |
+
+### Filtre UHD (Ultra High Definition) — nouveau dans VistaSoft 4.0
+
+> 📌 **Mise à jour 2025-2026** : le **filtre UHD** (Ultra High Definition)
+> est un **nouveau filtre numérique** introduit avec **VistaSoft 4.0**,
+> présenté officiellement à **IDS 2025** (International Dental Show).
+> Il n'apparaît pas dans le manuel utilisateur public officiel
+> `2110100001L03` édition 2311V029 (2023) qui couvre les versions
+> antérieures.
+
+#### Ce que fait le filtre UHD
+
+Contrairement aux 21 filtres classiques ci-dessus qui appliquent un
+**traitement global** au cliché, le filtre UHD ajuste **dynamiquement
+et individuellement** trois paramètres **région par région** de la
+même image :
+
+| Paramètre | Adaptation |
+|---|---|
+| **Luminosité** | Ajustée localement par zone |
+| **Contraste** | Ajusté localement par zone |
+| **Netteté** | Ajustée localement par zone |
+
+Verbatim Dürr Dental UK : *« The UHD filter adjusts the brightness and
+contrast of the X-ray image individually and dynamically [in different
+image areas]. »* Verbatim communication officielle Dürr Dental :
+*« razor-sharp X-ray images in every region of the image »* — images
+radiographiques **ultra-nettes dans chaque région** de l'image.
+
+#### Compatibilité
+
+Le filtre UHD est disponible pour **tous les types de clichés
+radiographiques** :
+
+| Type d'image | UHD compatible |
+|---|---|
+| **Intra-oral** | ✅ |
+| **Panoramique** | ✅ |
+| **Céphalométrique** | ✅ |
+| **3D / CBCT** | ✅ |
+
+C'est le **premier filtre** de l'histoire de VistaSoft applicable
+**uniformément aux 4 types** (les 21 filtres classiques sont
+spécifiques à un type donné).
+
+#### Articulation avec les filtres existants
+
+- Les **filtres classiques** (intra-oral fin, Carie 1/2, Endo, Paro,
+  Haut Diagnostic, Réduction du bruit, etc.) restent disponibles et
+  ciblent une **structure clinique précise** (canal radiculaire,
+  zone cariée, interstice parodontal).
+- Le **filtre UHD** est plutôt un **filtre d'optimisation globale
+  région-par-région** — utile en première lecture ou lorsque
+  l'exposition n'est pas optimale sur toute la surface du cliché.
+- Les **fonctions IA inclusive** (rotation auto, contrôle qualité IQ,
+  traçage canal nerveux, Clear Pan) sont **distinctes** des filtres
+  numériques — elles modifient les **métadonnées** ou la
+  **reconstruction**, pas les **valeurs de pixels** comme le font les
+  filtres.
+
+#### Disponibilité
+
+> ⚠️ Selon la page produit Dürr Dental UK, la **disponibilité du filtre
+> UHD varie selon les pays**. Vérifier auprès du service commercial
+> Dürr Dental France l'activation du filtre UHD sur les installations
+> françaises en cours.
+
+#### Sources publiques
+
+| Source | URL |
+|---|---|
+| Page produit Dürr Dental UK — VistaSoft 2D X-ray (mention UHD filter) | <https://www.duerrdental.com/en/GB/products/software/imaging/2d-x-ray/> |
+| Page produit Dürr Dental — VistaSoft 3D X-ray (mention UHD filter pour CBCT) | <https://www.duerrdental.com/en/products/software/imaging/3d-x-ray/> |
+| Publication officielle Facebook Dürr Dental — vidéo « UHD filter for brilliant image quality » | <https://www.facebook.com/DuerrDental/posts/-vistasoft-40-uhd-filter-for-brilliant-image-quality-the-new-uhd-filter-in-vista/1188788203282973/> |
+| Vidéo officielle Facebook Dürr Dental — démo filtre UHD | <https://www.facebook.com/DuerrDental/videos/-vistasoft-40-uhd-filter-for-brilliant-image-quality-the-new-uhd-filter-in-vista/801951152822488/> |
+
+> 🔎 **Recherche YouTube** (mai 2026) : aucune vidéo dédiée au filtre UHD
+> identifiée sur la chaîne YouTube officielle Dürr Dental. La
+> communication produit du filtre UHD passe **principalement par
+> Facebook officiel** (post + vidéo référencés ci-dessus) et la **page
+> produit UK**. À surveiller si une vidéo YouTube paraît ultérieurement.
 
 ## Périmètre fonctionnel
 

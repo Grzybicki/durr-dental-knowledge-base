@@ -33,7 +33,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/compressed-air/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-05-28
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -136,6 +136,52 @@ Dispositifs médicaux de **classe IIa** selon le règlement **MDR EU
   maintenance) simplifie l'exploitation pour le cabinet et le technicien.
 - **Évolutivité** : configuration adaptable à la taille du cabinet (de
   Silence 120/02 jusqu'à View VS 1200 S).
+
+## Dimensions, bruit et accessoires — récapitulatif
+
+### Footprint et conception silencieuse
+
+L'intérêt structurel du **Power Tower** est de combiner compresseur +
+aspiration + cuve + dessiccateur (+ option amalgame) sur **0,3 à 0,4 m²
+au sol** seulement — soit l'équivalent d'un caisson informatique
+standard. Cette intégration verticale réduit le câblage, les supports
+muraux et les nuisances de chantier.
+
+La famille **Silence** est, comme son nom l'indique, **conçue silencieuse
+nativement** : pas de capot externe à installer, l'isolation acoustique
+est intégrée au châssis. Cette conception suit le standard Dürr Dental
+de l'air comprimé silencieux (Silver Airline, Tornado Super Silent).
+
+### Tableau récapitulatif Power Tower
+
+| Modèle | Tension | Type aspiration | Filtre bactério | Accessoires inclus / option |
+|---|---|---|---|---|
+| **Power Tower Silence 120/02** | 230 V / 400 V (selon variante) | Humide intégrée | Disponible en option | Récupérateur amalgame intégrable |
+| **Power Tower Silence 120/04** | 400 V (3~) | Humide intégrée | Disponible en option | Idem |
+| **Power Tower Silence 120/12** | 400 V (3~) | Humide intégrée | Disponible en option | Idem |
+| **Power Tower Silence PTS 105** | voir page produit | Aspiration | Disponible en option | Idem |
+| **Power Tower View VS 600** | 230 V (1~) | Humide | **De série** | Écran tactile, Connect Box |
+| **Power Tower View VS 900 S** | 400 V (3~) | Humide | De série | Écran tactile, Connect Box |
+| **Power Tower View V 900 S** | 400 V (3~) | Sèche | De série | Idem |
+| **Power Tower View VS 1200 S** | 400 V (3~) | Humide | De série | Idem |
+| **Power Tower View V 1200 S** | 400 V (3~) | Sèche | De série | Idem |
+
+> Pour les **valeurs précises** de hauteur × largeur × profondeur,
+> poids, débit air comprimé l/min, débit aspiration et **niveau sonore
+> dB(A)**, se référer à la **brochure Power Tower Silence** [(Medical
+> Expo)](https://pdf.medicalexpo.com/pdf/duerr-dental/power-tower-silence-there-is-strength-quietness/72550-187987.html)
+> ou à la factsheet correspondante via le [Centre de téléchargements Dürr Dental
+> France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/).
+
+### Accessoires et options
+
+| Élément | Type |
+|---|---|
+| Récupérateur d'amalgame intégrable | Option installable dans le châssis |
+| Connect Box ([fiche](/docs/fr/imagerie/connect-box/overview/)) | Pour générations antérieures sans interface réseau native |
+| Filtre bactériologique ULPA U16 / ISO 65U | De série sur Power Tower View, en option sur Power Tower Silence |
+| Kits de maintenance annuelle | Filtres fin et bactérios |
+| Extensions de garantie | Via service client Dürr Dental France |
 
 ## Compatibilité VistaSoft Monitor
 

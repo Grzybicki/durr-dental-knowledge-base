@@ -33,7 +33,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/devices/clinic-systems/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-05-28
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -304,6 +304,50 @@ etc.) intègrent ou s'interfacent avec un récupérateur d'amalgame conforme
 aux exigences environnementales européennes. Voir la
 [fiche récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
 pour la documentation détaillée.
+
+## Dimensions, bruit et accessoires — récapitulatif
+
+### Bruit et conception silencieuse
+
+L'argument **bruit** de la gamme Tyscor repose sur la **technologie
+radiale** : contrairement aux aspirations à canal latéral, le rotor
+radial fonctionne à vitesse plus basse pour un débit équivalent — d'où
+un **niveau sonore intrinsèquement plus faible**. Aucun capot externe
+n'est nécessaire.
+
+La gamme Tyscor est typiquement installée en **local technique** ou
+**meuble dédié**, mais peut être installée en pièce de service grâce à
+sa conception silencieuse (notamment Tyscor VS 1 Plus / V 1 Plus à
+230 V Plug & Play).
+
+### Tableau récapitulatif Tyscor
+
+| Modèle | Type | Tension | Capacité | Encombrement |
+|---|---|---|---|---|
+| **Tyscor VS 1 Plus** / **VSA 1 Plus** | Humide / + amalgame | 230 V (1~) | 1 praticien | Console sol/mur |
+| **Tyscor V 1 Plus** | Sèche | 230 V (1~) | 1 praticien | Console sol/mur (kit licence vers V 2) |
+| **Tyscor VS 2** / **VS 2 Plus** / **VSA 2** | Humide / + amalgame | 230 V (1~) | 2 praticiens | Châssis aspiration |
+| **Tyscor V 2** / **V 2 Plus** | Sèche | 230 V (1~) | 2 praticiens | Châssis aspiration |
+| **Tyscor VS 4** / **VSA 4** | Humide / + amalgame | 400 V (3~) | 4 praticiens | Châssis aspiration grande capacité |
+| **Tyscor V 4** | Sèche | 400 V (3~) | 4 praticiens | Idem |
+
+> Pour les **valeurs précises** de dimensions, poids, débit l/min et
+> **niveau sonore dB(A)** par modèle, se référer aux **factsheets Tyscor V 2**
+> et **Tyscor Pulse** sur [Medical Expo](https://pdf.medicalexpo.com/pdf/duerr-dental-72550.html)
+> ou au [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/).
+
+### Accessoires et options
+
+| Élément | Référence / notes |
+|---|---|
+| **Kit mise à niveau V 1 Plus → V 2** | Carte SD licence — réf. **`7182100012`** |
+| Construction modulaire V (sec) ↔ VS (humide) | Migration possible en réutilisant le moteur radial |
+| **Tandem Tyscor** | 2 unités VS/V 2 ou VS/V 4 associées — doublement capacité + redondance |
+| **Tridem Tyscor** | 3 unités associées (cliniques universitaires) |
+| **Tyscor Tandem Flex** | Couplage avec une aspiration **Dürr ou tierce** existante |
+| Filtre aspiration coupling parallèle | Voir [fiche filtres aspiration](../filtres-hepa-ulpa-compresseurs/overview/) — réf. `0705-991-50` |
+| Récupérateur amalgame intégré (modèles VSA) | Conforme Règlement UE 2017/852 |
+| Connect Box ([fiche](/docs/fr/imagerie/connect-box/overview/)) | Connexion VistaSoft Monitor pour générations antérieures |
 
 ## DürrConnect
 
