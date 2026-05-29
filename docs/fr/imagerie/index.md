@@ -35,8 +35,9 @@ au phosphore, caméras intraorales.
 
 | Fiche | Description |
 |---|---|
-| **[VistaScan IQ — Écrans à mémoire (ERLM)](vistascan-iq-ecrans/overview/)** | Plaques au phosphore avec RFID + QR code. Tailles S0 à S4. Compatibles VistaScan 2.0 (RFID) et VistaScan 1.0 (sans RFID). |
-| **[VistaPosition — Angulateurs colorés](vistaposition/overview/)** | Système de positionneurs et angulateurs pour PSP/ERLM et capteurs intraoraux. Code couleur uniforme, autoclavable. Compatible quasi-tous les systèmes. |
+| **[VistaScan IQ — Écrans à mémoire (ERLM)](vistascan-iq-ecrans/overview/)** | Plaques au phosphore avec RFID + QR code. Tailles S0 à S4. Compatibles VistaScan 2.0 (RFID) et VistaScan 1.0 (sans RFID). Mention des **écrans Plus** (ancienne génération, sans RFID). |
+| **[Smart Reader](smart-reader/overview/)** | Lecteur RFID USB pour attribution patient/plaque IQ dans VistaSoft avant acquisition. Workflow multi-patients automatisé. |
+| **[VistaPosition — Angulateurs colorés](vistaposition/overview/)** | Système de positionneurs et angulateurs pour PSP/ERLM et capteurs intraoraux. Code couleur uniforme, autoclavable. Compatible quasi-tous les systèmes. Références produits VistaPosition PSP titane et standard. |
 | **[Accessoires imagerie](accessoires-imagerie/overview/)** | Sachets de protection, mordus, porte-modèles, têtes interchangeables, bras moniteurs. |
 
 ## Interfaces, intégration et migration

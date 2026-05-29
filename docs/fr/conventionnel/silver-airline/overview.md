@@ -110,12 +110,17 @@ la lubrification à base d'huile** sur les compresseurs dentaires.
 
 | Modèle | Particularité |
 |---|---|
-| **Duo Tandem** | Évolution modulaire — deux groupes Duo associés |
-| **Quattro Tandem** | Évolution modulaire — deux groupes Quattro associés |
+| **Duo Tandem** | Évolution modulaire — deux groupes Duo associés (2× 2 cylindres = 4 cylindres totaux) |
+| **Quattro Tandem** | Évolution modulaire — deux groupes Quattro associés (2× 4 cylindres = 8 cylindres totaux) |
+| **Mise en Tandem de 2 Duo Tandem** | Configuration étendue — quatre groupes Duo en parallèle, pour les cabinets de très grande capacité ou cliniques |
 
 Le **principe Tandem** est l'apport modulaire majeur de la gamme : il
 permet d'**ajouter de la capacité** à l'installation sans devoir remplacer
-le compresseur existant — solution durable et évolutive.
+le compresseur existant — solution durable et évolutive. À l'extrême,
+**deux compresseurs Duo Tandem peuvent eux-mêmes être associés**
+(configuration multi-Tandem) pour les besoins étendus des cabinets
+multi-postes ou des **systèmes pour cliniques** (voir
+[fiche systèmes cliniques](../systemes-cliniques/overview/)).
 
 ### Compresseurs CAD/CAM
 

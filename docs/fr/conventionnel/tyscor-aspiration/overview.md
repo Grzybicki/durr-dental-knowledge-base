@@ -100,13 +100,13 @@ Selon la page produit officielle :
 
 | Modèle | Type | Notes |
 |---|---|---|
-| **VS 300 S** | Aspiration humide | Modèle d'entrée de gamme à poste unique |
+| **VS 300 S** | Aspiration humide | Modèle d'entrée de gamme à poste unique (jusqu'à 1 praticien) |
 | **VSA 300 S** | Aspiration humide + amalgame | Avec récupérateur d'amalgame intégré |
-| **Tyscor VS 1 Plus** | Aspiration humide premium | Technologie radiale, légèreté |
+| **Tyscor VS 1 Plus** | Aspiration humide premium | Technologie radiale, 230 V (1~), Plug & Play, économies jusqu'à 75 % |
 | **Tyscor VSA 1 Plus** | Aspiration humide + amalgame | Idem avec amalgame intégré |
-| **Tyscor V 1 Plus** | Aspiration sèche premium | Pour cabinets en aspiration sèche |
-| **V 250** | Aspiration sèche | Modèle d'entrée de gamme à poste unique |
-| **V 300 S** | Aspiration sèche | Modèle suivant |
+| **Tyscor V 1 Plus** | Aspiration sèche premium | Pour cabinets en aspiration sèche, 230 V, **mise à niveau possible à Tyscor V 2 via clé de licence** (ref `7182100012`) |
+| **V 250** | Aspiration sèche | Modèle d'entrée de gamme à poste unique (1 praticien) |
+| **V 300 S** | Aspiration sèche | Modèle suivant, jusqu'à 700 l/min en passage libre, 1 praticien |
 
 ## Modèles mobiles (Variosuc)
 
@@ -184,6 +184,85 @@ de maintenance, consommations.
 Dürr Dental propose des **kits de conversion** pour le passage d'une
 configuration à l'autre lors d'évolutions du cabinet (voir
 [fiche conversion / pièces détachées](../recuperateurs-amalgame/overview/)).
+
+## Évolutivité — Tandem, Tridem et Tandem Flex
+
+### Construction modulaire — passage V (sec) → VS (humide)
+
+Verbatim du catalogue Dürr Dental France 2026 (caractéristique
+**Tyscor V 1 Plus / V 2 / V 4**) :
+
+> *« Construction modulaire, possibilité de transformer le système
+> d'aspiration sec en système d'aspiration humide. »*
+
+Concrètement, un cabinet équipé d'une **Tyscor V 2** ou **V 4** peut
+**migrer vers une Tyscor VS 2** ou **VS 4** en réutilisant le moteur
+radial commun. Cette modularité diminue le **coût d'évolution** lors
+d'une transformation du cabinet (passage en aspiration humide pour
+respecter les exigences environnementales et hygiéniques actuelles).
+
+### Mise à niveau Tyscor V/VS 1 → V/VS 2 via clé de licence
+
+| Référence catalogue | Description |
+|---|---|
+| `7182100012` | **Kit de mise à niveau Tyscor V/VS 1 → V/VS 2** — Carte SD avec licence logicielle |
+
+Ce kit permet de transformer une Tyscor V 1 Plus (jusqu'à 2 postes,
+1 praticien) en Tyscor V 2 (jusqu'à 3 postes, 2 praticiens) sans
+remplacer le matériel — uniquement par licence logicielle.
+
+### Tandem (2 unités) et Tridem (3 unités)
+
+L'**électronique de commande** intégrée aux Tyscor (V 1 Plus, V 2, V 4
+et leurs équivalents VS) permet :
+
+- **Tandem Tyscor VS 2** : 2 unités VS 2 associées pour **doubler la
+  capacité** et offrir la **redondance** (en cas de panne d'une unité,
+  l'autre prend le relais).
+- **Tandem Tyscor VS 4** : 2 unités VS 4 associées pour les grandes
+  installations.
+- **Tridem Tyscor** : **3 unités** associées pour les cabinets très
+  grands ou les cliniques universitaires.
+
+### Tyscor Tandem Flex — cross-fabricant
+
+Selon le communiqué officiel
+[*Tyscor Tandem Flex: twice the power for every suction system*](https://www.duerrdental.com/en/news/detail/tyscor-tandem-flex-twice-the-power-for-every-suction-system/) :
+
+> *« Tyscor Tandem Flex allows you to not only upgrade and expand
+> Dürr Dental systems, but also works with equipment from other
+> manufacturers. (…) A Tyscor unit can be set up using the tandem
+> method with a classic V or VS side channel suction system from
+> Dürr Dental or even with a third-party device. »*
+
+Bénéfices clés :
+
+- **Upgrade** d'une installation existante (Dürr ou autre fabricant)
+  en lui adjoignant une Tyscor.
+- **Expansion** progressive de la capacité d'aspiration du cabinet.
+- **Maintien des équipements existants** qui fonctionnent — pas de
+  remplacement inutile.
+- **Économies d'énergie jusqu'à 75 %** mesurées par le **Fraunhofer
+  Institute** (centrifugal technology vs canal latéral).
+
+## Modèles d'aspiration sèche dédiés (gamme V)
+
+| Modèle | Type | Capacité (postes / praticiens) | Tension |
+|---|---|---|---|
+| **V 250** | Sèche poste unique | 1 poste / 1 praticien | 230 V (1~) |
+| **V 300 S** | Sèche poste unique | 1 praticien, 700 l/min passage libre | 230 V (1~) |
+| **Tyscor V 1 Plus** | Sèche centralisée premium | Jusqu'à 2 postes / 1 praticien simultané, **mise à niveau V 2 via licence** | 230 V (1~) |
+| **V 600** | Sèche centralisée | Jusqu'à 3 postes / 2 praticiens simultanés, 1500 l/min | 230 V ou 400 V (3~) |
+| **Tyscor V 2** | Sèche centralisée premium | 2 praticiens, radiale, Plug & Play | 230 V (1~) |
+| **V 900 S** | Sèche centralisée | Configuration moyenne | 400 V (3~) |
+| **V 1200 S** | Sèche centralisée | Configuration grande | 400 V (3~) |
+| **Tyscor V 4** | Sèche centralisée premium | 4 praticiens, radiale | 400 V (3~) |
+| **V 2400** | Sèche très grande capacité | Multi-fauteuils, cliniques | 400 V (3~) |
+
+Une **logique équivalente** existe en aspiration humide (VS 300 S,
+VS 600, Tyscor VS 2, VS 900 S, VS 1200 S, Tyscor VS 4, VS 2400) et avec
+récupérateur d'amalgame intégré (VSA 300 S, VSA 600, Tyscor VSA 2,
+VSA 900, VSA 1200, Tyscor VSA 4).
 
 ## Récupérateurs d'amalgame
 

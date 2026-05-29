@@ -125,6 +125,44 @@ des plaques IQ** sans changer de scanner, en acceptant simplement que
 l'identification RFID ne soit pas active (saisie manuelle du patient
 dans VistaSoft, comme historiquement).
 
+## Écrans à mémoire « Plus » — uniquement pour ancienne génération
+
+Dürr Dental propose également une gamme distincte d'écrans dits **« Plus »**
+(catalogue Dürr Dental France 2026, section *Écrans à mémoire Plus*),
+qui sont **dédiés exclusivement à l'ancienne génération VistaScan**
+(série 1.0).
+
+| Critère | VistaScan IQ | Écrans VistaScan Plus |
+|---|---|---|
+| **Puce RFID** | **Oui** | **Non** (pas de puce RFID) |
+| **Compatibilité ancienne génération (Mini Easy, Mini Plus, Combi, Perio, Perio Net)** | Oui (sans RFID) | **Oui — usage privilégié** |
+| **Compatibilité nouvelle génération (Mini Easy 2.0, Mini View 2.0, Nano Easy, Combi View, Ultra View)** | **Oui (RFID actif)** | Non documentée — pas conçus pour |
+| **Workflow automatisé via [Smart Reader](../smart-reader/overview/)** | **Oui** | Non |
+| **Suivi qualité par IA (VistaSoft AI)** | **Oui** | Non |
+
+Cette distinction est essentielle : pour un cabinet équipé uniquement de
+scanners de la **série 1.0**, le choix logique reste les **écrans Plus**
+(qui ne sacrifient aucune fonctionnalité au RFID inutilisable). En cas
+de **renouvellement futur du scanner** vers un modèle 2.0, le passage aux
+**plaques IQ** débloque automatiquement les fonctionnalités RFID +
+attribution automatique + suivi qualité IA.
+
+## Packs IQ disponibles (catalogue Dürr Dental France)
+
+Le catalogue 2026 référence quatre packs prêts à l'emploi qui combinent
+les écrans à mémoire IQ et les sachets de protection contre la lumière :
+
+| Référence | Pack | Composition |
+|---|---|---|
+| `2130106051` | Pack Taille 0 VistaScan IQ | 2 écrans IQ Taille 0 + 1000 sachets de protection |
+| `2130106151` | Pack Taille 1 VistaScan IQ | 2 écrans IQ Taille 1 + 1000 sachets de protection |
+| `2130106251` | Pack Taille 2 VistaScan IQ | 2 écrans IQ Taille 2 + 1000 sachets de protection |
+| `2130106351` | Pack Taille 3 VistaScan IQ | 2 écrans IQ Taille 3 + 1000 sachets de protection |
+
+Les références exactes et tarifs sont consultables auprès du service
+commercial Dürr Dental France (les tarifs ne sont pas reproduits ici,
+susceptibles d'évoluer).
+
 ## Intégration VistaSoft AI
 
 Verbatim de la page produit officielle :
@@ -142,6 +180,7 @@ le diagnostic.
 
 Pour un workflow optimisé avec les plaques VistaScan IQ, voir :
 
+- [**Smart Reader** — lecteur USB RFID pour attribution patient/plaque](../smart-reader/overview/)
 - [**VistaPosition** — système de positionnement PSP et angulateurs ERLM](../vistaposition/overview/)
 - **Sachets de protection contre la lumière** : disponibles dans toutes
   les tailles, pour la protection des plaques en bouche.

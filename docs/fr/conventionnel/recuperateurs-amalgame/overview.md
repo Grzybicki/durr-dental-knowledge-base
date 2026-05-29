@@ -78,16 +78,34 @@ réglementaires.
 
 | Modèle | Capacité | Usage type |
 |---|---|---|
-| **CA 1** | Poste unique | Cabinets individuels en aspiration humide |
-| **CA 2** | Centralisée moyenne | 2 à 4 praticiens |
-| **CA 4** | Centralisée grande | Cabinets multi-postes |
+| **CA 1** | Poste unique | Cabinets individuels en aspiration humide. S'installe en sortie du système d'aspiration ([Tyscor VS 1 Plus](../tyscor-aspiration/overview/), VS 300 S, etc.). |
+| **CA 2** | Centralisée moyenne | 2 à 4 praticiens — pour configurations Tyscor VS 2 et équivalents. |
+| **CA 4** | Centralisée grande | Cabinets multi-postes — pour configurations Tyscor VS 4 et grandes installations. |
 
-### Modèles combinés (séparateur + ...)
+### Modèles combinés (séparateur + séparation des liquides)
 
 | Modèle | Description |
 |---|---|
-| **Combi-Sepamatic CS 1** | Combiné séparateur amalgame + séparation des liquides en sortie d'aspiration humide |
-| **CAS 1** | Combiné séparateur amalgame + module additionnel selon configuration |
+| **CS 1** (*Combi-Sepamatic CS 1*) | **Combiné** séparateur amalgame + **séparation des liquides** en sortie d'aspiration humide. Solution intégrée pour cabinets unique poste qui souhaitent traiter à la fois la séparation des particules d'amalgame et la séparation des phases liquides en un seul appareil. |
+| **CAS 1** | **Combiné** séparateur amalgame + module additionnel de séparation, configuration adaptée à certaines installations spécifiques. Différent du CS 1 par le périmètre et la mécanique interne. |
+
+### Tableau de positionnement
+
+| Configuration cabinet | Récupérateur recommandé |
+|---|---|
+| Poste unique sans séparation liquide complémentaire | **CA 1** |
+| Poste unique avec séparation liquide intégrée | **CS 1** (Combi-Sepamatic) ou **CAS 1** |
+| Cabinet 2-4 praticiens | **CA 2** |
+| Cabinet multi-postes / clinique | **CA 4** |
+| Centralisation grande capacité (CS 20) | Réservoir de séparation central CS 20 (associé à VS 2400, par exemple) |
+
+### Intégration directe en VSA (récupérateur intégré)
+
+Les modèles d'aspiration humide marqués **VSA** (par exemple **VSA 300 S**,
+**VSA 600**, **Tyscor VSA 2**, **VSA 900**, **VSA 1200**, **Tyscor VSA 4**)
+intègrent **directement** dans leur châssis un récupérateur d'amalgame
+adapté à leur capacité. Ces configurations évitent la mise en place
+d'un récupérateur externe.
 
 ## Kit de contrôle
 
