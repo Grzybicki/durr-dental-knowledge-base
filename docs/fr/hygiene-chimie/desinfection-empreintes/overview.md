@@ -48,23 +48,83 @@ Caractéristiques clés :
 - **Action en une étape** : nettoyage + désinfection + séchage.
 - **Activation par bouton** : protocole simple et standardisé.
 
-## Famille ID — Désinfectants pour instruments (ID 212, ID 213)
+## Famille ID — Désinfectants pour instruments (ID 212, ID 212 forte plus, ID 213, ID 215)
 
-La famille **ID** (Instrument Disinfection) Dürr Dental couvre deux
-références principales avec un positionnement différencié :
+La famille **ID** (Instrument Disinfection) Dürr Dental couvre quatre
+références principales avec des positionnements différenciés :
 
-| Critère | **ID 212** | **ID 213** |
-|---|---|---|
-| Formulation | Sans aldéhyde | Sans aldéhyde |
-| Concentré pour | Instruments classiques + chirurgicaux + **instruments rotatifs sensibles aux alcalins et alcool** (burs carbide soudés, NiTi endodontique) | Instruments classiques + chirurgicaux pour cabinets, laboratoires et cliniques |
-| Inhibiteurs de corrosion | — | **Oui** (excellente compatibilité matériaux) |
-| Dilution standard | **2 %** | **2 %** |
-| Temps d'action — bain par immersion | 5 minutes | 5 minutes |
-| Temps d'action — ultrasons | 2 minutes | 2 minutes |
-| Temps d'action étendu (selon spectre) | Jusqu'à 60 minutes | Jusqu'à 60 minutes |
-| **Conservation de la solution diluée prête à l'emploi** | **7 jours** | **Jusqu'à 14 jours** ⭐ |
-| Rendement | **2,5 l = 125 l de solution diluée** | Idem (2 % de dilution) |
-| Économicité | Standard | **Très économique** grâce à la durée de conservation prolongée |
+### ID 212 — Standard pour instruments rotatifs sensibles
+
+| Critère | Valeur |
+|---|---|
+| Formulation | **Sans aldéhyde** |
+| Concentré pour | Instruments classiques + chirurgicaux + **rotatifs sensibles aux alcalins et alcool** (burs carbide soudés, NiTi endodontique, instruments synthétiques) + caoutchouc et silicone |
+| Dilution standard | **2 %** |
+| Temps d'action immersion | 5 min |
+| Temps d'action ultrasons | 2 min |
+| **Conservation solution diluée** | **7 jours** |
+| Rendement | 2,5 l → 125 l solution |
+| Principe actif | **Ammoniums quaternaires** |
+| Page produit | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-instrument-disinfection/> |
+
+### ID 212 forte plus — Spectre étendu (à mettre en avant)
+
+**ID 212 forte plus** est la déclinaison **à spectre étendu** de la
+famille ID 212, particulièrement valorisée par Dürr Dental en
+communication commerciale. Verbatim de la page produit officielle :
+
+> *« ID 212 forte plus is a highly effective, aldehyde-free concentrate
+> for cleaning and disinfection of general instruments (mirrors, probes,
+> tweezers, forceps etc.). »*
+
+| Critère | Valeur |
+|---|---|
+| Formulation | **Sans aldéhyde** |
+| Concentré pour | Instruments généraux : **miroirs, sondes, précelles, forceps**, etc. + instruments rotatifs sensibles aux alcalins/alcool (alliages NiTi, instruments rotatifs synthétiques) |
+| Dilution standard | **2 %** |
+| **Conservation solution diluée** | **Jusqu'à 7 jours** |
+| Spectre d'activité | **Bactéricide + Tuberculocide en ultrasons + Levuricide + Virucide limité (virus enveloppés incl. HBV, HCV, HIV et coronavirus) + actif aussi sur ADÉNOVIRUS et NOROVIRUS non enveloppés** ⭐ |
+| Rinçage post-application | 15 secondes sous eau courante |
+| Principe actif | Ammoniums quaternaires |
+| Page produit | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-forte-instrument-disinfection/> |
+
+> **Argument commercial fort à mettre en avant** : l'ID 212 forte plus
+> couvre les **virus non enveloppés** (adénovirus, norovirus) **en plus**
+> du spectre classique des virus enveloppés (HBV, HCV, HIV, coronavirus).
+> Ce **spectre étendu** est rare parmi les désinfectants instruments
+> aldéhyde-free et constitue le différenciateur clé du produit.
+
+### ID 213 — Inhibiteurs de corrosion + très longue conservation
+
+| Critère | Valeur |
+|---|---|
+| Formulation | **Sans aldéhyde** + **inhibiteurs de corrosion** |
+| Concentré pour | Instruments classiques + chirurgicaux pour cabinets, laboratoires et cliniques |
+| Compatibilité matériaux | **Excellente** (inhibiteurs de corrosion) |
+| Dilution standard | **2 %** |
+| Temps d'action immersion | 5 min |
+| Temps d'action ultrasons | 2 min |
+| **Conservation solution diluée** | **Jusqu'à 14 jours** ⭐ |
+| Rendement | 2,5 l → 125 l solution |
+| Page produit | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-213-instrument-disinfection/> |
+
+### ID 215 — Nettoyant enzymatique complémentaire
+
+**ID 215** est un **nettoyant enzymatique** pour instruments, dédié
+au **nettoyage** (et non à la désinfection seule). Utilisable en
+complément ou en amont de la désinfection avec ID 212 / ID 213.
+
+Page produit : <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-215-enzymatic-instrument-cleaner/>
+
+### Tableau de positionnement — quel ID choisir ?
+
+| Besoin du cabinet | Référence à privilégier |
+|---|---|
+| Préservation de la **rentabilité** (préparation 1 bain/15 jours) | **ID 213** (14 jours de conservation) |
+| **Spectre étendu** incluant **adénovirus et norovirus** | **ID 212 forte plus** (différenciateur clé) |
+| Instruments rotatifs **fragiles** (NiTi, burs synthétiques) | **ID 212** (formulation standard sensible) |
+| **Nettoyage** enzymatique avant désinfection | **ID 215** |
+| Instruments métalliques nobles à protéger durablement | **ID 213** (inhibiteurs de corrosion) |
 
 ### Conservation prolongée des solutions ID — bénéfice opérationnel
 
