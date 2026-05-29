@@ -30,6 +30,7 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 | **[Tyscor — aspiration centralisée](tyscor-aspiration/overview/)** | Gamme premium aspiration humide (VS/VSA) et sèche (V), à poste unique ou centralisée (1/2/4 praticiens). Technologie radiale, jusqu'à 75 % d'économies d'énergie. | DM IIa MDR |
 | **[Récupérateurs d'amalgame](recuperateurs-amalgame/overview/)** | CA 1, CA 2, CA 4 + Sepamatic CS 1 / CAS 1. Conformité Règlement UE 2017/852 mercure. | DM IIa MDR |
 | **[Aspiration chirurgicale VC 65](aspiration-chirurgicale/overview/)** | Unité dédiée aux interventions chirurgicales (chirurgie buccale, implantologie). | DM IIa MDR |
+| **[Canules universelles (Protect, Petito, III)](canules-universelles/overview/)** | Canules d'aspiration avec entrées d'air secondaires anti-reflux pour aspiration aérosols optimisée. Silencieuses, ergonomiques. | DM |
 
 ---
 
