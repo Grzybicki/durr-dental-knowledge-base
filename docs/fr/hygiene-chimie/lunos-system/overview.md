@@ -109,12 +109,61 @@ Cette **double application** offre une flexibilité maximale lors d'une
 séance de prophylaxie ou d'un traitement parodontal : l'utilisateur
 peut **basculer entre Supra et Perio** selon les besoins du patient.
 
-## Poudres prophylactiques
+## Poudres prophylactiques — Innovation Trehalose
+
+### Composition abrasive
+
+Verbatim de la page produit officielle :
+
+> *« The innovative abrasive agent trehalose is incredibly water-soluble,
+> which improves patient comfort and protects the suction unit. »*
+
+Les poudres Lunos utilisent un agent abrasif innovant : la **tréhalose**,
+un disaccharide à la fois efficace et particulièrement sûr pour le patient
+et l'écosystème dentaire :
+
+| Caractéristique | Valeur |
+|---|---|
+| **Agent abrasif** | **Tréhalose** (et non glycine ni érythritol) |
+| **Taille de grain** | Environ **30 µm** |
+| **Solubilité dans l'eau** | **Très élevée** — dissolution **résidu-zéro** |
+| **Goût** | Légèrement sucré, agréable |
+| **Cariogénicité** | **Non cariogène** |
+| **Effet sur la mucose buccale** | Protège la mucose |
+| **Effet sur le système d'aspiration** | Protège — pas d'incrustation |
+| **Effet sur la dent** | Nettoyage efficace **sans attaquer l'émail ni la dentine** |
+
+### Dissolution complète sans résidu
+
+> *« The powder's excellent water solubility ensures residue-free
+> dissolution in the periodontal pocket and leaves no dust residues in
+> the patient's mouth, also protecting the suction system. »*
+
+Cette **dissolution complète** dans la salive et dans la poche
+parodontale est une propriété **majeure** de la tréhalose vs les
+poudres prophylactiques historiques (bicarbonate de sodium, etc.) :
+
+- **Aucun résidu** dans la cavité buccale après traitement.
+- **Aucun dépôt** dans les canalisations d'aspiration.
+- **Confort patient** : pas de poudre persistante en gorge.
+- **Compatibilité Tyscor** : aucune incidence sur la durée de vie du
+  système d'aspiration centralisée (cf.
+  [Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/) et
+  [Orotol Plus](../desinfection-aspiration/overview/)).
+
+### Variantes de poudres
 
 | Poudre | Indication | Spécificité |
 |---|---|---|
 | **Lunos Gentle Clean** | Application **supragingivale** | Douceur sur l'émail et les surfaces dentaires |
 | **Lunos Perio Combi** | **Sub-** et **supragingivale** | Formulation polyvalente pour les deux applications |
+
+### Information scientifique officielle
+
+Dürr Dental publie un document scientifique officiel sur ses poudres et
+pâtes : *LUNOS Scientific Information about Prophylaxis Powders and
+Pastes* (avril 2019), disponible publiquement à
+<https://www.duerr.co.jp/download/dentalcare/LUNOS_scientific_information_powders_and_paste_2019-04.pdf>.
 
 ## Pâtes de polissage Lunos
 

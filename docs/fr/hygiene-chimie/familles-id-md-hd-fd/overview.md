@@ -146,6 +146,73 @@ une **désinfection et un nettoyage efficaces et combinés**.
 Voir la [matrice MDR complète](/sources/certificates/) pour les
 classifications spécifiques.
 
+## Formation Certibiocide (France) — produits soumis et exemptés
+
+En **France**, l'**arrêté du 9 octobre 2013** (modifié) impose le
+**certificat individuel pour l'activité « utilisation à titre
+professionnel de produits biocides »** — communément appelé
+**Certibiocide** — pour certains types de produits biocides (TP).
+
+Cette obligation s'applique de manière différenciée aux produits
+chimiques d'hygiène utilisés en cabinet dentaire :
+
+### Produits Dürr Dental soumis au Certibiocide
+
+| Produit | Type biocide (TP) | Pourquoi soumis |
+|---|---|---|
+| **Orotol Plus / Orotol Plus pH 7** (désinfection aspiration) | TP2 (surfaces et air) | Biocide TP2 destiné à un usage professionnel |
+| **MD 555 / MD 555 cleaner organic** (nettoyage aspiration) | TP2 | Idem |
+| **MD 550** (crachoirs) | TP2 | Idem |
+| **MD 520** (empreintes) | TP2 | Idem |
+| **FD 322 / FD 350 / concentrés FD** (surfaces) | TP2 | Idem |
+| **Lingettes de désinfection des surfaces** | TP2 | Idem |
+
+### Produits Dürr Dental exemptés du Certibiocide
+
+| Produit | Statut | Pourquoi exempté |
+|---|---|---|
+| **HD 410 / HD 420 plus** (désinfection mains) | TP1 (hygiène humaine) | **TP1 exempté** par l'arrêté du 9 octobre 2013 modifié |
+| **ID 213** (instruments) | **Dispositif Médical** (MDR EU 2017/745) selon classification | Si classé DM → relève du MDR, **hors champ du Certibiocide** |
+| **Vector Fluid** (polissage instrumental Vector) | DM / consommable | Hors champ Certibiocide |
+
+### En pratique
+
+- Un cabinet dentaire utilise **au moins un produit soumis au
+  Certibiocide** dès qu'il désinfecte ses surfaces, son aspiration ou
+  ses empreintes (cas général).
+- Au moins **une personne du cabinet** (chirurgien-dentiste, assistant,
+  PCR, etc.) doit donc être **titulaire du Certibiocide** pour assurer
+  la conformité administrative.
+- Les **organismes de formation agréés** (cf. site du Ministère de la
+  Transition écologique) délivrent le certificat après une **formation
+  d'une journée** et un test final.
+- **Validité** : **5 ans renouvelables**.
+
+> Cette information est une **aide à la lecture réglementaire**. La
+> qualification définitive d'un produit relève du fabricant (DoC,
+> fiche de données de sécurité — FDS) et de la **DGCCRF** ou autorité
+> compétente locale. En cas de doute, **consulter la FDS officielle**
+> du produit ou le service réglementaire Dürr Dental France.
+
+## Gamme « Green » Dürr Dental — initiatives écoresponsables
+
+Plusieurs produits Dürr Dental s'inscrivent dans une démarche
+**écoresponsable** documentée publiquement :
+
+| Produit | Spécificité green |
+|---|---|
+| **Orotol Plus pH 7** | **> 95 % d'ingrédients organiques biodégradables** selon les directives **OECD** sur la biodégradabilité. Sans aldéhyde, sans phénol, sans chlore actif. |
+| **MD 555 cleaner organic** | Variante **organique** du MD 555 — formulation plus respectueuse de l'environnement |
+| **FD 350 green wipes** | Lingettes en **fibres naturelles** issues de matières premières **renouvelables**, **sans plastique**, **neutres en carbone** |
+| **Lunos Prophy Powders (tréhalose)** | Agent abrasif **non cariogène** + dissolution **résidu-zéro** dans la salive et la poche parodontale + **protection du système d'aspiration** |
+| **Tyscor Tandem Flex + technologie radiale** | Jusqu'à **75 % d'économies d'énergie** vs canal latéral (mesures Fraunhofer Institute) + **50 % de poids réduit** → empreinte carbone fabrication réduite |
+| **Compresseurs sans huile depuis 1965** | Pas de lubrifiant huile à recycler en fin de vie |
+| **Filtration ULPA U16** | Réduit la dépendance à des consommables peu performants |
+| **Hygowater (eau fauteuils)** | Filtration + électrolyse — **aucun produit chimique** consommé pour la décontamination |
+
+Voir aussi la [page Sustainability officielle Dürr Dental](https://www.duerrdental.com/en/company/duerr-dental-se/sustainability/)
+pour la stratégie ESG complète du groupe.
+
 ## Articulation avec le système d'hygiène 4 couleurs
 
 Voir la [fiche désinfection des surfaces](../desinfection-surfaces/overview/)
