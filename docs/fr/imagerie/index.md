@@ -4,7 +4,7 @@ title: "Imagerie dentaire Dürr Dental — Index"
 description: "Catalogue de l'imagerie dentaire Dürr Dental : logiciel VistaSoft 4.0, panoramiques, CBCT, capteurs intraoraux, scanners de plaques au phosphore, caméras intraorales."
 lang: fr
 permalink: /docs/fr/imagerie/
-last_factual_review: 2026-05-28
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -61,25 +61,53 @@ au phosphore, caméras intraorales.
 
 ## Cone Beam CT (CBCT)
 
-**VistaVox S** — CBCT compact à champ sphérique. *Fiche détaillée à venir.*
+**[VistaVox S et VistaVox S Ceph](vistavox-s/overview/)** — CBCT compact
+à **champ sphérique anatomique** (Ø 130 × 85 mm) couvrant 100 % des
+patients. Capteur CsI 49,5 µm, technologie S-Pan, MAR (réduction des
+artéfacts métalliques 3D). Version Ceph avec téléradiographie. Fabriqué
+à Gechingen, Allemagne. **DM IIb CE 0297.**
 
 ## Scanners de plaques au phosphore
 
-**Gamme VistaScan** — scanners de plaques au phosphore (Mini Easy 2.0, Mini View 2.0, Combi View, Nano Easy, Ultra View). *Fiches détaillées à venir.*
+**[Gamme VistaScan complète](vistascan-gamme/overview/)** — scanners de
+plaques au phosphore intraoraux et combi :
+
+| Modèle | Type | Tailles plaques |
+|---|---|---|
+| **[VistaScan Mini Easy 2.0](vistascan-mini-easy-2-0/overview/)** | Chairside, **technologie PCS** | 0, 1, 2, 3, 4 |
+| **[VistaScan Mini View 2.0](vistascan-gamme/overview/)** | Chairside avec écran d'aperçu | 0-4 |
+| **[VistaScan Nano Easy](vistascan-nano-easy/overview/)** | Ultracompact, scan + effacement en 1 étape | 0, 1, 2 |
+| **[VistaScan Combi View](vistascan-gamme/overview/)** | Combi intra + extra-oral | + pano / céphalo |
+| **[VistaScan Ultra View](vistascan-gamme/overview/)** | Haut de gamme | tous formats |
+
+Toutes les plaques utilisent les écrans **[VistaScan IQ](vistascan-iq-ecrans/overview/)** (RFID + QR code).
 
 ## Capteurs intraoraux
 
-**VistaRay 7** — capteur intraoral filaire. *Fiche détaillée à venir.*
+**[VistaRay 7](vistaray-7/overview/)** — capteur intraoral filaire CMOS,
+**tailles 1 et 2**, pixel 19 µm, résolution effective 20 LP/mm, USB 2.0/3.0,
+> 400 000 clichés. Fabriqué en Allemagne.
 
 ## Caméras intraorales
 
-**VistaCam iX HD Smart** — caméra intraorale avec têtes interchangeables.
-**VistaCam Proxi** — caméra de détection proximale par fluorescence proche infrarouge (NIR).
-*Fiches détaillées à venir.*
+**[VistaCam iX HD Smart](vistacam-ix-hd-smart/overview/)** — caméra
+intraorale USB **1 280 × 1 024 pixels** (HD), **3 têtes interchangeables**
+sur même corps :
+
+| Tête | Technologie | Indication |
+|---|---|---|
+| **Cam** | Lumière blanche | Caméra standard photo + vidéo HD |
+| **Proof** | Fluorescence **405 nm** (violet) | Détection caries + plaque (échelle couleur graduée) |
+| **Proxi** | Proche infrarouge **850 nm** | Caries proximales **sans irradiation** |
+
+**[VistaCam Proxi](vistacam-proxi/overview/)** — version dédiée détection
+proximale par NIR (autonome ou en tête VistaCam iX HD Smart).
 
 ## Radiographie intraorale
 
-**VistaIntra DC** — générateur de rayons X intraoral. *Fiche détaillée à venir.*
+**[VistaIntra DC](vistaintra-dc/overview/)** — générateur de rayons X
+intraoral, courant direct (DC), pré-programmé pour les plaques au phosphore
+VistaScan IQ et les capteurs VistaRay.
 
 ---
 

@@ -4,7 +4,7 @@ title: "Documentation française — Dürr Dental Knowledge Base"
 description: "Index général de la documentation Dürr Dental en français : imagerie, conventionnel, hygiène et chimie."
 lang: fr
 permalink: /docs/fr/
-last_factual_review: 2026-05-28
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -18,22 +18,26 @@ Logiciels d'imagerie, capteurs intraoraux, panoramiques et CBCT, scanners de pla
 
 → [Index imagerie](imagerie/)
 
-**Pages disponibles** :
+**Pages disponibles** (sélection — voir [index imagerie](imagerie/) pour la liste complète) :
 - [VistaPano S 2.0 / VistaPano S Ceph 2.0 — vue d'ensemble](imagerie/vistapano-2-0/overview/)
-
-**Pages à venir** : VistaSoft 4.0, VistaVox S, gamme VistaScan, VistaRay 7, VistaCam iX HD, VistaCam Proxi, VistaIntra, modules Cloud (View, Exchange, Drive, AID), VistaSoft Trace, VistaSoft Inspect, VistaSoft Implant, VistaSoft Mobile Connect, Patient Bridge, Image Bridge, désambiguïsation VistaSoft (logiciel) / VistaSoft Monitor (IoT).
+- [VistaVox S et VistaVox S Ceph — CBCT à volume sphérique anatomique](imagerie/vistavox-s/overview/) — caractéristiques techniques complètes (180/202 kg, FOV Ø 130×85 mm, CsI 49,5 µm)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (DM IIb)](imagerie/vistasoft-4-0/overview/) — **filtre UHD nouveau (IDS 2025)** + 6 fonctions IA inclusive + 21 filtres numériques
+- [VistaCam iX HD Smart — caméra intraorale HD](imagerie/vistacam-ix-hd-smart/overview/) — 3 têtes interchangeables (Cam / Proof 405 nm / Proxi 850 nm)
+- [VistaRay 7 — capteur intraoral CMOS](imagerie/vistaray-7/overview/) — tailles 1 et 2, > 400 000 clichés
+- [Gamme VistaScan — scanners de plaques au phosphore](imagerie/vistascan-gamme/overview/) (Mini Easy 2.0, Mini View 2.0, Nano Easy, Combi View, Ultra View)
 
 ## Conventionnel
 
-Compresseurs dentaires et systèmes d'aspiration centralisés.
+Compresseurs dentaires et systèmes d'aspiration centralisés (Silver Airline,
+Tornado, Power Tower, Tyscor, systèmes cliniques).
 
-→ [Index conventionnel](conventionnel/) *(à venir)*
+→ [Index conventionnel](conventionnel/) — **caractéristiques techniques complètes** (dimensions, dB(A) nu / capot / armoire, débits, poids, références filtres et accessoires) pour Silver Airline (Primo → Quattro P 20), NEW Tornado 1/2/4, Power Tower View, CAD/CAM, VC 65 chirurgicale, récupérateurs CA, canules, Support Comfort.
 
 ## Hygiène et chimie de désinfection
 
-Solutions de désinfection des instruments, surfaces, aspiration et empreintes.
+Solutions de désinfection des instruments, surfaces, aspiration et empreintes ; appareils Hygoclave / Hygopac / Hygosonic ; système Lunos ; thérapie Vector Paro.
 
-→ [Index hygiène et chimie](hygiene-chimie/) *(à venir)*
+→ [Index hygiène et chimie](hygiene-chimie/) — **caractéristiques techniques complètes** pour Hygoclave 50 / 50 Plus (chambre 17/22 L, 5 programmes B), Hygopac et Hygopac View, Hygosonic, Vector Paro (25-35 kHz).
 
 ---
 

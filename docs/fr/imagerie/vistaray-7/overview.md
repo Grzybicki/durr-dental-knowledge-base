@@ -36,6 +36,7 @@ source_documents:
     ref: "P007-670-03/DD-dd.de/C5"
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
+    note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques par taille de capteur (1: 39×27,4×6,3 mm / 2: 43×33,1×6,3 mm, pixel 19 µm, 20 LP/mm effective, > 400 000 clichés à 50 µGy)"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---

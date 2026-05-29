@@ -4,6 +4,148 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.2.0] — 2026-05-29
+
+### Ajouté — nouvelles fiches produits
+
+- **`docs/fr/conventionnel/support-tuyaux-comfort/overview.md`** —
+  Support de tuyaux Comfort (modulaire 5-6 composants), brochure
+  `P007-173-03`. Inclut **22 références de canules**
+  (`0700-054-00`, `0700-055/056-50/51/53/54/55`, `0700-059-00/50/51/54`,
+  `0700-007-50/51`, `0700-058-50`) par coloris et conditionnement.
+- **`docs/fr/imagerie/vistascan-mini-easy-2-0/overview.md`** —
+  Scanner de plaques chairside, technologie PCS, tailles 0-4.
+- **`docs/fr/imagerie/vistascan-nano-easy/overview.md`** —
+  Scanner ultracompact, tailles 0-2, scan + effacement en 1 étape.
+
+### Ajouté — sections techniques complètes (factsheets officielles)
+
+Sources : factsheets Dürr Dental France lues depuis la dernière page
+(« Données techniques en un coup d'œil ») — confirmation explicite de
+l'utilisateur que les specs précises sont à cet emplacement.
+
+- **`docs/fr/conventionnel/silver-airline/`** — Tableau complet 12
+  modèles **Primo** (61/71 l/min, 65/66 dB(A), 69×49×47 cm, 45 kg) →
+  **Quattro P 20** (16 praticiens, 1032/1172 l/min, 76 dB(A),
+  114×115×77 cm, 300 kg). Niveau sonore dans armoire pour Primo-Quattro.
+  Source : `P007-158-03/N04`.
+- **`docs/fr/conventionnel/tornado/`** — Tableau complet **NEW Tornado 1/2/4**
+  : dimensions nu / avec dessiccateur / **avec capot + dessiccateur**
+  (84×63×60 cm pour T1/T2), poids 32/38/49 kg (T1), niveau sonore
+  **64 → 58 → 47 dB(A)** (nu / carter / armoire à 50 Hz). Source :
+  `P007100308L03/T09`.
+- **`docs/fr/conventionnel/power-tower/`** — Tableau **7 modèles
+  Power Tower View** (VS/V 600/900 S/1200 S), dimensions
+  **208 × 64 × 61 cm**, poids 265-275 kg, 53-55 dB(A) @ 35 °C, débits
+  115/230 l/min. Source : `P007100194L03/N10`.
+- **`docs/fr/conventionnel/cad-cam-compresseurs/`** — 4 références
+  4 152-54 / 4 642-54 / 4 252-54 / 4 682-54 + table compatibilité par
+  plage de pression CAM machine (5,5 → 8,5 bar selon les usineuses
+  référencées dans la factsheet officielle). Source : `P007100024L02/R02`.
+- **`docs/fr/conventionnel/aspiration-chirurgicale/`** (VC 65) —
+  Pompe à pistons, **65/75 l/min**, dépression **910 mbar**,
+  **44 dB(A)**, **35 × 33 × 37 cm**, 16 kg, bocal 2 L à gélifiant
+  intégré. Source : `P007100188L03/L04`.
+- **`docs/fr/conventionnel/recuperateurs-amalgame/`** — Tableaux
+  complets CS 1, CAS 1, CA 1 (24 V) + CA 2 (56 dB(A), 8 kg, cassette
+  90 cm³) + CA 4 (55/46 dB(A), 10 kg, cassette 600 cm³, taux 98,9 %)
+  + VSA 300 S. Taux récupération TÜV Essen, agréments DIBT
+  Z-64.1-15/20/22. Source : `P007-619-03/TM-dd.de`.
+- **`docs/fr/conventionnel/systemes-cliniques/`** — Gamme P 6000 / 9000 /
+  12000 (compresseurs cliniques) + V 6000 / 9000 / 12000 / 15000 / 18000
+  (aspirations centralisées). Nouveau panneau de commande intégré +
+  interface CAN + connexion VistaSoft Monitor depuis octobre 2023.
+  Couvre jusqu'à 80 praticiens simultanés.
+- **`docs/fr/conventionnel/canules-universelles/`** — 22 références
+  produits par coloris et conditionnement (III adultes / Petito enfants /
+  Protect anti-reflux / chirurgicale stérile Ø 2,5 mm /
+  prophylactique aéropolissage).
+
+- **`docs/fr/imagerie/vistavox-s/`** — Caractéristiques techniques
+  complètes : générateur 50-99 kV / 1,6 kW, capteur CsI **49,5 µm**
+  (135,8 × 36,4 mm) + capteur Ceph 100 µm (157,2 × 16,3 mm), FOV
+  **Ø 130 × 85 mm** + 10 volumes Ø 50 × 50 mm, hauteur 1 406-2 206 mm,
+  poids **180 kg** (S) / **202 kg** (Ceph), L × P 1 212 × 1 545 mm
+  (S) / 1 941 × 1 615 mm (Ceph), 200-240 V / 170 W / max 2,2 kVA,
+  17 + 6 programmes pano / Ceph, MAR + S-Pan + 4 fonctions IA.
+  Fabriqué à Gechingen, Allemagne. Source : `P007100059L03/R05`.
+- **`docs/fr/imagerie/vistacam-ix-hd-smart/`** — USB 2.0/3.0,
+  **1 280 × 1 024 pixels**, **70 g** / **200 mm**, câble 2,5 m
+  (rallonge 19 m via support actif USB), 3 têtes interchangeables
+  Cam (blanc) / Proof (405 nm violet) / Proxi (850 nm IR), échelle
+  fluorescence Proof 0-1 émail sain → > 2,5 dentine profonde. Source :
+  `P007100020L03/J10`.
+- **`docs/fr/imagerie/vistaray-7/`** — Structure interne du capteur
+  (blindage + scintillateur Dürr + optique flexible + puce CMOS +
+  absorbeur de choc), accessoires (set angulateurs + support mural /
+  bras scialytique), conformité RKI, fabrication Allemagne. Source :
+  `P007-670-03/C5`.
+- **`docs/fr/imagerie/vistasoft-4-0/`** — Section **filtre UHD**
+  (Ultra High Definition, nouveau VistaSoft 4.0, présenté **IDS 2025**,
+  ajuste luminosité+contraste+netteté **région par région** sur les 4
+  types intra-oral / pano / ceph / 3D-CBCT). Sources Facebook officiel
+  + page UK. **6 fonctions IA inclusive** détaillées (rotation auto,
+  côté inversé, qualité IQ, dents, traçage canal nerveux, Clear Pan).
+  **Tableau des 21 filtres numériques classiques** (7 intra-oral +
+  4 pano + 8 céphalo + 2 Proof) extrait du manuel `2110100001L03`
+  (édition 2311V029).
+
+- **`docs/fr/hygiene-chimie/hygoclave-hygopure/`** — Hygoclave 50 et
+  50 Plus (chambre **17 L** / **22 L**, **484 × 493 × 642 mm**,
+  **57 kg** / **61 kg**), 5 programmes 134/121 °C type B (45 → 62 min),
+  charges max (5,5/6,5 kg massive), 3 modes alimentation eau, USB +
+  Ethernet + PDF. DM IIb CE **0051**. Source : `P007100196L03/N11`.
+- **`docs/fr/hygiene-chimie/hygobox-hygopac-emballage/`** — Hygopac
+  et Hygopac View côte à côte : 550 / 900 W, 5,3 / 9 m/min, **9 / 13 mm**
+  largeur soudure, 7,2 / 7,8 kg, 160 × 435 × 135 mm / 170 × 370 × 140 mm.
+  Différences clés Hygopac View (écran tactile + validation + SD/réseau).
+  Source : `P007100138L03/J12`.
+- **`docs/fr/hygiene-chimie/hygosonic/`** — Référence `6035-50`,
+  220-240 V / 280 W / IP 20, Boost +25 % / Sweep / Degas, ID 220
+  (bain pour fraises) + MD 530/535 (dissolvants ciments/plâtre).
+  **Sonoswiss AG** fabricant légal depuis mars 2021 (MDR EU 2017/745).
+- **`docs/fr/hygiene-chimie/hygowater-traitement-eau/`** —
+  ⚠️ **Statut commercial fin de vie** : vente arrêtée
+  **1ᵉʳ janvier 2024** (Hygowater + Hygowater Compact). Consommables
+  et pièces détachées disponibles au catalogue. Fiche conservée
+  comme référence historique.
+- **`docs/fr/hygiene-chimie/vector-paro/`** — **25-35 kHz**,
+  réservoir **600 ml** (≈ 20 min d'autonomie à 30 ml/min), poudre
+  Vector Fluid polish grain **< 10 µm**, **16 × 21,5 × 25,5 cm**,
+  **2,5 kg**. Source : `P007-171-03/HK-dd.de`.
+
+### Ajouté — fiche entreprise enrichie
+
+- **`docs/fr/durr-dental-entreprise/overview.md`** :
+  - Frise complète **1941 → 2026** (Stuttgart-Feuerbach, transfert
+    Bietigheim 1954, premier compresseur sans huile 1965, VS 300 en
+    1993, VistaCam 1995, VistaRay 1997, VistaScan 2002, VistaIntra /
+    VistaPano 2013, Lunos / VistaVox S / Hygoclave 90 en 2016, NEW
+    Tornado 2025, German Design Award 2026).
+  - Section **gouvernance** (Martin Dürrstein CEO, Walter Dürr
+    Aufsichtsrat 2008-2012).
+  - **Dürr Dental France SARL** détaillée : SIREN **311 995 609**,
+    NAF 46.46Z, créée 1978-01-01, capital 7 622,45 €, tél
+    +33 1 55 69 11 50, tranche 10-19 salariés.
+
+### Conformité éditoriale (suivi)
+
+- Aucun document marqué **« Confidential Internal Information »** mobilisé
+  intégralement. Seules les **désignations modèles publiques** (P 6000-12000,
+  V 6000-18000, Hygowater EOL) ont été extraites — les article numbers
+  spécifiques des documents internes (5922200053, 1802-51, etc.) ne sont
+  **pas** publiés dans la base de connaissances.
+- Adresse Dürr Dental France actualisée partout : **71 rue des Hautes
+  Pâtures, 92000 Nanterre** (anciennes adresses « 26 rue Diderot » et
+  « 8 rue Paul Héroult, Rueil-Malmaison » présentes dans les factsheets
+  antérieures à 2019 explicitement notées comme historiques).
+
+### Notes techniques
+
+- **Limite Claude API ~10 MB** sur les PDFs embarqués directement en
+  conversation. PDFs > 10 MB (ex. brochure récupérateurs CA 13,5 MB) :
+  contournement via extraction texte locale (PyPDF2 + Python Anaconda).
+
 ## [0.1.0] — 2026-05-28
 
 ### Ajouté

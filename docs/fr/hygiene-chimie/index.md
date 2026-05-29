@@ -4,7 +4,7 @@ title: "Hygiène et chimie de désinfection Dürr Dental — Index (à venir)"
 description: "Catalogue de la ligne hygiène Dürr Dental : produits de désinfection des instruments, surfaces, aspiration et empreintes."
 lang: fr
 permalink: /docs/fr/hygiene-chimie/
-last_factual_review: 2026-05-28
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -20,15 +20,16 @@ solutions de désinfection des instruments, surfaces, systèmes d'aspiration et 
 | Gamme | Description | Fiche |
 |---|---|---|
 | **[Système Lunos](lunos-system/overview/)** | MyLunos / MyLunos Duo (aéropolisseurs), poudres Gentle Clean et Perio Combi, pâtes de polissage, produits fluorés, confort patient | Système complet |
-| **[Vector Paro](vector-paro/overview/)** | Thérapie parodontale ultrasonique atraumatique. Anneau de résonance Vector unique. > 25 ans de développement. | Parodontite + Péri-implantite |
+| **[Vector Paro](vector-paro/overview/)** | Thérapie parodontale ultrasonique atraumatique. **25-35 kHz**, réservoir **600 ml**, grain polish **< 10 µm**, **16 × 21,5 × 25,5 cm**, **2,5 kg**. Anneau de résonance Vector unique. > 25 ans de développement. | Parodontite + Péri-implantite |
 
 ### Stérilisation et traitement de l'eau
 
 | Gamme | Description | Fiche |
 |---|---|---|
-| **[Hygoclave et Hygopure](hygoclave-hygopure/overview/)** | Hygoclave 40 / 50 / 90 (stérilisateurs vapeur classe B) + Hygopure 90 et Hygodem 90 (traitement eau DI). | DM IIa/IIb MDR |
-| **[Hygobox, Hygopac et Hygofol](hygobox-hygopac-emballage/overview/)** | Transport instruments + soudeuses emballage stérile (Hygopac, Hygopac Plus, Hygopac View) + Hygofol + Hygoprint | DIN EN ISO 11607-2 |
-| **[Hygowater](hygowater-traitement-eau/overview/)** | Décontamination de l'eau des fauteuils dentaires (filtration + électrolyse, sans chimie). < 100 UFC/ml. Validé Faculté dentaire Strasbourg. | DM |
+| **[Hygoclave et Hygopure](hygoclave-hygopure/overview/)** | Hygoclave 40 / **Hygoclave 50 (17 L)** / **Hygoclave 50 Plus (22 L)** / 90 — stérilisateurs vapeur **classe B** (5 programmes 134/121 °C, 33-62 min). Hygopure 90 et Hygodem 90 (traitement eau DI). | DM IIa/IIb MDR — CE 0051 |
+| **[Hygobox, Hygopac et Hygofol](hygobox-hygopac-emballage/overview/)** | Transport instruments + soudeuses emballage stérile **Hygopac** (550 W, soudure 9 mm, 5,3 m/min) et **Hygopac View** (900 W, **soudure 13 mm**, 3 vitesses 5/7/9 m/min, écran tactile, SD/réseau) + Hygofol + Hygoprint | DIN EN ISO 11607-2 |
+| **[Hygosonic](hygosonic/overview/)** | Bac à ultrasons (réf. `6035-50`, 280 W, IP 20). Fonctions **Boost** (+25 %) / **Sweep** / **Degas**. Fabricant légal **Sonoswiss AG** depuis 2021 (MDR), Dürr Dental SE distributeur. | DM |
+| **[Hygowater](hygowater-traitement-eau/overview/)** | ⚠️ **Vente arrêtée 01/01/2024**. Décontamination eau fauteuils (filtration + électrolyse). Consommables + pièces détachées maintenus au catalogue pour parc installé. | EOL |
 
 ### Désinfection — Système 4 couleurs
 

@@ -348,10 +348,13 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 | Mâchoire intermédiaire | Ø 130 × 70 mm |
 | **Volume local** (10 volumes — 5 maxillaire + 5 mandibule) | **Ø 50 × 50 mm** en résolution 80 µm ou 120 µm |
 
-> 📌 Selon l'**étude Dr Johannes Krause (2013, 1 020 patients)** : un volume
-> Ø 80 × 80 mm couvre intégralement seulement **1,4 %** des patients ; le
-> volume **adapté Ø 130 × 85 mm** couvre la zone dentaire de **100 %**
-> des patients.
+> 📌 Selon l'**étude académique de référence (2013, 1 020 patients)**
+> citée dans la brochure officielle VistaVox S : un volume Ø 80 × 80 mm
+> couvre intégralement seulement **1,4 %** des patients ; le volume
+> **adapté Ø 130 × 85 mm** couvre la zone dentaire de **100 %** des
+> patients. *« Untersuchung zum erforderlichen Field of View für
+> bildgebende 3D-Diagnostik in der Zahnmedizin »* — voir factsheet
+> `P007100059L03` pour les références bibliographiques complètes.
 
 ### Délais de numérisation
 

@@ -33,6 +33,7 @@ source_documents:
     ref: "P007-521-03"
     type: "brochure commerciale Dürr Dental France"
     language: "fr"
+    note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des fonctions Boost (+25 %) / Sweep / Degas et de la compatibilité avec produits ID 212/213/220 et MD 530/535"
   - title: "Page Sonoswiss AG (fabricant légal depuis 2021)"
     url: "https://www.sonoswiss.ch/"
     type: "site fabricant"

@@ -37,6 +37,7 @@ source_documents:
     ref: "P007100024L02/R02"
     type: "factsheet officielle Dürr Dental SE"
     language: "en"
+    note: "Brochure officielle Dürr Dental SE — disponible via le Centre de téléchargements. Source des 4 références produits (4152-54, 4642-54, 4252-54, 4682-54), des caractéristiques techniques (cuve 50/90 L, débits 125-586 l/min, dB(A) 66-72) et de la table de compatibilité par plage de pression CAM"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
@@ -106,34 +107,30 @@ sont disponibles avec **insonorisation optionnelle**.
 | **Duo Tandem — 2 agrégats** | **`4252-54`** | **50 L** | **253 / 292** | **69** | 400 V (3∼) |
 | **Quattro Tandem — 2 agrégats** | **`4682-54`** | **90 L** | **516 / 586** | **72** | 400 V (3∼) |
 
-### Compatibilité par fabricant CAD/CAM — plages de pression à régler
+### Compatibilité par plage de pression CAD/CAM
 
-D'après la factsheet (réglages compresseur à effectuer côté CAD/CAM
-machine en bar) :
+La factsheet officielle Dürr Dental **« Compressed air for exacting
+demands »** (réf. `P007100024L02`) référence une **liste de plus de
+20 usineuses CAD/CAM** (chambre cabinet et laboratoire) avec la **plage
+de pression à régler** côté compresseur pour chacune. La répartition
+synthétique est la suivante :
 
-| Fabricant CAD/CAM | Modèles | Plage à régler |
-|---|---|---|
-| **KaVo** | ARCTICA / Everest engine | 6,5 → 8,0 bar |
-| **KaVo** | (autres) | 6,5 → 8,0 bar |
-| **AmannGirrbach** | ceramill® motion 2 & 3 / ceramill® mikro / ceramill® argotherm | 6,5 → 8,0 bar |
-| **vhf camfacture** | N4 / Planmeca PlanMill 40, 40 S / Roland DWX-4, DWX-50, DWX-51D / Datron D1 | 5,5 → 7,0 bar |
-| **vhf camfacture** | K5 / S1 / S2 / K4 | 6,5 → 8,0 bar |
-| **Planmeca** | PlanMill 50 | 6,5 → 8,0 bar |
-| **Zubler** | DC1 / DC5 | 7,0 → 8,5 bar |
-| **imes-icore** | CORiTEC 140i / 240i / 250i / 340i / 350i / 440i / 450i | 7,0 → 8,5 bar |
-| **imes-icore** | CORiTEC 550i / 750i | 7,0 → 8,5 bar |
-| **Sirona** | inLab MC X5 | 7,0 → 8,5 bar |
-| **Wieland** | ZENOTEC select / ZENOTEC mini | 7,0 → 8,5 bar |
-| **Zirkonzahn** | M1, M3, M4, M5, M6 | 6,5 → 8,0 bar |
-| **Roland** | DWX-4W | 7,0 → 8,5 bar |
-| **Ivoclar Vivadent** | PrograMill PM3 / PM5 / PM7 | 6,5 → 8,0 bar |
-| **Datron** | D5 | 7,0 → 8,5 bar |
+| Plage de pression à régler | Type d'usineuses concernées |
+|---|---|
+| **5,5 → 7,0 bar** | Usineuses chairside compactes — entrée de gamme laboratoire |
+| **6,5 → 8,0 bar** | Usineuses laboratoires intermédiaires (ceramills, ZENOTEC mini, PrograMill, Zirkonzahn, ARCTICA) |
+| **7,0 → 8,5 bar** | Usineuses haut de gamme et grandes laboratoires (CORiTEC 550i/750i, Zubler DC, Datron D5) |
+
+> 📋 **Liste exhaustive des modèles compatibles** : voir la **page
+> compatibilité officielle Dürr Dental** :
+> <https://www.duerrdental.com/en/products/compressed-air/devices/cad-cam-compressors/>
+> et la factsheet `P007100024L02` (Centre de téléchargements).
 
 > 📌 **Pourquoi le Tornado n'est pas compatible CAD/CAM** : la pression
-> max du Tornado est **8 bar**, insuffisante pour les CAM systems
-> exigeant jusqu'à **8,5 bar** (Sirona inLab MC X5, Wieland ZENOTEC,
-> Datron D5, imes-icore 550i/750i, Roland DWX-4W, Zubler DC). Les
-> compresseurs **CAD/CAM dédiés** sont obligatoires pour ces machines.
+> maximale du Tornado est **8 bar**, insuffisante pour les usineuses
+> haut de gamme exigeant jusqu'à **8,5 bar**. Les compresseurs
+> **CAD/CAM dédiés** (Duo Tandem / Quattro Tandem 1 ou 2 agrégats)
+> sont obligatoires pour ces machines.
 
 ### Recommandation d'installation
 

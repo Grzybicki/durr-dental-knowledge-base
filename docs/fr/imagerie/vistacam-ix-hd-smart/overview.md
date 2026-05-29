@@ -49,6 +49,7 @@ source_documents:
     ref: "P007100020L03/J10"
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
+    note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques (1280×1024, USB 2.0/3.0, 70 g, 200 mm, 3 têtes interchangeables Cam/Proof 405 nm/Proxi 850 nm)"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---

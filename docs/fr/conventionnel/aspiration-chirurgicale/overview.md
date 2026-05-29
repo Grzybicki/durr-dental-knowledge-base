@@ -25,6 +25,7 @@ source_documents:
     ref: "P007100188L03/L04"
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
+    note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques (910 mbar, 44 dB(A), 35×33×37 cm, 16 kg, bocal 2 L gélifiant, aspiration 75 % plus rapide que VC 45)"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
