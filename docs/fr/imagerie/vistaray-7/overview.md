@@ -32,7 +32,11 @@ source_documents:
     url: "https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental"
     type: "registre réglementaire"
     language: "multi"
-last_factual_review: 2026-05-28
+  - title: "Brochure VistaRay 7 — Qualité, netteté, rapidité (FR)"
+    ref: "P007-670-03/DD-dd.de/C5"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -82,7 +86,36 @@ utilisation immédiate.
 | Pixel | **19 × 19 µm** |
 | Résolution théorique | **26,3 LP/mm** |
 | Résolution effective | **20,0 LP/mm** |
-| Stabilité | **> 400 000 images** |
+| Stabilité | **> 400 000 images** à **50 µGy** (dosage moyen de détection) |
+| Installation | **Au mur** ou sur le **bras du scialytique** (support inclus) |
+| Rallonge USB | **1 m** (standard) — **hub USB actif recommandé** pour rallonge plus longue |
+| Câble | **Remplaçable à prix fixe** (pièce de rechange) |
+| Origine | **Fabriqué en Allemagne** |
+
+### Structure interne (couches du capteur, de la surface vers le PCB)
+
+1. **Blindage** — protection mécanique et électromagnétique
+2. **Scintillateur** — couche propriétaire Dürr Dental qui **réduit la diffusion** de la lumière et la **concentre** sur le capteur (meilleure qualité d'image)
+3. **Optique flexible** — couplage scintillateur / puce CMOS
+4. **Puce CMOS** — capteur photosensible
+5. **Absorbeur de choc** — protection en cas de chute du capteur
+
+## Accessoires inclus / options
+
+| Accessoire | Détail |
+|---|---|
+| **Set d'angulateurs** | Positionnement sûr et confortable du capteur en bouche — système complet de mordus et alignement |
+| **Support pour capteur** | Installation **au mur** ou sur **bras du scialytique** |
+| **Sachets de protection hygiéniques** | Consommable (barrière infection) |
+| **Hub USB actif** | Recommandé pour rallonge > 1 m |
+| **Câble de remplacement** | Disponible à prix fixe (réparable) |
+
+## Gestion des infections
+
+- **Sachets de protection hygiéniques** à usage unique.
+- **Désinfection par essuyage** et **immersion** conformément aux
+  directives **RKI** (Robert Koch-Institut, Allemagne — référence
+  hygiène dentaire en Europe).
 
 ### VistaRay 7 — Taille 1
 

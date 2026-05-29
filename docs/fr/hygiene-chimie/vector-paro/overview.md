@@ -209,6 +209,32 @@ parodontale :
 - **Vector** = thérapie parodontale ultrasonique atraumatique
   (parodontites, péri-implantites).
 
+## Caractéristiques techniques (factsheet P007-171-03)
+
+| Paramètre | Valeur |
+|---|---|
+| Tension / Fréquence secteur | **230 V** / 50–60 Hz |
+| **Fréquence de fonctionnement ultrasonique** | **25 – 35 kHz** |
+| **Capacité réservoir d'eau** | **600 ml** |
+| **Consommation d'eau pièce à main Paro** | env. **30 ml / min** |
+| **Vector Fluid polish — grosseur de grain moyen** | **< 10 µm** |
+| Vector Fluid polish — contenu sachet | 200 ml |
+| **Dimensions** (H × L × P) | **16 × 21,5 × 25,5 cm** |
+| **Poids** | **2,5 kg** |
+
+### Lecture des spécifications
+
+- **2,5 kg + 16 cm de hauteur** = unité **posée sur la console** près du
+  fauteuil (pas d'encombrement au sol).
+- **25–35 kHz** = plage standard ultrasons dentaires — fréquence
+  optimisée pour le **mouvement linéaire vertical** Vector (≠
+  oscillations latérales des ultrasons classiques) — voir section
+  technologie Vector ci-dessus.
+- **30 ml/min** d'irrigation = autonomie d'environ **20 minutes** sur
+  un plein de réservoir (600 ml ÷ 30 ml/min).
+- **Grain Vector Fluid polish < 10 µm** = abrasion **minimale** sur la
+  surface radiculaire (objectif **atraumatique** Vector).
+
 ## Sources publiques
 
 | Document | URL publique |

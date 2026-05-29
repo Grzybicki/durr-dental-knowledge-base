@@ -29,7 +29,12 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-05-28
+  - title: "Brochure Systèmes de séparation et récupérateurs d'amalgame Dürr Dental (FR)"
+    ref: "P007-619-03/TM-dd.de"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+    note: "Source des caractéristiques techniques complètes (dimensions, dB(A), taux de récupération, agrément DIBT)"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -106,6 +111,66 @@ Les modèles d'aspiration humide marqués **VSA** (par exemple **VSA 300 S**,
 intègrent **directement** dans leur châssis un récupérateur d'amalgame
 adapté à leur capacité. Ces configurations évitent la mise en place
 d'un récupérateur externe.
+
+## Caractéristiques techniques (factsheet P007-619-03)
+
+### Systèmes de séparation et récupérateurs autonomes
+
+| Caractéristique | **CS 1** | **CAS 1** | **CA 1** | **CA 2** | **CA 4** |
+|---|---|---|---|---|---|
+| Tension (V) | 24 | 24 | 24 | **230 (1∼)** | **230 (1∼)** |
+| Fréquence (Hz) | 50-60 | 50-60 | 50-60 | 50-60 | 60 |
+| Puissance électrique (W) | 70 | 100 | 60 | 100 | 210 |
+| Puissance veille (W) | – | – | – | 4 | 7 |
+| Intensité (A) | 2,7 | 4,0 | 2,5 | – | – |
+| **Débit liquide max** (l/min) | **2** | **4** | **4** | – | – |
+| **Dimensions H × L × P sans boîtier** (cm) | 12,5 × 15 × 12 | 25,5 × 15,1 × 11 | 25,5 × 15,1 × 11 | **34,5 × 30 × 31** | 41 × 25 × 28 |
+| Dimensions avec boîtier (cm) | 43,5 × 25,5 × 16 | 43,5 × 25,5 × 16 | 43,5 × 25,5 × 16 | – | 50 × 36 × 36 |
+| Poids sans boîtier (kg) | 1,4 | 2,7 | 2,7 | **8** | 10 |
+| Poids avec boîtier (kg) | 7,4 | 8,7 | 8,7 | – | – |
+| **Niveau sonore sans boîtier dB(A)** | – | – | – | **56** | **55** |
+| **Niveau sonore avec boîtier dB(A)** | – | – | – | – | **46** |
+| **Taux de récupération** | – | **97,9 %** | **97,9 %** | **97,9 %** | **98,9 %** |
+| Volume cassette amalgame (cm³) | – | – | – | **~90** | **600** |
+| Agrément DIBT (Allemagne) | – | Z64.1-20 | Z64.1-20 | Z-64.1-20 | Z-64.1-22 |
+
+> Taux de récupération mesuré par le **TÜV Essen** selon l'essai
+> standard allemand à débit maximal. **DIBT** = Deutsches Institut für
+> Bautechnik (Institut allemand de la technique du bâtiment) — agrément
+> de référence pour les récupérateurs d'amalgame en Europe.
+
+### Unité d'aspiration humide avec récupérateur intégré — VSA 300 S
+
+| Caractéristique | **VSA 300 S** |
+|---|---|
+| Tension | **230 V (1∼)** |
+| Fréquence (Hz) | 50 |
+| Puissance électrique (W) | **580** |
+| Intensité (A) | 2,9 |
+| Débit liquide max (l/min) | **5** |
+| Dimensions sans boîtier (H × L × P cm) | **48 × 31 × 31** |
+| Dimensions avec boîtier (H × L × P cm) | 51 × 36 × 36 |
+| Poids sans boîtier (kg) | 14 |
+| Poids avec boîtier (kg) | 21,5 |
+| Taux de récupération | **97,5 %** |
+| Agrément DIBT | Z64.1-15 |
+
+### Lecture des données
+
+- **CA 2 sans boîtier 56 dB(A)** → installation au sol typique en local technique.
+- **CA 4 avec boîtier 46 dB(A)** → gain de **9 dB(A)** par mise en boîtier, suffisant pour installation près des soins.
+- **Cassette amalgame 600 cm³ sur CA 4** vs **~90 cm³ sur CA 2** → autonomie ~6,7× supérieure (intervalles de vidange plus espacés).
+- **CS 1 / CAS 1 / CA 1 en 24 V basse tension** → installation sous l'aspiration, alimentation par le système hôte.
+
+### Protection du système d'aspiration
+
+Verbatim factsheet : *« Environ la moitié des systèmes d'aspiration
+voient leurs performances diminuer en raison de dépôts et
+d'obstructions. La plupart des systèmes sont certes désinfectés, mais
+pas nettoyés. »* La solution Dürr Dental est le couple
+**[Orotol® plus](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)**
+(désinfection quotidienne) + **MD 555 cleaner** (nettoyage
+hebdomadaire) — voir fiche [désinfection aspiration](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/).
 
 ## Kit de contrôle
 

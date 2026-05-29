@@ -29,6 +29,15 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/"
     type: "page produit"
     language: "en"
+  - title: "Brochure Hygosonic (FR) — Nettoyage aux ultrasons hautement efficace"
+    ref: "P007-521-03"
+    type: "brochure commerciale Dürr Dental France"
+    language: "fr"
+  - title: "Page Sonoswiss AG (fabricant légal depuis 2021)"
+    url: "https://www.sonoswiss.ch/"
+    type: "site fabricant"
+    language: "en"
+    note: "Depuis mars 2021 (MDR 2017/745), Sonoswiss AG (Ramsen, Suisse) est le fabricant légal ; Dürr Dental SE est distributeur. La référence et la marque restent identiques."
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
@@ -44,16 +53,65 @@ des instruments du cabinet.
 
 ## Caractéristiques clés
 
-D'après la page produit officielle :
+D'après la brochure officielle (réf. `P007-521-03`) :
 
-- **Désinfection et nettoyage** efficaces sans agressivité pour les
-  instruments.
-- **Champ sonore optimisé** pour un nettoyage particulièrement
-  homogène — pas de zones mortes.
-- **Fonction « Boost »** : augmentation de la puissance pour les
-  charges particulièrement encrassées.
-- **Fonction « Dégazage »** : purge de l'air des solutions, condition
-  pour une efficacité ultrasonique maximale.
+- **Désinfection et nettoyage** efficaces et **doux** pour les
+  instruments — **2 à 30 minutes** selon le matériel, le désinfectant
+  et l'encrassement (efficacité tuberculocide comprise).
+- **Boîtier en acier inoxydable** — élégant, hygiénique, facile à
+  nettoyer.
+- **Clavier sous film** résistant aux désinfectants de surface +
+  **deux boutons rotatifs** (temps et température).
+
+### Fonctions ultrasoniques de pointe
+
+| Fonction | Description |
+|---|---|
+| **Boost** | Augmentation de la puissance des ondes d'environ **+25 %** — décolle même les dépôts séchés tenaces |
+| **Sweep** | **Répartition optimale du champ sonore** par décalage continu des maxima d'onde → pas d'ombres acoustiques, pas de zones mortes (action homogène quelle que soit la position des instruments) |
+| **Degas** | **Dégazage** des liquides fraîchement préparés (élimine les bulles d'air qui dégradent l'efficacité ultrasonique) |
+
+## Caractéristiques techniques (plaque signalétique)
+
+| Paramètre | Valeur |
+|---|---|
+| **Référence** | **`6035-50`** (= 6035-100-50) |
+| **Tension** | 220–240 V (∼) |
+| Fréquence | 50–60 Hz |
+| **Intensité** | 1,20 A |
+| **Puissance** | **280 W** |
+| **Indice de protection** | **IP 20** |
+| Matériau cuve | Acier inoxydable |
+| Statut réglementaire | **Dispositif Médical** (CE) |
+
+## Fabricant légal et distribution (depuis 2021)
+
+> 📌 **Changement réglementaire MDR EU 2017/745** : depuis mars 2021,
+> le **fabricant légal** de l'Hygosonic est **Sonoswiss AG**
+> (Sonnenstrasse 417, CH-8262 Ramsen, Suisse) — un spécialiste suisse
+> des bacs ultrasoniques de précision. **Dürr Dental SE** est
+> **distributeur** depuis cette date. La **marque Dürr Dental** et la
+> **référence article** restent inchangées : `6035-50`. La plaque
+> signalétique indique les deux mentions (Sonoswiss = fabricant, Dürr
+> Dental = distributeur).
+
+## Combinaison avec produits chimiques Dürr Dental
+
+| Produit chimique | Usage | Lien fiche |
+|---|---|---|
+| **ID 212** / **ID 212 forte plus** | Désinfection instruments (large spectre) | [Voir fiche désinfection empreintes/instruments](../desinfection-empreintes/overview/) |
+| **ID 213** | Aldéhyde-free, instruments chirurgicaux, classiques, rotatifs | Idem |
+| **ID 220** | **Bain pour fraises** dédié | Idem |
+| **MD 530 / MD 535** | **Dissolvants de ciments et plâtre** (travail labo dentaire) | [Voir fiche familles ID/MD/HD/FD](../familles-id-md-hd-fd/overview/) |
+
+## Accessoires (revendeurs spécialisés)
+
+| Accessoire | Fonction |
+|---|---|
+| **Panier d'insert** ou d'immersion | Maintien des instruments dans le bain |
+| **Béchers** | Bain ciblé (sous-volume dans le bain principal) |
+| **Couvercles** | Étanchéité pendant le cycle |
+| **Pince à instruments Dürr** | Manipulation hygiénique |
 
 ## Combinaison avec ID 213 et autres produits ID/MD
 

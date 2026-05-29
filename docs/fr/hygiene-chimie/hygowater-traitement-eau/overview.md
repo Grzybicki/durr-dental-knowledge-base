@@ -39,14 +39,29 @@ license: CC-BY-4.0
 
 # Hygowater — Traitement de l'eau des fauteuils dentaires
 
+> ⚠️ **Statut commercial — arrêté depuis le 1ᵉʳ janvier 2024**
+>
+> Suite au repositionnement stratégique de la business unit et à la fin
+> du contrat exclusif avec le fournisseur (effet **31 mars 2023**),
+> Dürr Dental a **arrêté la vente active** des appareils **Hygowater**
+> et **Hygowater Compact** au **1ᵉʳ janvier 2024**.
+>
+> Les **consommables** et **pièces détachées** restent disponibles
+> pour le parc installé et figurent au **catalogue produits 2024 et
+> suivants**. Les **stocks restants** d'appareils peuvent encore être
+> écoulés ponctuellement.
+>
+> Cette fiche est conservée comme **référence historique** pour les
+> cabinets équipés du parc installé.
+
 ## Description courte
 
-**Hygowater** est l'appareil Dürr Dental de **décontamination de l'eau
-des fauteuils dentaires**. Il **élimine les micro-organismes** présents
-dans l'eau d'alimentation des unités de soins et offre une **protection
-durable contre le biofilm** dans les canalisations.
+**Hygowater** était l'appareil Dürr Dental de **décontamination de
+l'eau des fauteuils dentaires**. Il **éliminait les micro-organismes**
+présents dans l'eau d'alimentation des unités de soins et offrait une
+**protection durable contre le biofilm** dans les canalisations.
 
-Le système fonctionne par **filtration et électrolyse**, **sans
+Le système fonctionnait par **filtration et électrolyse**, **sans
 utilisation de produits chimiques**.
 
 ## Caractéristiques clés

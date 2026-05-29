@@ -36,7 +36,12 @@ source_documents:
   - title: "Catalogue tarifaire 2026 Dürr Dental France (sommaire — non publiable)"
     type: "catalogue interne — référence"
     note: "Catalogue tarifaire 2026 utilisé comme référence interne pour la liste des modèles. Les tarifs ne sont pas reproduits ici (susceptibles d'évoluer). Disponible auprès du service commercial Dürr Dental France."
-last_factual_review: 2026-05-28
+  - title: "Brochure Les compresseurs de Dürr Dental (Silver Airline FR)"
+    ref: "P007-158-03/LOD-dd.de/N04"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+    note: "Source des caractéristiques techniques complètes (Primo à Quattro P 20)"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -141,22 +146,68 @@ Une déclinaison spécifique de la gamme est dédiée aux **systèmes
 CAD/CAM** dentaires (laboratoires de prothèse, cabinets intégrant la CFAO).
 Voir la [fiche compresseurs CAD/CAM](../cad-cam-compresseurs/overview/).
 
-## Caractéristiques techniques typiques (Primo et Duo)
+## Caractéristiques techniques complètes — gamme Silver Airline (factsheet P007-158-03)
 
-| Paramètre | Primo (5152-01) | Duo (5252-01) | Duo (5252-51) |
-|---|---|---|---|
-| Tension | 230 V (1~) | 230 V (1~) | 400 V (3~) |
-| Fréquence | 50 / 60 Hz | 50 / 60 Hz | 50 / 60 Hz |
-| Volume débité à 5 bars | 58 / 66 l/min | 125 / 145 l/min | 125 / 145 l/min |
-| Plage de fonctionnement | 6 – 7,8 bar | 6 – 7,8 bar | 6 – 7,8 bar |
-| Dimensions (H × L × P) | 69 × 49 × 47 cm | 69 × 49 × 47 cm | 69 × 49 × 47 cm |
-| Niveau sonore | 65 / 66 dBA | 66 / 68 dBA | 66 / 68 dBA |
-| Niveau sonore avec armoire | 49 / 50 dBA | 51 / 50 dBA | 51 / 50 dBA |
-| Capacité de la cuve | 20 l | 20 l | 20 l |
-| Poids | 45 kg | 50 kg | 50 kg |
+Source : brochure officielle **« Les compresseurs de Dürr Dental »**
+(réf. `P007-158-03/N04`). Valeurs débit mesurées **sans dessiccateur à
+membranes** ; **plage de pression réglable maximale 9,5 bar** (détendeur
+en option) ; valeurs sonores moyennes **à 5 bar et 50 Hz**, mesurées en
+champ libre.
 
-Pour les modèles Trio, Quattro et Tandem, consulter le catalogue Dürr
-Dental France ou le service commercial pour les caractéristiques détaillées.
+### Compresseurs simples (1 à 4 praticiens)
+
+| Modèle | Tension | Praticiens | Cuve (L) | Débit @ 5 bar (l/min) | Pression (bar) | **dB(A) nu** | **dB(A) armoire** | Dimensions H × L × P (cm) | Poids (kg) |
+|---|---|---|---|---|---|---|---|---|---|
+| **Primo** | 230 V (1∼) | **1** | **20** | **61 / 71** | 6 – 7,8 | **65 / 66** | **49 / 50** | **69 × 49 × 47** | **45** |
+| **Duo** (230 V) | 230 V (1∼) | 2 | 20 | 125 / 145 | 6 – 7,8 | 68 | 51 | 64 × 49 × 46 | 50 |
+| **Duo** (400 V) | **400 V (3∼)** | 2 | 20 | 125 / 145 | 6 – 7,8 | 68 | 51 | 64 × 49 × 46 | 50 |
+| **Trio** | 230 V (1∼) | **3** | **50** | **181** | 6 – 7,8 | **67** | **49** | 76 × 74 × 52 | **80** |
+| **Quattro** | **400 V (3∼)** | **4** | **50** | **258 / 293** | 6 – 7,8 | **70** | **54** | 76 × 74 × 52 | **85** |
+
+### Compresseurs Tandem évolutifs (4 à 16 praticiens)
+
+| Modèle | Tension | Praticiens | Cuve (L) | Débit @ 5 bar (l/min) | Pression (bar) | dB(A) nu | Dimensions H × L × P (cm) | Poids (kg) |
+|---|---|---|---|---|---|---|---|---|
+| **Duo Tandem 1 groupe** (230 V) | 230 V (1∼) | 2 | 50 | 125 / 145 | 6 – 7,8 | **66** | **76 × 75 × 52** | **65** |
+| **Duo Tandem 1 groupe** (400 V) | 400 V (3∼) | 2 | 50 | 125 / 145 | 6 – 7,8 | 68 | 76 × 75 × 52 | 70 |
+| **Duo Tandem 2 groupes** (230 V) | 230 V (1∼) | **4** | 50 | **253 / 292** | 6 – 7,8 | 69 | 76 × 79 × 52 | 95 |
+| **Duo Tandem 2 groupes** (400 V) | 400 V (3∼) | 4 | 50 | 253 / 292 | 6 – 7,8 | 69 | 76 × 79 × 52 | 100 |
+| **Quattro Tandem 1 groupe** | 400 V (3∼) | **4** | **90** | **258 / 293** | **5,5 – 7,5** | **70** | **82 × 102 × 62** | **120** |
+| **Quattro Tandem 2 groupes** | 400 V (3∼) | **8** | 90 | **516 / 586** | 5,5 – 7,5 | **73** | 82 × 102 × 62 | **170** |
+| **Quattro P 20** | 400 V (3∼) | **16** | 90 | **1032 / 1172** | 5,5 – 7,5 | **76** | **114 × 115 × 77** | **300** |
+
+> 📌 **Lecture** :
+> - **Deux valeurs `x / y`** : x = 50 Hz (Europe), y = 60 Hz (US / Japon).
+> - **Tandem 1 groupe** = un seul groupe compresseur sur cuve commune
+>   (préparation à l'évolution).
+> - **Tandem 2 groupes** = deux groupes compresseur en parallèle sur
+>   cuve commune → doublement de capacité et redondance (si un groupe
+>   tombe en panne, l'autre prend le relais).
+> - **Quattro P 20** = la plus grosse configuration Silver Airline
+>   évolutive avant passage en [systèmes cliniques dédiés (P 6000-12000)](../systemes-cliniques/overview/).
+
+### Lecture des valeurs sonores
+
+- **Primo nu 65 dB(A)** → avec armoire **49 dB(A)** = gain **16 dB(A)**
+  (≈ « légère averse d'été »).
+- **Quattro nu 70 dB(A)** → avec armoire **54 dB(A)** = gain 16 dB(A).
+- **Pas d'armoire** disponible sur les **Tandem 2 groupes et Quattro P 20** —
+  installation en local technique dédié obligatoire.
+
+### Accessoires et filtres (4 familles)
+
+| Accessoire / filtre | Notes |
+|---|---|
+| **Détendeur** | Permet d'utiliser la plage jusqu'à **9,5 bar** maximum (option) |
+| **Petite armoire insonorisée** | Pour Primo, Duo, Duo Tandem 1 groupe |
+| **Grande armoire insonorisée** | Pour Trio, Quattro |
+| **Filtre d'admission** | 1ᵉʳ étage — particules grossières |
+| **Filtre fin** | Anti-contamination micro-organismes |
+| **Filtre bactériologique et virucide** | ULPA U16 (EN 1822-1) — kit `5150100016` pour 1 cylindre |
+| **Filtre conique** | Pour dessiccateur à membranes |
+
+Sélecteur officiel de filtres :
+<https://www.duerrdental.com/en/products/compressed-air/material-accessories/filter-selection/>.
 
 ## Points forts de la gamme
 

@@ -47,24 +47,62 @@ cabinets standards.
 
 Les systèmes d'air comprimé pour cliniques fonctionnent en **400 V (3~)
 50 Hz** (tension triphasée standard pour les installations hospitalières
-européennes) :
+européennes). D'après la page produit officielle Dürr Dental, la
+**station centralisée** combine **séchage par froid** (refrigerant
+type dryers) + **séparateur cyclonique** et couvre **jusqu'à 80
+praticiens simultanés**.
+
+### Stations centralisées dédiées — gamme P
+
+| Modèle | Cible (praticiens) | Notes |
+|---|---|---|
+| **P 6000** | Grosse pratique / petite clinique | Station modulaire **upgradable** (extensible vers P 9000) |
+| **P 9000** | Clinique moyenne | Station modulaire |
+| **P 12000** | Grande clinique / CHU | Station modulaire — plus grande capacité de la gamme P |
+
+### Modèles complémentaires (selon configuration)
 
 | Famille | Description |
 |---|---|
 | **Power Tower View 400 V** | Modèles VS 1200 S, V 1200 S, VS 900 S, V 900 S — voir [fiche Power Tower](../power-tower/overview/) |
-| **Silver Airline Tandem** | Évolution modulaire pour grandes installations — voir [fiche Silver Airline](../silver-airline/overview/) |
-| **Systèmes cliniques 400 V dédiés** | Modèles spécifiques décrits sur la page systèmes cliniques |
+| **Silver Airline Tandem** | Évolution modulaire (jusqu'à 2 × Quattro Tandem) — voir [fiche Silver Airline](../silver-airline/overview/) |
+| **Compresseurs CAD/CAM** | Pour les **laboratoires intégrés** des cliniques — voir [fiche CAD/CAM](../cad-cam-compresseurs/overview/) |
 
 ## Aspiration centralisée pour cliniques
 
-Les systèmes d'aspiration centralisée pour cliniques couvrent plusieurs
-fauteuils simultanément (typiquement 4 à 20+ postes) :
+### Stations centralisées dédiées — gamme V (clinique)
+
+| Modèle | Cible (praticiens) | Notes |
+|---|---|---|
+| **V 6000** | Grosse pratique / petite clinique | Station d'aspiration centralisée |
+| **V 9000** | Clinique moyenne | Station d'aspiration centralisée |
+| **V 12000** | Grande clinique | Station d'aspiration centralisée |
+| **V 15000** | Clinique de grande taille | Station d'aspiration centralisée |
+| **V 18000** | CHU / faculté dentaire | Plus grande capacité de la gamme V — couvre les installations universitaires |
+
+### Modèles complémentaires Tyscor / V / VS
 
 | Famille | Description |
 |---|---|
-| **Tyscor** | Aspiration humide et sèche, technologie radiale, jusqu'à 75 % d'économies d'énergie. Voir [fiche Tyscor](../tyscor-aspiration/overview/) |
-| **Systèmes V centralisés** | V 600 / V 900 S / V 1200 S / Tyscor V 4 / V 2400 — aspiration sèche multi-postes |
-| **Systèmes VS centralisés** | VS 600 / VS 900 S / VS 1200 S / Tyscor VS 4 / VS 2400 — aspiration humide multi-postes |
+| **Tyscor V/VS 2, 4 + Tandem / Tridem** | Aspiration radiale haute capacité — voir [fiche Tyscor](../tyscor-aspiration/overview/) |
+| **V/VS 2400** | Multi-fauteuils transition entre cabinet et clinique |
+
+### Évolutions 2023 — nouveau panneau de contrôle + intégration IoT
+
+D'après la communication officielle Dürr Dental (octobre 2023), les
+stations cliniques **P 6000-12000** et **V 6000-18000** ont été
+**révisées** avec :
+
+- **Nouveau système de commande** — **écran intégré** directement au
+  contrôleur (vs écran satellite des générations antérieures).
+- **Interface CAN** entre la cuve séparateur et les systèmes
+  d'aspiration → **installation plus simple et plus rapide**.
+- **Connexion à [VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/)**
+  désormais possible pour les systèmes cliniques (ce n'était pas le cas
+  avant 2023) — **maintenance prédictive** via réseau du revendeur,
+  surveillance des paramètres vitaux à distance, **rappels automatiques**
+  de maintenance basés sur l'**usage réel** (et non plus sur des
+  intervalles fixes).
 
 ## Spécificités du contexte clinique
 

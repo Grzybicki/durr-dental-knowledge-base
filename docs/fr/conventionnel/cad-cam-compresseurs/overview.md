@@ -33,7 +33,11 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/compressed-air/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-05-28
+  - title: "Brochure Compressed air for exacting demands (EN) — CAD/CAM"
+    ref: "P007100024L02/R02"
+    type: "factsheet officielle Dürr Dental SE"
+    language: "en"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -85,6 +89,92 @@ s'appuyant sur :
 Les compresseurs Dürr Dental sont des **dispositifs médicaux de classe
 IIa** selon le règlement **MDR EU 2017/745**, y compris ceux dédiés au
 CAD/CAM.
+
+## Caractéristiques techniques — gamme CAD/CAM (factsheet P007100024L02)
+
+Tous les compresseurs CAD/CAM Dürr Dental sont en **400 V (3∼)
+triphasé**, 50 / 60 Hz, avec **commande électronique** (plage de
+pression réglable, monitoring d'humidité, **networking PC** via le
+logiciel). Les valeurs de débit (`air output`) sont mesurées **sans
+dessiccateur à membranes**. Tous les modèles jusqu'au **Duo Tandem**
+sont disponibles avec **insonorisation optionnelle**.
+
+| Modèle | Réf. | Cuve | Débit @ 5 bar (l/min) | dB(A) @ 5 bar | Tension |
+|---|---|---|---|---|---|
+| **Duo Tandem — 1 agrégat** | **`4152-54`** | **50 L** | **125 / 145** | **66** | 400 V (3∼) |
+| **Quattro Tandem — 1 agrégat** | **`4642-54`** | **90 L** | **258 / 293** | **70** | 400 V (3∼) |
+| **Duo Tandem — 2 agrégats** | **`4252-54`** | **50 L** | **253 / 292** | **69** | 400 V (3∼) |
+| **Quattro Tandem — 2 agrégats** | **`4682-54`** | **90 L** | **516 / 586** | **72** | 400 V (3∼) |
+
+### Compatibilité par fabricant CAD/CAM — plages de pression à régler
+
+D'après la factsheet (réglages compresseur à effectuer côté CAD/CAM
+machine en bar) :
+
+| Fabricant CAD/CAM | Modèles | Plage à régler |
+|---|---|---|
+| **KaVo** | ARCTICA / Everest engine | 6,5 → 8,0 bar |
+| **KaVo** | (autres) | 6,5 → 8,0 bar |
+| **AmannGirrbach** | ceramill® motion 2 & 3 / ceramill® mikro / ceramill® argotherm | 6,5 → 8,0 bar |
+| **vhf camfacture** | N4 / Planmeca PlanMill 40, 40 S / Roland DWX-4, DWX-50, DWX-51D / Datron D1 | 5,5 → 7,0 bar |
+| **vhf camfacture** | K5 / S1 / S2 / K4 | 6,5 → 8,0 bar |
+| **Planmeca** | PlanMill 50 | 6,5 → 8,0 bar |
+| **Zubler** | DC1 / DC5 | 7,0 → 8,5 bar |
+| **imes-icore** | CORiTEC 140i / 240i / 250i / 340i / 350i / 440i / 450i | 7,0 → 8,5 bar |
+| **imes-icore** | CORiTEC 550i / 750i | 7,0 → 8,5 bar |
+| **Sirona** | inLab MC X5 | 7,0 → 8,5 bar |
+| **Wieland** | ZENOTEC select / ZENOTEC mini | 7,0 → 8,5 bar |
+| **Zirkonzahn** | M1, M3, M4, M5, M6 | 6,5 → 8,0 bar |
+| **Roland** | DWX-4W | 7,0 → 8,5 bar |
+| **Ivoclar Vivadent** | PrograMill PM3 / PM5 / PM7 | 6,5 → 8,0 bar |
+| **Datron** | D5 | 7,0 → 8,5 bar |
+
+> 📌 **Pourquoi le Tornado n'est pas compatible CAD/CAM** : la pression
+> max du Tornado est **8 bar**, insuffisante pour les CAM systems
+> exigeant jusqu'à **8,5 bar** (Sirona inLab MC X5, Wieland ZENOTEC,
+> Datron D5, imes-icore 550i/750i, Roland DWX-4W, Zubler DC). Les
+> compresseurs **CAD/CAM dédiés** sont obligatoires pour ces machines.
+
+### Recommandation d'installation
+
+> ⚠️ Verbatim factsheet : *« To avoid pressure fluctuations caused by
+> other air consumers the operation of the CAM system via a separate
+> compressed air network with dedicated compressor is recommended. »*
+>
+> Le compresseur CAD/CAM doit alimenter **uniquement** la CAM machine —
+> jamais partagé avec l'air de soin du cabinet (sinon fluctuations de
+> pression qui dégradent la précision d'usinage).
+
+### Système de filtration
+
+Identique à la gamme Silver Airline / Tornado (conforme à la norme
+**ISO 8573-1** exigée par les fabricants CAD/CAM pour les particules,
+huile et eau) :
+
+| Étage | Filtre |
+|---|---|
+| 1 | **Filtre à coalescence** avec récipient collecteur d'eau (filtre d'entrée du dessiccateur à membranes) |
+| 2 | **Filtre bactériologique ULPA U16** — EN 1822-1:2019-10 / ISO 65U / ISO 29463-3:2018 |
+| 3 | **Dessiccateur à membranes** — pas de régénération nécessaire |
+
+**Maintenance** : changement annuel de l'ensemble des filtres.
+
+## Pourquoi un compresseur dédié CAD/CAM ? (verbatim factsheet)
+
+> *« The spindle, the heart of the milling machine, can corrode due to
+> humid compressed air, introduced dirt can clog the spindle nozzle and
+> lead to mechanical abrasion in the spindle bearing. There is also the
+> possibility of a negative influence on subsequent processing steps
+> such as colouring, coating or glazing due to oil-stained or moist
+> blanks. »*
+
+Concrètement :
+- **Humidité** → corrosion de la **broche** (spindle = cœur de la machine)
+- **Saletés** → obstruction de la **buse** de la broche + abrasion des **roulements**
+- **Huile / humidité** → ruine les étapes ultérieures (**coloration, glaçage, frittage**)
+
+D'où l'**obligation** d'air comprimé **sec + sans huile + filtré**
+conforme à **ISO 8573-1**.
 
 ## Sources publiques
 

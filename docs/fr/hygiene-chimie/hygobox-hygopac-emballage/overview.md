@@ -120,6 +120,42 @@ réalisées.
 5. **Documentation** : Hygoprint.
 6. **Stockage** : armoires dédiées en zone propre.
 
+## Caractéristiques techniques — Hygopac et Hygopac View (factsheet P007100138L03)
+
+| Caractéristique | **Hygopac** | **Hygopac View** |
+|---|---|---|
+| Type | Soudeuse à défilement | Soudeuse à défilement |
+| Norme | **DIN EN ISO 11607-2** | DIN EN ISO 11607-2 |
+| Tension | 230 V | 230 V (1∼) |
+| Fréquence | 50–60 Hz | 50–60 Hz |
+| **Puissance électrique** | **550 W** | **> 900 W** |
+| Puissance de chauffe | 2 × 250 W (500 W) | **2 × 400 W (800 W)** |
+| Temps de chauffe | env. 3 min | env. 3 min |
+| **Température de soudage** | jusqu'à **240 °C** | jusqu'à 210 °C |
+| Réglage température | **En continu** | Par échelon de **5 °C** |
+| **Rapidité de soudage** | **5,3 m/min** | **3 niveaux** réglables : 5 / 7 / 9 m/min |
+| **Largeur de soudure** | 9 mm | **13 mm** |
+| **Poids** | **7,2 kg** | **7,8 kg** |
+| **Dimensions** (H × L × P) | **160 × 435 × 135 mm** | **170 × 370 × 140 mm** |
+
+### Différences clés Hygopac → Hygopac View
+
+| Fonction | Hygopac | Hygopac View |
+|---|---|---|
+| **Écran tactile** | – | ✅ |
+| **Validation** | – | ✅ |
+| **Surveillance automatique du processus** (température, rapidité, pression de serrage) | – | ✅ |
+| **Évaluation du fonctionnement** | – | ✅ |
+| **Évaluation de la performance** intégrée en usine | – | ✅ |
+| **Enregistrement des paramètres de soudure** | – | ✅ |
+| **Enregistrement automatique** des données (carte SD ou via réseau) | – | ✅ |
+| **Largeur de soudure** | 9 mm | **13 mm** (élargi → meilleure étanchéité) |
+
+> 📌 La factsheet précise que **Hygopac View** apporte un **gain de
+> temps** significatif par rapport aux **soudeuses à barres**
+> classiques (soudage en continu vs scellage à la barre). Recommandé en
+> cabinets à fort débit / cliniques.
+
 ## Sources publiques
 
 | Document | URL publique |

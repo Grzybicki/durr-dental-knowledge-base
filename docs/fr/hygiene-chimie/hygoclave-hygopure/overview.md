@@ -33,6 +33,11 @@ source_documents:
     url: "https://www.duerrdental.com/de/DE/news/detail/keine-chance-fuer-bakterien-und-keime-mit-dem-hygoclave-90-komplettiert-duerr-dental-seine-system-hygienekette-und-bringt-spitzentechnologie-in-die-zahnarztpraxis/"
     type: "communiqué officiel"
     language: "de"
+  - title: "Brochure Hygoclave 50 (FR) — L'hygiène réside dans son ADN"
+    ref: "P007100196L03/N11"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+    note: "Source des caractéristiques techniques complètes (chambre 17L/22L, 484×493×642 mm, 57/61 kg, charges et programmes)"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
@@ -147,6 +152,83 @@ système** complète Dürr Dental, qui couvre :
    désinfection [aspiration](../desinfection-aspiration/overview/),
    [surfaces](../desinfection-surfaces/overview/),
    [empreintes](../desinfection-empreintes/overview/)).
+
+## Caractéristiques techniques — Hygoclave 50 et 50 Plus (factsheet P007100196L03)
+
+### Données générales
+
+| Caractéristique | **Hygoclave 50** | **Hygoclave 50 Plus** |
+|---|---|---|
+| Classe de stérilisation | **B** | B |
+| **Volume de chambre** | **17 L** | **22 L** |
+| **Dimensions chambre** (Ø × p) | 250 × 370 mm | 250 × 450 mm |
+| Matériau chambre | **Acier inoxydable** | Acier inoxydable |
+| **Dimensions extérieures** (H × L × P) | **484 × 493 × 642 mm** | 484 × 493 × 642 mm |
+| **Poids** | **57 kg** | **61 kg** |
+| Volume récipient eau fraîche | 5,2 L | 5,2 L |
+| Tension | 220 V (60 Hz) / 230 V (50-60 Hz) / 240 V (50 Hz) | idem |
+| Consommation max @ 230 V | 8,9 A — **2 050 W** | 9,6 A — **2 200 W** |
+| Norme | EN 13060 / EN 61010-1 / EN 61326 / EN 61010-2-40 | idem |
+| Statut réglementaire | **DM classe IIb** — CE **0051** | DM IIb — CE 0051 |
+
+### Charges maximales — cycles standard type B
+
+| Type de charge | Hygoclave 50 | Hygoclave 50 Plus |
+|---|---|---|
+| Massive **non emballée** | **5,5 kg** | **6,5 kg** |
+| Massive **emballée** | 3,5 kg | 4 kg |
+| **Poreuse** | 1,5 kg | 2 kg |
+
+### Charges maximales — cycle flash-B
+
+| Type de charge | Hygoclave 50 | Hygoclave 50 Plus |
+|---|---|---|
+| Massive emballée | 0,5 kg | 0,7 kg |
+| Poreuse | 0,2 kg | 0,3 kg |
+
+### Programmes de stérilisation — durée totale (préchauffage + séchage inclus)
+
+| Programme | Temps maintien | Hygoclave 50 | Hygoclave 50 Plus |
+|---|---|---|---|
+| **134 °C B Standard** | 5,5 min | **45 min** | 48 min |
+| **134 °C B Standard Plus** (4 niveaux d'évacuation) | 5,5 min | 49 min | 51 min |
+| **134 °C B Prion** | **20 min** | 60 min | 62 min |
+| **134 °C B Flash** | 5,5 min | **33 min** | 34 min |
+| **121 °C B Standard** | 20,5 min | 58 min | 60 min |
+
+### Alimentation en eau — 3 options
+
+| Mode | Détail |
+|---|---|
+| **1. Manuelle** | Récipient eau fraîche 5,2 L accessible, remplissage manuel — conditions hygiène idéales |
+| **2. Système traitement d'eau** | Raccordement arrière à **Hygodem 90** (échangeur d'ions) ou **Hygopure 90** (osmose inverse) |
+| **3. Pompe intégrée** | Raccordement avant — aspire l'eau fraîche depuis un récipient externe |
+
+### Interface utilisateur et connectivité
+
+- **Écran tactile 5"** haute résolution, icônes couleur, gestion intégrée des utilisateurs
+- **Mémoire interne** : **> 100 000 protocoles** de cycles
+- **Export** : USB, Ethernet — protocoles téléchargeables en **PDF**
+- **Imprimante** en option pour impression directe
+- Interface dédiée pour échange avec logiciels de gestion de cabinet
+
+### Accessoires Hygoclave 50
+
+| Accessoire | Fonction |
+|---|---|
+| **Étiqueteuse automatique** | Impression d'étiquettes spécifiques au programme (codes-barres scannables) |
+| **Hygotest** (mire Helix + 250 bandelettes) | Tests Helix réguliers de routine |
+| **Hygodem 90** (échangeur d'ions) | Traitement de l'eau |
+| **Hygopure 90** (osmose inverse) | Traitement de l'eau |
+| **Imprimante** | Impression directe protocoles |
+
+### Caractéristiques de design
+
+- **Verrouillage de porte motorisé** automatique
+- **Filtre de protection** contre les impuretés intégré (accessible, nettoyable)
+- **Cycle B Standard Plus** : 4 niveaux d'évacuation lors du fractionnement — sécurité supplémentaire pour corps creux complexes
+- **Séchage performant** au moyen d'un vide bas — adaptable à la charge
+- Contrôle qualité **eau fraîche** intégré
 
 ## Sources publiques
 

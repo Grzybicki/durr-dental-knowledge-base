@@ -45,7 +45,11 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-05-28
+  - title: "Brochure VistaCam iX HD Smart (FR)"
+    ref: "P007100020L03/J10"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -91,15 +95,76 @@ Cette modularité permet à un cabinet de **disposer d'un seul corps de
 caméra** pour plusieurs usages, en changeant simplement la tête selon le
 besoin clinique.
 
-## Caractéristiques techniques
+## Caractéristiques techniques (factsheet P007100020L03)
 
-- **Résolution HD réelle** (RAW HD) avec filtre de netteté intégré.
-- **Enregistrement vidéo HD** à la même résolution que les photos.
-- **Autofocus variable continu** : prise de vue rapide et facile, quel que
-  soit le sujet (gros plan macro ou intra-oral à distance).
-- **Tête fine et arrondie** : accès facilité aux molaires postérieures.
-- **Boutons en haut et en bas** : pas de changement de prise en main selon
-  la position.
+| Paramètre | Valeur |
+|---|---|
+| Raccordement | **USB 2.0** (compatible USB 3.0) |
+| Utilisation multiposte | **Plug & Play** |
+| Activation / déclenchement | Touche sur la pièce à main (**en haut ET en bas**) + **vibration** au déclenchement |
+| **Poids pièce à main** | **70 g** |
+| **Longueur pièce à main** | **200 mm** |
+| **Longueur câble** | **2,5 m** (en option : rallonge jusqu'à **19 m** via support actif USB + câble répéteur) |
+| Alimentation | USB **5 V** |
+| Capteur | **CMOS** haute performance |
+| Pilote | **Pilote Windows standard** — aucun driver tiers nécessaire |
+| **Résolution** | **1280 (H) × 1024 (V) pixels** |
+| Système optique | **Lentilles sous verre de protection résistant** + **autofocus continu** |
+| Capteur de mouvement | Active/désactive la caméra automatiquement (économie d'énergie) |
+| Statut réglementaire | **DM classe I** |
+
+### Éclairage par tête (2 LED chacune)
+
+| Tête | Longueur d'onde LED | Couleur visible |
+|---|---|---|
+| **Cam** | **Blanc** | Lumière blanche standard |
+| **Proof** | **405 nm** | **Violet** (UV-A proche) — stimule la fluorescence des bactéries cariogènes |
+| **Proxi** | **850 nm** | **Infrarouge** (NIR — Near InfraRed) — invisible à l'œil, traverse l'émail sain |
+
+## Échelle de fluorescence Proof — interprétation diagnostique
+
+La tête **Proof** affiche un cliché coloré avec **valeur numérique
+graduée** correspondant à l'**activité de la carie** :
+
+| Valeur | Couleur | Interprétation clinique |
+|---|---|---|
+| **0 – 1,0** | Vert | **Émail dentaire sain** |
+| **1,0 – 1,5** | Bleu | **Début de carie de l'émail** |
+| **1,5 – 2,0** | Rouge | **Carie de l'émail profonde** |
+| **2,0 – 2,5** | Orange | **Carie de la dentine** |
+| **> 2,5** | Jaune | **Carie de la dentine profonde** |
+
+> 📌 **Principe physique** : la **lumière violette 405 nm** stimule les
+> **produits du métabolisme** des bactéries cariogènes (porphyrines)
+> qui renvoient une **lumière rouge** par fluorescence. L'émail sain,
+> lui, **fluoresce en vert**. Pas de colorant, pas de rinçage —
+> visualisation directe + suivi de l'**élimination des caries en cours
+> d'opération** (curetage).
+
+## Principe Proxi — caries proximales sans irradiation
+
+La tête **Proxi** projette une **lumière infrarouge 850 nm** à travers
+l'émail. L'**émail sain est transparent** à cette longueur d'onde →
+apparaît sombre. Les **lésions cariées** réfractent et réfléchissent la
+lumière → apparaissent **blanc opaque**.
+
+Avantages :
+- **Aucune irradiation** (pas de rayons X) — particulièrement adapté aux
+  **enfants** et **femmes enceintes**.
+- **Détection précoce** des caries approximales — souvent invisibles à
+  l'œil nu et à la caméra classique.
+- **Suivi non irradiant** : reminéralisation, progression / régression
+  des lésions.
+
+## Accessoires inclus / options
+
+| Accessoire | Détail |
+|---|---|
+| **Support pour pièce à main sur l'écran** | Inclus |
+| **Sachets de protection hygiéniques** | Inclus / consommable |
+| **Support actif avec adaptateur USB** | Option — permet la rallonge jusqu'à **19 m** |
+| Têtes interchangeables **Cam / Proof / Proxi** | Choix à la commande |
+| Verre de protection des lentilles | Résistant — pièce de rechange disponible |
 
 ## Périmètre clinique
 

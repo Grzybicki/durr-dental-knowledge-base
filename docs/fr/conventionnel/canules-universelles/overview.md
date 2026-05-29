@@ -165,8 +165,76 @@ Les canules universelles Dürr Dental sont compatibles avec :
 ## Articulation avec d'autres accessoires
 
 - [Accessoires d'aspiration](../accessoires-aspiration/overview/) — autres composants compatibles (vannes, supports, tuyaux).
+- [Support de tuyaux Comfort](../support-tuyaux-comfort/overview/) — module modulaire de portage 5-6 composants.
 - [DürrConnect](../durrconnect/overview/) — système global d'intégration.
 - [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/) — collecte des résidus.
+
+## Références produits (brochure P007-173-03)
+
+### Canule universelle III — adultes (Ø 16 mm, Ø 11 mm disponible)
+
+Études **Institut Fraunhofer** : *« l'intensité sonore produite par ces
+canules est largement inférieure à celle des autres modèles du
+marché »* — label *« Certificated quiet — Best test results »*.
+
+| Conditionnement | Coloris | Référence |
+|---|---|---|
+| Par 20 | Grise | `0700-054-00` |
+| Par 5 | Grise | `0700-055-50` |
+| Par 5 | Jaune | `0700-055-51` |
+| Par 5 | Rose | `0700-055-53` |
+| Par 5 | Bleue | `0700-055-54` |
+| Par 5 | Turquoise | `0700-055-55` |
+| Par 5 (2ᵉ série) | Grise | `0700-056-50` |
+| Par 5 (2ᵉ série) | Jaune | `0700-056-51` |
+| Par 5 (2ᵉ série) | Rose | `0700-056-53` |
+| Par 5 (2ᵉ série) | Bleue | `0700-056-54` |
+| Par 5 (2ᵉ série) | Turquoise | `0700-056-55` |
+
+### Canule universelle Petito — enfants
+
+Aussi silencieuse que la III mais nettement plus petite, **aucun angle**
+ni point de pression — adaptée à la **pédodontie**.
+
+| Conditionnement | Coloris | Référence |
+|---|---|---|
+| Par 20 | Grise | `0700-059-00` |
+| Par 5 | Grise | `0700-059-50` |
+| Par 5 | Jaune | `0700-059-51` |
+| Par 5 | Bleue | `0700-059-54` |
+
+### Canule universelle Protect — anti-reflux
+
+Évents intégrés : empêchent que des **sécrétions contaminées** ne
+refluent du système d'aspiration. Particularité : même munies d'évents,
+les canules Protect restent **particulièrement silencieuses**.
+
+> *« Les évents empêchent que des sécrétions contaminées ne refluent du
+> système d'aspiration lorsque la canule "aspire". »* (brochure P007-173-03)
+
+### Canule d'aspiration chirurgicale à usage unique
+
+**Ø 2,5 mm**, longueur **≈ 17 cm**. **Évents Protect intégrés**.
+**Emballage individuel stérile**.
+
+| Conditionnement | Référence |
+|---|---|
+| Par 20 (Ø 2,5 mm) | `0700-007-50` |
+| Par 100 (Ø 2,5 mm) | `0700-007-51` |
+
+Voir aussi [VC 65 — unité d'aspiration chirurgicale](../aspiration-chirurgicale/overview/)
+qui utilise ces canules en standard.
+
+### Canules prophylactiques (aéropolissage)
+
+**Embout de protection rotatif et amovible** — conçu pour absorber
+**deux fois plus** d'aérosol qu'un embout classique, particulièrement
+adapté aux traitements **prophylactiques avec aéropolisseurs**
+([système Lunos](/docs/fr/hygiene-chimie/lunos-system/overview/)).
+
+| Conditionnement | Coloris | Référence |
+|---|---|---|
+| Par 4 | Grise | `0700-058-50` |
 
 ## Sources publiques
 

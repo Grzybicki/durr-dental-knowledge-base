@@ -60,7 +60,12 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-05-28
+  - title: "Brochure VistaVox S et VistaVox S Ceph (FR) — La 3D selon Dürr Dental"
+    ref: "P007100059L03/R05"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+    note: "Source des caractéristiques techniques complètes (dimensions H 1406-2206 mm, poids 180/202 kg, capteur CsI 49,5 µm, FOV Ø 130×85 mm)"
+last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
@@ -315,6 +320,118 @@ Ceph = ajout d'un **module céphalométrique** intégré (orthodontie).
 ### Stitching Tool ?
 
 Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
+
+## Caractéristiques techniques complètes (factsheet P007100059L03)
+
+### Générateur HV et tube à rayons X
+
+| Paramètre | VistaVox S | VistaVox S Ceph |
+|---|---|---|
+| **Tension** | **50–99 kV** | **60–99 kV** |
+| **Intensité** | 4–16 mA | 4–16 mA |
+| **Puissance nominale** | **1,6 kW** | 1,6 kW |
+| **Foyer** | 0,5 mm (CEI 60336) | 0,5 mm (CEI 60336) |
+| **Filtration totale** | **2,8 mm Al** | 2,8 mm Al |
+
+### Détecteurs d'image
+
+| Détecteur | Technologie | Taille pixel | Surface active |
+|---|---|---|---|
+| **Capteur principal pano/CBCT** | **CsI** + matrice photodiodes CMOS | **49,5 µm** | 135,8 × 36,4 mm |
+| **Capteur Ceph (Ceph uniquement)** | CsI + CMOS | **100 µm** | 157,2 × 16,3 mm |
+
+### Volumes 3D — VistaVox S et S Ceph
+
+| Mode | Champ de vue (FOV) |
+|---|---|
+| **Forme anatomique mâchoire complète** | **Ø 130 × 85 mm** |
+| Mâchoire intermédiaire | Ø 130 × 70 mm |
+| **Volume local** (10 volumes — 5 maxillaire + 5 mandibule) | **Ø 50 × 50 mm** en résolution 80 µm ou 120 µm |
+
+> 📌 Selon l'**étude Dr Johannes Krause (2013, 1 020 patients)** : un volume
+> Ø 80 × 80 mm couvre intégralement seulement **1,4 %** des patients ; le
+> volume **adapté Ø 130 × 85 mm** couvre la zone dentaire de **100 %**
+> des patients.
+
+### Délais de numérisation
+
+| Acquisition | Temps |
+|---|---|
+| CBCT 3D complet (rotation 540°) | **18 s** |
+| Pano OPG | dès **7 s** |
+| Délais numérisation général | 2 à 18 s |
+| **Cliché Ceph tête latérale** (mode scan rapide / balayage linéaire) | **1,9 s** |
+
+### Programmes radiographiques
+
+| Type | VistaVox S | VistaVox S Ceph |
+|---|---|---|
+| **Programmes panoramiques** | **17** | 17 |
+| Programmes pano enfants (≥ 7 ans, dose -45 à -56 %) | **4** | 4 |
+| **Programmes Ceph** | n.a. | **6** (Tête latérale, Tête complète Latérale, Tête frontale PA, **SMV** SubMentoVertex, Vue occipito-mentale, Main carpe) |
+| **Mode QS** (Qualité Standard) | **Dose −62 % vs HQ** sur tous programmes | idem |
+
+Détail des 17 programmes pano : standard + hémiface droite/gauche/frontale +
+**4 programmes enfants** + **5 programmes orthogonaux** + **2 ATM** (diagnostic
+fonctionnel) + **2 sinus**.
+
+### Facteur d'agrandissement
+
+| Cliché | VistaVox S | VistaVox S Ceph |
+|---|---|---|
+| 2D pano | 1,26 | 1,26 |
+| 2D Ceph | n.a. | 1,15 |
+
+### Dimensions et installation
+
+| Paramètre | VistaVox S | VistaVox S Ceph |
+|---|---|---|
+| **Hauteur** | 1 406 – **2 206 mm** | 1 406 – 2 206 mm |
+| **Poids** | **180 kg** | **202 kg** |
+| **Zone de réglage en hauteur** | **800 mm** | 800 mm |
+| **Largeur × Profondeur** | **1 212 × 1 545 mm** | **1 941 × 1 615 mm** |
+| **Installation** | **Montage mural** | **Mural OU sur pied** (pied en option) |
+
+### Raccordement électrique
+
+| Paramètre | Valeur |
+|---|---|
+| Tension secteur | **200 – 240 V CA** |
+| Fréquence | 50 / 60 Hz |
+| Puissance nominale | **170 W** |
+| **Puissance maximum** | **2,2 kVA** |
+
+### Statut réglementaire et fabrication
+
+- **DM classe IIb** — marquage **CE 0297**.
+- **Fabriqué en Allemagne** sur le site de **Gechingen** (lieu de fondation
+  Dürr Dental en 1941).
+- Lauréat **Good Design Award**.
+
+### Fonctions IA inclusive (VistaSoft AI)
+
+D'après la brochure VistaVox S :
+
+| Fonction IA | Description |
+|---|---|
+| **Rotation automatique** | Algorithme IA vérifie l'orientation des radiographies intra-orales par analyse anatomique, corrige automatiquement la rotation. |
+| **Traçage canal nerveux** | Calcul automatique de l'emplacement du **canal mandibulaire** en 3D — le praticien valide la proposition. |
+| **Représentation panoramique IA** | À partir des images 3D, génère un **OPG ajusté à l'anatomie du patient** par algorithmes intelligents (« Clear Pan »). |
+| **VistaSoft Trace** | Analyse céphalométrique : points de référence + contours tissus mous automatiques + OVT (objectif visualisé de traitement). |
+
+### Technologies clés
+
+| Technologie | Description |
+|---|---|
+| **S-Pan** | Sélection automatique parmi de nombreuses couches des sections d'image **correspondant le mieux à l'anatomie réelle** du patient → image panoramique nette + **tolérance aux erreurs de positionnement** (compensation dans certaines limites, pas de répétition de cliché). |
+| **VistaVox MAR** | **Metal Artifact Reduction 3D** — élimination automatique des artéfacts métalliques en reconstruction 3D (algorithmes nouveaux). |
+| **Support de modèle (option)** | Numérisation de **modèles en plâtre** et **guides chirurgicaux** → **DICOM-to-STL** dans VistaSoft → réutilisation dans **VistaSoft Implant & Guide** ou impression 3D. |
+
+### Positionnement patient
+
+- **Écran tactile 7"** — interface intuitive.
+- **3 faisceaux** pour les clichés 2D (plan sagittal + plan de Francfort + canines).
+- **2 faisceaux** pour les clichés 3D (plan sagittal + plan de Francfort).
 
 ## Sources publiques
 

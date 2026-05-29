@@ -33,6 +33,11 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/compressed-air/"
     type: "page hub"
     language: "en"
+  - title: "Brochure Power Tower View (FR)"
+    ref: "P007100194L03/N10"
+    type: "factsheet officielle Dürr Dental France"
+    language: "fr"
+    note: "Source des caractéristiques techniques (208×64×61 cm, 265-275 kg, 53-55 dB(A), débits 115/230 l/min)"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
@@ -152,19 +157,45 @@ nativement** : pas de capot externe à installer, l'isolation acoustique
 est intégrée au châssis. Cette conception suit le standard Dürr Dental
 de l'air comprimé silencieux (Silver Airline, Tornado Super Silent).
 
-### Tableau récapitulatif Power Tower
+### Tableau récapitulatif Power Tower View (factsheet P007100194L03)
 
-| Modèle | Tension | Type aspiration | Filtre bactério | Accessoires inclus / option |
-|---|---|---|---|---|
-| **Power Tower Silence 120/02** | 230 V / 400 V (selon variante) | Humide intégrée | Disponible en option | Récupérateur amalgame intégrable |
-| **Power Tower Silence 120/04** | 400 V (3~) | Humide intégrée | Disponible en option | Idem |
-| **Power Tower Silence 120/12** | 400 V (3~) | Humide intégrée | Disponible en option | Idem |
-| **Power Tower Silence PTS 105** | voir page produit | Aspiration | Disponible en option | Idem |
-| **Power Tower View VS 600** | 230 V (1~) | Humide | **De série** | Écran tactile, Connect Box |
-| **Power Tower View VS 900 S** | 400 V (3~) | Humide | De série | Écran tactile, Connect Box |
-| **Power Tower View V 900 S** | 400 V (3~) | Sèche | De série | Idem |
-| **Power Tower View VS 1200 S** | 400 V (3~) | Humide | De série | Idem |
-| **Power Tower View V 1200 S** | 400 V (3~) | Sèche | De série | Idem |
+| Modèle | Praticiens | Amalgame | dB(A) @ 35 °C | Tension | Dimensions H × l × P | Poids |
+|---|---|---|---|---|---|---|
+| **Power Tower View VS 600 Duo** | 2 | **Oui** | **55** | 230 V (1∼) 50 Hz | **208 × 64 × 61 cm** | 275 kg |
+| **Power Tower View VS 900 S Duo (230 V)** | 3 | Oui | 55 | 230 V (1∼) 50 Hz | 208 × 64 × 61 | 275 kg |
+| **Power Tower View VS 900 S Duo (400 V)** | 3 | Oui | **53** | **400 V (3∼)** 50 Hz | 208 × 64 × 61 | 275 kg |
+| **Power Tower View VS 1200 S Duo** | 4 | Oui | 53 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 275 kg |
+| **Power Tower View V 600 Duo** | 2 | **Non** | 55 | 230 V (1∼) 50 Hz | 208 × 64 × 61 | 265 kg |
+| **Power Tower View V 900 S Duo** | 3 | Non | 53 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 265 kg |
+| **Power Tower View V 1200 S Duo** | 4 | Non | 53 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 265 kg |
+
+### Débit air comprimé Power Tower View
+
+| Configuration | Débit @ 5 bar |
+|---|---|
+| **Avec 1 groupe compresseur** | **115 l/min** |
+| **Avec 2 groupes compresseur** (2ᵉ groupe en option) | **230 l/min** |
+
+### Observations
+
+- **Toutes les configurations View** sont des unités **complètes** intégrant : moteur d'aspiration + compresseur (1 ou 2 groupes) + cuve + dessiccateur + récupérateur amalgame (option) → footprint **0,64 × 0,61 m** ≈ **0,39 m²** au sol.
+- **Hauteur 2,08 m** = passage de porte standard.
+- **Gain ~2 dB(A)** entre la version 230 V (55 dB) et 400 V (53 dB) — le triphasé permet une régulation plus douce.
+- Tous **filtres bactériologiques ULPA U16 / ISO 65U de série** sur Power Tower View.
+- **2ᵉ groupe compresseur en option** sur toutes les configurations → **doublement de capacité** sans changer de châssis.
+
+### Accessoires (filtres)
+
+D'après la factsheet, **4 familles de filtres** :
+
+| Filtre | Rôle |
+|---|---|
+| **Filtre d'admission** pour groupes compresseurs | 1ᵉʳ étage filtration (particules grossières) |
+| **Filtre fin** pour dessiccateur à membranes | Anti-contamination micro-organismes |
+| **Filtre bactériologique et virucide** pour dessiccateur | ULPA U16 (EN 1822-1) — **de série** sur Power Tower View |
+| **Filtre conique** pour dessiccateur à membranes | Composant interne dessiccateur |
+
+Sélecteur de filtre officiel : <https://www.duerrdental.com/fr/produits/air-comprime/materiel-accessoires/choix-du-filtre/>.
 
 > Pour les **valeurs précises** de hauteur × largeur × profondeur,
 > poids, débit air comprimé l/min, débit aspiration et **niveau sonore
