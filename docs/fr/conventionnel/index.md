@@ -21,6 +21,7 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 | **[Tornado](tornado/overview/)** | Nouvelle génération compresseurs (Tornado 1, 2, 4 + Super Silent). Jusqu'à 12 % d'économies d'énergie. Max 8 bar. German Design Award 2026 + Innovations-Champion 2025. | DM IIa MDR |
 | **[Power Tower](power-tower/overview/)** | Compresseur + aspiration combinés dans un même châssis (0,3–0,4 m²). Variants Silence et View, 230 V et 400 V. | DM IIa MDR |
 | **[Compresseurs CAD/CAM](cad-cam-compresseurs/overview/)** | Déclinaison Silver Airline dédiée aux systèmes CAD/CAM (CFAO de cabinet et laboratoire). | DM IIa MDR |
+| **[Filtres HEPA / ULPA U16](filtres-hepa-ulpa-compresseurs/overview/)** | Filtres bactériologiques ULPA U16 / ISO 65U (EN 1822-1:2019-10 / ISO 29463-3:2018) — 100× plus filtrant que HEPA H14. Option ou de série selon modèle (de série sur Power Tower View). | Norme EN 1822 |
 
 ## Aspiration
 
