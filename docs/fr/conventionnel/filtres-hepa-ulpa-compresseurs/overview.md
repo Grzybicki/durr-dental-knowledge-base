@@ -198,20 +198,100 @@ filtres** par numéro de référence du compresseur :
 | Compresseur **4 cylindres** (Quattro, Tornado 4) | À identifier via Filter Finder |
 | Configurations **Tandem** (Duo Tandem, Quattro Tandem) | À identifier via Filter Finder |
 
-### Filtres d'aspiration (pour les pompes à canal latéral V/VS et Power Tower)
+## Filtres d'aspiration — gamme complète
 
-| Compresseur / aspiration | Référence |
+### Filtre bactériologique et virucide de l'air de refoulement (HEPA H14)
+
+Page produit officielle : [Bacterial and virus exhaust air filter](https://www.duerrdental.com/en/products/suction/materials-and-accessories/exhaust-air-virus-bacteria-filter/).
+
+| Caractéristique | Valeur |
 |---|---|
-| **V/VS 600, V/VS 900 S, V/VS 1200 S, V 2400, Tyscor V/VS** | Filtre bactériologique **`0705-991-50`** |
-| Cartouche pour filtre bactériologique `0705-991-50` (renouvellement) | **`0705-991-05`** (à remplacer après 3 500 h ou tous les 2 ans) |
-| **V/VS/VSA 300 S, Variosuc** | Filtre bactériologique **`7119100010`** |
-| **V/VS/VSA 300 S** (kit avec équerre, installable sur boîtier) | **`7120-143-00`** |
-| **V/VS/VSA 300 S** (boîtier avec filtre bactériologique) | **`7120100000`** |
+| **Classification filtre** | **HEPA H14** selon **EN 1822-1:2019-10 / ISO 45H** |
+| **Rétention** | **> 99,995 %** des particules **< 0,3 µm** (test au MPPS) ; **> 99,999 %** des micro-organismes |
+| **Usage** | Filtration de l'**air de refoulement** (exhaust) du moteur d'aspiration, **évacuation vers l'extérieur** |
+| **Compatibilité** | V/VS 600, V/VS 900 S, V/VS 1200 S, V 2400, Tyscor V/VS, PTS 200, **systèmes pour cliniques V 6000 / V 9000 / V 12000 / V 15000 / V 18000** |
+| **Conditionnement** | Packages de **12 ou 36 unités** |
+| **Fréquence de remplacement** | **1 à 2 ans** selon usage |
+
+### Filtres aspiration — gamme classique
+
+| Compresseur / aspiration | Référence | Fréquence |
+|---|---|---|
+| **V/VS 600, V/VS 900 S, V/VS 1200 S, V 2400, Tyscor V/VS** | Filtre bactériologique **`0705-991-50`** | 2 ans / 3 500 h |
+| Cartouche pour filtre bactériologique `0705-991-50` | **`0705-991-05`** | 3 500 h ou 2 ans |
+| **V/VS/VSA 300 S, Variosuc** | Filtre bactériologique **`7119100010`** | Annuelle |
+| **V/VS/VSA 300 S** (kit avec équerre, installable sur boîtier ou autre marque) | **`7120-143-00`** | Annuelle |
+| **V/VS/VSA 300 S** (boîtier complet avec filtre bactériologique) | **`7120100000`** | Annuelle |
+
+### Couplage de deux filtres à un poste (multi-postes Tyscor V/VS 2 et V/VS 600)
+
+Pour les **aspirations 2 postes** (Tyscor V/VS 2 et V/VS 600), il est
+possible d'**adapter en parallèle deux boîtiers de filtre
+bactériologique** plutôt qu'un seul. Cette configuration apporte
+plusieurs bénéfices :
+
+- **Doublement de la capacité de filtration** → moins de
+  réchauffement du média filtrant → durée de vie prolongée.
+- **Maintien de l'efficacité** lors des pics d'utilisation
+  simultanée des deux postes.
+- **Redondance** : si un filtre est saturé en cours d'utilisation,
+  l'autre prend immédiatement le relais (continuité d'activité).
+- **Maintenance échelonnée** possible : alternance des remplacements
+  pour éviter les arrêts simultanés.
+
+Le **kit de couplage** (équerres + raccords) est disponible auprès
+du service commercial Dürr Dental France ; les boîtiers
+**`7120100000`** et kits **`7120-143-00`** sont conçus pour ce type
+d'adaptation.
+
+### Filtres pour systèmes cliniques (V 6000 à V 18000)
+
+Les **systèmes d'aspiration pour cliniques** (V 6000, V 9000, V 12000,
+V 15000, V 18000) couvrent les **cliniques universitaires**, **CHU** et
+établissements multi-postes avec **plusieurs dizaines de fauteuils
+simultanés**.
+
+Pour ces systèmes :
+
+| Élément | Particularité |
+|---|---|
+| **Filtre exhaust HEPA H14** | Filtre bactériologique et virucide HEPA H14 dédié aux gros débits cliniques. Évacuation air sécurisée vers l'extérieur. |
+| **Capacité** | Adapté à plusieurs dizaines de postes simultanés |
+| **Référence** | À spécifier via le service commercial selon le système installé |
+| **Fréquence** | Selon usage et taille de la clinique (1-2 ans typique) |
+
+Voir la [fiche systèmes cliniques](../systemes-cliniques/overview/) pour
+le détail des configurations.
+
+### Filtres jetables jaunes pour supports de tuyaux
+
+En complément des filtres bactériologiques en sortie d'aspiration, Dürr
+Dental propose des **filtres jetables jaunes** pour les **supports de
+tuyaux** (comfort, eco, selective) — page officielle
+[Filtre jetable (FR)](https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/filtre-jetable/).
+
+| Caractéristique | Valeur |
+|---|---|
+| Couleur | **Jaune** (identification visuelle rapide) |
+| Type | **Usage unique** (jetables après chaque cycle) |
+| Conditionnement | Boîte de **12 unités** |
+| Compatibilité | Supports de tuyaux Comfort, Eco, Selective |
+| Indication | Première barrière de filtration des particules grossières en bouche du système — protège les filtres en aval et la pompe d'aspiration |
+
+Ces filtres jetables s'inscrivent dans une **chaîne de filtration à
+plusieurs étages** :
+
+1. **Étape 1** — Filtre jetable jaune (support tuyau, usage unique)
+2. **Étape 2** — Filtre bactériologique principal (annuel ou
+   2-annuel selon ref)
+3. **Étape 3** — Filtre exhaust HEPA H14 (évacuation refoulement,
+   1-2 ans)
 
 > Ces références d'aspiration concernent les fiches
-> [Tyscor](../tyscor-aspiration/overview/) et
-> [Power Tower](../power-tower/overview/) — incluses ici pour la
-> cohérence globale du tableau filtres.
+> [Tyscor](../tyscor-aspiration/overview/),
+> [Power Tower](../power-tower/overview/) et
+> [systèmes cliniques](../systemes-cliniques/overview/) — incluses ici
+> pour la cohérence globale du tableau filtres.
 
 ### Fréquence de remplacement standard
 
@@ -223,10 +303,13 @@ filtres** par numéro de référence du compresseur :
 ## Pour aller plus loin
 
 - [**Filter Finder Dürr Dental** (outil officiel)](https://www.duerrdental.com/en/products/compressed-air/materials-and-accessories/filter-finder/)
+- [Page filtre bactériologique et virucide exhaust air](https://www.duerrdental.com/en/products/suction/materials-and-accessories/exhaust-air-virus-bacteria-filter/)
+- [Page filtre jetable (FR)](https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/filtre-jetable/)
 - [Silver Airline — gamme compresseurs](../silver-airline/overview/)
 - [Tornado — gamme compresseurs (évolution 70/130 → 1/2 → NEW)](../tornado/overview/)
 - [Power Tower](../power-tower/overview/)
 - [Tyscor — aspiration centralisée](../tyscor-aspiration/overview/)
+- [Systèmes cliniques (V 6000 à V 18000)](../systemes-cliniques/overview/)
 
 ## Référence pour les commandes
 
