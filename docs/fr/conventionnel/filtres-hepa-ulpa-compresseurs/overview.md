@@ -124,22 +124,38 @@ garantit la filtration finale après tous les étages de traitement
 
 ### Compresseurs concernés et niveau d'équipement
 
+> 📌 **Mise à jour 2026** : **tous les compresseurs Dürr Dental livrés
+> aujourd'hui** sont **équipés de série** d'un **filtre HEPA H14 / ULPA
+> U16 (ISO 65U)**. La conformité **ISO 22052** est donc assurée
+> d'origine sur les appareils neufs.
+
 | Compresseur | Filtre ULPA U16 / ISO 65U |
 |---|---|
-| **Silver Airline Primo** | **Disponible** (en option ou intégré selon configuration) |
-| **Silver Airline Duo** | **Disponible** |
-| **Silver Airline Trio** | **Disponible** |
-| **Silver Airline Quattro** | **Disponible** |
-| **Silver Airline Duo / Quattro Tandem** | **Disponible** |
-| **Compresseurs CAD/CAM** | **Disponible** (déclinaisons Silver Airline) |
-| **Tornado 1 / 2 / 4** | **Disponible** |
-| **Power Tower View** (toutes versions) | **DE SÉRIE** (verbatim page officielle) |
-| **Power Tower Silence** | **Disponible** |
+| **Silver Airline Primo** | **De série** (livraison 2026) |
+| **Silver Airline Duo / Trio / Quattro** | **De série** (livraison 2026) |
+| **Silver Airline Duo Tandem / Quattro Tandem** | **De série** |
+| **Compresseurs CAD/CAM** (déclinaisons Silver Airline) | **De série** |
+| **NEW Tornado 1 / 2 / 4** + Super Silent | **De série** (génération 2024-2026) |
+| **Power Tower View** (toutes versions) | **De série** (verbatim page officielle, depuis longtemps) |
+| **Power Tower Silence** | **De série** (livraison 2026) |
 
-La Power Tower View propose le filtre ULPA U16 **de série**, là où sur
-les autres gammes c'est typiquement une **option** à demander à
-l'installation. Voir le service commercial Dürr Dental France pour la
-configuration exacte d'un appareil donné.
+### Cas des appareils anciens (génération précédente)
+
+Les compresseurs des **générations antérieures** — notamment
+**Tornado 70 / 130** (1ʳᵉ gen, années 1990-2000), **Tornado 1 / 2 / 2+**
+(2ᵉ gen, années 2010-début 2020) et certains **Silver Airline anciens**
+— peuvent avoir été livrés à l'origine **sans filtre bactériologique**,
+uniquement avec un **filtre fin standard**.
+
+Pour ces appareils, un **kit de rétrofit** est disponible :
+
+| Kit | Référence (à confirmer commercialement) | Indication |
+|---|---|---|
+| Kit de filtre bactériologique pour compresseur 1 cylindre | À demander au service commercial | Mise en conformité ISO 22052 sur Tornado 70 / Primo / Tornado 1 historique |
+| Kit de filtre bactériologique pour compresseur 2-4 cylindres | À demander au service commercial | Idem sur Duo / Trio / Quattro / Tornado 2 / Tornado 4 historiques |
+
+Voir le **service commercial Dürr Dental France** pour la configuration
+exacte d'un appareil donné et la disponibilité des kits de rétrofit.
 
 ## Référence pour les commandes
 

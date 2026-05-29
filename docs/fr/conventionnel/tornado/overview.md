@@ -62,10 +62,36 @@ license: CC-BY-4.0
 
 ## Description courte
 
-**Tornado** est la nouvelle génération de compresseurs dentaires Dürr
-Dental, conçue pour combiner **performance**, **silence** et
-**efficacité énergétique**. La gamme couvre trois modèles : **Tornado 1**,
-**Tornado 2** et **Tornado 4** pour s'adapter à la taille du cabinet.
+**Tornado** est une **gamme historique** de compresseurs dentaires Dürr
+Dental qui s'est succédée à plusieurs générations sous le **même nom
+commercial** depuis les années 1990. La génération actuelle (« **NEW
+Tornado** ») combine **performance**, **silence** et **efficacité
+énergétique**, et couvre trois modèles : **Tornado 1**, **Tornado 2**,
+**Tornado 4** + déclinaison **Super Silent** pour s'adapter à la taille
+du cabinet.
+
+## Évolution historique du nom « Tornado »
+
+⚠️ **Point de confusion fréquent** : le nom commercial « Tornado » a été
+réutilisé à travers plusieurs générations de compresseurs Dürr Dental,
+sans nomenclature séquentielle claire (1ère gen / 2nde gen / 3e gen).
+Cette nomenclature peut prêter à confusion lors de la recherche de
+pièces détachées ou de documentation technique.
+
+| Génération | Modèles | Période | Particularité |
+|---|---|---|---|
+| **1ʳᵉ génération** | **Tornado 70**, **Tornado 70 S**, **Tornado 130**, **Tornado 130 S** | années 1990-2000 | Compresseurs simples avec dessiccateur. Pièces détachées encore disponibles (joints, segments de pistons). |
+| **2ᵉ génération** | **Tornado 1**, **Tornado 2**, **Tornado 2+** | années 2010-début 2020 | Membrane drying ; conformes ISO 22052 ; capot d'insonorisation aérodynamique disponible pour Tornado 1 et 2 ; conçus pour cabinets 1 à 4 praticiens. |
+| **3ᵉ génération — NEW Tornado** | **Tornado 1**, **Tornado 2**, **Tornado 4** + **Super Silent** | 2024-2026 | **+12 % d'économies d'énergie** vs génération 2. Pression max 8 bar. German Design Award 2026 + Innovations-Champion Award 2025. Filtre HEPA H14 / ULPA U16 de série. |
+
+> **Pour identifier la génération** d'un Tornado en cabinet : se
+> référer à la **plaque signalétique** du compresseur ou au **numéro de
+> série** — le service technique Dürr Dental France ou le distributeur
+> agréé peut identifier la génération à partir du numéro de série.
+
+Entre la 2ᵉ et la 3ᵉ génération, la **consommation énergétique a été
+réduite d'environ 15 %** (puis encore +12 % avec la NEW Tornado par
+rapport à la génération précédente — cumul ≈ −25 % sur deux générations).
 
 ## Distinctions récentes
 
@@ -126,18 +152,25 @@ maintenance, économies d'énergie réalisées.
 D'après la page officielle FAQ Dürr Dental sur le nouveau Tornado
 ([source officielle](https://www.duerrdental.com/en/products/compressed-air/devices/tornado-compressors/)) :
 
-### Conformité ISO 22052 — sous conditions
+### Conformité ISO 22052 — état actuel (2026)
 
-> *« The NEW Tornado complies with ISO 22052 under certain conditions :
-> the Tornado must be equipped with a membrane drying system and a
-> retrofitted bacterial filter. »*
+> 📌 **Mise à jour 2026** : **tous les compresseurs Dürr Dental livrés
+> aujourd'hui** (NEW Tornado, Silver Airline, Power Tower, CAD/CAM) sont
+> **équipés de série** d'un **filtre HEPA H14 / ULPA U16 (ISO 65U)** —
+> la conformité à la norme **ISO 22052** (qualité d'air comprimé
+> dentaire) est donc **assurée d'origine**, sans nécessiter de rétrofit
+> sur les appareils neufs livrés actuellement.
 
-⚠️ **Point opérationnel important** : le NEW Tornado **n'est pas livré
-d'usine** avec un filtre bactériologique. Il est équipé d'un **filtre
-fin** uniquement. Pour atteindre les exigences de qualité d'air
-**ISO 22052**, il faut **rétrofitter un filtre bactériologique**
-(ULPA U16 / ISO 65U — voir
-[fiche filtres HEPA/ULPA](../filtres-hepa-ulpa-compresseurs/overview/)).
+Une **FAQ officielle Dürr Dental** plus ancienne (probablement liée à
+une période transitoire ou à des contextes spécifiques) indiquait que
+le NEW Tornado devait être **rétrofitté** d'un filtre bactériologique
+pour atteindre l'ISO 22052. **Cette mention est aujourd'hui caduque
+sur les appareils neufs** : le filtre HEPA H14 / ULPA U16 est de série.
+
+Pour les **appareils anciens** (génération Tornado 1 / 2 / 2+) qui
+auraient été livrés sans filtre bactériologique d'usine, un **kit de
+rétrofit** existe (voir [fiche filtres HEPA / ULPA](../filtres-hepa-ulpa-compresseurs/overview/))
+pour leur faire atteindre les exigences ISO 22052.
 
 ### Compatibilité CAD/CAM — non recommandée
 
