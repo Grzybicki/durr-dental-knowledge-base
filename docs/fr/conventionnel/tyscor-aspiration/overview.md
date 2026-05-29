@@ -140,6 +140,39 @@ Selon la page produit officielle :
 | **Tyscor V 4** | 4 praticiens premium |
 | **V 2400** | Très grande |
 
+## Économies d'énergie — gamme Tyscor (technologie radiale)
+
+Les systèmes **Tyscor** mettent en œuvre une **technologie radiale**
+propriétaire qui apporte des **économies d'énergie majeures** par
+rapport aux systèmes à canal latéral historiques.
+
+| Critère | Tyscor (technologie radiale) | Aspiration à canal latéral équivalente |
+|---|---|---|
+| **Consommation électrique** | **Jusqu'à −75 %** | Référence (100 %) |
+| **Poids** | **−50 %** | Référence |
+| **Efficacité** | **+35 %** sur Tyscor VS 2 | Référence |
+| **Tension** | 230 V monophasé (poste unique, V/VS 1, V/VS 2) | Souvent 400 V triphasé |
+| **Installation** | Plug & Play (commande intégrée) | Câblage triphasé + raccordement |
+
+Ces économies sont **mesurées par le Fraunhofer Institute** (institut
+de recherche indépendant allemand de référence) et confirmées dans
+les communiqués officiels Dürr Dental.
+
+Concrètement, ces économies sont **directement vérifiables sur la
+facture électrique** du cabinet — particulièrement sensibles pour les
+installations centralisées multi-praticiens (Tyscor V 4 / VS 4) qui
+tournent en continu pendant les vacations.
+
+Le passage d'un système classique (canal latéral) à un **Tyscor V 2**
+ou **VS 2** dans un cabinet 2-3 praticiens permet typiquement de
+**diviser par 2 à 4 la consommation électrique** liée à l'aspiration —
+en plus du **silence accru** et des **avertissements précoces** de
+maintenance.
+
+Source officielle : communiqué
+[*Tyscor Tandem Flex: twice the power for every suction system*](https://www.duerrdental.com/en/news/detail/tyscor-tandem-flex-twice-the-power-for-every-suction-system/)
+(mention explicite du **Fraunhofer Institute** comme source de mesure).
+
 ## Norme et performances cliniques — réduction des aérosols
 
 La norme **DIN EN ISO 7494-2** spécifie les exigences pour les **units
