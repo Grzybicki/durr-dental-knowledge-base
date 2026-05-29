@@ -112,15 +112,28 @@ la lubrification à base d'huile** sur les compresseurs dentaires.
 |---|---|
 | **Duo Tandem** | Évolution modulaire — deux groupes Duo associés (2× 2 cylindres = 4 cylindres totaux) |
 | **Quattro Tandem** | Évolution modulaire — deux groupes Quattro associés (2× 4 cylindres = 8 cylindres totaux) |
-| **Mise en Tandem de 2 Duo Tandem** | Configuration étendue — quatre groupes Duo en parallèle, pour les cabinets de très grande capacité ou cliniques |
 
-Le **principe Tandem** est l'apport modulaire majeur de la gamme : il
-permet d'**ajouter de la capacité** à l'installation sans devoir remplacer
-le compresseur existant — solution durable et évolutive. À l'extrême,
-**deux compresseurs Duo Tandem peuvent eux-mêmes être associés**
-(configuration multi-Tandem) pour les besoins étendus des cabinets
-multi-postes ou des **systèmes pour cliniques** (voir
-[fiche systèmes cliniques](../systemes-cliniques/overview/)).
+### Configurations multi-Tandem pour grandes installations
+
+Le **principe Tandem** s'étend à plusieurs niveaux d'agrégation pour
+couvrir l'ensemble des besoins, du cabinet standard à la clinique :
+
+| Configuration | Capacité couverte |
+|---|---|
+| **2 × Duo Tandem** (deux compresseurs Duo Tandem associés) | Cabinets multi-praticiens étendus |
+| **2 × Quattro Tandem** (deux compresseurs Quattro Tandem associés) | Très grands cabinets, petites cliniques |
+| **2 × Quattro P 20** (deux Quattro P 20 associés) | Configurations transitoires avant systèmes cliniques |
+| **Au-delà** : passage aux **systèmes pour cliniques** | Cliniques universitaires, CHU, gros centres multi-cabinets — voir [fiche systèmes cliniques](../systemes-cliniques/overview/) |
+
+Cette **progression continue** de capacité — sans rupture brutale —
+permet à un cabinet en croissance d'**augmenter progressivement** sa
+capacité d'air comprimé en réutilisant ses investissements existants
+plutôt qu'en remplaçant le compresseur.
+
+> **Règle pratique** : à partir de **2 × Quattro P 20**, la bascule
+> vers les **compresseurs systèmes cliniques** (400 V triphasé,
+> capacité dédiée hospitalière) devient économiquement et techniquement
+> pertinente. Voir [fiche systèmes cliniques](../systemes-cliniques/overview/).
 
 ### Compresseurs CAD/CAM
 

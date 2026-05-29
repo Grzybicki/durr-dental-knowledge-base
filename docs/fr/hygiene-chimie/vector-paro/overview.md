@@ -147,6 +147,58 @@ Vector Fluid de polissage + accessoires de maintenance.
 | **Maintenance parodontale** (recall) | Vector Paro avec Recall-Kürette CFK |
 | **Détartrage** | Vector Scaler |
 
+## Études cliniques publiées (peer-reviewed)
+
+Le système Vector et sa déclinaison **Vector Paro Pro** font l'objet de
+publications scientifiques peer-reviewed.
+
+### Efficacy of Non-surgical Treatment of Periodontal Diseases Using the Vector® Paro Pro Ultrasonic Device — PMC 11830227
+
+Étude prospective sur **50 patients** atteints de **gingivite**,
+**parodontite** ou **péri-implantite**, publiée dans la littérature
+scientifique peer-reviewed.
+
+**Indices parodontaux mesurés** :
+
+| Indice | Description |
+|---|---|
+| PI | Plaque Index |
+| GI | Gingival Index |
+| PBI | Papillary Bleeding Index |
+| PD | Probing Depth (profondeur de poche) |
+| CAL | Clinical Attachment Loss (perte d'attache clinique) |
+
+**Résultats principaux** :
+
+| Mesure | Avant | À 2 semaines | À 1 mois |
+|---|---|---|---|
+| **PI moyen** | 1,18 ± 0,12 | **0,52 ± 0,08** | **0,44 ± 0,09** |
+
+- Toutes les indices parodontaux ont montré une **amélioration
+  significative** post-thérapie.
+- **PBI** et **PD** : réductions significatives observées.
+- **CAL** : amélioration significative à 1 mois post-thérapie.
+
+**Vécu patient** :
+
+> **98 % des patients ont rapporté aucune douleur pendant la thérapie**
+> (verbatim étude PMC 11830227).
+
+Ce résultat confirme la promesse historique du système Vector :
+**traitement parodontal atraumatique**.
+
+Sources :
+- **PMC** (texte intégral) : <https://pmc.ncbi.nlm.nih.gov/articles/PMC11830227/>
+- **PubMed** (référence) : <https://pubmed.ncbi.nlm.nih.gov/39963444/>
+
+### Autres références scientifiques
+
+La page produit officielle Vector System et la brochure technique
+Dürr Dental référencent plusieurs publications historiques sur
+**plus de 25 ans** de développement Vector, démontrant la pertinence
+clinique de la **vibration deflection** dans la prise en charge
+parodontale non chirurgicale.
+
 ## Articulation avec Lunos
 
 Vector Paro et [Lunos](../lunos-system/overview/) sont les deux systèmes
