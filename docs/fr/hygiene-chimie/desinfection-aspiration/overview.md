@@ -78,6 +78,70 @@ Orotol Plus est utilisé avec les systèmes d'aspiration Dürr Dental
 [Power Tower](/docs/fr/conventionnel/power-tower/overview/)) et avec
 les **doseurs Hygosuc** (intégration système d'hygiène aspiration).
 
+## Protocole d'utilisation Orotol Plus
+
+D'après la documentation officielle Dürr Dental (notice publique de
+dosage) :
+
+| Élément | Valeur |
+|---|---|
+| **Concentration de dilution** | **2 %** (20 ml d'Orotol Plus + eau froide pour 1 litre de solution prête à l'emploi) |
+| **Fréquence d'utilisation** | **1 fois par jour minimum**, idéalement **le soir après la fin de la journée** de travail. 2 fois par jour selon besoin et charge clinique. |
+| **Action en cours de journée** | Aspirer **1 verre d'eau** après chaque patient (rinçage léger entre soins) |
+| **Avant chaque cycle de nettoyage** | Aspirer **2 litres d'eau** pour rincer les canalisations |
+| **Doseur** | **OroCup** (intégré au Kit de démarrage Orotol — réf. `CDS110P9950`) |
+
+Sources publiques :
+- [Documentation officielle Orotol + MD 555 (PDF — Astrodental France)](https://astrodental.fr/wp-content/uploads/2018/09/durr-dental_orotol-et-md555.pdf)
+- [Directions Orotol Plus (PDF — Trycare UK)](https://www.trycare.co.uk/files/ww/merlin/durr_orotolplus_directions.pdf)
+
+## Protocole d'utilisation MD 555 (combiné à Orotol Plus)
+
+[**MD 555 cleaner**](../familles-id-md-hd-fd/overview/) est le nettoyant
+spécial qui se combine à Orotol Plus pour le **nettoyage en profondeur**
+des canalisations d'aspiration. Protocole standard :
+
+| Élément | Valeur |
+|---|---|
+| **Concentration standard** | **5 %** (50 ml de MD 555 + eau pour 1 litre) |
+| **Fréquence standard** | **1 à 2 fois par semaine** |
+| **Concentration renforcée (biofilm marqué)** | **10 %** (100 ml de MD 555 + eau pour 1 litre) |
+| **Fréquence renforcée** | **1 à 5 fois par semaine** en **alternance avec Orotol Plus** |
+| **Temps de contact optimal** | **1 à 2 heures** |
+| **Rinçage post-MD 555** | Rincer **abondamment** le système d'aspiration à l'eau |
+
+Cette combinaison **Orotol Plus quotidien + MD 555 hebdomadaire**
+constitue le **protocole de référence** Dürr Dental pour préserver la
+longévité du moteur d'aspiration ([Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/)
+et autres) et garantir la qualité d'hygiène réglementaire.
+
+## EPI — Équipements de Protection Individuelle
+
+Lors de la **préparation de la dilution** (manipulation du concentré
+Orotol Plus ou MD 555), les EPI recommandés par les FDS publiques
+(Fiches de Données de Sécurité) Dürr Dental sont :
+
+| EPI | Cas d'usage |
+|---|---|
+| **Gants nitrile** | Manipulation du concentré (versement, dosage) |
+| **Lunettes de protection** | Si risque de projection lors du versement |
+| **Blouse / tablier** | Protection vestimentaire standard |
+| Masque chirurgical | Non systématique pour le concentré liquide |
+
+Lors de l'**usage en routine** de la solution **diluée** (aspiration de
+la solution prête à l'emploi via OroCup), les EPI quotidiens du cabinet
+suffisent. La FDS officielle (à demander au service Dürr Dental France
+ou consulter le Centre de téléchargements) précise les exigences
+spécifiques.
+
+## Certibiocide
+
+L'Orotol Plus et l'Orotol Plus pH 7 sont des **biocides TP2** (surfaces
+et air), donc **soumis** à l'obligation de **Certibiocide** en France
+(arrêté du 9 octobre 2013 modifié). Voir
+[fiche familles ID/MD/HD/FD — section Certibiocide](../familles-id-md-hd-fd/overview/)
+pour le détail des produits soumis et exemptés.
+
 ## Sources publiques
 
 | Document | URL publique |
