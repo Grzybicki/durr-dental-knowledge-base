@@ -56,6 +56,11 @@ des notes terrain, menus/outils service et procédures techniciens.
   ports gén. 2.0 TCP 80/443/22 + UDP 1900, calcul dose µGy dès VistaSoft 3.0.20).
 - **VistaSoft Monitor** : sections « Installation et ports » (ports pare-feu TCP/UDP)
   et « Messages de statut et alarmes » (codes couleur, acquittement à distance).
+- **VistaRay 7** (notice `9000-618-197`) : alimentation 5 V CC / 100 mA, classe DM IIa,
+  références produit (2121-100-70 / -71).
+- **VistaIntra DC** (notice `2202100028`) : section « Caractéristiques techniques »
+  (électrique 100–240 V / 500 W, tube 50–70 kVp / 4–7 mA, foyer 0,4 mm CEI 60336,
+  filtration ≥ 2,0 mm Al, champ Ø 60 / 30×40, réglages standard).
 
 ### Modifié — gabarit et documentation
 

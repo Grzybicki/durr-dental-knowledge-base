@@ -91,6 +91,9 @@ utilisation immédiate.
 | Installation | **Au mur** ou sur le **bras du scialytique** (support inclus) |
 | Rallonge USB | **1 m** (standard) — **hub USB actif recommandé** pour rallonge plus longue |
 | Câble | **Remplaçable à prix fixe** (pièce de rechange) |
+| Alimentation | **5 V CC**, **100 mA** (via USB) |
+| Classe réglementaire | **Dispositif médical IIa** (MDR EU 2017/745) |
+| Références | Taille 1 : `2121-100-70` · Taille 2 : `2121-100-71` |
 | Origine | **Fabriqué en Allemagne** |
 
 ### Structure interne (couches du capteur, de la surface vers le PCB)

@@ -25,6 +25,11 @@ source_documents:
     url: "https://www.youtube.com/watch?v=X5fjcClfbi0"
     type: "vidéo officielle"
     language: "en"
+  - title: "Notice de montage et d'utilisation VistaIntra DC"
+    reference: "2202100028L03"
+    type: "notice d'installation et d'utilisation"
+    language: "fr"
+    note: "Document public récupérable via le Centre de téléchargements Dürr Dental — source des caractéristiques techniques."
   - title: "Centre de téléchargements Dürr Dental France"
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
@@ -32,7 +37,7 @@ source_documents:
   - title: "Déclaration de Conformité VistaIntra DC"
     type: "Déclaration de Conformité"
     note: "Dispositif médical. Récupérable via Centre de téléchargements ou Eudamed."
-last_factual_review: 2026-05-28
+last_factual_review: 2026-06-01
 license: CC-BY-4.0
 ---
 
@@ -115,6 +120,43 @@ VistaIntra DC est conçu pour s'intégrer nativement avec :
 | Capteurs intraoraux VistaRay 7 | [Fiche VistaRay 7](../vistaray-7/overview/) |
 | Logiciel d'imagerie | [VistaSoft 4.0](../vistasoft-4-0/overview/) |
 
+## Caractéristiques techniques
+
+D'après la notice de montage et d'utilisation officielle (réf. `2202100028L03`) :
+
+### Données électriques
+
+| Paramètre | Valeur |
+|---|---|
+| Tension nominale | **100–240 V CA** (±10 %) |
+| Fréquence | **50 / 60 Hz** |
+| Puissance nominale | **500 W** (max. 750 VA) |
+| Classe réglementaire | **Dispositif médical IIb** (MDR EU 2017/745) |
+
+### Émetteur de rayons X
+
+| Paramètre | Valeur |
+|---|---|
+| Générateur | **DG-10A05T3** (tube à anode fixe Toshiba D-041SB) |
+| Longueur de tube | **200 mm** (300 mm en option) |
+| Puissance générateur | **0,5 kW** |
+| Tension du tube | **50–70 kVp** (±10 %) |
+| Courant du tube | **4–7 mA** (±20 %) |
+| Taille de foyer (CEI 60336) | **0,4 mm** |
+| Filtration totale | **≥ 2,0 mm Al** (intrinsèque 1,0 mm Al) |
+| Anode | **Tungstène**, angle **12,5°** |
+| Limitation du champ | **Ø 60 / 30 × 40 mm** (20 × 30 mm en option) |
+| Temps de rayonnement | **0,04 – 2 s** |
+| Refroidissement | Automatique, coupure à **≥ 50 °C** |
+| Rapport impulsion / pause | **1:60** ou plus |
+
+### Réglages et interface
+
+- Réglages standard à la mise en route : **prémolaire, adulte, 60 kV, 7 mA**.
+- Affichage du **produit dose-surface (µGy·cm²)**, kV, mA et temps ; sélection par
+  **symbole de dent** et profil **adulte / enfant**.
+- Codes d'erreur de diagnostic dédiés documentés dans la notice officielle.
+
 ## Limites et précisions
 
 - VistaIntra DC est un **dispositif médical** ; son installation et son
@@ -178,6 +220,7 @@ Avec les plaques au phosphore et les capteurs Dürr Dental, les doses pré-progr
 | Document | URL publique |
 |---|---|
 | Page produit VistaIntra DC | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistaintra/> |
+| Notice de montage et d'utilisation (réf. 2202100028L03) | Centre de téléchargements Dürr Dental |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
 
 ### Vidéo officielle YouTube
