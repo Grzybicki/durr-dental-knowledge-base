@@ -207,6 +207,17 @@ Source : « Configurations minimales des systèmes informatiques » (réf. `9000
 chaque image (VistaScan Mini, Ultra View, Combi View intra-oral, VistaRay 7.x) ; la
 valeur est transmise aux logiciels tiers via VistaSoft Connect.
 
+## Firmware par modèle
+
+Dernières versions connues (référence mai 2026) :
+
+| Modèle | Firmware | Date |
+|---|---|---|
+| VistaScan Mini Easy 2.0 | R1.5.4 | nov. 2025 |
+| VistaScan Mini View 2.0 | R1.5.4 | nov. 2025 |
+| VistaScan Ultra View | R1.5.2 | mai 2025 |
+| VistaScan Combi View | R1.8 | 2022 |
+
 ## Questions fréquentes
 
 ### Que couvre la gamme VistaScan ?

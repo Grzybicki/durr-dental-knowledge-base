@@ -79,6 +79,11 @@ des notes terrain, menus/outils service et procédures techniciens.
 - **VistaSoft 4.0 — mise à niveau gratuite** : note précisant que les appareils
   d'imagerie Dürr Dental vendus depuis mars 2025 (IDS Cologne) bénéficient du passage
   gratuit vers VistaSoft 4.x (annonce officielle IDS 2025).
+- **Sections « Firmware » (versions seules, datées, référence mai 2026)** ajoutées à
+  10 fiches : VistaScan (Nano Easy V1.5.1, Mini Easy 2.0 R1.5.4, gamme), VistaVox S
+  (VVSP 3.2.2, MCU 7.xx/8.xx), Power Tower View V1.4.0, Tornado V1.0.2, Tyscor (par
+  modèle), récupérateurs (CA 4 / CAS 1), Hygoclave (V2.1.3), Hygopac View 3.7.1.
+  Numéros de version uniquement — sans fichiers ni source non publique.
 
 ### Modifié — gabarit et documentation
 

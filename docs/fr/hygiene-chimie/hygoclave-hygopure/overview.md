@@ -279,6 +279,10 @@ système** complète Dürr Dental, qui couvre :
 }
 </script>
 
+## Firmware
+
+Dernières versions connues (référence mai 2026) : Hygoclave 40 / 40 Plus / 50 / 50 Plus **V2.1.3** (novembre 2024), Hygoclave 90 **3.1.0**.
+
 ## Questions fréquentes
 
 ### Quelle est la classe de stérilisation des Hygoclave ?

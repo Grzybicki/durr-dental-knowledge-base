@@ -132,6 +132,10 @@ D'après la page produit officielle Dürr Dental :
 **VistaScan Nano Easy** est un **dispositif médical de classe I** selon le règlement
 **MDR EU 2017/745** (source : notice de montage et d'utilisation réf. `2160100227L03`).
 
+## Firmware
+
+**Dernière version connue** (référence mai 2026) : **V1.5.1** (avril 2025).
+
 ## Questions fréquentes
 
 ### Qu'est-ce que le VistaScan Nano Easy ?

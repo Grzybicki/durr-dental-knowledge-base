@@ -123,6 +123,10 @@ D'après la page produit officielle Dürr Dental :
 }
 </script>
 
+## Firmware
+
+**Dernière version connue** (référence mai 2026) : **R1.5.4** (novembre 2025).
+
 ## Questions fréquentes
 
 ### Qu'est-ce que le VistaScan Mini Easy 2.0 ?

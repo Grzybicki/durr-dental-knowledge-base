@@ -339,6 +339,10 @@ acoustique **directement dans la conception** du compresseur.
 }
 </script>
 
+## Firmware
+
+**Dernière version connue** (référence mai 2026) : **V1.0.2** (2022).
+
 ## Questions fréquentes
 
 ### Pourquoi le nom « Tornado » prête-t-il à confusion ?

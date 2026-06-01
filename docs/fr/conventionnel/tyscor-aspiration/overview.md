@@ -405,6 +405,18 @@ etc.) et la facilité de maintenance.
 }
 </script>
 
+## Firmware par modèle
+
+Dernières versions connues (référence mai 2026) :
+
+| Modèle | Firmware | Date |
+|---|---|---|
+| Tyscor V 4 | V5.5.1 | jan. 2025 |
+| Tyscor VS 4 | V2.1.5 | 2021 |
+| Tyscor V 20 | V2.3.1 | 2022 |
+| Tyscor VS 2 | V4.1.3 | 2020 |
+| Tyscor V 2 | V2.0.2 | 2022 |
+
 ## Questions fréquentes
 
 ### Les systèmes d'aspiration Tyscor sont-ils des dispositifs médicaux ?

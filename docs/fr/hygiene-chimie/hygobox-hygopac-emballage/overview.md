@@ -222,6 +222,10 @@ réalisées.
 }
 </script>
 
+## Firmware
+
+Dernières versions connues (référence mai 2026) : Hygopac View **3.7.1** (mai 2025), Hygopac Plus **2.1.3**.
+
 ## Questions fréquentes
 
 ### À quoi sert l'Hygobox ?

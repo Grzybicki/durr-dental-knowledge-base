@@ -281,6 +281,17 @@ récupérable via le [Centre de téléchargements Dürr Dental France](https://w
 
 Forces par vis : fixation haute **200–350 N**, fixation basse **35 N** selon la configuration.
 
+## Firmware
+
+Dernières versions connues (référence mai 2026) :
+
+| Composant | Version |
+|---|---|
+| Pack logiciel VVSP | 3.2.2 (avril 2026) |
+| Firmware MCU (génération actuelle) | 7.00.22 |
+| Firmware MCU (génération antérieure) | 8.00.33 |
+| Interface (GUI) | 1.10.0.4494 |
+
 ## Questions fréquentes
 
 <script type="application/ld+json">

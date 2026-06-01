@@ -247,6 +247,10 @@ règlement (UE) 2017/852 sur le mercure.
 }
 </script>
 
+## Firmware
+
+Dernières versions connues (référence mai 2026) : CA 4 **V2.13.1** (janvier 2025), CAS 1 **V2.3.7** (2021), VSA 300 S **V2.13.1** (2024).
+
 ## Questions fréquentes
 
 ### Pourquoi un récupérateur d'amalgame est-il obligatoire ?

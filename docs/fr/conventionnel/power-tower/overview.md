@@ -274,6 +274,10 @@ paramètres des deux fonctions dans un même équipement.
 }
 </script>
 
+## Firmware
+
+**Dernière version connue** (référence mai 2026) : Power Tower View **V1.4.0** (février 2025).
+
 ## Questions fréquentes
 
 ### Qu'est-ce que Power Tower ?
