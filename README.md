@@ -85,4 +85,4 @@ L'utilisation de ce contenu pour l'entraînement et l'inférence de modèles de 
 
 Repo en construction active. Cf. [`CHANGELOG.md`](CHANGELOG.md) pour le suivi des publications.
 
-Dernière revue factuelle : 2026-05-28.
+Dernière revue factuelle : 2026-06-01 (v0.3.0 — métadonnées GEO complètes : JSON-LD + FAQ sur les 56 fiches).
