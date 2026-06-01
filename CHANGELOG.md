@@ -72,6 +72,10 @@ des notes terrain, menus/outils service et procédures techniciens.
 - **VistaSoft 4.0 — section « Configuration système requise »** (réf. `9000-618-148`) :
   CPU/RAM, OS (Windows 10/11 Pro, Server 2019/2022/2025 64 bits), disque, réseau,
   sauvegarde. Comble un manque GEO majeur (compatibilité Windows, très recherchée).
+- **Versions logicielles / interfaces minimales par appareil** (réf. `9000-618-148`) :
+  gamme VistaScan (Mini Easy/View 2.0, Ultra View — Ethernet/Wi-Fi + VistaSoft ≥ 3.0.13),
+  VistaRay 7 (câble USB ≤ 5 m, VistaSoft ≥ 1.0), Smart Reader (VistaSoft ≥ 3.0.13),
+  VistaPano S 2.0 (VistaSoft ≥ 3.0.32).
 
 ### Modifié — gabarit et documentation
 

@@ -501,6 +501,7 @@ D'après la notice d'installation officielle VistaPano S 2.0 / VistaPano S Ceph 
 
 - CPU ≥ Intel Core **i5**, **16 Go** de RAM, un slot **PCI-Express** libre pour le
   contrôleur Gigabit Ethernet fourni avec l'appareil.
+- Logiciel : **VistaSoft ≥ 3.0.32** (avec VistaSoft Connect / Image Bridge).
 
 ### Raccordement et local
 

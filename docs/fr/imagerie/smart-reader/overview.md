@@ -85,6 +85,7 @@ images étant automatiquement rangées dans le bon dossier patient.
 | Consommation en veille | **0,16 W** |
 | Plaques compatibles | [VistaScan IQ](../vistascan-iq-ecrans/overview/) (avec puce RFID) |
 | Logiciel cible | [VistaSoft](../vistasoft-4-0/overview/) (toute version supportant le RFID IQ) |
+| Logiciel minimal | **VistaSoft ≥ 3.0.13** |
 
 ## Workflow type
 

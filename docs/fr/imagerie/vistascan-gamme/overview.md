@@ -191,6 +191,16 @@ D'après la documentation technique officielle (génération VistaScan 2.0) :
 > Les ports de la génération 2.0 diffèrent de la génération 1.0 : sur un parc mixte,
 > ouvrir les deux jeux.
 
+### Versions logicielles minimales (par modèle)
+
+| Modèle | Interface | Logiciel minimal |
+|---|---|---|
+| VistaScan Mini Easy 2.0 | Ethernet ≥ 100 Mbit/s (1 000 recommandé) | VistaSoft ≥ 3.0.13 / Connect ≥ 3.0.13 |
+| VistaScan Mini View 2.0 | Ethernet ≥ 100 Mbit/s + Wi-Fi 2,4/5 GHz (WPA/WPA2/WPA3) | VistaSoft ≥ 3.0.13 / Connect ≥ 3.0.13 |
+| VistaScan Ultra View | Ethernet ≥ 100 Mbit/s + Wi-Fi (WPA/WPA2) | VistaSoft (version courante) |
+
+Source : « Configurations minimales des systèmes informatiques » (réf. `9000-618-148`).
+
 ### Calcul automatique de la dose au récepteur
 
 À partir de **VistaSoft 3.0.20**, la dose au récepteur est calculée en **µGy** pour

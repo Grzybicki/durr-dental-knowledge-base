@@ -94,6 +94,8 @@ utilisation immédiate.
 | Alimentation | **5 V CC**, **100 mA** (via USB) |
 | Classe réglementaire | **Dispositif médical IIa** (MDR EU 2017/745) |
 | Références | Taille 1 : `2121-100-70` · Taille 2 : `2121-100-71` |
+| Longueur totale câble USB | **≤ 5 m** (rallonge incluse) |
+| Logiciel minimal | **VistaSoft ≥ 1.0** / VistaSoft Connect ≥ 3.0 |
 | Origine | **Fabriqué en Allemagne** |
 
 ### Structure interne (couches du capteur, de la surface vers le PCB)
