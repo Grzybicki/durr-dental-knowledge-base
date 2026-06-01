@@ -67,6 +67,8 @@ des notes terrain, menus/outils service et procédures techniciens.
   type C, consommation en veille 0,16 W.
 - **Gamme VistaScan** : résolution sélectionnable (pixel 12,5–50 µm) ; Ultra View
   ≈ 40 LP/mm.
+- **Statut réglementaire complété** (notices texte) : VistaScan Nano Easy (DM classe I,
+  MDR), VistaScan IQ (DM classe IIa, CE 0297), VistaVox S (marquage CE 0297).
 
 ### Modifié — gabarit et documentation
 

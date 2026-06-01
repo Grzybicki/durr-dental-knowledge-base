@@ -222,7 +222,8 @@ les configurations.
 ## Statut réglementaire
 
 VistaVox S est un **dispositif médical de classe IIb** au titre de la
-réglementation européenne des dispositifs médicaux. La Déclaration de
+réglementation européenne des dispositifs médicaux ; le marquage CE porte le numéro
+d'organisme notifié **0297**. La Déclaration de
 Conformité publique est récupérable via le
 [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/)
 ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/).

@@ -229,6 +229,12 @@ Voir aussi la [fiche accessoires imagerie](../accessoires-imagerie/overview/).
 }
 </script>
 
+## Statut réglementaire
+
+Les écrans à mémoire **VistaScan IQ** sont des **dispositifs médicaux de classe IIa**
+selon le règlement **MDR EU 2017/745**, marquage **CE 0297** (source : notice
+d'utilisation réf. `2130100137L03`).
+
 ## Questions fréquentes
 
 ### Qu'est-ce que les écrans VistaScan IQ ?
