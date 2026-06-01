@@ -49,6 +49,7 @@ defaults:
 # Exclude
 exclude:
   - README.md
+  - CLAUDE.md
   - CHANGELOG.md
   - CONTRIBUTING.md
   - SECURITY.md

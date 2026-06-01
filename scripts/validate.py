@@ -181,7 +181,7 @@ REQUIRED_FRONTMATTER_FIELDS_DOCS = {
 TARGET_EXTENSIONS = {".md", ".html"}
 
 # Dossiers à exclure
-EXCLUDED_DIRS = {".git", "node_modules", "_site", "vendor", ".jekyll-cache"}
+EXCLUDED_DIRS = {".git", "node_modules", "_site", "vendor", ".jekyll-cache", "_drafts"}
 
 
 # ------------------------------------------------------------------
@@ -427,6 +427,38 @@ def check_jsonld_blocks(report: Report, path: Path, content: str) -> None:
             ))
 
 
+def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
+    """Vrai si le lien interne correspond à un fichier source existant.
+
+    Gère deux conventions :
+    - chemin de fichier direct (``../x/overview.md``, ``./img.png``) ;
+    - permalink Jekyll (``../x/overview/`` ou ``/docs/fr/.../x/overview/``) dont
+      le fichier source est ``x/overview.md`` — et NON ``x/overview/index.md``.
+    """
+    stem = target.rstrip("/")
+    if target.startswith("/"):
+        # lien racine-absolu : relatif à la racine du dépôt
+        base = root
+        stem = stem.lstrip("/")
+    else:
+        # lien relatif : relatif au fichier courant
+        base = path.parent
+    candidates = (
+        base / stem,                 # fichier direct ou dossier
+        base / (stem + ".md"),       # permalink → fichier source .md
+        base / (stem + ".html"),     # permalink → fichier source .html
+        base / stem / "index.md",    # dossier avec index
+        base / stem / "overview.md", # dossier avec overview
+    )
+    for c in candidates:
+        try:
+            if c.resolve().exists():
+                return True
+        except (OSError, ValueError):
+            continue
+    return False
+
+
 def check_internal_links(report: Report, root: Path, path: Path, body: str) -> None:
     """Liens Markdown vers des fichiers locaux doivent exister."""
     for m in MD_LINK_RE.finditer(body):
@@ -441,24 +473,15 @@ def check_internal_links(report: Report, root: Path, path: Path, body: str) -> N
         target_path = href.split("#")[0]
         if not target_path:
             continue
-        # Résoudre relativement au fichier
-        candidate = (path.parent / target_path).resolve()
-        # Tolérance Jekyll : permalink-style /docs/fr/... → tester avec un index.md
-        if not candidate.exists():
-            for suffix in ("index.md", "overview.md", ".md", ".html"):
-                if (path.parent / (target_path + ("/" + suffix if not target_path.endswith("/") else suffix))).resolve().exists():
-                    break
-                if (root / target_path.lstrip("/") / suffix).resolve().exists():
-                    break
-            else:
-                # Lien probablement Jekyll permalink — on log en WARN seulement
-                report.add(Issue(
-                    path=path,
-                    severity="WARN",
-                    rule="link-broken",
-                    message=f"lien interne non résolu (peut être un permalink Jekyll) : « {href} »",
-                    line=get_line_number(body, m.start()),
-                ))
+        # Résolution Jekyll-aware (permalink ../x/overview/ → fichier ../x/overview.md)
+        if not _resolve_internal_link(root, path, target_path):
+            report.add(Issue(
+                path=path,
+                severity="WARN",
+                rule="link-broken",
+                message=f"lien interne non résolu (peut être un permalink Jekyll) : « {href} »",
+                line=get_line_number(body, m.start()),
+            ))
 
 
 # ------------------------------------------------------------------

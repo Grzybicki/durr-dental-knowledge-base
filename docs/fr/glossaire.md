@@ -193,7 +193,7 @@ son intégrité.
 
 - [Documentation française — index général](../)
 - [Page d'accueil](/)
-- [Sources publiques](../../../sources/)
+- [Sources publiques](../../sources/)
 
 ---
 
