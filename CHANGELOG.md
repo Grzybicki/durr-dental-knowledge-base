@@ -84,6 +84,8 @@ des notes terrain, menus/outils service et procédures techniciens.
   (VVSP 3.2.2, MCU 7.xx/8.xx), Power Tower View V1.4.0, Tornado V1.0.2, Tyscor (par
   modèle), récupérateurs (CA 4 / CAS 1), Hygoclave (V2.1.3), Hygopac View 3.7.1.
   Numéros de version uniquement — sans fichiers ni source non publique.
+- **VistaSoft 4.0 — section « Versions et téléchargement »** : version courante 4.0.13
+  (branches 3.0.34 / 2.4.13) + **lien de téléchargement officiel public** Dürr Dental.
 
 ### Modifié — gabarit et documentation
 

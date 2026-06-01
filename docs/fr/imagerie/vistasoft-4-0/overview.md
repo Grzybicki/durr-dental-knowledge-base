@@ -443,6 +443,18 @@ utilisateur §11-14 :
 - Mesures anti-MITM (man-in-the-middle) pour la communication réseau.
 - Architecture audit intégrée.
 
+## Versions et téléchargement
+
+**Dernière version connue : VistaSoft 4.0.13** (référence mai 2026). Branches
+antérieures encore référencées : **3.0.34** (v3), **2.4.13** (v2).
+
+La dernière version de VistaSoft est téléchargeable depuis la **page officielle
+Dürr Dental** :
+<https://www.duerrdental.com/en/products/imaging/software/imaging-software/downloads/>
+
+> Rappel : les appareils d'imagerie Dürr Dental vendus depuis **mars 2025 (IDS Cologne)**
+> bénéficient du **passage gratuit vers VistaSoft 4.x**.
+
 ## Configuration système requise
 
 D'après la documentation officielle « Configurations minimales des systèmes
