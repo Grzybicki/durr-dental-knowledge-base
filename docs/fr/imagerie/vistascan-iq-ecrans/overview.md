@@ -233,7 +233,8 @@ Voir aussi la [fiche accessoires imagerie](../accessoires-imagerie/overview/).
 
 Les écrans à mémoire **VistaScan IQ** sont des **dispositifs médicaux de classe IIa**
 selon le règlement **MDR EU 2017/745**, marquage **CE 0297** (source : notice
-d'utilisation réf. `2130100137L03`).
+d'utilisation réf. `2130100137L03`). Organisme notifié **DQS Medizinprodukte GmbH** (n° **0297**) ;
+certificat MDR n° **518373 MDR2017Q** ; SRN fabricant **DE-MF-000006032** (Dürr Dental SE).
 
 ## Questions fréquentes
 

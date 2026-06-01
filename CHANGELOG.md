@@ -94,6 +94,10 @@ des notes terrain, menus/outils service et procédures techniciens.
   capteur filaire (pas de film argentique) ; plages de produit dose-surface (PDS)
   adulte/enfant + effet de la collimation, liées au foyer 0,4 mm et à la plage
   50–70 kVp / 4–7 mA (notice `2202100028`).
+- **Données réglementaires (OCR des Déclarations de Conformité via Docling)** :
+  organisme notifié **DQS Medizinprodukte GmbH (0297)**, certificat MDR **518373 MDR2017Q**,
+  SRN fabricant **DE-MF-000006032** ajoutés à VistaVox S et VistaScan IQ (déjà présents
+  sur VistaSoft 4.0 et VistaSoft AID — confirmés par l'OCR). DoC OEM/confidentiels exclus.
 
 ### Modifié — gabarit et documentation
 
