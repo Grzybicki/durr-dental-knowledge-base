@@ -464,6 +464,10 @@ Volumétrie indicative par image : caméra ≈ 1 Mo, radiographie ≈ 2–10 Mo,
 > Les appareils connectés peuvent imposer des exigences supérieures — par exemple
 > VistaVox S nécessite un **PC de reconstruction** performant en liaison directe.
 
+> **Mise à niveau gratuite** : les appareils d'imagerie Dürr Dental **vendus depuis
+> mars 2025 (salon IDS de Cologne)** bénéficient du **passage gratuit vers
+> VistaSoft 4.x** (annonce officielle Dürr Dental, IDS 2025).
+
 ## Limites et précisions
 
 - **VistaSoft 4.0 n'est pas adapté aux mammographies** (verbatim documenté dans

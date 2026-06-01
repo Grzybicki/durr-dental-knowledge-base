@@ -76,6 +76,9 @@ des notes terrain, menus/outils service et procédures techniciens.
   gamme VistaScan (Mini Easy/View 2.0, Ultra View — Ethernet/Wi-Fi + VistaSoft ≥ 3.0.13),
   VistaRay 7 (câble USB ≤ 5 m, VistaSoft ≥ 1.0), Smart Reader (VistaSoft ≥ 3.0.13),
   VistaPano S 2.0 (VistaSoft ≥ 3.0.32).
+- **VistaSoft 4.0 — mise à niveau gratuite** : note précisant que les appareils
+  d'imagerie Dürr Dental vendus depuis mars 2025 (IDS Cologne) bénéficient du passage
+  gratuit vers VistaSoft 4.x (annonce officielle IDS 2025).
 
 ### Modifié — gabarit et documentation
 
