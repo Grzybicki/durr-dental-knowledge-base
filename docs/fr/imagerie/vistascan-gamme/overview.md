@@ -218,6 +218,10 @@ Dernières versions connues (référence mai 2026) :
 | VistaScan Ultra View | R1.5.2 | mai 2025 |
 | VistaScan Combi View | R1.8 | 2022 |
 
+## Dépannage
+
+Les scanners VistaScan affichent des **messages d'appareil** documentés dans la documentation officielle. Cas le plus fréquent : **scanner non détecté sur le réseau** → vérifier la **connexion LAN / Wi-Fi**, le **serveur DHCP** (ou l'AutoIP) et que les **ports requis ne sont pas bloqués** (voir « Réseau et installation »). Si le problème persiste après redémarrage, contacter un **technicien agréé Dürr Dental**.
+
 ## Questions fréquentes
 
 ### Que couvre la gamme VistaScan ?

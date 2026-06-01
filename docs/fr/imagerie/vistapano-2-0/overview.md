@@ -517,6 +517,10 @@ D'après la notice d'installation officielle VistaPano S 2.0 / VistaPano S Ceph 
 - IP fixe par défaut **10.100.200.100** ; ports **TCP 31175 et 54466** à ouvrir ;
   exclusions antivirus recommandées sur `C:\ProgramData\Duerr` et `C:\Program Files\Duerr`.
 
+## Dépannage
+
+VistaPano S 2.0 / VistaPano S Ceph 2.0 signale les anomalies par des **codes d'erreur** documentés dans la notice d'utilisation officielle. Vérifications de base : **alimentation**, **liaison réseau** PC ↔ appareil et **déclencheur** (voir « Installation et prérequis »). Démarche : noter le code affiché → **éteindre puis rallumer** → si l'erreur persiste, contacter un **technicien agréé Dürr Dental**.
+
 ## Questions fréquentes
 
 ### Quelle est la différence entre VistaPano S 2.0 et VistaPano S Ceph 2.0 ?

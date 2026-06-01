@@ -86,6 +86,10 @@ des notes terrain, menus/outils service et procédures techniciens.
   Numéros de version uniquement — sans fichiers ni source non publique.
 - **VistaSoft 4.0 — section « Versions et téléchargement »** : version courante 4.0.13
   (branches 3.0.34 / 2.4.13) + **lien de téléchargement officiel public** Dürr Dental.
+- **Sections « Dépannage »** ajoutées à 5 fiches (VistaIntra DC, VistaRay 7, gamme
+  VistaScan, VistaVox S, VistaPano S 2.0) : pointeur vers les codes d'erreur de la
+  notice + démarche générale (noter le code → redémarrer → technicien agréé).
+  **Aucune table d'erreurs reproduite** (respect du droit d'auteur).
 
 ### Modifié — gabarit et documentation
 

@@ -292,6 +292,10 @@ Dernières versions connues (référence mai 2026) :
 | Firmware MCU (génération antérieure) | 8.00.33 |
 | Interface (GUI) | 1.10.0.4494 |
 
+## Dépannage
+
+VistaVox S signale les anomalies par des **codes d'erreur** documentés dans la notice d'utilisation officielle. Démarche générale : noter le code affiché, **redémarrer** l'appareil et le PC de reconstruction ; si l'erreur persiste, contacter un **technicien agréé Dürr Dental**. L'ouverture de l'appareil et les interventions internes sont réservées aux techniciens qualifiés.
+
 ## Questions fréquentes
 
 <script type="application/ld+json">

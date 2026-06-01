@@ -199,6 +199,10 @@ D'après la notice de montage et d'utilisation officielle (réf. `2202100028L03`
 }
 </script>
 
+## Dépannage
+
+VistaIntra DC signale les anomalies par des **codes d'erreur** (préfixe « E ») affichés à l'écran et **documentés dans la notice d'utilisation officielle** (réf. `2202100028L03`). Les codes couvrent notamment les écarts de **tension / courant**, la **température** de l'émetteur de rayons X et le **déclencheur**. Démarche générale : noter le code affiché → **éteindre puis rallumer** l'appareil → si l'erreur persiste, contacter un **technicien agréé Dürr Dental** (ne pas ouvrir l'appareil).
+
 ## Questions fréquentes
 
 ### Qu'est-ce que le VistaIntra DC ?

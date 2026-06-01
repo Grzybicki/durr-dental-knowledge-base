@@ -197,6 +197,10 @@ le module [Image Bridge](../image-bridge/overview/).
 }
 </script>
 
+## Dépannage
+
+VistaRay 7 et son logiciel signalent les anomalies par des **codes d'erreur** documentés dans la notice et le guide d'installation officiels. Cas courant : **capteur non détecté** → vérifier la **connexion USB** et le **pilote** (réinstaller si nécessaire) et n'utiliser que la **rallonge USB fournie** (longueur totale ≤ 5 m). En cas d'artefacts d'image persistants, faire contrôler le capteur par un **technicien agréé Dürr Dental**.
+
 ## Questions fréquentes
 
 ### Qu'est-ce que le VistaRay 7 ?
