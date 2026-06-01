@@ -212,6 +212,39 @@ techniques du cabinet, en natif (équipements récents) ou via
 - La surveillance des équipements implique une connexion réseau et l'accord de
   l'exploitant du cabinet pour le partage de données de monitoring.
 
+## Installation et ports
+
+D'après la documentation officielle VistaSoft Monitor :
+
+- Installation avec **droits administrateur** (création de l'entrée pare-feu),
+  appareils connectés en **LAN ou WLAN**, puis enregistrement du **compte cabinet**
+  sur **vsmonitor.com** et définition du **Service Partner** (concessionnaire).
+  Application mobile disponible.
+- Détection des appareils Dürr du réseau en **moins d'une minute** : IP dynamique
+  (DHCP) automatique, IP statique à placer dans le même sous-réseau que le serveur.
+- Prérequis : droits administrateur, connexion Internet sur le serveur, contrôle du
+  statut firmware.
+
+### Ports pare-feu
+
+| Protocole | Ports |
+|---|---|
+| TCP | **502** (Modbus), 512, 514, 25565, 50123 |
+| UDP | **1900** (SSDP), 45123, 45124, 45125 |
+
+## Messages de statut et alarmes
+
+| Couleur | Signification | Transmission |
+|---|---|---|
+| 🟦 Bleu | Fonctionnement normal | toutes les 10 min |
+| 🟧 Orange | Avertissement | immédiate |
+| 🟥 Rouge | Dysfonctionnement | immédiate |
+| ⬜ Gris | Déconnexion | visible après 10 min |
+
+Notifications via l'icône système et l'interface web ; les **Service Partners**
+autorisés peuvent **acquitter les messages à distance**. Chaque message détaille :
+nom, référence, numéro de série, type, code d'erreur, horodatage et description.
+
 ## Questions fréquentes
 
 <script type="application/ld+json">

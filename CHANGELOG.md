@@ -40,6 +40,23 @@ note d'audit `Durr/Developpements/durr-dental-knowledge-base - audit structurel 
 - **Désinfection des surfaces (FD 350)** : spectre d'activité, conditionnement 110 lingettes
   14 × 22 cm, variantes Classic/Flower/Lemon + FD 350 green (sans aldéhyde).
 
+### Ajouté — sections installation / réseau (notices officielles)
+
+Données issues des notices d'installation/utilisation officielles (référence interne :
+dossier `Durr/` du 2nd cerveau), **filtrées** : faits publics uniquement, à l'exclusion
+des notes terrain, menus/outils service et procédures techniciens.
+
+- **VistaVox S** : section « Installation et planning local » (contenu de livraison,
+  préparation locale, options de montage — mur porteur 202 kg / non porteur 262 kg,
+  tirages, forces par vis).
+- **VistaPano S 2.0** : section « Installation et prérequis » (livraison 1 colis +
+  dimensions, prérequis PC i5/16 Go/PCI-E, disjoncteur 16 A / 2,2 kVA, RJ-45 Cat 5e,
+  voyants porte, IP par défaut 10.100.200.100, ports TCP 31175/54466).
+- **Gamme VistaScan** : section « Réseau et installation » (LAN/Wi-Fi, DHCP/AutoIP,
+  ports gén. 2.0 TCP 80/443/22 + UDP 1900, calcul dose µGy dès VistaSoft 3.0.20).
+- **VistaSoft Monitor** : sections « Installation et ports » (ports pare-feu TCP/UDP)
+  et « Messages de statut et alarmes » (codes couleur, acquittement à distance).
+
 ### Modifié — gabarit et documentation
 
 - **`_drafts/_template_fiche_produit.md`** réaligné sur la pratique réelle : squelette

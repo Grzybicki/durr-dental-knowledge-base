@@ -161,6 +161,35 @@ L'ensemble de la gamme VistaScan s'intègre nativement à
 }
 </script>
 
+## Réseau et installation
+
+D'après la documentation technique officielle (génération VistaScan 2.0) :
+
+### Connexion
+
+- **LAN** (recommandée). **Wi-Fi** sur Mini View 2.0 (2,4 / 5 GHz, WPA / WPA2 / WPA3).
+  **USB** uniquement pour les appareils livrés jusqu'à 08/2022.
+- Première mise en service en **DHCP** ; en l'absence de serveur DHCP, **AutoIP**
+  (169.254.x.x) sur les Mini 2.0.
+
+### Ports réseau (génération 2.0)
+
+| Protocole | Port | Usage |
+|---|---|---|
+| TCP | **80** | Détection |
+| TCP | **443** | Données (chiffrées) |
+| TCP | **22** | Service (SSH) |
+| UDP | **1900** | Détection |
+
+> Les ports de la génération 2.0 diffèrent de la génération 1.0 : sur un parc mixte,
+> ouvrir les deux jeux.
+
+### Calcul automatique de la dose au récepteur
+
+À partir de **VistaSoft 3.0.20**, la dose au récepteur est calculée en **µGy** pour
+chaque image (VistaScan Mini, Ultra View, Combi View intra-oral, VistaRay 7.x) ; la
+valeur est transmise aux logiciels tiers via VistaSoft Connect.
+
 ## Questions fréquentes
 
 ### Que couvre la gamme VistaScan ?

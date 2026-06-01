@@ -249,6 +249,37 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/).
   ALARA et la réglementation française de radioprotection (Code de la
   santé publique, IRSN, ASN).
 
+## Installation et planning local
+
+Éléments issus de la **notice d'installation officielle** VistaVox S (document public
+récupérable via le [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/)).
+
+### Contenu de livraison
+
+- VistaVox S avec **câble d'alimentation fixe (2,5 m)** et **kit de fixation murale**.
+- Bouton d'exposition, aides de positionnement et housses hygiéniques.
+- Carte d'acquisition (*frame grabber*) pour le PC de reconstruction.
+- Clé USB de calibration, dongle USB de licence et logiciel VistaSoft.
+- **Câble fibre optique de 10 m**.
+- Phantom holder (pano + ceph) ; plaque carpus sur le modèle Ceph uniquement.
+
+### Préparation locale
+
+- **Alimentation électrique** : câble fixe de 2,5 m (à prévoir au point de raccordement).
+- **Fibre optique** : 10 m fournis, à cheminer en gaine jusqu'au PC de reconstruction.
+- **Bouton d'exposition déporté** : 10 m fournis.
+- Vérifier la **nature du mur** (porteur ou non) — elle conditionne le mode de montage.
+
+### Options de montage selon le local
+
+| Configuration | Poids supporté | Fixation haute | Tirage haut (N) | Fixation basse | Pied |
+|---|---|---|---|---|---|
+| Mur porteur (standard) | 202 kg | Oui | 1400 | Non | Oui |
+| Avec chauffage au sol | 202 kg | Oui | 1400 | Oui (140 N) | Non |
+| Mur non porteur | 262 kg | Oui | 800 | Non | Pied intégré obligatoire |
+
+Forces par vis : fixation haute **200–350 N**, fixation basse **35 N** selon la configuration.
+
 ## Questions fréquentes
 
 <script type="application/ld+json">

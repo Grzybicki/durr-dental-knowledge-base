@@ -485,6 +485,37 @@ VistaSoft Trace.*
 }
 </script>
 
+## Installation et prérequis
+
+D'après la notice d'installation officielle VistaPano S 2.0 / VistaPano S Ceph 2.0 :
+
+### Livraison
+
+- Livraison en **un seul colis**. Dimensions sur palette : VistaPano S 2.0
+  **171 × 70 × 111 cm, 141,2 kg** ; VistaPano S Ceph 2.0 **188 × 77 × 111 cm, 165,4 kg**.
+- Contenu : système RX, *Headrest Plus*, *hand release*, housses hygiéniques,
+  comfort bite block + holder, 3 *chin rests* (ATM, édenté, sinus), plaque
+  d'alignement, support mural court, plaque carpus (Ceph uniquement).
+
+### Prérequis PC
+
+- CPU ≥ Intel Core **i5**, **16 Go** de RAM, un slot **PCI-Express** libre pour le
+  contrôleur Gigabit Ethernet fourni avec l'appareil.
+
+### Raccordement et local
+
+- Alimentation par câble fixe **2,5 m** ; liaisons PC ↔ appareil et déclencheur en
+  **RJ-45 (Cat 5e minimum, 10 m)**.
+- **Disjoncteur dédié 16 A** (max **2,2 kVA**) ; gaines **⌀ 32 mm** vers le PC et le
+  déclencheur extérieur.
+- Signalisation porte : voyant **220 V rouge** (présence tension) + voyant
+  **12 / 24 V** (émission de rayons X).
+
+### Réseau et pare-feu
+
+- IP fixe par défaut **10.100.200.100** ; ports **TCP 31175 et 54466** à ouvrir ;
+  exclusions antivirus recommandées sur `C:\ProgramData\Duerr` et `C:\Program Files\Duerr`.
+
 ## Questions fréquentes
 
 ### Quelle est la différence entre VistaPano S 2.0 et VistaPano S Ceph 2.0 ?
