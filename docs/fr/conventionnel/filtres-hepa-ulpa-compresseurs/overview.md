@@ -343,6 +343,77 @@ selon ISO 22052 (voir [fiche Silver Airline](../silver-airline/overview/)).
 - Le **dessiccateur** est complémentaire au filtre : un air mal séché
   finit par dégrader prématurément le média filtrant.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quel niveau de filtration équipe les compresseurs Dürr Dental ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Des filtres bactériologiques de classe ULPA U16 selon EN 1822-1:2019-10 (ISO 65U selon ISO 29463-3:2018), niveau supérieur aux HEPA H14 standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle différence entre HEPA H14 et ULPA U16 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le HEPA H14 filtre ≥ 99,995 % au MPPS, l'ULPA U16 ≥ 99,99995 % — soit environ 100 fois moins de pénétration que le H14."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que signifie MPPS ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MPPS signifie Most Penetrating Particle Size : la taille de particule la plus pénétrante, point de référence où l'efficacité d'un filtre est la plus faible et donc mesurée."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "L'ULPA U16 a-t-il un équivalent international ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : la classe U16 (EN 1822) correspond à la classe ISO 65 U de la norme ISO 29463."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pourquoi ce niveau de filtration pour l'air dentaire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour répondre aux exigences de la norme ISO 22052 relative à la qualité de l'air comprimé dentaire."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Quel niveau de filtration équipe les compresseurs Dürr Dental ?
+
+Des filtres bactériologiques de classe ULPA U16 selon EN 1822-1:2019-10 (ISO 65U selon ISO 29463-3:2018), niveau supérieur aux HEPA H14 standards.
+
+### Quelle différence entre HEPA H14 et ULPA U16 ?
+
+Le HEPA H14 filtre ≥ 99,995 % au MPPS, l'ULPA U16 ≥ 99,99995 % — soit environ 100 fois moins de pénétration que le H14.
+
+### Que signifie MPPS ?
+
+MPPS signifie Most Penetrating Particle Size : la taille de particule la plus pénétrante, point de référence où l'efficacité d'un filtre est la plus faible et donc mesurée.
+
+### L'ULPA U16 a-t-il un équivalent international ?
+
+Oui : la classe U16 (EN 1822) correspond à la classe ISO 65 U de la norme ISO 29463.
+
+### Pourquoi ce niveau de filtration pour l'air dentaire ?
+
+Pour répondre aux exigences de la norme ISO 22052 relative à la qualité de l'air comprimé dentaire.
+
 ## Sources publiques
 
 | Document | URL publique |

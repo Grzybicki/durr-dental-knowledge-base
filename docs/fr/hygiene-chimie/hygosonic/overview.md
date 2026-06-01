@@ -43,6 +43,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "Hygosonic",
+  "description": "Hygosonic est le bac à ultrasons Dürr Dental dédié à la préparation manuelle des instruments dentaires. Champ sonore optimisé, fonction Boost, dégazage. Combiné aux produits ID/MD pour une désinfection sécurisée.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Hygosonic — Bac à ultrasons pour préparation des instruments
 
 ## Description courte
@@ -139,6 +156,77 @@ L'utilisation combinée garantit la **désinfection sécurisée** et le
    [Hygopac / Hygopac View](../hygobox-hygopac-emballage/overview/) +
    Hygofol.
 5. **Documentation** : Hygoprint.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "À quoi sert l'Hygosonic ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "C'est le bac à ultrasons Dürr Dental pour le nettoyage des instruments en amont de la stérilisation, dans le cadre de la préparation manuelle des instruments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les fonctions ultrasoniques de l'Hygosonic ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boost (augmentation de la puissance d'environ +25 %), Sweep (répartition homogène du champ sonore, sans zones mortes) et Degas (dégazage des liquides fraîchement préparés)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les caractéristiques techniques de l'Hygosonic ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Référence 6035-50, alimentation 220–240 V, puissance 280 W, indice de protection IP 20, cuve en acier inoxydable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qui fabrique l'Hygosonic ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depuis mars 2021 (MDR EU 2017/745), le fabricant légal est Sonoswiss AG (Ramsen, Suisse) et Dürr Dental SE en est le distributeur ; la marque et la référence (6035-50) restent inchangées."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Avec quels produits utiliser l'Hygosonic ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 530, MD 535) de Dürr Dental, pour une désinfection et un nettoyage sécurisés."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### À quoi sert l'Hygosonic ?
+
+C'est le bac à ultrasons Dürr Dental pour le nettoyage des instruments en amont de la stérilisation, dans le cadre de la préparation manuelle des instruments.
+
+### Quelles sont les fonctions ultrasoniques de l'Hygosonic ?
+
+Boost (augmentation de la puissance d'environ +25 %), Sweep (répartition homogène du champ sonore, sans zones mortes) et Degas (dégazage des liquides fraîchement préparés).
+
+### Quelles sont les caractéristiques techniques de l'Hygosonic ?
+
+Référence 6035-50, alimentation 220–240 V, puissance 280 W, indice de protection IP 20, cuve en acier inoxydable.
+
+### Qui fabrique l'Hygosonic ?
+
+Depuis mars 2021 (MDR EU 2017/745), le fabricant légal est Sonoswiss AG (Ramsen, Suisse) et Dürr Dental SE en est le distributeur ; la marque et la référence (6035-50) restent inchangées.
+
+### Avec quels produits utiliser l'Hygosonic ?
+
+Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 530, MD 535) de Dürr Dental, pour une désinfection et un nettoyage sécurisés.
 
 ## Sources publiques
 

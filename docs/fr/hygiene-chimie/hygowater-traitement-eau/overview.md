@@ -37,6 +37,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "Hygowater",
+  "description": "Hygowater est le système Dürr Dental de décontamination de l'eau des fauteuils dentaires. Élimine les micro-organismes par filtration et électrolyse, sans produit chimique. < 100 UFC/ml. Validé par la Faculté dentaire de Strasbourg.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Hygowater — Traitement de l'eau des fauteuils dentaires
 
 > ⚠️ **Statut commercial — arrêté depuis le 1ᵉʳ janvier 2024**
@@ -105,6 +122,65 @@ l'évidence d'efficacité dans des conditions réelles de cabinet.
 
 Les deux produits sont complémentaires dans la chaîne d'hygiène du
 cabinet.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "À quoi servait l'Hygowater ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hygowater était l'appareil Dürr Dental de décontamination de l'eau des fauteuils dentaires : il éliminait les micro-organismes de l'eau d'alimentation et offrait une protection durable contre le biofilm des canalisations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment fonctionnait l'Hygowater ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Par filtration et électrolyse, sans recours à des produits chimiques."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel niveau de décontamination de l'eau visait-il ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un niveau cible inférieur à 100 UFC/ml (Unités Formant Colonies par millilitre)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "L'efficacité de l'Hygowater a-t-elle été validée ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, une validation a été publiée par la Faculté dentaire de Strasbourg."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### À quoi servait l'Hygowater ?
+
+Hygowater était l'appareil Dürr Dental de décontamination de l'eau des fauteuils dentaires : il éliminait les micro-organismes de l'eau d'alimentation et offrait une protection durable contre le biofilm des canalisations.
+
+### Comment fonctionnait l'Hygowater ?
+
+Par filtration et électrolyse, sans recours à des produits chimiques.
+
+### Quel niveau de décontamination de l'eau visait-il ?
+
+Un niveau cible inférieur à 100 UFC/ml (Unités Formant Colonies par millilitre).
+
+### L'efficacité de l'Hygowater a-t-elle été validée ?
+
+Oui, une validation a été publiée par la Faculté dentaire de Strasbourg.
 
 ## Sources publiques
 

@@ -151,6 +151,65 @@ VistaSoft permet aussi l'usage avec des logiciels d'imagerie tiers, via la
 passerelle [VistaSoft Connect](../migration-bases-donnees/overview/) ou
 le module [Image Bridge](../image-bridge/overview/).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le VistaRay 7 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le capteur intraoral filaire Dürr Dental, en technologie CMOS avec couche scintillatrice propriétaire, disponible en deux tailles (1 et 2) et raccordé en USB direct (2.0 et 3.0)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre la taille 1 et la taille 2 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La taille 1 offre une surface active de 30 × 20 mm (1 050 × 1 580 pixels) ; la taille 2 une surface active de 36 × 26 mm (1 368 × 1 896 pixels)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "À quoi sert la couche scintillatrice propriétaire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elle réduit la diffusion de la lumière et la concentre sur la puce CMOS, ce qui améliore la qualité d'image."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment se connecte le VistaRay 7 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Par USB direct, compatible USB 2.0 et USB 3.0, pour une mise en service simple."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que le VistaRay 7 ?
+
+Le capteur intraoral filaire Dürr Dental, en technologie CMOS avec couche scintillatrice propriétaire, disponible en deux tailles (1 et 2) et raccordé en USB direct (2.0 et 3.0).
+
+### Quelle est la différence entre la taille 1 et la taille 2 ?
+
+La taille 1 offre une surface active de 30 × 20 mm (1 050 × 1 580 pixels) ; la taille 2 une surface active de 36 × 26 mm (1 368 × 1 896 pixels).
+
+### À quoi sert la couche scintillatrice propriétaire ?
+
+Elle réduit la diffusion de la lumière et la concentre sur la puce CMOS, ce qui améliore la qualité d'image.
+
+### Comment se connecte le VistaRay 7 ?
+
+Par USB direct, compatible USB 2.0 et USB 3.0, pour une mise en service simple.
+
 ## Sources publiques
 
 | Document | URL publique |

@@ -33,6 +33,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "Systèmes Dürr Dental pour cliniques et CHU",
+  "description": "Dürr Dental propose des systèmes d'air comprimé et d'aspiration spécifiques pour les cliniques dentaires et les CHU. Compresseurs 400 V (3~) 50 Hz, systèmes d'aspiration Tyscor et V grande capacité.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Systèmes Dürr Dental pour cliniques et CHU
 
 ## Description courte
@@ -122,6 +139,77 @@ Dental, l'intégration avec [VistaSoft 4.0](/docs/fr/imagerie/vistasoft-4-0/over
 se fait typiquement via **DICOM** (Modality Worklist + Storage) avec le
 RIS / PACS hospitalier. Voir
 [fiche DICOM](/docs/fr/imagerie/dicom/overview/) pour le détail.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "En quoi les installations pour cliniques et CHU diffèrent-elles des cabinets ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ces installations multi-postes exigent des capacités étendues (souvent plus de 10 postes simultanés) et une fiabilité accrue par rapport aux cabinets standards."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle alimentation pour l'air comprimé en clinique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les systèmes fonctionnent en 400 V (3∼) 50 Hz ; la station centralisée combine séchage par froid et séparateur cyclonique et couvre jusqu'à 80 praticiens simultanés."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels produits couvrent les besoins cliniques ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Power Tower View 400 V, Silver Airline Tandem, aspiration Tyscor V/VS 2-4 avec Tandem/Tridem, et compresseurs CAD/CAM pour les laboratoires intégrés."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles évolutions en 2023 pour les stations cliniques ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les stations P 6000-12000 et V 6000-18000 ont été révisées avec un écran intégré au contrôleur, une interface CAN simplifiant l'installation et une intégration IoT (communication d'octobre 2023)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles spécificités réglementaires en contexte hospitalier ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conformité aux exigences des établissements de santé : radioprotection, hygiène hospitalière et traçabilité des dispositifs médicaux."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### En quoi les installations pour cliniques et CHU diffèrent-elles des cabinets ?
+
+Ces installations multi-postes exigent des capacités étendues (souvent plus de 10 postes simultanés) et une fiabilité accrue par rapport aux cabinets standards.
+
+### Quelle alimentation pour l'air comprimé en clinique ?
+
+Les systèmes fonctionnent en 400 V (3∼) 50 Hz ; la station centralisée combine séchage par froid et séparateur cyclonique et couvre jusqu'à 80 praticiens simultanés.
+
+### Quels produits couvrent les besoins cliniques ?
+
+Power Tower View 400 V, Silver Airline Tandem, aspiration Tyscor V/VS 2-4 avec Tandem/Tridem, et compresseurs CAD/CAM pour les laboratoires intégrés.
+
+### Quelles évolutions en 2023 pour les stations cliniques ?
+
+Les stations P 6000-12000 et V 6000-18000 ont été révisées avec un écran intégré au contrôleur, une interface CAN simplifiant l'installation et une intégration IoT (communication d'octobre 2023).
+
+### Quelles spécificités réglementaires en contexte hospitalier ?
+
+Conformité aux exigences des établissements de santé : radioprotection, hygiène hospitalière et traçabilité des dispositifs médicaux.
 
 ## Sources publiques
 

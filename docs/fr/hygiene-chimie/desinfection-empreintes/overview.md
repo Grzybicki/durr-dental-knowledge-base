@@ -29,6 +29,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "Désinfection des empreintes",
+  "description": "Désinfection des empreintes dentaires : Hygojet (système clos automatisé de nettoyage et désinfection des empreintes) et ID 213 (désinfectant des instruments dentaires aldéhyde-free). Dürr Dental.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Désinfection des empreintes — Hygojet et ID 213
 
 ## Hygojet — Système clos automatisé pour empreintes
@@ -160,7 +177,78 @@ Les **inhibiteurs de corrosion** présents dans ID 213 préservent les
 décisif pour les cabinets équipés d'instruments inox de qualité
 chirurgicale ou de pièces à main coûteuses.
 
-### Sources publiques
+#<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le Hygojet ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hygojet est l'appareil Dürr Dental de désinfection automatisée des empreintes dentaires. C'est un système clos servant de sas pour le nettoyage, la désinfection et le séchage, sans projection ni vapeur dans le local."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle famille de produits désinfecte les instruments ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La famille ID (Instrument Disinfection) : ID 212, ID 212 forte plus, ID 213 et ID 215, avec des positionnements différenciés selon les instruments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce qui distingue l'ID 213 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'ID 213 est un concentré désinfectant et nettoyant sans aldéhyde (aldéhyde-free) adapté aux instruments chirurgicaux, classiques et rotatifs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment s'enchaînent désinfection et stérilisation des instruments ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La désinfection chimique préalable (par ID 213 notamment) est suivie d'une stérilisation vapeur en Hygoclave avec une eau déminéralisée issue de Hygopure 90, puis d'un emballage stérile via Hygopac."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les ID 212 et ID 213 sont-ils soumis au Certibiocide ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lorsqu'ils sont classés comme dispositifs médicaux (MDR EU 2017/745), ils relèvent du MDR et sont donc hors du champ du Certibiocide."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que le Hygojet ?
+
+Hygojet est l'appareil Dürr Dental de désinfection automatisée des empreintes dentaires. C'est un système clos servant de sas pour le nettoyage, la désinfection et le séchage, sans projection ni vapeur dans le local.
+
+### Quelle famille de produits désinfecte les instruments ?
+
+La famille ID (Instrument Disinfection) : ID 212, ID 212 forte plus, ID 213 et ID 215, avec des positionnements différenciés selon les instruments.
+
+### Qu'est-ce qui distingue l'ID 213 ?
+
+L'ID 213 est un concentré désinfectant et nettoyant sans aldéhyde (aldéhyde-free) adapté aux instruments chirurgicaux, classiques et rotatifs.
+
+### Comment s'enchaînent désinfection et stérilisation des instruments ?
+
+La désinfection chimique préalable (par ID 213 notamment) est suivie d'une stérilisation vapeur en Hygoclave avec une eau déminéralisée issue de Hygopure 90, puis d'un emballage stérile via Hygopac.
+
+### Les ID 212 et ID 213 sont-ils soumis au Certibiocide ?
+
+Lorsqu'ils sont classés comme dispositifs médicaux (MDR EU 2017/745), ils relèvent du MDR et sont donc hors du champ du Certibiocide.
+
+## Sources publiques
 
 | Document | URL publique |
 |---|---|

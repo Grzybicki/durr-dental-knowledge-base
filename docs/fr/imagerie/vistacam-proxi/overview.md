@@ -145,6 +145,65 @@ logicielle se fait via [VistaSoft 4.0](../vistasoft-4-0/overview/).
 - Le **liquide buccal** (salive) peut influencer les performances de
   détection — voir l'étude PMC 5074418.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que la VistaCam Proxi ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "C'est la tête interchangeable dédiée du système VistaCam iX HD Smart, conçue pour la détection des caries approximales par lumière proche infrarouge à 850 nm."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sur quelles dents la VistaCam Proxi est-elle utile ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Principalement sur les dents postérieures, pour la détection des caries approximales (entre les dents)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est l'avantage de la VistaCam Proxi ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La détection des caries approximales se fait sans irradiation, c'est-à-dire sans rayons X."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment fonctionne la détection par proche infrarouge ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selon le principe de near-infrared reflection : l'émail sain est transparent à 850 nm tandis que les lésions cariées apparaissent opaques, ce qui les rend visibles."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que la VistaCam Proxi ?
+
+C'est la tête interchangeable dédiée du système VistaCam iX HD Smart, conçue pour la détection des caries approximales par lumière proche infrarouge à 850 nm.
+
+### Sur quelles dents la VistaCam Proxi est-elle utile ?
+
+Principalement sur les dents postérieures, pour la détection des caries approximales (entre les dents).
+
+### Quel est l'avantage de la VistaCam Proxi ?
+
+La détection des caries approximales se fait sans irradiation, c'est-à-dire sans rayons X.
+
+### Comment fonctionne la détection par proche infrarouge ?
+
+Selon le principe de near-infrared reflection : l'émail sain est transparent à 850 nm tandis que les lésions cariées apparaissent opaques, ce qui les rend visibles.
+
 ## Sources publiques
 
 ### Pages officielles Dürr Dental

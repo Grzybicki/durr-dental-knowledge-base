@@ -236,6 +236,77 @@ adapté aux traitements **prophylactiques avec aéropolisseurs**
 |---|---|---|
 | Par 4 | Grise | `0700-058-50` |
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'apportent les entrées d'air secondaires anti-reflux des canules Universelle ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selon la page produit, elles optimisent l'aspiration du spray mist, évitent le reflux (back-flow) en bouche et rendent les canules particulièrement silencieuses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les modèles phares de canules universelles Dürr Dental ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les versions phares sont la Canule Universelle Protect et la Canule Universelle Petito, toutes deux équipées des entrées d'air secondaires anti-reflux."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La gamme de canules couvre-t-elle plusieurs indications ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, Dürr Dental propose une gamme complète de canules d'aspiration adaptées aux différentes indications cliniques (réf. brochure P007-173-03)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les canules sont-elles stérilisables ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les canules autoclavables doivent être stérilisées à 134 °C selon le protocole habituel du cabinet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les canules s'intègrent-elles au Support de tuyaux Comfort ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, les canules d'aspiration s'intègrent au Support de tuyaux Comfort, support modulaire au fauteuil."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'apportent les entrées d'air secondaires anti-reflux des canules Universelle ?
+
+Selon la page produit, elles optimisent l'aspiration du spray mist, évitent le reflux (back-flow) en bouche et rendent les canules particulièrement silencieuses.
+
+### Quels sont les modèles phares de canules universelles Dürr Dental ?
+
+Les versions phares sont la Canule Universelle Protect et la Canule Universelle Petito, toutes deux équipées des entrées d'air secondaires anti-reflux.
+
+### La gamme de canules couvre-t-elle plusieurs indications ?
+
+Oui, Dürr Dental propose une gamme complète de canules d'aspiration adaptées aux différentes indications cliniques (réf. brochure P007-173-03).
+
+### Les canules sont-elles stérilisables ?
+
+Les canules autoclavables doivent être stérilisées à 134 °C selon le protocole habituel du cabinet.
+
+### Les canules s'intègrent-elles au Support de tuyaux Comfort ?
+
+Oui, les canules d'aspiration s'intègrent au Support de tuyaux Comfort, support modulaire au fauteuil.
+
 ## Sources publiques
 
 | Document | URL publique |

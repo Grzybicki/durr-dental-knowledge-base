@@ -198,6 +198,77 @@ Les récupérateurs d'amalgame Dürr Dental sont des **dispositifs médicaux
 de classe IIa** selon le règlement **MDR EU 2017/745**, conformes au
 règlement (UE) 2017/852 sur le mercure.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pourquoi un récupérateur d'amalgame est-il obligatoire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le règlement (UE) 2017/852 sur le mercure impose la séparation et la collecte de l'amalgame dentaire ; l'installation d'un récupérateur est obligatoire pour les cabinets utilisant ou retirant des restaurations en amalgame."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les modèles de récupérateurs Dürr Dental ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La gamme couvre quatre tailles principales — CA 1, CA 2, CA 4 — ainsi que des modèles combinés (CS 1, CAS 1)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apporte un modèle combiné comme le CS 1 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le CS 1 (Combi-Sepamatic) combine en un seul appareil la séparation des particules d'amalgame et la séparation des liquides en sortie d'aspiration humide."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les récupérateurs d'amalgame sont-ils des dispositifs médicaux ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, dispositifs médicaux de classe IIa selon MDR EU 2017/745, conformes au règlement (UE) 2017/852 sur le mercure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la référence documentaire technique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les caractéristiques techniques sont issues de la factsheet officielle P007-619-03."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Pourquoi un récupérateur d'amalgame est-il obligatoire ?
+
+Le règlement (UE) 2017/852 sur le mercure impose la séparation et la collecte de l'amalgame dentaire ; l'installation d'un récupérateur est obligatoire pour les cabinets utilisant ou retirant des restaurations en amalgame.
+
+### Quels sont les modèles de récupérateurs Dürr Dental ?
+
+La gamme couvre quatre tailles principales — CA 1, CA 2, CA 4 — ainsi que des modèles combinés (CS 1, CAS 1).
+
+### Qu'apporte un modèle combiné comme le CS 1 ?
+
+Le CS 1 (Combi-Sepamatic) combine en un seul appareil la séparation des particules d'amalgame et la séparation des liquides en sortie d'aspiration humide.
+
+### Les récupérateurs d'amalgame sont-ils des dispositifs médicaux ?
+
+Oui, dispositifs médicaux de classe IIa selon MDR EU 2017/745, conformes au règlement (UE) 2017/852 sur le mercure.
+
+### Quelle est la référence documentaire technique ?
+
+Les caractéristiques techniques sont issues de la factsheet officielle P007-619-03.
+
 ## Sources publiques
 
 | Document | URL publique |

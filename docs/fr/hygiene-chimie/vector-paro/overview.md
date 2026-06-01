@@ -235,6 +235,77 @@ parodontale :
 - **Grain Vector Fluid polish < 10 µm** = abrasion **minimale** sur la
   surface radiculaire (objectif **atraumatique** Vector).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que Vector Paro ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le système Dürr Dental de thérapie parodontale ultrasonique atraumatique, fondé sur la technologie Vector développée depuis plus de 25 ans, pour un traitement minimalement invasif et indolore des parodontites et péri-implantites."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le principe technique de Vector ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La « vibration deflection » : un anneau de résonance propriétaire redirige les oscillations ultrasoniques pour une action atraumatique, préservant les tissus mous."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les caractéristiques techniques de Vector Paro ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alimentation 230 V, fréquence de fonctionnement ultrasonique 25–35 kHz, réservoir d'eau de 600 ml, consommation d'eau de la pièce à main Paro d'environ 30 ml/min (factsheet P007-171-03)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les indications de Vector Paro ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parodontite (légère à sévère), péri-implantite, maintenance parodontale (recall) et détartrage classique avec le module Vector Scaler."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Existe-t-il des preuves scientifiques de l'efficacité ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : une étude prospective (PMC 11830227) sur 50 patients atteints de gingivite, parodontite ou péri-implantite a mesuré l'évolution des indices parodontaux (PI, GI, PBI, PD)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que Vector Paro ?
+
+Le système Dürr Dental de thérapie parodontale ultrasonique atraumatique, fondé sur la technologie Vector développée depuis plus de 25 ans, pour un traitement minimalement invasif et indolore des parodontites et péri-implantites.
+
+### Quel est le principe technique de Vector ?
+
+La « vibration deflection » : un anneau de résonance propriétaire redirige les oscillations ultrasoniques pour une action atraumatique, préservant les tissus mous.
+
+### Quelles sont les caractéristiques techniques de Vector Paro ?
+
+Alimentation 230 V, fréquence de fonctionnement ultrasonique 25–35 kHz, réservoir d'eau de 600 ml, consommation d'eau de la pièce à main Paro d'environ 30 ml/min (factsheet P007-171-03).
+
+### Quelles sont les indications de Vector Paro ?
+
+Parodontite (légère à sévère), péri-implantite, maintenance parodontale (recall) et détartrage classique avec le module Vector Scaler.
+
+### Existe-t-il des preuves scientifiques de l'efficacité ?
+
+Oui : une étude prospective (PMC 11830227) sur 50 patients atteints de gingivite, parodontite ou péri-implantite a mesuré l'évolution des indices parodontaux (PI, GI, PBI, PD).
+
 ## Sources publiques
 
 | Document | URL publique |

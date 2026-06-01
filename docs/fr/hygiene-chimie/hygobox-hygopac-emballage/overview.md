@@ -37,6 +37,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "Hygobox, Hygopac et Hygofol",
+  "description": "Hygobox (transport et désinfection des instruments), Hygopac et Hygopac Plus / View (soudeuses pour emballage stérile DIN EN ISO 11607-2), Hygofol (emballage stérile), Hygoprint (documentation).",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Hygobox, Hygopac et Hygofol — Transport, emballage et stockage stérile
 
 ## Hygobox — Transport et désinfection des instruments
@@ -155,6 +172,77 @@ réalisées.
 > temps** significatif par rapport aux **soudeuses à barres**
 > classiques (soudage en continu vs scellage à la barre). Recommandé en
 > cabinets à fort débit / cliniques.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "À quoi sert l'Hygobox ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "C'est la boîte de transport et de désinfection des instruments dentaires Dürr Dental : 13 × 32,5 × 21 cm, capacité maximale 3 litres, avec indicateurs de niveau (1 l, 2 l, 3 l)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles soudeuses d'emballage propose Dürr Dental ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'Hygopac (soudeuse standard), l'Hygopac Plus (scellage rotatif automatisé) et l'Hygopac View (écran tactile avec validation et surveillance du processus)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apporte l'Hygopac View par rapport à l'Hygopac ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un écran tactile, la validation et la surveillance automatique du processus (température, rapidité, pression de serrage), conformes à la norme DIN EN ISO 11607-2."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que l'Hygofol et l'Hygoprint ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hygofol est la gaine pelable d'emballage stérile compatible avec les soudeuses Hygopac ; Hygoprint est le module de traçabilité documentaire des cycles de stérilisation (étiquettes et rapports)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle norme encadre l'emballage stérile ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La norme DIN EN ISO 11607-2 (formage, scellage et assemblage des emballages de dispositifs médicaux stérilisés). Puissance électrique : 550 W pour l'Hygopac, plus de 900 W pour l'Hygopac View (factsheet P007100138L03)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### À quoi sert l'Hygobox ?
+
+C'est la boîte de transport et de désinfection des instruments dentaires Dürr Dental : 13 × 32,5 × 21 cm, capacité maximale 3 litres, avec indicateurs de niveau (1 l, 2 l, 3 l).
+
+### Quelles soudeuses d'emballage propose Dürr Dental ?
+
+L'Hygopac (soudeuse standard), l'Hygopac Plus (scellage rotatif automatisé) et l'Hygopac View (écran tactile avec validation et surveillance du processus).
+
+### Qu'apporte l'Hygopac View par rapport à l'Hygopac ?
+
+Un écran tactile, la validation et la surveillance automatique du processus (température, rapidité, pression de serrage), conformes à la norme DIN EN ISO 11607-2.
+
+### Qu'est-ce que l'Hygofol et l'Hygoprint ?
+
+Hygofol est la gaine pelable d'emballage stérile compatible avec les soudeuses Hygopac ; Hygoprint est le module de traçabilité documentaire des cycles de stérilisation (étiquettes et rapports).
+
+### Quelle norme encadre l'emballage stérile ?
+
+La norme DIN EN ISO 11607-2 (formage, scellage et assemblage des emballages de dispositifs médicaux stérilisés). Puissance électrique : 550 W pour l'Hygopac, plus de 900 W pour l'Hygopac View (factsheet P007100138L03).
 
 ## Sources publiques
 

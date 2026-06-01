@@ -188,6 +188,65 @@ Pour un workflow optimisé avec les plaques VistaScan IQ, voir :
 
 Voir aussi la [fiche accessoires imagerie](../accessoires-imagerie/overview/).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que les écrans VistaScan IQ ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La nouvelle génération de plaques au phosphore Dürr Dental (écrans radio-luminescents à mémoire, ERLM), intégrant une fonction RFID et un code QR pour l'attribution automatique des images au patient."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apportent le RFID et le code QR des écrans IQ ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'identification automatique de la plaque (numéro de série, date de fabrication) à chaque acquisition et l'attribution automatique de l'image au patient, le QR code offrant une redondance visuelle."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles tailles d'écrans VistaScan IQ existent ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un portfolio complet de tailles intra-orales, de S0 (pédiatrique) à S4, S2 étant la taille standard adulte la plus courante."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les écrans IQ sont-ils compatibles avec les anciens scanners ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, ils sont utilisables avec les scanners VistaScan de la série 1.0, mais sans exploitation des fonctionnalités RFID."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que les écrans VistaScan IQ ?
+
+La nouvelle génération de plaques au phosphore Dürr Dental (écrans radio-luminescents à mémoire, ERLM), intégrant une fonction RFID et un code QR pour l'attribution automatique des images au patient.
+
+### Qu'apportent le RFID et le code QR des écrans IQ ?
+
+L'identification automatique de la plaque (numéro de série, date de fabrication) à chaque acquisition et l'attribution automatique de l'image au patient, le QR code offrant une redondance visuelle.
+
+### Quelles tailles d'écrans VistaScan IQ existent ?
+
+Un portfolio complet de tailles intra-orales, de S0 (pédiatrique) à S4, S2 étant la taille standard adulte la plus courante.
+
+### Les écrans IQ sont-ils compatibles avec les anciens scanners ?
+
+Oui, ils sont utilisables avec les scanners VistaScan de la série 1.0, mais sans exploitation des fonctionnalités RFID.
+
 ## Sources publiques
 
 | Document | URL publique |

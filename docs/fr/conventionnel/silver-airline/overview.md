@@ -253,6 +253,77 @@ fonctionnement, températures.
 | Détendeurs | Avec raccord rapide, compatibles toute la gamme |
 | Extensions de garantie 5 ans | Disponibles via le service client Dürr Dental France |
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce qui caractérise la gamme Silver Airline ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Des compresseurs dentaires à pistons linéaires sans huile et un dessiccateur à fibres membranaires breveté, pour une qualité d'air dentaire sèche, exempte d'huile et hygiénique."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est l'avantage du dessiccateur à fibres membranaires ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il permet un fonctionnement continu à 100 % sans pauses de régénération, contrairement aux systèmes de séchage nécessitant des cycles d'arrêt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la particularité historique de Dürr Dental sur les compresseurs ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dürr Dental a introduit les systèmes de séchage de l'air comprimé dès 1965 et a été le premier fabricant mondial à abandonner la lubrification à base d'huile sur les compresseurs dentaires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La gamme Silver Airline est-elle évolutive ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, grâce au principe Tandem des groupes compresseurs (Primo, Duo, Trio, Quattro et variantes Tandem), permettant une évolution modulaire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on superviser un Silver Airline à distance ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la Connect Box. La plage de pression réglable maximale est de 9,5 bar (factsheet P007-158-03)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce qui caractérise la gamme Silver Airline ?
+
+Des compresseurs dentaires à pistons linéaires sans huile et un dessiccateur à fibres membranaires breveté, pour une qualité d'air dentaire sèche, exempte d'huile et hygiénique.
+
+### Quel est l'avantage du dessiccateur à fibres membranaires ?
+
+Il permet un fonctionnement continu à 100 % sans pauses de régénération, contrairement aux systèmes de séchage nécessitant des cycles d'arrêt.
+
+### Quelle est la particularité historique de Dürr Dental sur les compresseurs ?
+
+Dürr Dental a introduit les systèmes de séchage de l'air comprimé dès 1965 et a été le premier fabricant mondial à abandonner la lubrification à base d'huile sur les compresseurs dentaires.
+
+### La gamme Silver Airline est-elle évolutive ?
+
+Oui, grâce au principe Tandem des groupes compresseurs (Primo, Duo, Trio, Quattro et variantes Tandem), permettant une évolution modulaire.
+
+### Peut-on superviser un Silver Airline à distance ?
+
+Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la Connect Box. La plage de pression réglable maximale est de 9,5 bar (factsheet P007-158-03).
+
 ## Sources publiques
 
 | Document | URL publique |

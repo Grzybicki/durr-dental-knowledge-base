@@ -21,9 +21,26 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-mini-easy-20/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-06-01
 license: CC-BY-4.0
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "VistaScan Mini Easy 2.0",
+  "description": "VistaScan Mini Easy 2.0 est le scanner de plaques au phosphore compact Dürr Dental successeur du Mini Easy. Technologie PCS pour détection fiable des lésions D1. Installable au fauteuil. Compatible plaques VistaScan Image Plates IQ tailles 0 à 4.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
 
 # VistaScan Mini Easy 2.0 — Scanner de plaques au phosphore (chairside)
 
@@ -52,6 +69,77 @@ Pilotage de l'acquisition, réception immédiate des images dans le dossier
 patient, support [Image Bridge](../image-bridge/overview/) pour cohabitation
 avec logiciels tiers, et [Smart Reader](../smart-reader/overview/) pour
 l'attribution patient/plaque avant acquisition (workflow multi-patients).
+
+## Conception et logiciel
+
+D'après la page produit officielle Dürr Dental :
+
+- **Écran en verre** (*glass display*) et concept d'insertion de la plaque
+  **« Easy Feed »**.
+- Livré avec **VistaSoft AI** (automatisation), incluant la **vérification
+  automatique de chaque image** radiographique pour détecter une dégradation de
+  la qualité d'image dans le temps.
+- **Technologie PCS** (Plate Carrier Scanning) pour une qualité d'image élevée.
+- **Fabrication neutre en CO₂**.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le VistaScan Mini Easy 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le scanner de plaques au phosphore compact Dürr Dental, successeur du Mini Easy, qui scanne tous les formats intra-oraux (tailles 0 à 4) et s'installe au fauteuil (chairside)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apporte la technologie PCS du Mini Easy 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lésions carieuses D1 et des structures osseuses les plus fines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles plaques utilise le Mini Easy 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les plaques VistaScan Image Plates IQ (avec RFID et code QR)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pour quel cabinet le Mini Easy 2.0 est-il adapté ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour une utilisation chairside (au fauteuil), tout en couvrant l'ensemble des formats intra-oraux 0 à 4."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que le VistaScan Mini Easy 2.0 ?
+
+Le scanner de plaques au phosphore compact Dürr Dental, successeur du Mini Easy, qui scanne tous les formats intra-oraux (tailles 0 à 4) et s'installe au fauteuil (chairside).
+
+### Qu'apporte la technologie PCS du Mini Easy 2.0 ?
+
+La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lésions carieuses D1 et des structures osseuses les plus fines.
+
+### Quelles plaques utilise le Mini Easy 2.0 ?
+
+Les plaques VistaScan Image Plates IQ (avec RFID et code QR).
+
+### Pour quel cabinet le Mini Easy 2.0 est-il adapté ?
+
+Pour une utilisation chairside (au fauteuil), tout en couvrant l'ensemble des formats intra-oraux 0 à 4.
 
 ## Pour aller plus loin
 

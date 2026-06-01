@@ -290,6 +290,77 @@ acoustique **directement dans la conception** du compresseur.
 > différence des dessiccateurs par adsorption qui doivent être
 > régénérés). Le **manchon du piston** se remplace tous les **10 ans**.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pourquoi le nom « Tornado » prête-t-il à confusion ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le nom commercial Tornado a été réutilisé sur plusieurs générations de compresseurs Dürr Dental sans nomenclature séquentielle claire, ce qui peut prêter à confusion lors de la recherche de pièces ou de documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels modèles compose le NEW Tornado ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trois modèles : Tornado 1 (1 praticien), Tornado 2 (2 praticiens) et Tornado 4 (4 praticiens), avec une déclinaison Super Silent disponible."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les caractéristiques clés du NEW Tornado ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pression maximale 8 bar, jusqu'à 12 % d'économies d'énergie par rapport à la génération précédente, et conformité à la norme ISO 22052 sur la qualité de l'air comprimé dentaire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le Tornado convient-il aux systèmes CAD/CAM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. La documentation officielle précise que le NEW Tornado n'est pas compatible CAD/CAM (pression maximale de 8 bar insuffisante) ; il faut utiliser un compresseur CAD/CAM dédié Dürr Dental."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le Tornado a-t-il reçu des distinctions ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2025. Données techniques issues de la factsheet P007100308L03."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Pourquoi le nom « Tornado » prête-t-il à confusion ?
+
+Le nom commercial Tornado a été réutilisé sur plusieurs générations de compresseurs Dürr Dental sans nomenclature séquentielle claire, ce qui peut prêter à confusion lors de la recherche de pièces ou de documentation.
+
+### Quels modèles compose le NEW Tornado ?
+
+Trois modèles : Tornado 1 (1 praticien), Tornado 2 (2 praticiens) et Tornado 4 (4 praticiens), avec une déclinaison Super Silent disponible.
+
+### Quelles sont les caractéristiques clés du NEW Tornado ?
+
+Pression maximale 8 bar, jusqu'à 12 % d'économies d'énergie par rapport à la génération précédente, et conformité à la norme ISO 22052 sur la qualité de l'air comprimé dentaire.
+
+### Le Tornado convient-il aux systèmes CAD/CAM ?
+
+Non. La documentation officielle précise que le NEW Tornado n'est pas compatible CAD/CAM (pression maximale de 8 bar insuffisante) ; il faut utiliser un compresseur CAD/CAM dédié Dürr Dental.
+
+### Le Tornado a-t-il reçu des distinctions ?
+
+Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2025. Données techniques issues de la factsheet P007100308L03.
+
 ## Sources publiques
 
 | Document | URL publique |

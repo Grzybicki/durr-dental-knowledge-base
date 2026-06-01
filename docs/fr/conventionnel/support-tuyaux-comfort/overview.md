@@ -39,6 +39,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Support de tuyaux Comfort",
+  "description": "Le support de tuyaux Comfort de Dürr Dental est un support modulaire et personnalisable d'aspiration au fauteuil. Conçu pour accueillir 5 à 6 composants (grand/petit tuyau, seringue air-eau, caméra intra-orale, entonnoir, filtre). Commande sélective à vide, raccords pivotants, fixation murale ou sous plan de travail.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/support-tuyaux-comfort/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Support de tuyaux Comfort — Une solution personnalisée
 
 ## Description courte
@@ -211,6 +228,77 @@ Dental France : *« 26 rue Diderot, 92000 Nanterre »*. L'adresse
 > — Tél. **+33 1 55 69 11 50** — Email : infodurrfr@duerrdental.com
 
 Voir [fiche entreprise](/docs/fr/durr-dental-entreprise/overview/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le Support de tuyaux Comfort ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un support modulaire et personnalisable d'aspiration au fauteuil, qui accueille de cinq à six composants différents selon la méthode de travail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels composants peut accueillir le Support Comfort ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Grand tuyau d'aspiration (HVE), petit tuyau (pompe à salive), seringue air/eau, support de caméra intra-orale et entonnoir, selon la configuration choisie."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apporte la commande sélective des tuyaux ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elle n'active que les tuyaux d'aspiration utilisés (petit ou grand), évitant le bruit parasite sur les tuyaux inactifs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les canules du support Comfort sont-elles stérilisables ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : les canules autoclavables doivent être stérilisées à 134 °C selon le protocole habituel du cabinet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est l'intérêt des raccords pivotants et de la rotule ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les raccords pivotants sur le boîtier de filtre offrent une plus longue portée et sollicitent moins les tuyaux ; la rotule optionnelle réduit le bras de levier et augmente la durée de vie du tuyau."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que le Support de tuyaux Comfort ?
+
+Un support modulaire et personnalisable d'aspiration au fauteuil, qui accueille de cinq à six composants différents selon la méthode de travail.
+
+### Quels composants peut accueillir le Support Comfort ?
+
+Grand tuyau d'aspiration (HVE), petit tuyau (pompe à salive), seringue air/eau, support de caméra intra-orale et entonnoir, selon la configuration choisie.
+
+### Qu'apporte la commande sélective des tuyaux ?
+
+Elle n'active que les tuyaux d'aspiration utilisés (petit ou grand), évitant le bruit parasite sur les tuyaux inactifs.
+
+### Les canules du support Comfort sont-elles stérilisables ?
+
+Oui : les canules autoclavables doivent être stérilisées à 134 °C selon le protocole habituel du cabinet.
+
+### Quel est l'intérêt des raccords pivotants et de la rotule ?
+
+Les raccords pivotants sur le boîtier de filtre offrent une plus longue portée et sollicitent moins les tuyaux ; la rotule optionnelle réduit le bras de levier et augmente la durée de vie du tuyau.
 
 ## Sources publiques
 

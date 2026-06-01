@@ -169,6 +169,65 @@ Connect Box :
 | **Techniciens de service** | <https://www.duerrdental.com/en/products/software/networking-for-dental-practices/vistasoft-monitor/vistasoft-monitor-for-service-technicians/> |
 | **Gestionnaires de dépôt** | <https://www.duerrdental.com/en/products/software/networking-for-dental-practices/vistasoft-monitor/vistasoft-monitor-for-depot-service-managers/> |
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "À quoi sert la Connect Box ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "À intégrer dans le tableau de bord VistaSoft Monitor des équipements dentaires (compresseurs, aspiration, etc.) dépourvus d'interface réseau native. Elle joue le rôle de passerelle IoT."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le cas d'usage principal de la Connect Box ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le rétrofit IoT : connecter des appareils déjà en service et non compatibles réseau à VistaSoft Monitor, y compris des équipements techniques du cabinet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle connectivité propose la Connect Box ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une connexion LAN filaire (Ethernet) ou WLAN sans fil (Wi-Fi), selon l'infrastructure réseau et les contraintes d'installation du cabinet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "En quoi diffère-t-elle d'une intégration native ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les générations récentes d'équipements se connectent nativement à VistaSoft Monitor ; la Connect Box permet d'y raccorder les générations antérieures sans interface réseau."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### À quoi sert la Connect Box ?
+
+À intégrer dans le tableau de bord VistaSoft Monitor des équipements dentaires (compresseurs, aspiration, etc.) dépourvus d'interface réseau native. Elle joue le rôle de passerelle IoT.
+
+### Quel est le cas d'usage principal de la Connect Box ?
+
+Le rétrofit IoT : connecter des appareils déjà en service et non compatibles réseau à VistaSoft Monitor, y compris des équipements techniques du cabinet.
+
+### Quelle connectivité propose la Connect Box ?
+
+Une connexion LAN filaire (Ethernet) ou WLAN sans fil (Wi-Fi), selon l'infrastructure réseau et les contraintes d'installation du cabinet.
+
+### En quoi diffère-t-elle d'une intégration native ?
+
+Les générations récentes d'équipements se connectent nativement à VistaSoft Monitor ; la Connect Box permet d'y raccorder les générations antérieures sans interface réseau.
+
 ## Sources publiques
 
 | Document | URL publique |

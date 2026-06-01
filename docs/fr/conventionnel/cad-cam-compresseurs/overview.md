@@ -173,6 +173,77 @@ Concrètement :
 D'où l'**obligation** d'air comprimé **sec + sans huile + filtré**
 conforme à **ISO 8573-1**.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pourquoi un compresseur dédié pour le CAD/CAM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les usineuses CAD/CAM exigent un débit soutenu, une qualité d'air dentaire (ISO 22052) pour éviter la corrosion des outils et la contamination des prothèses, une pression stable et une grande fiabilité."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que risque-t-on avec un air comprimé humide ou huileux en CAD/CAM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selon la factsheet, l'humidité peut corroder la broche, les impuretés peuvent obstruer la buse et provoquer une abrasion mécanique du palier, et un air huileux ou humide peut nuire aux étapes ultérieures (coloration, glaçage)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle alimentation électrique pour les compresseurs CAD/CAM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tous les compresseurs CAD/CAM Dürr Dental sont en 400 V (3∼) triphasé, 50 / 60 Hz, avec commande électronique (pression réglable, monitoring d'humidité, networking PC)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les compresseurs CAD/CAM sont-ils des dispositifs médicaux ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, dispositifs médicaux de classe IIa selon MDR EU 2017/745, y compris les modèles dédiés au CAD/CAM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on insonoriser un compresseur CAD/CAM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : tous les modèles jusqu'au Duo Tandem sont disponibles avec insonorisation optionnelle. Source : factsheet P007100024L02."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Pourquoi un compresseur dédié pour le CAD/CAM ?
+
+Les usineuses CAD/CAM exigent un débit soutenu, une qualité d'air dentaire (ISO 22052) pour éviter la corrosion des outils et la contamination des prothèses, une pression stable et une grande fiabilité.
+
+### Que risque-t-on avec un air comprimé humide ou huileux en CAD/CAM ?
+
+Selon la factsheet, l'humidité peut corroder la broche, les impuretés peuvent obstruer la buse et provoquer une abrasion mécanique du palier, et un air huileux ou humide peut nuire aux étapes ultérieures (coloration, glaçage).
+
+### Quelle alimentation électrique pour les compresseurs CAD/CAM ?
+
+Tous les compresseurs CAD/CAM Dürr Dental sont en 400 V (3∼) triphasé, 50 / 60 Hz, avec commande électronique (pression réglable, monitoring d'humidité, networking PC).
+
+### Les compresseurs CAD/CAM sont-ils des dispositifs médicaux ?
+
+Oui, dispositifs médicaux de classe IIa selon MDR EU 2017/745, y compris les modèles dédiés au CAD/CAM.
+
+### Peut-on insonoriser un compresseur CAD/CAM ?
+
+Oui : tous les modèles jusqu'au Duo Tandem sont disponibles avec insonorisation optionnelle. Source : factsheet P007100024L02.
+
 ## Sources publiques
 
 | Document | URL publique |

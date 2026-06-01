@@ -124,6 +124,53 @@ VistaIntra DC est conçu pour s'intégrer nativement avec :
   responsabilité du praticien et de la PCR (Personne Compétente en
   Radioprotection) du cabinet.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le VistaIntra DC ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le générateur de rayons X intraoral Dürr Dental à technologie DC (courant continu), livré pré-programmé avec les doses optimales pour chaque région dentaire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est l'avantage de la technologie DC par rapport à l'AC ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le courant continu offre une dose hautement reproductible d'un cliché à l'autre, une qualité d'image stable et une optimisation de la dose au patient."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Avec quels récepteurs d'image le VistaIntra DC est-il compatible ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avec les plaques au phosphore et les capteurs Dürr Dental, les doses pré-programmées y étant adaptées."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que le VistaIntra DC ?
+
+Le générateur de rayons X intraoral Dürr Dental à technologie DC (courant continu), livré pré-programmé avec les doses optimales pour chaque région dentaire.
+
+### Quel est l'avantage de la technologie DC par rapport à l'AC ?
+
+Le courant continu offre une dose hautement reproductible d'un cliché à l'autre, une qualité d'image stable et une optimisation de la dose au patient.
+
+### Avec quels récepteurs d'image le VistaIntra DC est-il compatible ?
+
+Avec les plaques au phosphore et les capteurs Dürr Dental, les doses pré-programmées y étant adaptées.
+
 ## Sources publiques
 
 ### Pages officielles Dürr Dental

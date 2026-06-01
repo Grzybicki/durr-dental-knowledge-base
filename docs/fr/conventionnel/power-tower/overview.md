@@ -225,6 +225,77 @@ natif (générations récentes) ou via
 Tower combinent **compresseur + aspiration**, ils remontent les
 paramètres des deux fonctions dans un même équipement.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que Power Tower ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Power Tower combine compresseur dentaire et système d'aspiration dans un châssis unique de 0,3 à 0,4 m² au sol."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les bénéfices du Power Tower ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gain de place (un seul châssis), réduction du nombre d'installations, gestion coordonnée (avertissements, maintenance) et évolutivité selon la taille du cabinet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le débit d'air comprimé du Power Tower View ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "115 l/min avec un groupe compresseur, et 230 l/min avec deux groupes (le second en option), mesurés à 5 bar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le Power Tower est-il un dispositif médical ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, dispositif médical de classe IIa selon MDR EU 2017/745."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on superviser un Power Tower à distance ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : avertissements précoces et rappels de maintenance automatiques, exposés à VistaSoft Monitor en natif (générations récentes) ou via la Connect Box."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que Power Tower ?
+
+Power Tower combine compresseur dentaire et système d'aspiration dans un châssis unique de 0,3 à 0,4 m² au sol.
+
+### Quels sont les bénéfices du Power Tower ?
+
+Gain de place (un seul châssis), réduction du nombre d'installations, gestion coordonnée (avertissements, maintenance) et évolutivité selon la taille du cabinet.
+
+### Quel est le débit d'air comprimé du Power Tower View ?
+
+115 l/min avec un groupe compresseur, et 230 l/min avec deux groupes (le second en option), mesurés à 5 bar.
+
+### Le Power Tower est-il un dispositif médical ?
+
+Oui, dispositif médical de classe IIa selon MDR EU 2017/745.
+
+### Peut-on superviser un Power Tower à distance ?
+
+Oui : avertissements précoces et rappels de maintenance automatiques, exposés à VistaSoft Monitor en natif (générations récentes) ou via la Connect Box.
+
 ## Sources publiques
 
 | Document | URL publique |

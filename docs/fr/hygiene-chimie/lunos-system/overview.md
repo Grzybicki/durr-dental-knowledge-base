@@ -196,6 +196,65 @@ Le système Lunos s'articule avec le système **Vector** (notamment
 Ensemble, ils couvrent l'intégralité de la **chaîne préventive et
 thérapeutique** parodontale en cabinet.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le système Lunos ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le système Dürr Dental de prophylaxie et d'odontologie conservatrice : pièces à main aéropolisseurs (MyLunos, MyLunos Duo), poudres prophylactiques, pâtes de polissage, produits fluorés et accessoires de confort patient."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que permet la pièce à main MyLunos ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MyLunos est une pièce à main aéropolisseur pour éliminer les colorations dentaires, les dépôts mous et durs et les biofilms bactériens, la fonction variant selon la buse utilisée."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apporte le MyLunos Duo ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "C'est l'appareil de table qui permet un nettoyage complet avec un seul appareil, en combinant l'aéropolisseur (powder jet) et les ultrasons."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment Lunos s'articule-t-il avec Vector ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lunos couvre la prophylaxie générale (aéropolissage, pâtes, fluor) tandis que Vector assure la thérapie parodontale ultrasonique atraumatique ; ensemble ils couvrent la chaîne préventive et thérapeutique."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que le système Lunos ?
+
+Le système Dürr Dental de prophylaxie et d'odontologie conservatrice : pièces à main aéropolisseurs (MyLunos, MyLunos Duo), poudres prophylactiques, pâtes de polissage, produits fluorés et accessoires de confort patient.
+
+### Que permet la pièce à main MyLunos ?
+
+MyLunos est une pièce à main aéropolisseur pour éliminer les colorations dentaires, les dépôts mous et durs et les biofilms bactériens, la fonction variant selon la buse utilisée.
+
+### Qu'apporte le MyLunos Duo ?
+
+C'est l'appareil de table qui permet un nettoyage complet avec un seul appareil, en combinant l'aéropolisseur (powder jet) et les ultrasons.
+
+### Comment Lunos s'articule-t-il avec Vector ?
+
+Lunos couvre la prophylaxie générale (aéropolissage, pâtes, fluor) tandis que Vector assure la thérapie parodontale ultrasonique atraumatique ; ensemble ils couvrent la chaîne préventive et thérapeutique.
+
 ## Sources publiques
 
 | Document | URL publique |

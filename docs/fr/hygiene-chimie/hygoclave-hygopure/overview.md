@@ -230,6 +230,77 @@ système** complète Dürr Dental, qui couvre :
 - **Séchage performant** au moyen d'un vide bas — adaptable à la charge
 - Contrôle qualité **eau fraîche** intégré
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la classe de stérilisation des Hygoclave ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les Hygoclave sont des stérilisateurs vapeur de classe B selon la norme EN 13060. La classe B traite tous types de charges : instruments creux (turbines, contre-angles), charges emballées en sachets stériles et charges poreuses (textiles, cotons)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la capacité de chambre de l'Hygoclave 50 par rapport au 50 Plus ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'Hygoclave 50 a une chambre de 17 L (Ø 250 × 370 mm) et l'Hygoclave 50 Plus une chambre de 22 L (Ø 250 × 450 mm). Les deux ont une chambre en acier inoxydable et des dimensions extérieures identiques (484 × 493 × 642 mm). Source : factsheet P007100196L03."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien de temps dure un cycle de stérilisation Hygoclave 50 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le cycle 134 °C B Standard dure environ 45 min sur Hygoclave 50 (48 min sur 50 Plus), préchauffage et séchage inclus. Le cycle 134 °C B Flash dure 33 min et le cycle Prion (maintien 20 min) 60 min. Source : factsheet P007100196L03."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment alimenter l'Hygoclave 50 en eau ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trois options : remplissage manuel du récipient d'eau fraîche de 5,2 L ; raccordement à un système de traitement d'eau (Hygodem 90 par échangeur d'ions ou Hygopure 90 par osmose inverse) ; ou pompe intégrée aspirant l'eau depuis un récipient externe."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les stérilisateurs Hygoclave sont-ils des dispositifs médicaux ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Les stérilisateurs Hygoclave sont des dispositifs médicaux réglementés selon MDR EU 2017/745 et conformes à la norme EN 13060 relative aux petits stérilisateurs vapeur (classes N, S et B)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Quelle est la classe de stérilisation des Hygoclave ?
+
+Les Hygoclave sont des stérilisateurs vapeur de classe B selon la norme EN 13060. La classe B traite tous types de charges : instruments creux (turbines, contre-angles), charges emballées en sachets stériles et charges poreuses (textiles, cotons).
+
+### Quelle est la capacité de chambre de l'Hygoclave 50 par rapport au 50 Plus ?
+
+L'Hygoclave 50 a une chambre de 17 L (Ø 250 × 370 mm) et l'Hygoclave 50 Plus une chambre de 22 L (Ø 250 × 450 mm). Les deux ont une chambre en acier inoxydable et des dimensions extérieures identiques (484 × 493 × 642 mm). Source : factsheet P007100196L03.
+
+### Combien de temps dure un cycle de stérilisation Hygoclave 50 ?
+
+Le cycle 134 °C B Standard dure environ 45 min sur Hygoclave 50 (48 min sur 50 Plus), préchauffage et séchage inclus. Le cycle 134 °C B Flash dure 33 min et le cycle Prion (maintien 20 min) 60 min. Source : factsheet P007100196L03.
+
+### Comment alimenter l'Hygoclave 50 en eau ?
+
+Trois options : remplissage manuel du récipient d'eau fraîche de 5,2 L ; raccordement à un système de traitement d'eau (Hygodem 90 par échangeur d'ions ou Hygopure 90 par osmose inverse) ; ou pompe intégrée aspirant l'eau depuis un récipient externe.
+
+### Les stérilisateurs Hygoclave sont-ils des dispositifs médicaux ?
+
+Oui. Les stérilisateurs Hygoclave sont des dispositifs médicaux réglementés selon MDR EU 2017/745 et conformes à la norme EN 13060 relative aux petits stérilisateurs vapeur (classes N, S et B).
+
 ## Sources publiques
 
 | Document | URL publique |

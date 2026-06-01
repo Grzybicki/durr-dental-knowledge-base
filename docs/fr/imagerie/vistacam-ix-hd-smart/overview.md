@@ -187,6 +187,77 @@ VistaCam iX HD Smart s'intègre directement à
 - Synchronisation avec les autres modalités du cabinet (radiographies,
   CBCT, panoramique).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que la VistaCam iX HD Smart ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une caméra intraorale haute résolution Dürr Dental à têtes interchangeables, permettant une utilisation multi-modes : caméra standard, détection de plaque par fluorescence et détection des caries approximales par proche infrarouge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les trois têtes de la VistaCam iX HD Smart ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cam (lumière blanche, photos/vidéos HD), Proof (fluorescence 405 nm pour visualiser la plaque sans révélateur) et Proxi (NIR 850 nm pour les caries approximales)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment interpréter la tête Proof ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elle affiche une échelle de fluorescence graduée : 0–1,0 (vert) émail sain, 1,0–1,5 (bleu) début de carie de l'émail, 1,5–2,0 (rouge) carie active."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le principe de la tête Proxi ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une lumière infrarouge à 850 nm traverse l'émail : l'émail sain est transparent (apparaît sombre) et les lésions cariées apparaissent en blanc opaque, sans aucune irradiation par rayons X."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les caractéristiques de la pièce à main ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Raccordement USB 2.0 (compatible USB 3.0), utilisation multiposte plug & play, poids de 70 g, déclenchement par touche (en haut et en bas) avec vibration de confirmation (factsheet P007100020L03)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que la VistaCam iX HD Smart ?
+
+Une caméra intraorale haute résolution Dürr Dental à têtes interchangeables, permettant une utilisation multi-modes : caméra standard, détection de plaque par fluorescence et détection des caries approximales par proche infrarouge.
+
+### Quelles sont les trois têtes de la VistaCam iX HD Smart ?
+
+Cam (lumière blanche, photos/vidéos HD), Proof (fluorescence 405 nm pour visualiser la plaque sans révélateur) et Proxi (NIR 850 nm pour les caries approximales).
+
+### Comment interpréter la tête Proof ?
+
+Elle affiche une échelle de fluorescence graduée : 0–1,0 (vert) émail sain, 1,0–1,5 (bleu) début de carie de l'émail, 1,5–2,0 (rouge) carie active.
+
+### Quel est le principe de la tête Proxi ?
+
+Une lumière infrarouge à 850 nm traverse l'émail : l'émail sain est transparent (apparaît sombre) et les lésions cariées apparaissent en blanc opaque, sans aucune irradiation par rayons X.
+
+### Quelles sont les caractéristiques de la pièce à main ?
+
+Raccordement USB 2.0 (compatible USB 3.0), utilisation multiposte plug & play, poids de 70 g, déclenchement par touche (en haut et en bas) avec vibration de confirmation (factsheet P007100020L03).
+
 ## Sources publiques
 
 ### Pages officielles Dürr Dental

@@ -41,6 +41,28 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Familles chimie hygiène Dürr Dental",
+  "description": "Vue d'ensemble des familles de produits chimiques d'hygiène Dürr Dental : Orotol (aspiration), ID (instruments), MD (matériel/aspiration spéciale), HD (mains), FD (surfaces). Codes produits et indications principales.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/",
+  "inLanguage": "fr",
+  "author": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Familles chimie hygiène Dürr Dental — Orotol, ID, MD, HD, FD
 
 ## Codification par préfixe
@@ -263,6 +285,77 @@ Voir la [fiche désinfection des surfaces](../desinfection-surfaces/overview/)
 pour la cartographie complète du **système 4 couleurs** Dürr Dental
 (vert / bleu / rouge / jaune) qui structure l'identification visuelle
 des produits en cabinet.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Comment Dürr Dental structure-t-elle sa gamme chimique d'hygiène ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Autour de préfixes fonctionnels (Orotol, ID, MD, HD, FD) désignant le périmètre d'application, qui correspondent aussi au système d'hygiène 4 couleurs en cabinet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que désignent les préfixes ID, MD, HD et FD ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ID = désinfection des instruments ; MD = désinfection de matériel spécifique (MD 520 empreintes, MD 550 crachoirs, MD 555 aspiration) ; HD = désinfection des mains ; FD = désinfection rapide des surfaces. Orotol couvre la désinfection de l'aspiration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que contient le Kit de démarrage Orotol ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un bidon d'Orotol Plus 2,5 L, un bidon de MD 555 cleaner 2,5 L, un bidon de MD 550 de 750 ml et un doseur OroCup (référence catalogue France CDS110P9950)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels produits sont soumis ou exemptés du Certibiocide ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les biocides TP2 (Orotol Plus, MD 555, MD 550, MD 520) sont soumis au Certibiocide ; les désinfectants mains TP1 (HD 410, HD 420 plus) et l'ID 213 classé dispositif médical en sont exemptés."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La gamme comporte-t-elle des produits éco-responsables ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : Orotol Plus pH 7 (> 95 % d'ingrédients biodégradables OECD), MD 555 cleaner organic et les lingettes FD 350 green wipes (sans plastique, neutres en carbone)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Comment Dürr Dental structure-t-elle sa gamme chimique d'hygiène ?
+
+Autour de préfixes fonctionnels (Orotol, ID, MD, HD, FD) désignant le périmètre d'application, qui correspondent aussi au système d'hygiène 4 couleurs en cabinet.
+
+### Que désignent les préfixes ID, MD, HD et FD ?
+
+ID = désinfection des instruments ; MD = désinfection de matériel spécifique (MD 520 empreintes, MD 550 crachoirs, MD 555 aspiration) ; HD = désinfection des mains ; FD = désinfection rapide des surfaces. Orotol couvre la désinfection de l'aspiration.
+
+### Que contient le Kit de démarrage Orotol ?
+
+Un bidon d'Orotol Plus 2,5 L, un bidon de MD 555 cleaner 2,5 L, un bidon de MD 550 de 750 ml et un doseur OroCup (référence catalogue France CDS110P9950).
+
+### Quels produits sont soumis ou exemptés du Certibiocide ?
+
+Les biocides TP2 (Orotol Plus, MD 555, MD 550, MD 520) sont soumis au Certibiocide ; les désinfectants mains TP1 (HD 410, HD 420 plus) et l'ID 213 classé dispositif médical en sont exemptés.
+
+### La gamme comporte-t-elle des produits éco-responsables ?
+
+Oui : Orotol Plus pH 7 (> 95 % d'ingrédients biodégradables OECD), MD 555 cleaner organic et les lingettes FD 350 green wipes (sans plastique, neutres en carbone).
 
 ## Sources publiques
 

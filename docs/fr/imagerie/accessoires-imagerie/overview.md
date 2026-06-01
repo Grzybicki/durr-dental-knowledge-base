@@ -33,6 +33,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Accessoires imagerie Dürr Dental",
+  "description": "Accessoires pour la gamme imagerie Dürr Dental : écrans à mémoire VistaScan IQ + Plus, sachets de protection lumière, écrans extra-oraux, cassettes, porte-modèles, mordus comfort, têtes interchangeables VistaCam, systèmes de bras pour moniteurs.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Accessoires imagerie Dürr Dental
 
 ## Description courte
@@ -120,6 +137,65 @@ verticale et horizontale** adaptée aux différents praticiens du cabinet.
 Pour les compresseurs Dürr Dental, voir la
 [fiche Silver Airline](/docs/fr/conventionnel/silver-airline/overview/)
 pour les filtres bactériologiques ULPA U16 / ISO 65U.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que regroupe la catégorie des accessoires d'imagerie Dürr Dental ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les plaques au phosphore (écrans à mémoire VistaScan IQ et Plus, intra-oraux et extra-oraux), les sachets de protection, les mordus comfort et les têtes interchangeables de la VistaCam."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Existe-t-il des écrans à mémoire pour la panoramique et la céphalométrie ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : des écrans à mémoire extra-oraux spécifiques sont disponibles pour les formats panoramique et céphalométrique sur VistaScan Combi View et Ultra View."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "À quoi servent les sachets de protection contre la lumière ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ce sont des sachets stériles à usage unique qui protègent la plaque intra-orale lors de l'acquisition et facilitent la mise en bouche ; ils sont compatibles avec les tailles 0, 1, 2, 3 et 4."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les têtes interchangeables de la VistaCam ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La tête Cam (lumière blanche HD), la tête Proof (fluorescence 405 nm pour la détection de plaque sans révélateur) et la tête Proxi (NIR 850 nm pour la détection des caries approximales)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Que regroupe la catégorie des accessoires d'imagerie Dürr Dental ?
+
+Les plaques au phosphore (écrans à mémoire VistaScan IQ et Plus, intra-oraux et extra-oraux), les sachets de protection, les mordus comfort et les têtes interchangeables de la VistaCam.
+
+### Existe-t-il des écrans à mémoire pour la panoramique et la céphalométrie ?
+
+Oui : des écrans à mémoire extra-oraux spécifiques sont disponibles pour les formats panoramique et céphalométrique sur VistaScan Combi View et Ultra View.
+
+### À quoi servent les sachets de protection contre la lumière ?
+
+Ce sont des sachets stériles à usage unique qui protègent la plaque intra-orale lors de l'acquisition et facilitent la mise en bouche ; ils sont compatibles avec les tailles 0, 1, 2, 3 et 4.
+
+### Quelles sont les têtes interchangeables de la VistaCam ?
+
+La tête Cam (lumière blanche HD), la tête Proof (fluorescence 405 nm pour la détection de plaque sans révélateur) et la tête Proxi (NIR 850 nm pour la détection des caries approximales).
 
 ## Sources publiques
 

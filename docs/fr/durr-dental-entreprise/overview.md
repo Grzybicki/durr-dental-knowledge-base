@@ -268,6 +268,65 @@ Dürr Dental publie sa stratégie ESG sur sa page officielle
 > — **Martin Dürrstein**, Président-directeur général de DÜRR DENTAL SE
 > (extrait catalogue tarifaire Dürr Dental France 2026)
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quand et par qui Dürr Dental a-t-elle été fondée ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En 1941, par les frères Karl et Wilhelm Dürr à Gechingen, en Forêt-Noire (Bade-Wurtemberg)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Où se situe le siège social de Dürr Dental ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "À Bietigheim-Bissingen (Bade-Wurtemberg), Höpfigheimer Straße 17, 74321, en Allemagne."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la forme juridique de Dürr Dental et qui la dirige ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dürr Dental est une SE (Societas Europaea), dirigée par son président-directeur général Martin Dürrstein."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment l'activité de Dürr Dental est-elle organisée ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Autour de cinq lignes métier complémentaires formant un système complet pour le cabinet dentaire (imagerie, air comprimé et aspiration, hygiène et chimie de désinfection, etc.)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Quand et par qui Dürr Dental a-t-elle été fondée ?
+
+En 1941, par les frères Karl et Wilhelm Dürr à Gechingen, en Forêt-Noire (Bade-Wurtemberg).
+
+### Où se situe le siège social de Dürr Dental ?
+
+À Bietigheim-Bissingen (Bade-Wurtemberg), Höpfigheimer Straße 17, 74321, en Allemagne.
+
+### Quelle est la forme juridique de Dürr Dental et qui la dirige ?
+
+Dürr Dental est une SE (Societas Europaea), dirigée par son président-directeur général Martin Dürrstein.
+
+### Comment l'activité de Dürr Dental est-elle organisée ?
+
+Autour de cinq lignes métier complémentaires formant un système complet pour le cabinet dentaire (imagerie, air comprimé et aspiration, hygiène et chimie de désinfection, etc.).
+
 ## Pour aller plus loin
 
 - [Index imagerie](/docs/fr/imagerie/)

@@ -120,6 +120,65 @@ L'ensemble de la gamme VistaScan s'intègre nativement à
 | Logiciel d'imagerie | [VistaSoft 4.0](../vistasoft-4-0/overview/) |
 | Cohabitation logiciels tiers | [Image Bridge](../image-bridge/overview/) |
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que couvre la gamme VistaScan ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie intra-orale et extra-orale, utilisant tous les plaques VistaScan Image Plates IQ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les modèles de la gamme VistaScan ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les modèles intra-oraux compacts Mini Easy 2.0 et Mini View 2.0, et les modèles extra-oraux/combi Combi View et Ultra View."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apporte la technologie PCS des modèles 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lésions carieuses D1 (les plus précoces) et des structures osseuses les plus fines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les caractéristiques des plaques VistaScan IQ ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elles sont réutilisables des centaines de fois, s'effacent automatiquement après le scan et existent en plusieurs formats intra-oraux (0, 1, 2, 3, 4)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Que couvre la gamme VistaScan ?
+
+Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie intra-orale et extra-orale, utilisant tous les plaques VistaScan Image Plates IQ.
+
+### Quels sont les modèles de la gamme VistaScan ?
+
+Les modèles intra-oraux compacts Mini Easy 2.0 et Mini View 2.0, et les modèles extra-oraux/combi Combi View et Ultra View.
+
+### Qu'apporte la technologie PCS des modèles 2.0 ?
+
+La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lésions carieuses D1 (les plus précoces) et des structures osseuses les plus fines.
+
+### Quelles sont les caractéristiques des plaques VistaScan IQ ?
+
+Elles sont réutilisables des centaines de fois, s'effacent automatiquement après le scan et existent en plusieurs formats intra-oraux (0, 1, 2, 3, 4).
+
 ## Sources publiques
 
 | Document | URL publique |

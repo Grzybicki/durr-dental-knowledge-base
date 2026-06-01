@@ -21,9 +21,26 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-nano-easy/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-06-01
 license: CC-BY-4.0
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "VistaScan Nano Easy",
+  "description": "VistaScan Nano Easy est le scanner de plaques au phosphore le plus compact de la gamme Dürr Dental. Tailles intraorales 0, 1, 2. Conçu pour installation au fauteuil. Scan + effacement en une seule étape pour préparation de l'acquisition suivante.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-nano-easy/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
 
 # VistaScan Nano Easy — Scanner de plaques au phosphore (ultracompact)
 
@@ -52,6 +69,81 @@ travail) où le **gain de place** prime, et où les besoins se limitent aux
 **tailles 0 à 2** (rétro-alvéolaires classiques + bite-wings adulte). Pour
 les **tailles 3 et 4** ou les **occlusaux**, choisir un
 [VistaScan Mini Easy 2.0](../vistascan-mini-easy-2-0/overview/) ou supérieur.
+
+## Performances et intégration
+
+D'après la page produit officielle Dürr Dental :
+
+- **100 % de surface active** et **large spectre dynamique** sur les formats
+  pris en charge.
+- Images **nettement plus nettes que le film** argentique : les **lésions
+  carieuses D1** et les **instruments d'endodontie jusqu'à ISO 06** sont
+  restitués de façon fiable.
+- **Scan et effacement en une seule étape**, l'effacement préparant directement
+  l'acquisition suivante.
+- Pilotable via le **logiciel d'imagerie Dürr Dental** ou un **logiciel tiers**
+  (plugins ou pilotes **TWAIN**).
+- **Intégrable au réseau du cabinet** pour un flux de travail fluide.
+- Unité **chairside compacte, très silencieuse** et à **faible maintenance**.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que le VistaScan Nano Easy ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le scanner de plaques au phosphore le plus compact de la gamme Dürr Dental, prenant en charge les tailles intra-orales 0, 1 et 2, conçu pour une installation au fauteuil."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la particularité du workflow du Nano Easy ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le scan et l'effacement de la plaque sont réalisés en une seule étape."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles plaques utilise le Nano Easy ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les plaques VistaScan Image Plates IQ."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quand choisir le Nano Easy plutôt que le Mini Easy 2.0 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dans un cabinet exigu (nouveau cabinet, poste itinérant, second poste) où les besoins se limitent aux tailles 0 à 2. Pour les tailles 3 et 4 ou les occlusaux, le Mini Easy 2.0 est préférable."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que le VistaScan Nano Easy ?
+
+Le scanner de plaques au phosphore le plus compact de la gamme Dürr Dental, prenant en charge les tailles intra-orales 0, 1 et 2, conçu pour une installation au fauteuil.
+
+### Quelle est la particularité du workflow du Nano Easy ?
+
+Le scan et l'effacement de la plaque sont réalisés en une seule étape.
+
+### Quelles plaques utilise le Nano Easy ?
+
+Les plaques VistaScan Image Plates IQ.
+
+### Quand choisir le Nano Easy plutôt que le Mini Easy 2.0 ?
+
+Dans un cabinet exigu (nouveau cabinet, poste itinérant, second poste) où les besoins se limitent aux tailles 0 à 2. Pour les tailles 3 et 4 ou les occlusaux, le Mini Easy 2.0 est préférable.
 
 ## Pour aller plus loin
 

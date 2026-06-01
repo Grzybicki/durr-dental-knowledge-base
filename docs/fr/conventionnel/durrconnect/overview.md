@@ -37,6 +37,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "DürrConnect",
+  "description": "DürrConnect est le système Dürr Dental d'intégration et de raccordement des composants d'aspiration dentaire. Plus de 120 éléments de raccordement (version standard) ou 160 (spéciale). Compatible avec toute la gamme aspiration.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # DürrConnect — Système d'intégration et de raccordement
 
 ## Description courte
@@ -79,6 +96,65 @@ Dental :
 - [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
 - [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
 - [VC 65 — aspiration chirurgicale](../aspiration-chirurgicale/overview/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que DürrConnect ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DürrConnect est le système Dürr Dental standardisé d'intégration et de raccordement des composants d'aspiration (fauteuils, tuyaux, vannes, récupérateurs, séparateurs, unités d'aspiration)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les bénéfices de DürrConnect ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Des connexions sûres et fiables (pièces normalisées, étanchéité garantie), la modularité entre composants Dürr Dental, et la standardisation des installations facilitant maintenance et remplacement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pourquoi un système de raccordement standardisé ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il garantit la compatibilité technique entre tous les éléments de la gamme aspiration, sans pièces exotiques ou hors gamme à commander."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "DürrConnect concerne-t-il toute la gamme d'aspiration ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, il assure la modularité et la compatibilité entre tous les composants d'aspiration Dürr Dental."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que DürrConnect ?
+
+DürrConnect est le système Dürr Dental standardisé d'intégration et de raccordement des composants d'aspiration (fauteuils, tuyaux, vannes, récupérateurs, séparateurs, unités d'aspiration).
+
+### Quels sont les bénéfices de DürrConnect ?
+
+Des connexions sûres et fiables (pièces normalisées, étanchéité garantie), la modularité entre composants Dürr Dental, et la standardisation des installations facilitant maintenance et remplacement.
+
+### Pourquoi un système de raccordement standardisé ?
+
+Il garantit la compatibilité technique entre tous les éléments de la gamme aspiration, sans pièces exotiques ou hors gamme à commander.
+
+### DürrConnect concerne-t-il toute la gamme d'aspiration ?
+
+Oui, il assure la modularité et la compatibilité entre tous les composants d'aspiration Dürr Dental.
 
 ## Sources publiques
 

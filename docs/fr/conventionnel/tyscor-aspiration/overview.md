@@ -356,6 +356,77 @@ raccords pour l'intégration des systèmes d'aspiration. Il garantit la
 **modularité** entre composants (tuyaux, vannes, séparateurs, fauteuils,
 etc.) et la facilité de maintenance.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Les systèmes d'aspiration Tyscor sont-ils des dispositifs médicaux ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Les systèmes d'aspiration Tyscor sont des dispositifs médicaux de classe IIa selon le règlement MDR EU 2017/745."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles économies la technologie radiale Tyscor permet-elle ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selon la page produit officielle, la technologie radiale propriétaire Tyscor apporte des économies d'énergie jusqu'à 75 % et une réduction de poids jusqu'à 50 % par rapport aux systèmes d'aspiration traditionnels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel débit d'aspiration faut-il pour réduire efficacement les aérosols ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La littérature scientifique converge sur un débit d'aspiration ≥ 300 l/min sur la grosse canule (HVE — High-Volume Evacuation) pour réduire significativement les particules de spray (5–50 µm). La norme applicable aux units dentaires est la DIN EN ISO 7494-2."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre aspiration humide (VS, VSA) et sèche (V) chez Tyscor ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'aspiration humide (VS, VSA) sépare les liquides dans un cycle intégré et reste la solution la plus répandue en cabinet français. L'aspiration sèche (V) nécessite un module de séparation périphérique. Des kits de conversion permettent de passer d'une configuration à l'autre."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on superviser un système Tyscor à distance ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit nativement sur les générations récentes, soit via la Connect Box pour les générations antérieures sans interface réseau native."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Les systèmes d'aspiration Tyscor sont-ils des dispositifs médicaux ?
+
+Oui. Les systèmes d'aspiration Tyscor sont des dispositifs médicaux de classe IIa selon le règlement MDR EU 2017/745.
+
+### Quelles économies la technologie radiale Tyscor permet-elle ?
+
+Selon la page produit officielle, la technologie radiale propriétaire Tyscor apporte des économies d'énergie jusqu'à 75 % et une réduction de poids jusqu'à 50 % par rapport aux systèmes d'aspiration traditionnels.
+
+### Quel débit d'aspiration faut-il pour réduire efficacement les aérosols ?
+
+La littérature scientifique converge sur un débit d'aspiration ≥ 300 l/min sur la grosse canule (HVE — High-Volume Evacuation) pour réduire significativement les particules de spray (5–50 µm). La norme applicable aux units dentaires est la DIN EN ISO 7494-2.
+
+### Quelle est la différence entre aspiration humide (VS, VSA) et sèche (V) chez Tyscor ?
+
+L'aspiration humide (VS, VSA) sépare les liquides dans un cycle intégré et reste la solution la plus répandue en cabinet français. L'aspiration sèche (V) nécessite un module de séparation périphérique. Des kits de conversion permettent de passer d'une configuration à l'autre.
+
+### Peut-on superviser un système Tyscor à distance ?
+
+Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit nativement sur les générations récentes, soit via la Connect Box pour les générations antérieures sans interface réseau native.
+
 ## Sources publiques
 
 | Document | URL publique |

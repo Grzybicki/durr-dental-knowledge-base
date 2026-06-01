@@ -129,6 +129,77 @@ en fait également une **unité mobile** déplaçable d'une salle à l'autre.
 VC 65 est un **dispositif médical de classe IIa** selon le règlement
 **MDR EU 2017/745** — marquage CE 0297.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "À quels usages le VC 65 est-il destiné ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le VC 65 est l'unité d'aspiration chirurgicale dentaire Dürr Dental dédiée à la chirurgie buccale et à l'implantologie."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les performances du VC 65 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Débit de 65 / 75 l/min et dépression maximale de 910 mbar, avec réglage continu par potentiomètre. L'aspiration est environ 75 % plus rapide que le modèle précédent VC 45."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le VC 65 est-il silencieux ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : 44 dB(A) seulement, grâce à une pompe à pistons récemment développée."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Le VC 65 est-il un dispositif médical ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, c'est un dispositif médical de classe IIa selon le règlement MDR EU 2017/745 (marquage CE 0297)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les dimensions du VC 65 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100188L03."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### À quels usages le VC 65 est-il destiné ?
+
+Le VC 65 est l'unité d'aspiration chirurgicale dentaire Dürr Dental dédiée à la chirurgie buccale et à l'implantologie.
+
+### Quelles sont les performances du VC 65 ?
+
+Débit de 65 / 75 l/min et dépression maximale de 910 mbar, avec réglage continu par potentiomètre. L'aspiration est environ 75 % plus rapide que le modèle précédent VC 45.
+
+### Le VC 65 est-il silencieux ?
+
+Oui : 44 dB(A) seulement, grâce à une pompe à pistons récemment développée.
+
+### Le VC 65 est-il un dispositif médical ?
+
+Oui, c'est un dispositif médical de classe IIa selon le règlement MDR EU 2017/745 (marquage CE 0297).
+
+### Quelles sont les dimensions du VC 65 ?
+
+Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100188L03.
+
 ## Sources publiques
 
 | Document | URL / référence |

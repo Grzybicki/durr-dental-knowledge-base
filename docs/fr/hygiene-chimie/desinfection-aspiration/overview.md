@@ -41,6 +41,23 @@ last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "name": "Désinfection des systèmes d'aspiration",
+  "description": "Orotol Plus est le désinfectant Dürr Dental pour systèmes d'aspiration dentaire, premier au monde lancé en 1965. Orotol Plus pH 7 sans aldéhyde, sans phénol, sans chlore actif. > 95 % d'ingrédients biodégradables selon OECD.",
+  "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/",
+  "inLanguage": "fr",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Dürr Dental SE",
+    "url": "https://www.duerrdental.com"
+  }
+}
+</script>
+
+
 # Désinfection des systèmes d'aspiration — Orotol Plus
 
 ## Description courte
@@ -141,6 +158,77 @@ et air), donc **soumis** à l'obligation de **Certibiocide** en France
 (arrêté du 9 octobre 2013 modifié). Voir
 [fiche familles ID/MD/HD/FD — section Certibiocide](../familles-id-md-hd-fd/overview/)
 pour le détail des produits soumis et exemptés.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "À quoi sert Orotol Plus ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Orotol Plus est le désinfectant Dürr Dental dédié aux systèmes d'aspiration dentaire. Orotol a été lancé en 1965 comme premier désinfectant au monde pour systèmes d'aspiration et reste aujourd'hui le plus utilisé dans ce domaine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle dilution et quelle fréquence pour Orotol Plus ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une dilution à 2 % (20 ml d'Orotol Plus pour 1 litre de solution), au moins une fois par jour, idéalement le soir après la fin de la journée de travail."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'apporte la variante Orotol Plus pH 7 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif, avec plus de 95 % d'ingrédients organiques biodégradables selon les directives OECD."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le rôle du MD 555 par rapport à Orotol Plus ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre), une à deux fois par semaine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Orotol Plus est-il soumis au Certibiocide en France ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : Orotol Plus et Orotol Plus pH 7 sont des biocides TP2 (surfaces et air), soumis à l'obligation de Certibiocide en France (arrêté du 9 octobre 2013 modifié)."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### À quoi sert Orotol Plus ?
+
+Orotol Plus est le désinfectant Dürr Dental dédié aux systèmes d'aspiration dentaire. Orotol a été lancé en 1965 comme premier désinfectant au monde pour systèmes d'aspiration et reste aujourd'hui le plus utilisé dans ce domaine.
+
+### Quelle dilution et quelle fréquence pour Orotol Plus ?
+
+Une dilution à 2 % (20 ml d'Orotol Plus pour 1 litre de solution), au moins une fois par jour, idéalement le soir après la fin de la journée de travail.
+
+### Qu'apporte la variante Orotol Plus pH 7 ?
+
+Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif, avec plus de 95 % d'ingrédients organiques biodégradables selon les directives OECD.
+
+### Quel est le rôle du MD 555 par rapport à Orotol Plus ?
+
+Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre), une à deux fois par semaine.
+
+### Orotol Plus est-il soumis au Certibiocide en France ?
+
+Oui : Orotol Plus et Orotol Plus pH 7 sont des biocides TP2 (surfaces et air), soumis à l'obligation de Certibiocide en France (arrêté du 9 octobre 2013 modifié).
 
 ## Sources publiques
 

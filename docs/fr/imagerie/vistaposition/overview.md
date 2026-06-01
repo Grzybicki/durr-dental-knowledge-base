@@ -133,6 +133,65 @@ place dans la chaîne d'hygiène cabinet :
 4. **Emballage stérile** via [Hygopac](/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
    et Hygofol.
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que VistaPosition ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le système Dürr Dental de positionneurs et d'angulateurs pour plaques au phosphore (ERLM) et capteurs intraoraux, fondé sur un code couleur cohérent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est l'intérêt du code couleur de VistaPosition ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un seul standard couleur sur l'ensemble des bras indicateurs permet un montage sans hésitation et limite les erreurs de positionnement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "VistaPosition est-il désinfectable et stérilisable ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : le système est compatible avec l'immersion, la thermo-désinfection et la stérilisation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel apport clinique pour la qualité des clichés ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une meilleure reproductibilité géométrique des clichés (utile au suivi longitudinal des lésions) et une réduction des erreurs de positionnement entre praticiens."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### Qu'est-ce que VistaPosition ?
+
+Le système Dürr Dental de positionneurs et d'angulateurs pour plaques au phosphore (ERLM) et capteurs intraoraux, fondé sur un code couleur cohérent.
+
+### Quel est l'intérêt du code couleur de VistaPosition ?
+
+Un seul standard couleur sur l'ensemble des bras indicateurs permet un montage sans hésitation et limite les erreurs de positionnement.
+
+### VistaPosition est-il désinfectable et stérilisable ?
+
+Oui : le système est compatible avec l'immersion, la thermo-désinfection et la stérilisation.
+
+### Quel apport clinique pour la qualité des clichés ?
+
+Une meilleure reproductibilité géométrique des clichés (utile au suivi longitudinal des lésions) et une réduction des erreurs de positionnement entre praticiens.
+
 ## Sources publiques
 
 | Document | URL publique |

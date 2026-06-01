@@ -137,6 +137,65 @@ les vidéos officielles, rechercher *« VistaScan Smart Reader »* sur la
 chaîne YouTube **Dürr Dental** (siège, France, Italia, Deutschland selon
 la langue souhaitée).
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "À quoi sert le VistaScan Smart Reader ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "C'est un lecteur RFID USB qui associe une plaque VistaScan IQ à un patient dans VistaSoft avant l'acquisition : il suffit de déposer la plaque sur le lecteur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles sont les caractéristiques techniques du Smart Reader ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lecteur RFID USB, alimentation 5 V DC (max 200 mA, < 1 W), dimensions 90 × 13 × 90 mm, câble USB de 2 m fourni."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles plaques sont compatibles avec le Smart Reader ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uniquement les écrans VistaScan IQ équipés de la puce RFID. Les écrans VistaScan Plus de l'ancienne génération (sans RFID) ne fonctionnent pas avec le Smart Reader."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est l'intérêt d'identifier la plaque avant l'acquisition ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'attribution du patient à l'image est fiabilisée dès le départ, ce qui sécurise le flux de travail et réduit les risques d'erreur d'affectation."
+      }
+    }
+  ]
+}
+</script>
+
+## Questions fréquentes
+
+### À quoi sert le VistaScan Smart Reader ?
+
+C'est un lecteur RFID USB qui associe une plaque VistaScan IQ à un patient dans VistaSoft avant l'acquisition : il suffit de déposer la plaque sur le lecteur.
+
+### Quelles sont les caractéristiques techniques du Smart Reader ?
+
+Lecteur RFID USB, alimentation 5 V DC (max 200 mA, < 1 W), dimensions 90 × 13 × 90 mm, câble USB de 2 m fourni.
+
+### Quelles plaques sont compatibles avec le Smart Reader ?
+
+Uniquement les écrans VistaScan IQ équipés de la puce RFID. Les écrans VistaScan Plus de l'ancienne génération (sans RFID) ne fonctionnent pas avec le Smart Reader.
+
+### Quel est l'intérêt d'identifier la plaque avant l'acquisition ?
+
+L'attribution du patient à l'image est fiabilisée dès le départ, ce qui sécurise le flux de travail et réduit les risques d'erreur d'affectation.
+
 ## Sources publiques
 
 | Document | URL publique |
