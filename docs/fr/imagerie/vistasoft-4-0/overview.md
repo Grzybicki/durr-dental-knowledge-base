@@ -443,6 +443,27 @@ utilisateur §11-14 :
 - Mesures anti-MITM (man-in-the-middle) pour la communication réseau.
 - Architecture audit intégrée.
 
+## Configuration système requise
+
+D'après la documentation officielle « Configurations minimales des systèmes
+informatiques » (réf. `9000-618-148`), pour **VistaSoft 4.0.10 et ultérieur**
+(avec VistaSoft Connect et Image Bridge) :
+
+| Élément | Exigence minimale |
+|---|---|
+| Processeur | **Intel Core i3** ou supérieur |
+| Mémoire vive | **4 Go** (≥ **8 Go** pour la détection automatique du canal nerveux) |
+| Système d'exploitation (64 bits) | **Windows 10 Pro**, **Windows 11 Pro**, **Windows Server 2019 / 2022 / 2025** (version à jour à la sortie de VistaSoft) |
+| Disque dur | Poste de travail (hors base) **≥ 50 Go** ; serveur **≥ 500 Go** recommandé |
+| Réseau | Ethernet **≥ 100 Mbit/s** |
+| Connexion Internet | Requise pour les fonctions en ligne (Dürr Dental ID, patient démo, outils d'assistance) |
+| Sauvegarde | Sauvegarde **quotidienne** des données recommandée |
+
+Volumétrie indicative par image : caméra ≈ 1 Mo, radiographie ≈ 2–10 Mo, CBCT ≈ 200–300 Mo.
+
+> Les appareils connectés peuvent imposer des exigences supérieures — par exemple
+> VistaVox S nécessite un **PC de reconstruction** performant en liaison directe.
+
 ## Limites et précisions
 
 - **VistaSoft 4.0 n'est pas adapté aux mammographies** (verbatim documenté dans

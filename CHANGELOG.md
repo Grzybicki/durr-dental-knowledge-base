@@ -69,6 +69,9 @@ des notes terrain, menus/outils service et procédures techniciens.
   ≈ 40 LP/mm.
 - **Statut réglementaire complété** (notices texte) : VistaScan Nano Easy (DM classe I,
   MDR), VistaScan IQ (DM classe IIa, CE 0297), VistaVox S (marquage CE 0297).
+- **VistaSoft 4.0 — section « Configuration système requise »** (réf. `9000-618-148`) :
+  CPU/RAM, OS (Windows 10/11 Pro, Server 2019/2022/2025 64 bits), disque, réseau,
+  sauvegarde. Comble un manque GEO majeur (compatibilité Windows, très recherchée).
 
 ### Modifié — gabarit et documentation
 
