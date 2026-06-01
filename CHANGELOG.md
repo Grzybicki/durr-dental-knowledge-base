@@ -4,6 +4,52 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.3.0] — 2026-06-01
+
+Audit structurel du dépôt puis correction priorisée (P0 → P2). Détail interne :
+note d'audit `Durr/Developpements/durr-dental-knowledge-base - audit structurel 2026-05-31`.
+
+### Corrigé — validation et CI
+
+- **`scripts/validate.py`** : vérification des liens internes rendue *permalink-aware*
+  (helper `_resolve_internal_link`) — un permalink Jekyll `../x/overview/` est désormais
+  résolu vers le fichier source `x/overview.md` (et non `x/overview/index.md`). Notices
+  `[link-broken]` : **593 → 0**. `validate.py --warn-as-error` (mode CI) repasse au **vert**.
+  Dossier `_drafts/` exclu du scan.
+- **`docs/fr/glossaire.md`** : lien interne cassé corrigé (`../../../sources/` →
+  `../../sources/`).
+- **`_config.yml`** : `CLAUDE.md` ajouté aux exclusions Jekyll.
+
+### Ajouté — métadonnées GEO (JSON-LD + FAQ) sur toutes les fiches
+
+- **JSON-LD** : bloc `application/ld+json` (MedicalDevice / Product / SoftwareApplication /
+  TechArticle selon le cas) ajouté aux 15 fiches qui n'en avaient pas → **56/56**.
+- **FAQ + FAQPage** : section « Questions fréquentes » (3-6 Q/R) + bloc JSON-LD `FAQPage`
+  ajoutés aux 36 fiches qui en manquaient → **FAQ 56/56, FAQPage 56/56**. Chaque Q/R est
+  dérivée exclusivement des faits déjà sourcés dans la fiche.
+
+### Ajouté — enrichissements depuis pages officielles Dürr Dental
+
+- **VistaScan Nano Easy** : 100 % surface active, lésions D1 + instruments endo jusqu'à
+  ISO 06, scan + effacement en 1 étape, pilotes TWAIN, intégration réseau.
+- **VistaScan Mini Easy 2.0** : écran en verre, concept Easy Feed, VistaSoft AI (contrôle
+  automatique de la qualité d'image), fabrication neutre en CO₂.
+- **Désinfection des mains (HD 420 plus)** : principes actifs 2-/1-propanol, normes
+  EN 1500 / 12791 / 13727 / 13624 / 14348 / 14476, conditionnements, n° d'autorisation
+  orochemie EU-0032838.
+- **Désinfection des surfaces (FD 350)** : spectre d'activité, conditionnement 110 lingettes
+  14 × 22 cm, variantes Classic/Flower/Lemon + FD 350 green (sans aldéhyde).
+
+### Modifié — gabarit et documentation
+
+- **`_drafts/_template_fiche_produit.md`** réaligné sur la pratique réelle : squelette
+  canonique (Description courte → Statut réglementaire → Caractéristiques techniques →
+  [sections produit] → FAQPage + Questions fréquentes → Sources publiques → Pour aller
+  plus loin), JSON-LD et FAQ rendus obligatoires, préférence de sources officielles
+  (Dürr Dental / Air Techniques / orochemie / Mytronic) documentée.
+- **`CLAUDE.md`** créé : mémoire projet (objectif, règles d'or, conventions, état/backlog
+  d'audit), exclu de la publication Jekyll.
+
 ## [0.2.0] — 2026-05-29
 
 ### Ajouté — nouvelles fiches produits

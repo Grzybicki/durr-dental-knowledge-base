@@ -18,6 +18,8 @@ breadcrumbs:
     url: /docs/fr/CATEGORIE/SOUS-DOSSIER/PAGE/
 source_documents:
   # IMPORTANT : chaque source DOIT inclure une URL publique directe.
+  # Sources préférées (ordre) : pages OFFICIELLES des marques — Dürr Dental,
+  # Air Techniques, orochemie (chimie), Mytronic — AVANT toute presse spécialisée.
   # Si l'URL n'est pas connue, mentionner explicitement où la source est téléchargeable
   # (page produit, Centre de téléchargements) — JAMAIS un simple nom sans pointeur.
   - title: "Page produit officielle (FR/France)"
@@ -51,7 +53,8 @@ last_factual_review: AAAA-MM-JJ
 license: CC-BY-4.0
 ---
 
-<!-- JSON-LD : MedicalDevice (à adapter par produit) -->
+<!-- JSON-LD : MedicalDevice (à adapter par produit). OBLIGATOIRE sur chaque fiche. -->
+<!-- @type = MedicalDevice / SoftwareApplication / Product selon le cas. -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,103 +78,102 @@ license: CC-BY-4.0
 }
 </script>
 
+
 # NOM PRODUIT — Vue d'ensemble
 
-## Identification du dispositif
+<!--
+SQUELETTE CANONIQUE (ordre des sections, aligné sur la pratique réelle du dépôt) :
 
-| Champ | Valeur |
+  1. ## Description courte                  (toujours, 1ʳᵉ section)
+  2. ## Statut réglementaire                (DM : classe MDR/MDD + CE)
+  3. ## Caractéristiques techniques         (tableau sourcé ; réf. factsheet)
+  4. [sections produit-spécifiques]         (adapter les titres au produit — voir liste ci-dessous)
+  5. <script ... FAQPage> + ## Questions fréquentes   (4-6 Q/R sourcées)
+  6. ## Sources publiques                   (tableau Document | URL publique)
+  7. ## Pour aller plus loin                 (liens internes)
+
+Sections produit-spécifiques courantes (en choisir/adapter selon le cas, ne pas toutes forcer) :
+  ## Technologies clés · ## Fonctions / Programmes · ## Modèles de la gamme ·
+  ## Caractéristiques mécaniques et électriques · ## Intégration logicielle / écosystème ·
+  ## Compatibilité VistaSoft Monitor · ## Place dans la chaîne d'hygiène ·
+  ## Statut réglementaire et certifications · ## Limites et précisions
+
+Règles transverses : répéter le NOM COMPLET du produit dans chaque section (chunking RAG) ;
+chaque chiffre/affirmation sourcé ; verbatim entre guillemets quand cité.
+-->
+
+## Description courte
+
+(Un paragraphe factuel. **Répéter le nom complet du produit.** Dire ce qu'est le
+produit, sa catégorie et son usage principal. Pas de superlatif non quantifié.)
+
+## Statut réglementaire
+
+(Classe MDR EU 2017/745 / MDD 93/42/EEC + marquage CE, sourcé sur la Déclaration de
+Conformité publique ou la page produit officielle. Pour un logiciel : préciser s'il
+s'agit d'un dispositif médical logiciel et sa classe.)
+
+## Caractéristiques techniques
+
+(Tableau des caractéristiques, **chaque valeur sourcée** sur brochure / notice /
+factsheet publique — citer la référence, ex. « factsheet P007XXXXXXL0X ».)
+
+| Paramètre | Valeur |
 |---|---|
-| **Nom commercial** | NOM PRODUIT |
-| **Catégorie** | ... |
-| **Fabricant** | Dürr Dental SE — Höpfigheimer Straße 17, 74321 Bietigheim-Bissingen, Allemagne |
-| **Distributeur France** | Dürr Dental France SARL — 71 rue des Hautes Pâtures, 92000 Nanterre |
-| **Site officiel** | [duerrdental.com](https://www.duerrdental.com) — [duerrdental.com/fr](https://www.duerrdental.com/fr/) |
-| **Statut réglementaire** | ... |
-| **Référence brochure FR** | ... |
+| ... | ... |
 
-## Statut réglementaire et certifications
+<!-- Insérer ici les sections produit-spécifiques pertinentes (cf. liste du squelette). -->
 
-(Tableau / verbatim sourcé sur DoC publique. Verbatim entre guillemets quand cité.)
-
-## Technologie (capteur, mécanique, logiciel selon le produit)
-
-(Tableau des caractéristiques techniques, sourcé sur brochure publique ou notice publique.)
-
-## Programmes / fonctionnalités
-
-(Liste structurée, regroupée par catégorie.)
-
-## Caractéristiques mécaniques et électriques
-
-(Tableau complet.)
-
-## Intégration logicielle / écosystème
-
-(Mention factuelle des intégrations VistaSoft / standards DICOM / TWAIN / etc. selon le cas. Pas de comparaison.)
-
-## Limites et précisions
-
-(Verbatim limites officielles du manuel. Mention non-remboursement organismes santé France si applicable.)
+<!-- Bloc FAQPage : 4 à 6 Q/R dérivées UNIQUEMENT des faits sourcés ci-dessus.
+     Ne jamais inventer une réponse non présente dans la fiche. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Question 1 ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Réponse factuelle et concise." }
+    },
+    {
+      "@type": "Question",
+      "name": "Question 2 ?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Réponse factuelle et concise." }
+    }
+  ]
+}
+</script>
 
 ## Questions fréquentes
 
 ### Question 1 ?
 
-Réponse en 2-3 phrases concises et factuelles.
+Réponse en 2-3 phrases concises et factuelles (mêmes faits que le bloc FAQPage ci-dessus).
 
 ### Question 2 ?
 
 Réponse en 2-3 phrases concises et factuelles.
 
-<!-- Une fois 4-6 Q&A rédigées, ajouter le bloc JSON-LD FAQPage en haut de page (ou ici en bas). -->
-
 ## Sources publiques
 
 Toutes les sources ci-dessous sont **publiques, accessibles sans authentification**.
 Aucun document marqué *Internal Use* ou *Strictly Confidential* n'est mobilisé.
-
-### Pages officielles Dürr Dental
+Sources préférées : pages **officielles** Dürr Dental / Air Techniques / orochemie / Mytronic.
 
 | Document | URL publique | Référence |
 |---|---|---|
 | Page produit officielle (FR/France) | <https://www.duerrdental.com/fr/FR/produits/.../> | — |
+| Notice d'installation / d'utilisation | <http://qr.duerrdental.com/CODE> | `CODE` |
+| Brochure commerciale FR | — | `RÉFÉRENCE` |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> | — |
 
-### Notices publiques (qr.duerrdental.com)
+<!-- Bases réglementaires publiques si pertinent : Eudamed
+     <https://ec.europa.eu/tools/eudamed/>, FDA 510(k)
+     <https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm>. -->
 
-| Document | URL publique | Référence Dürr |
-|---|---|---|
-| Notice d'installation | <http://qr.duerrdental.com/CODE> | `CODE` |
-| Notice d'utilisation | <http://qr.duerrdental.com/CODE> | `CODE` |
-
-### Brochure commerciale
-
-| Document | Référence | Langue | Origine |
-|---|---|---|---|
-| *Titre brochure* | `RÉFÉRENCE` | Français | Téléchargeable depuis la page produit FR. |
-
-### Conformité réglementaire
-
-| Élément | Valeur |
-|---|---|
-| Déclaration de Conformité | Date, signataire |
-| Notified Body | Nom, code |
-| Numéro de certificat | ... |
-| Réglementation | MDR EU 2017/745 / MDD 93/42/EEC, classe X |
-
-### Bases réglementaires publiques
-
-| Base | URL |
-|---|---|
-| Eudamed | <https://ec.europa.eu/tools/eudamed/> |
-| FDA 510(k) | <https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm> |
-
-### Pérennité — archive Wayback Machine
-
-- Page produit archivée : <https://web.archive.org/web/2026*/duerrdental.com/fr/FR/.../>
-- Notices archivées : <https://web.archive.org/web/2026*/qr.duerrdental.com/CODE>
-
-*Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.org/save/`.*
+<!-- Pérennité — déclencher un archivage Wayback des URLs sources :
+     préfixer l'URL par https://web.archive.org/save/ -->
 
 ## Pour aller plus loin
 
@@ -193,9 +195,10 @@ CHECKLIST AVANT COMMIT :
 - [ ] Aucune mention "Strictly Confidential" / "Internal Use"
 - [ ] Aucune donnée patient / praticien / cabinet identifiable
 - [ ] Chaque chiffre / spec est sourcé (brochure, manuel, DoC publique)
-- [ ] Frontmatter complet (title, description, keywords, canonical_url, permalink, schema_type, breadcrumbs, source_documents, last_factual_review)
-- [ ] JSON-LD MedicalDevice (ou autre type pertinent) adapté
-- [ ] FAQ rédigée + JSON-LD FAQPage ajouté si applicable
+- [ ] Frontmatter complet (title, description, keywords, canonical_url, permalink, schema_type, breadcrumbs, source_documents, last_factual_review, license)
+- [ ] JSON-LD MedicalDevice (ou autre type pertinent) présent en haut de page
+- [ ] Section "## Questions fréquentes" (4-6 Q/R) + bloc JSON-LD FAQPage présents
+- [ ] Squelette canonique respecté (Description courte → Statut réglementaire → specs → FAQ → Sources → Pour aller plus loin)
 - [ ] Liens internes vers index parents fonctionnels
 - [ ] CHANGELOG mis à jour
 -->
