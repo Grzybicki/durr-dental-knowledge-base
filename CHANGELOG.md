@@ -90,6 +90,10 @@ des notes terrain, menus/outils service et procédures techniciens.
   VistaScan, VistaVox S, VistaPano S 2.0) : pointeur vers les codes d'erreur de la
   notice + démarche générale (noter le code → redémarrer → technicien agréé).
   **Aucune table d'erreurs reproduite** (respect du droit d'auteur).
+- **VistaIntra DC — section « Dose et radioprotection »** : récepteurs ERLM (plaque) et
+  capteur filaire (pas de film argentique) ; plages de produit dose-surface (PDS)
+  adulte/enfant + effet de la collimation, liées au foyer 0,4 mm et à la plage
+  50–70 kVp / 4–7 mA (notice `2202100028`).
 
 ### Modifié — gabarit et documentation
 

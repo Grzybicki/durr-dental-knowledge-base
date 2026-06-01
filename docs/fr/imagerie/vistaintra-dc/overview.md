@@ -157,6 +157,32 @@ D'après la notice de montage et d'utilisation officielle (réf. `2202100028L03`
   **symbole de dent** et profil **adulte / enfant**.
 - Codes d'erreur de diagnostic dédiés documentés dans la notice officielle.
 
+## Dose et radioprotection
+
+VistaIntra DC est livré **pré-programmé** avec des doses optimisées pour **deux types
+de récepteurs** : **écrans à mémoire (ERLM / plaques au phosphore)** et **capteurs
+filaires**. *L'appareil ne comporte pas de réglages dédiés au film argentique.*
+
+Ordres de grandeur du **produit dose-surface (PDS)** documentés dans la notice
+(`2202100028L03`), patient **adulte**, tube de 20 cm à **60 kV / 7 mA**, **sans
+limitation du champ** :
+
+| Région | PDS indicatif (mGy·cm²) |
+|---|---|
+| Incisive | ~ 13 (capteur) à ~ 15 (plaque) |
+| Prémolaire | ~ 18 à ~ 22 |
+| Molaire | ~ 24 à ~ 31 |
+
+- La **limitation du champ** (collimation 2 × 3 ou 3 × 4) réduit le PDS d'environ
+  **60 à 80 %**.
+- Les réglages **enfant** abaissent encore la dose (de l'ordre de moitié).
+- Ces valeurs dépendent du **récepteur**, de la **longueur de tube** (20 / 30 cm) et de
+  la **collimation**. Le foyer de **0,4 mm** (CEI 60336) et la plage **50–70 kVp /
+  4–7 mA** (tube D-041SB / générateur DG-10A05T3) conditionnent le rendu.
+
+Conformément au principe **ALARA**, le choix des paramètres relève du praticien et de
+la PCR du cabinet.
+
 ## Limites et précisions
 
 - VistaIntra DC est un **dispositif médical** ; son installation et son
