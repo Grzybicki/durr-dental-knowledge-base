@@ -61,6 +61,12 @@ des notes terrain, menus/outils service et procédures techniciens.
 - **VistaIntra DC** (notice `2202100028`) : section « Caractéristiques techniques »
   (électrique 100–240 V / 500 W, tube 50–70 kVp / 4–7 mA, foyer 0,4 mm CEI 60336,
   filtration ≥ 2,0 mm Al, champ Ø 60 / 30×40, réglages standard).
+- **VistaCam iX HD Smart** (notice `2109100026`) : type de protection IP20, classe
+  de protection électrique II.
+- **VistaScan Smart Reader** (notice `2162100015`) : poids ≈ 0,13 kg, raccord USB
+  type C, consommation en veille 0,16 W.
+- **Gamme VistaScan** : résolution sélectionnable (pixel 12,5–50 µm) ; Ultra View
+  ≈ 40 LP/mm.
 
 ### Modifié — gabarit et documentation
 

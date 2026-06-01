@@ -112,7 +112,9 @@ besoin clinique.
 | **Résolution** | **1280 (H) × 1024 (V) pixels** |
 | Système optique | **Lentilles sous verre de protection résistant** + **autofocus continu** |
 | Capteur de mouvement | Active/désactive la caméra automatiquement (économie d'énergie) |
-| Statut réglementaire | **DM classe I** |
+| Type de protection | **IP20** |
+| Classe de protection électrique | **II** |
+| Statut réglementaire | **DM classe I** (notice 2109100026) |
 
 ### Éclairage par tête (2 LED chacune)
 

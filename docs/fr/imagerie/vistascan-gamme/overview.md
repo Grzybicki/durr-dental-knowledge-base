@@ -161,6 +161,13 @@ L'ensemble de la gamme VistaScan s'intègre nativement à
 }
 </script>
 
+## Résolution
+
+D'après les notices officielles, les scanners VistaScan offrent une **résolution
+sélectionnable** via la taille de pixel, de **12,5 à 50 µm** selon le mode et le
+modèle. Le **VistaScan Ultra View** atteint la résolution la plus élevée de la gamme
+(**≈ 40 LP/mm**, taille de pixel descendant à 12,5 µm).
+
 ## Réseau et installation
 
 D'après la documentation technique officielle (génération VistaScan 2.0) :

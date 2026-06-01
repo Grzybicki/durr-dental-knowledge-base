@@ -80,6 +80,9 @@ images étant automatiquement rangées dans le bon dossier patient.
 | Connexion | **USB** (câble fourni 2 m) |
 | Alimentation | **5 V DC**, max. **200 mA**, **< 1 W** |
 | Dimensions | **90 × 13 × 90 mm** |
+| Poids | **≈ 0,13 kg** |
+| Raccord côté appareil | **USB type C** |
+| Consommation en veille | **0,16 W** |
 | Plaques compatibles | [VistaScan IQ](../vistascan-iq-ecrans/overview/) (avec puce RFID) |
 | Logiciel cible | [VistaSoft](../vistasoft-4-0/overview/) (toute version supportant le RFID IQ) |
 
