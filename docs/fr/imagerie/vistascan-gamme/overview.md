@@ -36,7 +36,12 @@ source_documents:
   - title: "Déclaration de Conformité gamme VistaScan"
     type: "Déclaration de Conformité"
     note: "Dispositifs médicaux. Récupérables via Centre de téléchargements ou Eudamed."
-last_factual_review: 2026-05-28
+  - title: "Mémento Imagerie Dürr Dental France"
+    ref: "édition corrections du 01/06/2026"
+    type: "catalogue commercial public"
+    language: "fr"
+    note: "Catalogue commercial public présentant la gamme imagerie. Source des formats de plaques de série vs en option par scanner."
+last_factual_review: 2026-06-05
 license: CC-BY-4.0
 ---
 
@@ -60,9 +65,9 @@ license: CC-BY-4.0
 
 La **gamme VistaScan** de Dürr Dental couvre les **scanners de plaques au
 phosphore** (Image Plate Scanners) pour la radiographie dentaire,
-intraorale et extra-orale. Tous les modèles utilisent les
-**plaques VistaScan Image Plates IQ** qui assurent une qualité
-diagnostique élevée.
+intraorale et extra-orale. Les **modèles intra-oraux actuels** utilisent les
+**plaques VistaScan Image Plates IQ** (avec RFID) ; le **Combi View**
+extra-oral reste sur les plaques **VistaScan Plus** (sans RFID).
 
 ## Modèles de la gamme
 
@@ -70,7 +75,7 @@ diagnostique élevée.
 
 | Modèle | Particularité |
 |---|---|
-| **VistaScan Mini Easy 2.0** | Successeur du Mini Easy. Scanne tous formats intraoraux. **Technologie PCS** (Plate Carrier Scanning) pour détection fiable des lésions D1 et des structures osseuses fines. Compact, installable au fauteuil. |
+| **VistaScan Mini Easy 2.0** | Successeur du Mini Easy. Scanne les formats intra-oraux (S0/S2 de série, autres via guide de plaque en option). **Technologie PCS** (Plate Carrier Scanning) pour détection fiable des lésions D1 et des structures osseuses fines. Compact, installable au fauteuil. |
 | **VistaScan Mini View 2.0** | Variante Mini avec écran d'aperçu intégré. Permet la prévisualisation chairside avant transmission au logiciel. |
 | **VistaScan Nano Easy** | Le plus compact de la gamme — tailles plaques 0, 1, 2. Conçu pour installation au fauteuil. Scan + effacement en une seule étape pour préparation de l'acquisition suivante. |
 
@@ -78,7 +83,7 @@ diagnostique élevée.
 
 | Modèle | Particularité |
 |---|---|
-| **VistaScan Combi View** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). Écran d'aperçu intégré. |
+| **VistaScan Combi View** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). Écran d'aperçu intégré. Fonctionne sur **plaques Plus** (sans RFID). |
 | **VistaScan Ultra View** | Modèle haut de gamme. Capacité étendue de formats et de vitesse de scan. |
 
 ## Plaques au phosphore — VistaScan Image Plates IQ
@@ -92,6 +97,29 @@ Toutes les plaques VistaScan IQ partagent les caractéristiques suivantes :
   extra-oraux (panoramique, céphalométrique selon modèle).
 - **Affichage de la sharpness** (netteté) supérieur au film
   conventionnel.
+
+## Formats de plaques par scanner — de série et en option
+
+Les scanners VistaScan acceptent les **5 formats intra-oraux (S0 à S4)**, mais
+le **guide de plaque** fourni de série diffère selon le modèle : les formats
+non fournis se commandent **en option**.
+
+| Scanner | Formats de série (compris) | Formats en option | Génération de plaque |
+|---|---|---|---|
+| **Mini Easy 2.0** | S0, S2 | S1, S3, S4 | IQ |
+| **Mini View 2.0** | S0 à S4 (tous) | — | IQ |
+| **Ultra View** | S0 à S4 (tous) | — | IQ |
+| **Nano Easy** | S2 (cassette) | S0, S1 — **pas de S3 / S4** | IQ (cassette par format) |
+| **Combi View** | intra S0–S4 + extra-oral (pano / céphalo) selon configuration | selon configuration | Plus |
+
+- Le **Nano Easy** fonctionne par **cassette** que l'on remplace pour changer de
+  format ; il est limité aux formats **S0 à S2** (pas d'occlusal ni de bite-wing
+  long). Pour les formats S3 / S4, choisir un Mini Easy 2.0 ou supérieur.
+- Le **Combi View** est livré selon la **configuration commandée** : intra seul,
+  intra + panoramique, ou intra + panoramique + céphalométrique. Il fonctionne
+  sur les **plaques Plus** (sans RFID).
+
+Source : *Mémento Imagerie Dürr Dental France* (catalogue commercial public).
 
 ## Technologie PCS (modèles 2.0)
 
@@ -260,4 +288,4 @@ Elles sont réutilisables des centaines de fois, s'effacent automatiquement apr�
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-05. Licence : CC-BY 4.0.*

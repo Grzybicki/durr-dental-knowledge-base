@@ -29,7 +29,12 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-05-29
+  - title: "Mémento Imagerie Dürr Dental France"
+    ref: "édition corrections du 01/06/2026"
+    type: "catalogue commercial public"
+    language: "fr"
+    note: "Catalogue commercial public. Source de la distinction génération IQ (scanners actuels) vs Plus (parc 1.0 et Combi)."
+last_factual_review: 2026-06-05
 license: CC-BY-4.0
 ---
 
@@ -103,7 +108,6 @@ plaques IQ :
 | **VistaScan Mini Easy 2.0** | [Gamme VistaScan](../vistascan-gamme/overview/) |
 | **VistaScan Mini View 2.0** | [Page officielle](https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-mini-view-20/) |
 | **VistaScan Ultra View** | [Gamme VistaScan](../vistascan-gamme/overview/) |
-| **VistaScan Combi View** | [Gamme VistaScan](../vistascan-gamme/overview/) |
 
 ### Ancienne génération (série 1.0) — Compatibilité plaques IQ sans RFID
 
@@ -125,18 +129,20 @@ des plaques IQ** sans changer de scanner, en acceptant simplement que
 l'identification RFID ne soit pas active (saisie manuelle du patient
 dans VistaSoft, comme historiquement).
 
-## Écrans à mémoire « Plus » — uniquement pour ancienne génération
+## Écrans à mémoire « Plus » — sans RFID (parc 1.0 et Combi)
 
 Dürr Dental propose également une gamme distincte d'écrans dits **« Plus »**
 (catalogue Dürr Dental France 2026, section *Écrans à mémoire Plus*),
-qui sont **dédiés exclusivement à l'ancienne génération VistaScan**
-(série 1.0).
+**sans puce RFID**. Ils équipent le **parc VistaScan série 1.0** (Mini Easy,
+Mini Plus, Mini View 1.0, Perio, Perio Net) **ainsi que les scanners
+Combi (Combi View / Combi Plus)** — ces derniers encore commercialisés mais
+fonctionnant sur la **génération Plus** (sans lecteur RFID).
 
 | Critère | VistaScan IQ | Écrans VistaScan Plus |
 |---|---|---|
 | **Puce RFID** | **Oui** | **Non** (pas de puce RFID) |
-| **Compatibilité ancienne génération (Mini Easy, Mini Plus, Combi, Perio, Perio Net)** | Oui (sans RFID) | **Oui — usage privilégié** |
-| **Compatibilité nouvelle génération (Mini Easy 2.0, Mini View 2.0, Nano Easy, Combi View, Ultra View)** | **Oui (RFID actif)** | Non documentée — pas conçus pour |
+| **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Perio, Perio Net) **et Combi (View / Plus)** |
+| **Compatibilité croisée** | Utilisables aussi sur la série 1.0, **sans** exploitation RFID | Conçus pour les scanners sans lecteur RFID |
 | **Workflow automatisé via [Smart Reader](../smart-reader/overview/)** | **Oui** | Non |
 | **Suivi qualité par IA (VistaSoft AI)** | **Oui** | Non |
 
@@ -149,8 +155,8 @@ attribution automatique + suivi qualité IA.
 
 ## Packs IQ disponibles (catalogue Dürr Dental France)
 
-Le catalogue 2026 référence quatre packs prêts à l'emploi qui combinent
-les écrans à mémoire IQ et les sachets de protection contre la lumière :
+Le catalogue 2026 référence cinq packs prêts à l'emploi (un par taille) qui
+combinent les écrans à mémoire IQ et les sachets de protection contre la lumière :
 
 | Référence | Pack | Composition |
 |---|---|---|
@@ -158,6 +164,7 @@ les écrans à mémoire IQ et les sachets de protection contre la lumière :
 | `2130106151` | Pack Taille 1 VistaScan IQ | 2 écrans IQ Taille 1 + 1000 sachets de protection |
 | `2130106251` | Pack Taille 2 VistaScan IQ | 2 écrans IQ Taille 2 + 1000 sachets de protection |
 | `2130106351` | Pack Taille 3 VistaScan IQ | 2 écrans IQ Taille 3 + 1000 sachets de protection |
+| `2130106451` | Pack Taille 4 VistaScan IQ | 1 écran IQ Taille 4 + 100 sachets de protection |
 
 Les références exactes et tarifs sont consultables auprès du service
 commercial Dürr Dental France (les tarifs ne sont pas reproduits ici,
@@ -275,4 +282,4 @@ Oui, ils sont utilisables avec les scanners VistaScan de la série 1.0, mais san
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-05. Licence : CC-BY 4.0.*
