@@ -27,7 +27,7 @@ source_documents:
     language: "fr"
   - title: "Déclaration de Conformité VistaRay 7"
     type: "Déclaration de Conformité"
-    note: "Dispositif médical. Récupérable via Centre de téléchargements ou Eudamed."
+    note: "Dispositif médical classe IIa. Source de l'organisme notifié (DQS 0297), du certificat MDR (518373 MDR2017Q, valide jusqu'au 2027-03-10), du SRN fabricant (DE-MF-000006032) et de la catégorie de dispositif (MDA 0204). Récupérable via Centre de téléchargements ou Eudamed."
   - title: "Base européenne Eudamed"
     url: "https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental"
     type: "registre réglementaire"
@@ -37,7 +37,12 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques par taille de capteur (1: 39×27,4×6,3 mm / 2: 43×33,1×6,3 mm, pixel 19 µm, 20 LP/mm effective, > 400 000 clichés à 50 µGy)"
-last_factual_review: 2026-05-29
+  - title: "Mémento Imagerie Dürr Dental France"
+    ref: "édition corrections du 01/06/2026"
+    type: "catalogue commercial public"
+    language: "fr"
+    note: "Document commercial public et largement diffusé présentant l'ensemble de la gamme imagerie Dürr Dental France (VistaRay 7, VistaScan, VistaPano, VistaVox, VistaSoft)."
+last_factual_review: 2026-06-05
 license: CC-BY-4.0
 ---
 
@@ -59,7 +64,10 @@ license: CC-BY-4.0
     { "@type": "PropertyValue", "name": "Connection", "value": "USB 2.0 and USB 3.0, cable length 2.5 m" },
     { "@type": "PropertyValue", "name": "Theoretical resolution", "value": "26.3 LP/mm" },
     { "@type": "PropertyValue", "name": "Effective resolution", "value": "20.0 LP/mm" },
-    { "@type": "PropertyValue", "name": "Stability", "value": "Over 400,000 images" }
+    { "@type": "PropertyValue", "name": "Stability", "value": "Over 400,000 images" },
+    { "@type": "PropertyValue", "name": "Risk class", "value": "Class IIa (MDR EU 2017/745)" },
+    { "@type": "PropertyValue", "name": "Notified Body", "value": "DQS Medizinprodukte GmbH (0297)" },
+    { "@type": "PropertyValue", "name": "Certificate number", "value": "518373 MDR2017Q" }
   ]
 }
 </script>
@@ -219,6 +227,22 @@ Elle réduit la diffusion de la lumière et la concentre sur la puce CMOS, ce qu
 
 Par USB direct, compatible USB 2.0 et USB 3.0, pour une mise en service simple.
 
+## Conformité réglementaire
+
+VistaRay 7 est un **dispositif médical de classe IIa** selon le règlement
+**MDR EU 2017/745** (Annexe IX, chapitres I et III).
+
+| Élément | Valeur |
+|---|---|
+| Classe de risque | **IIa** |
+| Organisme notifié | **DQS Medizinprodukte GmbH** (n° **0297**) |
+| Certificat MDR | **518373 MDR2017Q** (valide jusqu'au **2027-03-10**) |
+| SRN fabricant | **DE-MF-000006032** (Dürr Dental SE) |
+| Catégorie de dispositif | **MDA 0204** — dispositifs actifs non implantables de surveillance / diagnostic |
+
+Source : Déclaration de Conformité VistaRay 7 (récupérable via le Centre de
+téléchargements Dürr Dental France ou la base européenne **Eudamed**).
+
 ## Sources publiques
 
 | Document | URL publique |
@@ -237,4 +261,4 @@ Par USB direct, compatible USB 2.0 et USB 3.0, pour une mise en service simple.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-05. Licence : CC-BY 4.0.*
