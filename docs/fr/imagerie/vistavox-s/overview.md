@@ -420,7 +420,7 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 | **Programmes panoramiques** | **17** | 17 |
 | Programmes pano enfants (≥ 7 ans, dose -45 à -56 %) | **4** | 4 |
 | **Programmes Ceph** | n.a. | **6** (Tête latérale, Tête complète Latérale, Tête frontale PA, **SMV** SubMentoVertex, Vue occipito-mentale, Main carpe) |
-| **Mode QS** (Qualité Standard) | **Dose −62 % vs HQ** sur tous programmes | idem |
+| **Mode SQ** (Standard Quality) | **Dose −62 % vs HQ** sur tous programmes | idem |
 
 Détail des 17 programmes pano : standard + hémiface droite/gauche/frontale +
 **4 programmes enfants** + **5 programmes orthogonaux** + **2 ATM** (diagnostic
