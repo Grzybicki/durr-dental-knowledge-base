@@ -34,7 +34,7 @@ source_documents:
     type: "catalogue commercial public"
     language: "fr"
     note: "Catalogue commercial public. Source de la distinction génération IQ (scanners actuels) vs Plus (parc 1.0 et Combi)."
-last_factual_review: 2026-06-05
+last_factual_review: 2026-06-06
 license: CC-BY-4.0
 ---
 
@@ -137,6 +137,13 @@ Dürr Dental propose également une gamme distincte d'écrans dits **« Plus »*
 Mini Plus, Mini View 1.0, Perio, Perio Net) **ainsi que les scanners
 Combi (Combi View / Combi Plus)** — ces derniers encore commercialisés mais
 fonctionnant sur la **génération Plus** (sans lecteur RFID).
+
+Les écrans Plus restent un **consommable courant et activement commercialisé** :
+le parc de scanners VistaScan série 1.0 en service reste important, et les plaques
+Plus offrent les mêmes **5 formats intra-oraux (S0 à S4)**, la **haute résolution
+effective (22 LP/mm)** et la **réutilisabilité** (des centaines d'expositions) que
+le reste de la gamme. Leurs références figurent sur la fiche
+[Accessoires imagerie](../accessoires-imagerie/overview/).
 
 | Critère | VistaScan IQ | Écrans VistaScan Plus |
 |---|---|---|
@@ -282,4 +289,4 @@ Oui, ils sont utilisables avec les scanners VistaScan de la série 1.0, mais san
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-06-05. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*
