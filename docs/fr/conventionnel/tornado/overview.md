@@ -38,7 +38,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques complètes (dimensions, débits, niveaux sonores, poids)"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-06-06
 license: CC-BY-4.0
 ---
 
@@ -190,11 +190,19 @@ certains systèmes CAD/CAM qui exigent **plus de 8 bar**.
 
 ### Maintenance
 
-> *« The filter in the compressor should be changed 1× per year. »*
+Deux entretiens **distincts** :
 
-Cette **maintenance annuelle** (changement du filtre fin) est la
-condition de maintien des **performances** et de la **valeur** du
-système d'air comprimé.
+- **Filtre** — *« The filter in the compressor should be changed 1× per
+  year. »* → changement **annuel** du filtre fin (commun à tous les
+  compresseurs), condition de maintien des **performances** et de la
+  **valeur** du système d'air comprimé.
+- **Manchettes (segments de piston)** — pièce d'usure propre aux
+  compresseurs à **piston sans huile** Tornado. Sur la **NEW Tornado**,
+  l'intervalle de remplacement est porté **jusqu'à 10 ans** — amélioration
+  majeure de durabilité, au cœur du positionnement « conçus pour durer ».
+  L'échéance peut aussi être déterminée **selon l'état**, en mesurant le
+  **temps de montée en pression** du compresseur (s'il s'allonge, le
+  remplacement des manchettes est planifié).
 
 ### Connexion VistaSoft Monitor
 
@@ -386,4 +394,4 @@ Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*
