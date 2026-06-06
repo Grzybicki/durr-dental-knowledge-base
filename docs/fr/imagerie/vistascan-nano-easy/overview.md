@@ -21,7 +21,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-nano-easy/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-06-01
+last_factual_review: 2026-06-06
 license: CC-BY-4.0
 ---
 
@@ -132,6 +132,11 @@ D'après la page produit officielle Dürr Dental :
 **VistaScan Nano Easy** est un **dispositif médical de classe I** selon le règlement
 **MDR EU 2017/745** (source : notice de montage et d'utilisation réf. `2160100227L03`).
 
+## Consommables — écrans et sachets de protection
+
+- **Écrans à mémoire** : [VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/), formats **S0 à S2 uniquement**, montés dans un **élément (cassette) par format** que l'on remplace pour changer de taille (format S2 fourni d'origine, S0/S1 en option).
+- **Sachets de protection contre la lumière** : le scanner est **livré avec ses sachets** de protection (à usage unique), indispensables pour protéger la plaque de la lumière et des contaminations croisées en bouche. Détail et formats sur la fiche [Accessoires imagerie](../accessoires-imagerie/overview/).
+
 ## Firmware
 
 **Dernière version connue** (référence mai 2026) : **V1.5.1** (avril 2025).
@@ -165,4 +170,4 @@ Dans un cabinet exigu (nouveau cabinet, poste itinérant, second poste) où les 
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*

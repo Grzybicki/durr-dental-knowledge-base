@@ -119,6 +119,12 @@ non fournis se commandent **en option**.
   intra + panoramique, ou intra + panoramique + céphalométrique. Il fonctionne
   sur les **plaques Plus** (sans RFID).
 
+Quel que soit le modèle, le scanner est **livré avec ses écrans** (formats de
+série ci-dessus) **et les sachets de protection contre la lumière**
+correspondants — consommable à usage unique, indispensable pour protéger la
+plaque de la lumière et des contaminations croisées en bouche. Détail des
+sachets et formats sur la fiche [Accessoires imagerie](../accessoires-imagerie/overview/).
+
 Source : *Mémento Imagerie Dürr Dental France* (catalogue commercial public).
 
 ## Technologie PCS (modèles 2.0)

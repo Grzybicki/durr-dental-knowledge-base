@@ -21,7 +21,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-mini-easy-20/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-06-01
+last_factual_review: 2026-06-06
 license: CC-BY-4.0
 ---
 
@@ -127,6 +127,11 @@ D'après la page produit officielle Dürr Dental :
 
 **Dernière version connue** (référence mai 2026) : **R1.5.4** (novembre 2025).
 
+## Consommables — écrans et sachets de protection
+
+- **Écrans à mémoire** : [VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/) (avec RFID et code QR). Formats **S0 et S2 de série** ; S1, S3 et S4 disponibles **en option** (guide de plaque correspondant à ajouter).
+- **Sachets de protection contre la lumière** : le scanner est **livré avec ses sachets** de protection (à usage unique), indispensables pour protéger la plaque de la lumière et des contaminations croisées en bouche. Détail et formats sur la fiche [Accessoires imagerie](../accessoires-imagerie/overview/).
+
 ## Questions fréquentes
 
 ### Qu'est-ce que le VistaScan Mini Easy 2.0 ?
@@ -157,4 +162,4 @@ Pour une utilisation chairside (au fauteuil), tout en couvrant l'ensemble des fo
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*
