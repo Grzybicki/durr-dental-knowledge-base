@@ -217,6 +217,19 @@ La résolution est par ailleurs **sélectionnable** via la taille de pixel
 
 Source : *Mémento Imagerie Dürr Dental France* (catalogue commercial public).
 
+## Générations précédentes (parc installé)
+
+La gamme actuelle succède à la **série VistaScan 1.0**, encore largement présente
+dans les cabinets :
+
+- Scanners intra-oraux **Mini** (Mini Easy, Mini Plus, Mini View) ;
+- Modèles **extra-oraux View** : **Combi View** (intra + pano + céphalo 18 × 24),
+  **Omni View** (céphalo 24 × 30) et **Pano View** (extra-oral seul) ;
+- **Perio** : scanner **à cassettes** dédié à l'endodontie et à la parodontie.
+
+Ces modèles fonctionnent sur les **plaques Plus** (sans RFID) et restent pris en
+charge pour le **service et les consommables**.
+
 ## Réseau et installation
 
 D'après la documentation technique officielle (génération VistaScan 2.0) :

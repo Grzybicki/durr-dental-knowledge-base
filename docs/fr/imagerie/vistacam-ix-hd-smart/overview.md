@@ -50,7 +50,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques (1280×1024, USB 2.0/3.0, 70 g, 200 mm, 3 têtes interchangeables Cam/Proof 405 nm/Proxi 850 nm)"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-06-06
 license: CC-BY-4.0
 ---
 
@@ -238,6 +238,26 @@ VistaCam iX HD Smart s'intègre directement à
 }
 </script>
 
+## Générations précédentes (historique)
+
+La VistaCam iX HD Smart s'inscrit dans une **lignée** de caméras intra-orales
+Dürr Dental. Cette continuité est utile pour les cabinets disposant d'un
+**parc plus ancien** :
+
+| Génération | Repères |
+|---|---|
+| **VistaCam Digital** | première génération numérique |
+| **VistaCam CL.iX** | génération intermédiaire |
+| **VistaCam iX** | système à têtes interchangeables, déclencheur avec retour par vibration |
+| **VistaCam iX HD** | introduction de la **qualité HD réelle** (jusqu'à 1280 × 1024) et de l'**autofocus continu** |
+| **VistaCam iX HD Smart** | génération actuelle (cette fiche) |
+
+À noter : les générations **VistaCam iX** proposaient, au-delà des têtes Cam /
+Proof / Proxi, deux têtes aujourd'hui **abandonnées** — une tête **Macro**
+(fort grossissement) et une tête **Poly** de **photopolymérisation** (la caméra
+faisait alors aussi office de lampe à polymériser). La gamme actuelle se
+concentre sur les têtes **Cam, Proof et Proxi**.
+
 ## Questions fréquentes
 
 ### Qu'est-ce que la VistaCam iX HD Smart ?
@@ -293,4 +313,4 @@ Raccordement USB 2.0 (compatible USB 3.0), utilisation multiposte plug & play, p
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*
