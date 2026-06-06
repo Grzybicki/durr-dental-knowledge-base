@@ -127,6 +127,11 @@ D'après la page produit officielle Dürr Dental :
 
 **Dernière version connue** (référence mai 2026) : **R1.5.4** (novembre 2025).
 
+## Résolution de lecture
+
+- **Scanner** : **40 LP/mm** (théorique) — comme l'ensemble des VistaScan Mini (1.0 et 2.0) et Ultra View.
+- **Effective** : **22 LP/mm**, limitée par l'écran à mémoire (facteur limitant du système).
+
 ## Consommables — écrans et sachets de protection
 
 - **Écrans à mémoire** : [VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/) (avec RFID et code QR). Formats **S0 et S2 de série** ; S1, S3 et S4 disponibles **en option** (guide de plaque correspondant à ajouter).

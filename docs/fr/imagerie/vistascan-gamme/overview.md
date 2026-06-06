@@ -40,8 +40,8 @@ source_documents:
     ref: "édition corrections du 01/06/2026"
     type: "catalogue commercial public"
     language: "fr"
-    note: "Catalogue commercial public présentant la gamme imagerie. Source des formats de plaques de série vs en option par scanner."
-last_factual_review: 2026-06-05
+    note: "Catalogue commercial public présentant la gamme imagerie. Source des formats de plaques de série vs en option par scanner, et de la résolution par modèle."
+last_factual_review: 2026-06-06
 license: CC-BY-4.0
 ---
 
@@ -197,10 +197,25 @@ L'ensemble de la gamme VistaScan s'intègre nativement à
 
 ## Résolution
 
-D'après les notices officielles, les scanners VistaScan offrent une **résolution
-sélectionnable** via la taille de pixel, de **12,5 à 50 µm** selon le mode et le
-modèle. Le **VistaScan Ultra View** atteint la résolution la plus élevée de la gamme
-(**≈ 40 LP/mm**, taille de pixel descendant à 12,5 µm).
+Il faut distinguer la **résolution du scanner** (sa capacité de lecture) de la
+**résolution effective** du système, limitée par l'écran à mémoire.
+
+| Scanner | Résolution scanner (théorique) | Résolution effective (écran) |
+|---|---|---|
+| Mini (1.0 et 2.0) / Mini View / Ultra View | **40 LP/mm** | **22 LP/mm** |
+| Nano Easy | **16,7 LP/mm** | **12,5 LP/mm** |
+
+Les scanners **VistaScan Mini (1.0 et 2.0) et Ultra View** lisent tous à
+**40 LP/mm** ; la résolution **effective de 22 LP/mm** est celle de l'**écran à
+mémoire**, qui constitue le facteur limitant. L'**Ultra View** ne se distingue
+donc **pas** par une résolution supérieure aux autres modèles 40 LP/mm, mais par
+sa **vitesse** (2 fentes de numérisation en parallèle). Le **Nano Easy**, plus
+compact, offre une résolution plus basse (**16,7 / 12,5 LP/mm**).
+
+La résolution est par ailleurs **sélectionnable** via la taille de pixel
+(12,5 à 50 µm selon le mode de numérisation).
+
+Source : *Mémento Imagerie Dürr Dental France* (catalogue commercial public).
 
 ## Réseau et installation
 

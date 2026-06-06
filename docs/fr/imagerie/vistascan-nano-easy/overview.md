@@ -132,6 +132,11 @@ D'après la page produit officielle Dürr Dental :
 **VistaScan Nano Easy** est un **dispositif médical de classe I** selon le règlement
 **MDR EU 2017/745** (source : notice de montage et d'utilisation réf. `2160100227L03`).
 
+## Résolution de lecture
+
+- **Scanner** : **16,7 LP/mm** (théorique).
+- **Effective** : **12,5 LP/mm** — résolution plus basse que les modèles Mini / Ultra (40 / 22 LP/mm), cohérente avec un scanner compact d'entrée de gamme.
+
 ## Consommables — écrans et sachets de protection
 
 - **Écrans à mémoire** : [VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/), formats **S0 à S2 uniquement**, montés dans un **élément (cassette) par format** que l'on remplace pour changer de taille (format S2 fourni d'origine, S0/S1 en option).
