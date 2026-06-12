@@ -185,18 +185,33 @@ filtres** par numéro de référence du compresseur :
 | Silver Airline 1ʳᵉ gen / classique | Primo, Duo, Trio, Quattro | **`0832-982-00`** |
 | Tornado 2ᵉ gen | Tornado 1, Tornado 2, Tornado 2+ | **`5430-982-00`** |
 | NEW Tornado | Tornado 1, 2, 4 (gen 2024-2026) | À identifier via Filter Finder |
-| Silver Airline catalogue 2026 — kit filtres fins 1 cylindre | Primo | **`5150100015`** (kit complet) |
-| Silver Airline 3 cylindres | Trio | **`5350-980-60`** (Fine Filter Set) |
 
-### Filtres bactériologiques (ULPA U16 / ISO 65U)
+### Kits de filtres par compresseur (catalogue Dürr Dental France 2026)
 
-| Génération / configuration | Référence kit |
-|---|---|
-| Compresseur **1 cylindre** (Primo, Tornado 1) — kit complet bactério | **`5150100016`** |
-| Compresseur **2 cylindres** (Duo, Tornado 2) | À identifier via Filter Finder ou service commercial |
-| Compresseur **3 cylindres** (Trio) | À identifier via Filter Finder |
-| Compresseur **4 cylindres** (Quattro, Tornado 4) | À identifier via Filter Finder |
-| Configurations **Tandem** (Duo Tandem, Quattro Tandem) | À identifier via Filter Finder |
+Kits **complets** (filtres fins + dessiccateur). Le kit « **-60** » ne contient
+que les **filtres fins** ; le kit « **-61** » est le kit **bactériologique**
+(inclut le filtre ULPA U16 / ISO 65U). Pour Primo : `5150100015` (fin) /
+`5150100016` (bactério).
+
+| Compresseur | Kit filtres fins | Kit bactériologique (ULPA U16) |
+|---|---|---|
+| Silver Airline **Primo** (1 cyl.) | `5150100015` | `5150100016` |
+| Silver Airline **Duo** (2 cyl.) | `5250-980-60` | `5250-980-61` |
+| Silver Airline **Trio** (3 cyl.) | `5350-980-60` | `5350-980-61` |
+| Silver Airline **Quattro** (4 cyl.) | `5450-980-60` | `5450-980-61` |
+| Silver Airline **Duo Tandem** (2×2 cyl.) | `5250-980-60` | `5250-980-61` — **1 seul kit** |
+| Silver Airline **Quattro Tandem** (2×4 cyl.) | `5450-980-60` | `5450-980-61` — **2 kits** |
+| **Tornado 1 & 2** | `5180-980-60` | `5180-980-61` |
+| **Tornado 4** | `4280-980-60` | `4280-980-61` |
+
+> ⚠️ Les compresseurs **Tornado** ont leur **propre famille de kits**
+> (`5180-980-…` pour Tornado 1 et 2, `4280-980-…` pour Tornado 4) — **ne pas**
+> les confondre avec les kits Silver Airline (`5150 / 5250 / 5350 / 5450`) sur
+> le seul critère du nombre de cylindres.
+>
+> ⚠️ **Tandem** : le **Duo Tandem n'exige qu'un seul kit** (le moteur ne porte
+> qu'un groupe de filtration) ; le **Quattro Tandem en exige deux**. Confirmé
+> terrain (Dürr Dental France, 2026-06-12).
 
 ## Filtres d'aspiration — gamme complète
 
