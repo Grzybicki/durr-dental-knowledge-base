@@ -117,7 +117,7 @@ D'après la brochure officielle (réf. `P007-521-03`) :
 
 | Produit chimique | Usage | Lien fiche |
 |---|---|---|
-| **ID 212** / **ID 212 forte plus** | Désinfection instruments (large spectre) | [Voir fiche désinfection empreintes/instruments](../desinfection-empreintes/overview/) |
+| **ID 212** / **ID 212 forte plus** | Désinfection instruments **et fraises** (large spectre) | [Voir fiche désinfection empreintes/instruments](../desinfection-empreintes/overview/) |
 | **ID 213** | Aldéhyde-free, instruments chirurgicaux, classiques, rotatifs | Idem |
 | **ID 220** | **Bain pour fraises** dédié | Idem |
 | **MD 530 / MD 535** | **Dissolvants de ciments et plâtre** (travail labo dentaire) | [Voir fiche familles ID/MD/HD/FD](../familles-id-md-hd-fd/overview/) |

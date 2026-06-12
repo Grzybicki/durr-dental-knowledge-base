@@ -96,7 +96,7 @@ Page hub : <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations
 | Produit | Indication | Dilution | Temps action | **Conservation solution diluée** | Rendement |
 |---|---|---|---|---|---|
 | **ID 212** | Concentré aldéhyde-free + **instruments rotatifs sensibles aux alcalins et alcool** (burs carbide soudés, NiTi endodontique) | 2 % | 5 min bain / 2 min US (jusqu'à 60 min selon spectre) | **7 jours** | 2,5 l = 125 l solution |
-| **ID 212 forte plus** ⭐ | Spectre étendu : **bactéricide + tuberculocide US + levuricide + virucide limité (HBV, HCV, HIV, coronavirus) + ADÉNOVIRUS + NOROVIRUS** non enveloppés | 2 % | (variable selon spectre) | **Jusqu'à 7 jours** | 2,5 l = 125 l solution |
+| **ID 212 forte plus** ⭐ | Instruments, rotatifs **et fraises**. Spectre étendu : **bactéricide + tuberculocide US + levuricide + virucide limité (HBV, HCV, HIV, coronavirus) + ADÉNOVIRUS + NOROVIRUS** non enveloppés | 2 % | (variable selon spectre) | **Jusqu'à 7 jours** | 2,5 l = 125 l solution |
 | **ID 213** | Concentré aldéhyde-free + **inhibiteurs de corrosion** (instruments classiques + chirurgicaux) | 2 % | 5 min bain / 2 min US (jusqu'à 60 min selon spectre) | **Jusqu'à 14 jours** ⭐ | 2,5 l = 125 l solution |
 | **ID 215** | **Nettoyant enzymatique** complémentaire (nettoyage avant désinfection) | Selon protocole | Selon protocole | Selon protocole | — |
 

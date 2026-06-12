@@ -97,13 +97,18 @@ communication commerciale. Verbatim de la page produit officielle :
 | Critère | Valeur |
 |---|---|
 | Formulation | **Sans aldéhyde** |
-| Concentré pour | Instruments généraux : **miroirs, sondes, précelles, forceps**, etc. + instruments rotatifs sensibles aux alcalins/alcool (alliages NiTi, instruments rotatifs synthétiques) |
+| Concentré pour | Instruments généraux : **miroirs, sondes, précelles, forceps**, etc. + instruments rotatifs **et fraises** sensibles aux alcalins/alcool (alliages NiTi, instruments rotatifs synthétiques) |
 | Dilution standard | **2 %** |
 | **Conservation solution diluée** | **Jusqu'à 7 jours** |
 | Spectre d'activité | **Bactéricide + Tuberculocide en ultrasons + Levuricide + Virucide limité (virus enveloppés incl. HBV, HCV, HIV et coronavirus) + actif aussi sur ADÉNOVIRUS et NOROVIRUS non enveloppés** ⭐ |
 | Rinçage post-application | 15 secondes sous eau courante |
 | Principe actif | Ammoniums quaternaires |
 | Page produit | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-forte-instrument-disinfection/> |
+
+> **Champ d'application** : l'ID 212 forte plus désinfecte les **instruments**
+> (manuels et chirurgicaux) **et les fraises** (instruments rotatifs). Le produit
+> succède à l'« ID 212 forte », libellé « Désinfection des instruments **et des
+> fraises** » au catalogue Dürr Dental France 2024 (réf. CDI212F6150 → CDI21FP6150).
 
 > **Argument commercial fort à mettre en avant** : l'ID 212 forte plus
 > couvre les **virus non enveloppés** (adénovirus, norovirus) **en plus**
