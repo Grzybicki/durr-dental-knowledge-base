@@ -126,11 +126,14 @@ synthétique est la suivante :
 > <https://www.duerrdental.com/en/products/compressed-air/devices/cad-cam-compressors/>
 > et la factsheet `P007100024L02` (Centre de téléchargements).
 
-> 📌 **Pourquoi le Tornado n'est pas compatible CAD/CAM** : la pression
-> maximale du Tornado est **8 bar**, insuffisante pour les usineuses
-> haut de gamme exigeant jusqu'à **8,5 bar**. Les compresseurs
-> **CAD/CAM dédiés** (Duo Tandem / Quattro Tandem 1 ou 2 agrégats)
-> sont obligatoires pour ces machines.
+> 📌 **Plage de pression des compresseurs CAD/CAM** : ils délivrent jusqu'à
+> **9 bar**, **extensible à 9,5 bar** avec le **réservoir tampon (buffer tank)**
+> en option (verbatim factsheet : *« expanding the pressure range setting from
+> 9 to 9.5 bar »*) — ce qui couvre les usineuses exigeant jusqu'à 8,5 bar.
+>
+> À l'inverse, la pression maximale du **Tornado (8 bar)** est insuffisante pour
+> les usineuses haut de gamme : les compresseurs **CAD/CAM dédiés** (Duo Tandem /
+> Quattro Tandem 1 ou 2 agrégats) sont obligatoires pour ces machines.
 
 ### Recommandation d'installation
 

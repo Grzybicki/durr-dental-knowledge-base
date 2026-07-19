@@ -132,6 +132,34 @@ D'après la page produit officielle Dürr Dental :
 | **Tornado 2** | 2 praticiens | Cabinets de taille moyenne |
 | **Tornado 4** | 4 praticiens | Cabinets de grande taille / multi-praticiens |
 
+## Données techniques par modèle
+
+Source : factsheet officielle Dürr Dental `P007100308L02`. Les valeurs de la
+forme **x / y** correspondent à un fonctionnement **50 Hz / 60 Hz**.
+
+| Paramètre | Tornado 1 | Tornado 2 | Tornado 4 |
+|---|---|---|---|
+| **Praticiens** | 1 | 2 | 4 |
+| Tension / fréquence | 230 V (1∼) / 50–60 Hz | 230 V (1∼) / 50–60 Hz | 230 V (1∼) / 50–60 Hz |
+| **Débit à 5 bar — sans sécheur** (l/min) | **68 / 78** | **134 / 153** | **260 / 296** |
+| **Débit à 5 bar — avec sécheur à membrane** (l/min) | 62 / 70 | 118 / 137 | 229 / 261 |
+| **Cuve** (l) | **20** | **20** | **50** |
+| **Plage de pression** (bar) | **6–7,8** | 6–7,8 | 6–7,8 |
+| **Niveau sonore à 5 bar** dB(A) | 64 / 68 | 68 / 71 | 73 / 75 |
+| Niveau sonore avec **capot aérodynamique** dB(A) | **58 / 61** | 60 / 62 | – |
+| Niveau sonore **en armoire** dB(A) | **47 / 49** | 51 / 53 | – |
+| Poids sans sécheur (kg) | 32 | 38 | 84 |
+| Poids avec sécheur (kg) | 38 | 44 | 90 |
+| Poids avec capot + sécheur (kg) | 49 | 57 | – |
+| Dimensions H × L × P sans sécheur (cm) | 69 × 48 × 41 | 67 × 48 × 41 | 73 × 78 × 54 |
+| Dimensions avec sécheur (cm) | 69 × 49 × 47 | 67 × 49 × 47 | 73 × 78 × 61 |
+
+> La **plage de pression 6–7,8 bar** correspond aux seuils d'enclenchement /
+> déclenchement (cut-in / cut-out) du pressostat ; la **pression maximale**
+> admissible reste **8 bar**. Un **réducteur de pression** est disponible en
+> option. Le **sécheur à membrane** (option) fournit un air sec en continu sans
+> régénération, au prix d'un léger abattement du débit (colonne « avec sécheur »).
+
 ## Bénéfices
 
 Selon la documentation officielle Dürr Dental :

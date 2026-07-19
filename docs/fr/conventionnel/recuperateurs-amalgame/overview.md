@@ -119,11 +119,11 @@ d'un récupérateur externe.
 | Caractéristique | **CS 1** | **CAS 1** | **CA 1** | **CA 2** | **CA 4** |
 |---|---|---|---|---|---|
 | Tension (V) | 24 | 24 | 24 | **230 (1∼)** | **230 (1∼)** |
-| Fréquence (Hz) | 50-60 | 50-60 | 50-60 | 50-60 | 60 |
-| Puissance électrique (W) | 70 | 100 | 60 | 100 | 210 |
+| Fréquence (Hz) | 50-60 | 50-60 | 50-60 | 50-60 | 50-60 |
+| Puissance électrique (VA) | 70 | 100 | 60 | 115 | 230 |
 | Puissance veille (W) | – | – | – | 4 | 7 |
 | Intensité (A) | 2,7 | 4,0 | 2,5 | – | – |
-| **Débit liquide max** (l/min) | **2** | **4** | **4** | – | – |
+| **Débit liquide max** (l/min) | **2** | **4** | **4** | – | **jusqu'à 16** |
 | **Dimensions H × L × P sans boîtier** (cm) | 12,5 × 15 × 12 | 25,5 × 15,1 × 11 | 25,5 × 15,1 × 11 | **34,5 × 30 × 31** | 41 × 25 × 28 |
 | Dimensions avec boîtier (cm) | 43,5 × 25,5 × 16 | 43,5 × 25,5 × 16 | 43,5 × 25,5 × 16 | – | 50 × 36 × 36 |
 | Poids sans boîtier (kg) | 1,4 | 2,7 | 2,7 | **8** | 10 |
@@ -138,6 +138,12 @@ d'un récupérateur externe.
 > standard allemand à débit maximal. **DIBT** = Deutsches Institut für
 > Bautechnik (Institut allemand de la technique du bâtiment) — agrément
 > de référence pour les récupérateurs d'amalgame en Europe.
+
+> **Alarme de remplissage** : les récupérateurs signalent (optiquement, et via
+> [VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/) / Connect Box)
+> lorsque le **conteneur d'amalgame atteint 95 %** de sa capacité. Le **VSA 300 S**
+> est une unité combinée aspiration + séparation d'amalgame (**300 l/min** de
+> puissance d'aspiration, taux de séparation **> 95 %**) pour poste unique.
 
 > 📌 **Norme d'essai de référence** : la norme **ISO 11143:2008**
 > (« Séparateurs d'amalgame ») définit en Europe la **méthode d'essai**

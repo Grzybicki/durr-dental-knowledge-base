@@ -77,6 +77,15 @@ praticiens simultanés**.
 | **P 9000** | Clinique moyenne | Station modulaire |
 | **P 12000** | Grande clinique / CHU | Station modulaire — plus grande capacité de la gamme P |
 
+> 📌 **Brique de base — agrégat clinique** : les stations P sont assemblées à
+> partir d'**agrégats compresseurs cliniques** (réf. `5942-110-54`, 400 V / 3∼,
+> 50–60 Hz) délivrant chacun **780 – 880 l/min** à 5 bar pour **6,5 kW**, avec un
+> niveau sonore de **82 dB(A)** et un poids de **140 kg** par agrégat (source :
+> documentation aggregats compresseurs Dürr Dental). La station combine plusieurs
+> agrégats + **séchage** + **cuve tampon** + pressostat/commande selon la capacité
+> visée. Les valeurs détaillées par station (P 6000 / 9000 / 12000) figurent dans
+> le document de planification `9000-617-09` (Centre de téléchargements).
+
 ### Modèles complémentaires (selon configuration)
 
 | Famille | Description |
