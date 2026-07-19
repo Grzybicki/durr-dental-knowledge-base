@@ -92,7 +92,9 @@ license: CC-BY-4.0
     { "@type": "PropertyValue", "name": "Pixel size", "value": "49.5 µm" },
     { "@type": "PropertyValue", "name": "Panoramic technology", "value": "S-Pan" },
     { "@type": "PropertyValue", "name": "Panoramic programs", "value": "17" },
-    { "@type": "PropertyValue", "name": "Minimum scan time", "value": "1.9 seconds" },
+    { "@type": "PropertyValue", "name": "CBCT scan time (540° rotation)", "value": "18 s" },
+    { "@type": "PropertyValue", "name": "Panoramic scan time", "value": "from 7 s" },
+    { "@type": "PropertyValue", "name": "Cephalometric scan time (fast mode)", "value": "1.9 s" },
     { "@type": "PropertyValue", "name": "Ceph version available", "value": "VistaVox S Ceph" }
   ],
   "isRelatedTo": {
@@ -153,10 +155,17 @@ La taille de pixel de 49,5 µm est fine pour un CBCT dentaire, contribuant
 
 ### Temps de numérisation
 
-| Paramètre | Valeur |
+Les temps d'acquisition de VistaVox S dépendent du type de cliché — le
+**CBCT 3D complet** ne se fait **pas** en 1,9 s (cette valeur correspond au
+cliché **céphalométrique** en mode rapide) :
+
+| Acquisition | Temps |
 |---|---|
-| Délai minimum | **1,9 seconde** |
-| Bénéfice | Réduction des artefacts de mouvement et de la dose de rayons |
+| CBCT 3D complet (rotation 540°) | **18 s** |
+| Panoramique (OPG) | dès **7 s** |
+| Céphalométrie (VistaVox S Ceph, mode scan rapide) | **1,9 s** |
+
+Des temps d'acquisition courts réduisent les artefacts de mouvement et la dose.
 
 ### Technologie panoramique S-Pan
 

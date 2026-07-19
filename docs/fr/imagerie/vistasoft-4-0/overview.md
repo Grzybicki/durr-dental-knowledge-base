@@ -91,7 +91,7 @@ source_documents:
     ref: "P007100021L01/L08"
     type: "brochure commerciale Dürr Dental France"
     language: "fr"
-    note: "Source des 4 fonctions IA inclusive (rotation auto, contrôle qualité IQ, traçage canal nerveux, panoramique IA)"
+    note: "Source des 6 fonctions IA inclusive (rotation auto, détection côté inversé plaque IQ, contrôle qualité IQ, détection des dents, traçage canal mandibulaire, panoramique IA « Clear Pan »)"
   - title: "Manuel utilisateur VistaSoft FR — édition 2311V029"
     ref: "2110100001L03 (2311V029)"
     type: "manuel utilisateur"
@@ -213,9 +213,9 @@ et brochure officielle Dürr Dental France
 **« VistaSoft — Le cœur de votre exercice en chirurgie dentaire »**
 (réf. `P007100021L01/L08`).
 
-VistaSoft 4.0 intègre **quatre fonctions d'intelligence artificielle
+VistaSoft 4.0 intègre **six fonctions d'intelligence artificielle
 incluses dans le pack** (sans abonnement séparé), réparties entre flux
-intra-oral et flux 3D / CBCT.
+intra-oral (4) et flux 3D / CBCT (2).
 
 ### Flux intra-oral
 
@@ -269,10 +269,11 @@ amélioré est affiché »*.
 
 ### Module IA distinct (DM IIa) — VistaSoft AID
 
-Les **fonctions IA inclusives** ci-dessus sont distinctes du module
-[**VistaSoft AID**](../vistasoft-aid/overview/), qui est un **DM classe
-IIa** dédié à l'aide au diagnostic radiologique des **caries** (statut
-réglementaire séparé, MDR EU 2017/745).
+Les **six fonctions IA inclusives** ci-dessus sont distinctes du module
+[**VistaSoft AID**](../vistasoft-aid/overview/), qui **nécessite un
+abonnement séparé** et constitue un **DM classe IIa** dédié à l'aide au
+diagnostic radiologique des **caries** (statut réglementaire distinct,
+MDR EU 2017/745).
 
 ### Module IA orthodontique — VistaSoft Trace
 
@@ -520,7 +521,7 @@ Volumétrie indicative par image : caméra ≈ 1 Mo, radiographie ≈ 2–10 Mo,
       "name": "Quelles fonctions IA sont incluses dans VistaSoft 4.0 ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "VistaSoft 4.0 intègre plusieurs fonctions d'IA disponibles sans abonnement séparé : rotation automatique des clichés intra-oraux, détection du canal mandibulaire sur les volumes CBCT, optimisation automatique d'image et fonctions de traitement assisté. Ces fonctions sont distinctes du module VistaSoft AID (DM classe IIa) dédié à l'aide au diagnostic des caries."
+        "text": "VistaSoft 4.0 intègre six fonctions d'IA incluses dans le pack, sans abonnement séparé : rotation automatique des clichés intra-oraux, détection du côté inversé de la plaque IQ, contrôle qualité des écrans IQ, détection automatique des dents, traçage du canal mandibulaire sur les volumes CBCT et représentation panoramique IA (Clear Pan). Ces fonctions sont distinctes du module VistaSoft AID, qui nécessite un abonnement séparé et constitue un DM de classe IIa dédié à l'aide au diagnostic des caries."
       }
     },
     {
@@ -564,9 +565,11 @@ certificat **518373 MDR2017Q**. Class II selon FDA 21 CFR.
 
 ### Quelles fonctions IA sont incluses dans VistaSoft 4.0 ?
 
-Plusieurs fonctions IA disponibles sans abonnement séparé : rotation automatique des
-clichés, détection du canal mandibulaire en CBCT, optimisation d'image. Distinct du
-module **VistaSoft AID** (DM IIa, aide au diagnostic des caries).
+Six fonctions IA incluses dans le pack, sans abonnement séparé : rotation automatique,
+détection du côté inversé de la plaque IQ, contrôle qualité des écrans IQ, détection des
+dents, traçage du canal mandibulaire en CBCT et panoramique IA (Clear Pan). Le module
+**VistaSoft AID** (aide au diagnostic des caries) est **distinct et nécessite un
+abonnement** (DM classe IIa).
 
 ### VistaSoft 4.0 est-il compatible DICOM ?
 

@@ -132,8 +132,8 @@ indépendamment par le même Notified Body (DQS 0297).
 
 VistaSoft AID est **distinct des fonctions IA inclusives** intégrées à VistaSoft
 4.0 (rotation automatique, optimisation d'image, détection canal mandibulaire),
-qui sont disponibles sans abonnement séparé. VistaSoft AID est une extension
-spécialisée à part entière.
+qui sont disponibles sans abonnement séparé. VistaSoft AID, à l'inverse, est une
+extension spécialisée qui **nécessite un abonnement dédié**.
 
 ## Limites et précisions
 
