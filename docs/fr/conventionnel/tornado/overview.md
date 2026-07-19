@@ -86,7 +86,7 @@ pièces détachées ou de documentation technique.
 | Génération | Modèles | Période | Particularité |
 |---|---|---|---|
 | **1ʳᵉ génération** | **Tornado 70**, **Tornado 70 S**, **Tornado 130**, **Tornado 130 S** | années 1990-2000 | Compresseurs simples avec dessiccateur. Pièces détachées encore disponibles (joints, segments de pistons). |
-| **2ᵉ génération** | **Tornado 1**, **Tornado 2**, **Tornado 2+** | années 2010-début 2020 | Membrane drying ; conformes ISO 22052 ; capot d'insonorisation aérodynamique disponible pour Tornado 1 et 2 ; conçus pour cabinets 1 à 4 praticiens. |
+| **2ᵉ génération** | **Tornado 1**, **Tornado 2**, **Tornado 2+** | années 2010-début 2020 | Membrane drying ; conformes ISO 22052 **lorsqu'équipés du filtre bactérien** ; capot d'insonorisation aérodynamique disponible pour Tornado 1 et 2 ; conçus pour cabinets 1 à 4 praticiens. |
 | **3ᵉ génération — NEW Tornado** | **Tornado 1**, **Tornado 2**, **Tornado 4** + **Super Silent** | 2024-2026 | **+12 % d'économies d'énergie** vs génération 2. Pression max 8 bar. German Design Award 2026 + Innovations-Champion Award 2025. Filtre HEPA H14 / ULPA U16 de série. |
 
 > **Pour identifier la génération** d'un Tornado en cabinet : se
@@ -157,25 +157,18 @@ maintenance, économies d'énergie réalisées.
 D'après la page officielle FAQ Dürr Dental sur le nouveau Tornado
 ([source officielle](https://www.duerrdental.com/en/products/compressed-air/devices/tornado-compressors/)) :
 
-### Conformité ISO 22052 — état actuel (2026)
+### Conformité ISO 22052 — rôle du filtre bactérien
 
-> 📌 **Mise à jour 2026** : **tous les compresseurs Dürr Dental livrés
-> aujourd'hui** (NEW Tornado, Silver Airline, Power Tower, CAD/CAM) sont
-> **équipés de série** d'un **filtre HEPA H14 / ULPA U16 (ISO 65U)** —
-> la conformité à la norme **ISO 22052** (qualité d'air comprimé
-> dentaire) est donc **assurée d'origine**, sans nécessiter de rétrofit
-> sur les appareils neufs livrés actuellement.
+La conformité à la norme **ISO 22052** (qualité d'air comprimé dentaire) est
+obtenue **lorsque le compresseur est équipé du filtre bactérien** (ULPA U16 /
+ISO 65U). Verbatim de la documentation officielle Dürr Dental : un Tornado
+« *equipped with a bacteria filter* » satisfait les exigences d'ISO 22052.
 
-Une **FAQ officielle Dürr Dental** plus ancienne (probablement liée à
-une période transitoire ou à des contextes spécifiques) indiquait que
-le NEW Tornado devait être **rétrofitté** d'un filtre bactériologique
-pour atteindre l'ISO 22052. **Cette mention est aujourd'hui caduque
-sur les appareils neufs** : le filtre HEPA H14 / ULPA U16 est de série.
-
-Pour les **appareils anciens** (génération Tornado 1 / 2 / 2+) qui
-auraient été livrés sans filtre bactériologique d'usine, un **kit de
-rétrofit** existe (voir [fiche filtres HEPA / ULPA](../filtres-hepa-ulpa-compresseurs/overview/))
-pour leur faire atteindre les exigences ISO 22052.
+- Sur la **nouvelle gamme Tornado**, le filtre bactérien fait partie de la
+  chaîne de filtration multi-étages du compresseur.
+- Sur les **générations antérieures** (Tornado 1 / 2 / 2+) non équipées
+  d'origine, un **kit de rétrofit** de filtre bactérien permet d'atteindre
+  les exigences ISO 22052 (voir [fiche filtres HEPA / ULPA](../filtres-hepa-ulpa-compresseurs/overview/)).
 
 ### Compatibilité CAD/CAM — non recommandée
 

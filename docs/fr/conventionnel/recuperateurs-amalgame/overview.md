@@ -139,6 +139,15 @@ d'un récupérateur externe.
 > Bautechnik (Institut allemand de la technique du bâtiment) — agrément
 > de référence pour les récupérateurs d'amalgame en Europe.
 
+> 📌 **Norme d'essai de référence** : la norme **ISO 11143:2008**
+> (« Séparateurs d'amalgame ») définit en Europe la **méthode d'essai**
+> et le **taux de rétention minimal de 95 %** exigé — seuil également
+> repris par le **Règlement (UE) 2017/852** sur le mercure. Les
+> récupérateurs d'amalgame Dürr Dental **dépassent ce seuil** avec des
+> taux de rétention mesurés de **97,9 % à 98,9 %** (verbatim fiche
+> séparateurs Dürr Dental : « *Separation rate of > 95%* », « *ISO
+> standard 11143:2008* »).
+
 ### Unité d'aspiration humide avec récupérateur intégré — VSA 300 S
 
 | Caractéristique | **VSA 300 S** |

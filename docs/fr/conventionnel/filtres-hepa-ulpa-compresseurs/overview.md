@@ -124,10 +124,12 @@ garantit la filtration finale après tous les étages de traitement
 
 ### Compresseurs concernés et niveau d'équipement
 
-> 📌 **Mise à jour 2026** : **tous les compresseurs Dürr Dental livrés
-> aujourd'hui** sont **équipés de série** d'un **filtre HEPA H14 / ULPA
-> U16 (ISO 65U)**. La conformité **ISO 22052** est donc assurée
-> d'origine sur les appareils neufs.
+> 📌 La conformité **ISO 22052** requiert le **filtre bactérien ULPA U16 /
+> ISO 65U**, intégré à la chaîne de filtration multi-étages. Selon la
+> documentation Dürr Dental, la nouvelle génération de compresseurs
+> (NEW Tornado, Silver Airline, Power Tower, CAD/CAM) est livrée avec ce
+> filtre. Le **niveau d'équipement exact par modèle et configuration** doit
+> être vérifié via le **Filter Finder** ou la page produit officielle.
 
 | Compresseur | Filtre ULPA U16 / ISO 65U |
 |---|---|
@@ -346,8 +348,9 @@ filtres est documentée dans les notices d'installation des compresseurs.
 La norme **ISO 22052** définit les exigences de qualité d'air comprimé
 pour la dentisterie. La filtration **ULPA U16 / ISO 65U** est l'un des
 **moyens techniques majeurs** par lesquels les compresseurs Dürr Dental
-atteignent — et dépassent — les classes de qualité d'air **2:4:0**
-selon ISO 22052 (voir [fiche Silver Airline](../silver-airline/overview/)).
+atteignent — et dépassent — les classes de pureté d'air **2:4:0**
+définies par **ISO 8573-1** et exigées par ISO 22052 (voir
+[fiche Silver Airline](../silver-airline/overview/)).
 
 ## Limites et précisions
 
