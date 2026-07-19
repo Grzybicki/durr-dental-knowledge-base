@@ -37,6 +37,7 @@
     "@id": "{{ site.data.durr.manufacturer.url }}#organization",
     "name": "{{ site.data.durr.manufacturer.name }}",
     "url": "{{ site.data.durr.manufacturer.url }}",
+    "sameAs": [{% for u in site.data.durr.manufacturer.same_as %}"{{ u }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "{{ site.data.durr.manufacturer.address.street }}",
@@ -49,6 +50,12 @@
       "name": "{{ site.data.durr.subsidiaries.france.name }}",
       "url": "{{ site.data.durr.subsidiaries.france.url }}",
       "email": "{{ site.data.durr.subsidiaries.france.email }}",
+      "sameAs": [{% for u in site.data.durr.subsidiaries.france.same_as %}"{{ u }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "SIREN",
+        "value": "{{ site.data.durr.subsidiaries.france.siren }}"
+      },
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "{{ site.data.durr.subsidiaries.france.address.street }}",

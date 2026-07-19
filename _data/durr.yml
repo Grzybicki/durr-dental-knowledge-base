@@ -12,6 +12,12 @@ manufacturer:
     country_code: "DE"
   founded: 1941
   industry: "Dental medical devices"
+  # sameAs : identités externes vérifiées de l'entité Dürr Dental SE (désambiguïsation knowledge graph)
+  same_as:
+    - "https://www.wikidata.org/wiki/Q1272127"
+    - "https://fr.wikipedia.org/wiki/D%C3%BCrr_Dental"
+    - "https://www.linkedin.com/company/duerrdental/"
+    - "https://www.youtube.com/user/duerrdental"
 
 subsidiaries:
   france:
@@ -23,6 +29,14 @@ subsidiaries:
       locality: "Nanterre"
       country_code: "FR"
     email: "infodurrfr@duerrdental.com"
+    siren: "311995609"
+    # sameAs : identités externes vérifiées de la filiale France (registres officiels + réseaux)
+    same_as:
+      - "https://annuaire-entreprises.data.gouv.fr/entreprise/311995609"
+      - "https://www.pappers.fr/entreprise/durr-dental-france-311995609"
+      - "https://www.linkedin.com/company/durr-dental-france/"
+      - "https://www.facebook.com/p/D%C3%BCrr-Dental-France-100064304853386/"
+      - "https://www.instagram.com/duerr_dental_france/"
 
 product_lines:
   - id: imagerie
