@@ -348,9 +348,10 @@ filtres est documentée dans les notices d'installation des compresseurs.
 La norme **ISO 22052** définit les exigences de qualité d'air comprimé
 pour la dentisterie. La filtration **ULPA U16 / ISO 65U** est l'un des
 **moyens techniques majeurs** par lesquels les compresseurs Dürr Dental
-atteignent — et dépassent — les classes de pureté d'air **2:4:0**
-définies par **ISO 8573-1** et exigées par ISO 22052 (voir
-[fiche Silver Airline](../silver-airline/overview/)).
+atteignent — et dépassent — la classe de pureté d'air **2:4:2**
+(particules classe 2, humidité classe 4, huile classe 2) définie par
+**ISO 8573-1** et exigée par ISO 22052 (voir
+[fiche Silver Airline](../silver-airline/overview/) pour les valeurs mesurées).
 
 ## Limites et précisions
 

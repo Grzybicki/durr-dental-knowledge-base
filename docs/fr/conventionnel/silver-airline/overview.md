@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Silver Airline — Compresseurs dentaires Dürr Dental (Primo, Duo, Trio, Quattro, Tandem)"
-description: "La gamme Silver Airline de Dürr Dental couvre les compresseurs dentaires à pistons linéaires sans huile : Primo, Duo, Trio, Quattro, Duo Tandem, Quattro Tandem. Qualité d'air classes 2:4:0 (ISO 8573-1), conforme ISO 22052. Dispositif médical classe IIa MDR."
+description: "La gamme Silver Airline de Dürr Dental couvre les compresseurs dentaires à pistons linéaires sans huile : Primo, Duo, Trio, Quattro, Duo Tandem, Quattro Tandem. Qualité d'air classe 2:4:2 (ISO 8573-1 / ISO 22052:2020), conforme ISO 22052. Dispositif médical classe IIa MDR."
 keywords: ["Silver Airline", "Dürr Dental", "compresseur dentaire", "air comprimé dentaire", "sans huile", "Primo Duo Trio Quattro", "Tandem", "ISO 22052", "dispositif médical IIa"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/
@@ -41,6 +41,11 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques complètes (Primo à Quattro P 20)"
+  - title: "Confirmation officielle de qualité d'air Dürr Dental — « Air quality of Duerr Dental compressor stations »"
+    type: "lettre officielle To the trade"
+    date: "2022-09-20"
+    language: "en"
+    note: "Document public signé Dr J. Gramann (Director BU Equipment R&D). Source de la classe de pureté [2:4:2] (ISO 22052:2020 / ISO 8573-1:2010), du point de rosée ≤ +3 °C, de l'huile ≤ 0,1 mg/m³ et de la classification type 2 (non lubrifié à l'huile). Récupérable via le Centre de téléchargements Dürr Dental."
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
@@ -52,13 +57,13 @@ license: CC-BY-4.0
   "name": "Silver Airline (gamme)",
   "alternateName": ["Silver Airline Primo", "Silver Airline Duo", "Silver Airline Trio", "Silver Airline Quattro", "Silver Airline Duo Tandem", "Silver Airline Quattro Tandem"],
   "category": "Dental compressor (oil-free, piston, dental compressed air)",
-  "description": "Gamme de compresseurs dentaires Dürr Dental à pistons linéaires sans huile, à dessiccateur à fibres membranaires breveté. Qualité d'air classes 2:4:0 (ISO 8573-1), conforme ISO 22052. Filtre bactériologique ULPA U16 / ISO 65U. Dispositif médical de classe IIa selon le règlement MDR EU 2017/745.",
+  "description": "Gamme de compresseurs dentaires Dürr Dental à pistons linéaires sans huile, à dessiccateur à fibres membranaires breveté. Qualité d'air classe 2:4:2 (ISO 8573-1 / ISO 22052:2020), conforme ISO 22052. Filtre bactériologique ULPA U16 / ISO 65U. Dispositif médical de classe IIa selon le règlement MDR EU 2017/745.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
   "regulatoryClass": "Class IIa (MDR EU 2017/745)",
   "additionalProperty": [
-    { "@type": "PropertyValue", "name": "Air quality", "value": "Purity class 2:4:0 (ISO 8573-1), compliant with ISO 22052" },
+    { "@type": "PropertyValue", "name": "Air quality", "value": "Purity class 2:4:2 (ISO 8573-1:2010 / ISO 22052:2020), dry air + ULPA U16 bacteria filter" },
     { "@type": "PropertyValue", "name": "Lubrication", "value": "Oil-free (Dürr Dental pioneered this approach in 1965)" },
     { "@type": "PropertyValue", "name": "Bacteriological filter", "value": "ULPA U16 (EN 1822-1:2019-10) / ISO 65U (ISO 29463-3:2018)" },
     { "@type": "PropertyValue", "name": "Award", "value": "German Design Award 2022" }
@@ -88,14 +93,27 @@ cabinet dentaire.
 
 ## Qualité d'air ISO 22052
 
-Les compresseurs Silver Airline délivrent un air comprimé conforme aux
-exigences de qualité d'air dentaire de la norme internationale **ISO 22052**,
-avec une **pureté de classe 2:4:0** (particules : humidité : huile résiduelle)
-**selon la norme ISO 8573-1** — c'est ISO 8573-1 qui définit ces classes de
-pureté, qu'ISO 22052 rend exigibles pour la dentisterie (verbatim factsheet
-Dürr Dental : « *classes [2:4:0] in accordance with ISO 8573-1* »). Selon la
-page produit officielle Dürr Dental, la gamme **dépasse même les exigences de
-la norme ISO 22052**.
+Les compresseurs Silver Airline délivrent un air comprimé conforme aux exigences
+de qualité d'air dentaire de la norme **ISO 22052:2020**. Les classes de pureté
+(particules : humidité : huile résiduelle) sont définies par **ISO 8573-1:2010** —
+c'est cette norme qui définit ces classes, qu'ISO 22052 rend exigibles pour la
+dentisterie.
+
+D'après la **confirmation officielle de qualité d'air Dürr Dental « To the trade »**
+(20/09/2022, Dr J. Gramann, Director BU Equipment R&D), les compresseurs **Silver
+Airline et Tornado** équipés d'un **système de séchage** et d'un **filtre bactérien
+ULPA U16** atteignent la classe de pureté **[2:4:2]** (ISO 22052:2020 / ISO 8573-1:2010) :
+
+| Classe | Exigence mesurée |
+|---|---|
+| **Particules — classe 2** | ≤ 400 000 part./m³ (0,1–0,5 µm) ; ≤ 6 000 (0,5–1,0 µm) ; ≤ 100 (1,0–5,0 µm) |
+| **Humidité — classe 4** | **point de rosée sous pression ≤ +3 °C** (à 20 °C, 0,7 MPa) |
+| **Huile résiduelle — classe 2** | **≤ 0,1 mg/m³** |
+
+Les compresseurs Dürr Dental sont classés **type 2 (non lubrifiés à l'huile)** selon
+ISO 22052:2020. La factsheet CAD/CAM cite pour sa part la notation **[2:4:0]** (classe
+d'huile 0). Selon la page produit officielle, la gamme **dépasse même les exigences
+d'ISO 22052**.
 
 ## Particularité historique
 
