@@ -93,7 +93,7 @@ VistaScan IQ propose un **portfolio complet de tailles intra-orales** :
 
 Au-delà des tailles intraorales, des écrans à mémoire **extra-oraux**
 (panoramique, céphalométrique) sont disponibles pour les scanners
-[VistaScan Combi View et Ultra View](../vistascan-gamme/overview/).
+[VistaScan Combi View](../vistascan-gamme/overview/).
 
 ## Compatibilité scanners VistaScan
 
@@ -117,7 +117,7 @@ fonctionnalités RFID**. Les modèles concernés :
 
 | Scanner historique | Compatibilité IQ |
 |---|---|
-| VistaScan Mini Easy (1.0) | Plaques IQ utilisables, sans RFID |
+| VistaScan Mini Easy | Plaques IQ utilisables, sans RFID |
 | VistaScan Mini Plus | Plaques IQ utilisables, sans RFID |
 | VistaScan Combi (sans View) | Plaques IQ utilisables, sans RFID |
 | VistaScan Perio | Plaques IQ utilisables, sans RFID |

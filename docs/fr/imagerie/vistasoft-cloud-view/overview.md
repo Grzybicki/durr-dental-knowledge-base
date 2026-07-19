@@ -74,7 +74,7 @@ license: CC-BY-4.0
 
 **VistaSoft Cloud View** est le module Dürr Dental de **visualisation d'images
 dentaires** dans un navigateur Web. Il permet d'accéder aux clichés intra-oraux,
-extra-oraux et CBCT en ligne ou hors ligne, sans installation de logiciel
+extra-oraux et CBCT en ligne, sans installation de logiciel
 client. Le service est accessible à l'URL [view.vistasoft.com](https://view.vistasoft.com/).
 
 VistaSoft Cloud View **n'est pas un dispositif médical** au sens du règlement

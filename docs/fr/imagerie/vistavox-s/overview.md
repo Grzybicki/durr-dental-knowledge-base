@@ -125,7 +125,6 @@ d'imagerie sphérique adapté à l'anatomie maxillo-mandibulaire** :
 | Paramètre | Valeur |
 |---|---|
 | FOV jaw-shaped (forme mâchoire) | **Ø 130 × 85 mm** |
-| Comparaison FOV cylindrique typique | Ø 80 × 80 mm |
 | Couverture clinique | **Inclut les molaires postérieures** (zone diagnostique mâchoire complète) |
 | Sous-volumes | **10 volumes Ø 50 × 50 mm** pour des régions spécifiques (focus diagnostic) |
 
@@ -155,9 +154,7 @@ La taille de pixel de 49,5 µm est fine pour un CBCT dentaire, contribuant
 
 ### Temps de numérisation
 
-Les temps d'acquisition de VistaVox S dépendent du type de cliché — le
-**CBCT 3D complet** ne se fait **pas** en 1,9 s (cette valeur correspond au
-cliché **céphalométrique** en mode rapide) :
+Les temps d'acquisition de VistaVox S dépendent du type de cliché :
 
 | Acquisition | Temps |
 |---|---|
@@ -221,7 +218,6 @@ plusieurs acquisitions CBCT** pour obtenir un FOV étendu, utile notamment
 pour :
 
 - L'imagerie de **mâchoires complètes** dépassant le FOV standard.
-- L'imagerie de **modèles plâtres** pour la prothèse / orthodontie.
 
 Le Stitching Tool a été présenté publiquement par les filiales nationales
 Dürr Dental (Dürr India et Dürr Italia). Les hauteurs effectives
@@ -254,11 +250,8 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/).
   importantes — vérifier la conformité de l'infrastructure réseau et de
   stockage du cabinet (voir
   [configs système requises](http://qr.duerrdental.com/9000-618-148)).
-- L'utilisation des fonctions IA et de planification implantaire suppose
-  l'installation des modules dédiés (VistaSoft 4.0 + Implant & Guide).
-- L'exposition aux rayonnements ionisants doit respecter le principe
-  ALARA et la réglementation française de radioprotection (Code de la
-  santé publique, IRSN, ASN).
+- L'utilisation des fonctions IA suplémentaire de planification implantaire suppose
+  l'installation des modules dédiés (VistaSoft 4.0 et Implant & Guide). ou de VistaSoft Trace pour les tracés ceph automatique
 
 ## Installation et planning local
 
@@ -278,7 +271,7 @@ récupérable via le [Centre de téléchargements Dürr Dental France](https://w
 
 - **Alimentation électrique** : câble fixe de 2,5 m (à prévoir au point de raccordement).
 - **Fibre optique** : 10 m fournis, à cheminer en gaine jusqu'au PC de reconstruction.
-- **Bouton d'exposition déporté** : 10 m fournis.
+- **Bouton d'exposition déporté** : 15 m fournis.
 - Vérifier la **nature du mur** (porteur ou non) — elle conditionne le mode de montage.
 
 ### Options de montage selon le local
