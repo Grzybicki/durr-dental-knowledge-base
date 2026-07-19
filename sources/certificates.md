@@ -4,7 +4,7 @@ title: "Sources — Certificats et conformité réglementaire (matrice MDR compl
 description: "Matrice MDR complète des produits Dürr Dental : classe de dispositif médical (I, IIa, IIb), Notified Body, références de certificats, sources publiques."
 lang: fr
 permalink: /sources/certificates/
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -30,6 +30,10 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
   VistaSoft AID, etc.) sous MDR EU 2017/745.
 - **DNV Product Assurance AS** — code Notified Body **2460** — certifie
   la gamme panoramique VistaPano S 2.0 sous MDD 93/42/EEC.
+- **DEKRA Certification GmbH** — code Notified Body **0124** — certifie la
+  **chimie de désinfection et de nettoyage** (fabricant **orochemie GmbH + Co KG**,
+  SRN DE-MF-000006461) sous MDR EU 2017/745 : familles FD, ID, MD, Orotol,
+  Vector/RinsEndo, lingettes et chimies radiographiques.
 
 ## Matrice MDR — Logiciels d'imagerie (gamme VistaSoft)
 
@@ -62,6 +66,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **VistaScan IQ — Écrans à mémoire (ERLM)** | **I** (accessoire d'imagerie) | MDR EU 2017/745 | — | — | — | [Fiche](/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
 | **VistaPosition** | **I** (positionneur) | MDR EU 2017/745 | — | — | — | [Fiche](/docs/fr/imagerie/vistaposition/overview/) |
 | **Connect Box** | Non-DM (passerelle IoT) | — | — | — | — | [Fiche](/docs/fr/imagerie/connect-box/overview/) |
+| **Smart Reader** (lecteur RFID USB) | **Non-DM** (CE au titre RED 2014/53/UE + RoHS 2011/65/UE) | — | — | — | 2023-11-06 | [Fiche](/docs/fr/imagerie/smart-reader/overview/) |
 
 ## Matrice MDR — Conventionnel (air comprimé et aspiration)
 
@@ -93,10 +98,30 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Hygobox** (transport instruments) | I | MDR EU 2017/745 | [Fiche](/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/) |
 | **Hygopac / Hygopac Plus / Hygopac View** (soudeuses emballage) | I | MDR EU 2017/745 + DIN EN ISO 11607-2 | [Fiche](/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/) |
 | **Hygosonic** (bac à ultrasons) | **IIa** | MDR EU 2017/745 | [Fiche](/docs/fr/hygiene-chimie/hygosonic/overview/) |
-| **Orotol Plus / Orotol Plus pH 7** (désinfection aspiration) | Biocide (Règlement BPR 528/2012) | BPR + dispositions biocides | [Fiche](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) |
-| **ID 213** (désinfection instruments) | **IIa** (DM) ou biocide selon usage | MDR EU 2017/745 / BPR | [Fiche](/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
-| **FD 350 green wipes** (désinfection surfaces) | Biocide | BPR | [Fiche](/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
-| **HD 420 plus** (désinfection mains) | Biocide | BPR + Règlement (CE) 1223/2009 cosmétiques selon formulation | [Fiche](/docs/fr/hygiene-chimie/desinfection-mains/overview/) |
+### Chimie de désinfection et de nettoyage (fabricant orochemie, NB DEKRA 0124)
+
+> **Point clé** : la quasi-totalité de la chimie professionnelle Dürr Dental est
+> constituée de **dispositifs médicaux** (MDR EU 2017/745), classés d'après les
+> Déclarations de Conformité MDR publiques (DoC classe IIa réf. `01040300…014`,
+> DoC classe I réf. `01040200…007`). **Seuls les désinfectants pour les mains (HD)
+> sont des biocides** (BPR 528/2012, TP1). Aucun de ces produits n'est **soumis au
+> Certibiocide** (les DM sont hors champ ; le TP1 est exempté).
+
+| Produit | Classe | Réglementation | Fiche |
+|---|---|---|---|
+| **FD — surfaces** (300, 312, 322, 333, 350, 366 + variantes/wipes) | **DM IIa** (règle 16) | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
+| **FD 360 / FD multi wipes** (entretien/nettoyage) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
+| **ID — instruments** (212, 212 forte, 212 forte plus, 213, 220) | **DM IIa** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
+| **ID 215** (nettoyant enzymatique) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
+| **MD 520** (désinfection empreintes) | **DM** (legacy MDD 50090-16-06, MDR en transition) | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
+| **MD 550** (crachoirs) | **DM IIa** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/) |
+| **MD 530 / MD 535 / MD 555** (dissolvants ciment/plâtre, nettoyant aspiration) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/) |
+| **Orotol Plus / Orotol Plus pH 7 / Orotol ultra** (désinfection aspiration) | **DM IIa** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) |
+| **Orotol expert cleaner / Vector cleaner** (nettoyants) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) |
+| **Vector / RinsEndo** (désinfectant) | **DM IIa** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/hygiene-chimie/vector-paro/overview/) |
+| **Lingette de nettoyage écrans VistaScan** | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/docs/fr/imagerie/accessoires-imagerie/overview/) |
+| **Automat XR/C⁺ / Periomat Intra/C⁺** (chimies radiographiques film) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | — |
+| **HD 410 / HD 420 plus** (désinfection mains) | **Biocide TP1** (exempté Certibiocide) | BPR — Règlement (UE) 528/2012 | [Fiche](/docs/fr/hygiene-chimie/desinfection-mains/overview/) |
 
 ## Normes et règlements de référence
 
@@ -139,5 +164,5 @@ Dürr Dental publiés dans la base européenne.
 Dürr Dental, Eudamed et les normes EN / ISO publiquement référencées. Les classes et
 références marquées « À confirmer » nécessitent vérification dans la DoC publique
 spécifique du produit. Mainteneur : salarié de Dürr Dental France (CDI déclaré) —
-initiative personnelle, non officielle. Dernière revue factuelle : 2026-05-29.
+initiative personnelle, non officielle. Dernière revue factuelle : 2026-07-19.
 Licence : CC-BY 4.0.*

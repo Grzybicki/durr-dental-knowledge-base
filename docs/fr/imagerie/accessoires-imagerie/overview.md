@@ -97,6 +97,13 @@ Sachets stériles à usage unique pour les plaques intra-orales, qui
 **protègent la plaque** lors de l'acquisition et facilitent la mise en
 bouche pour le confort patient. Compatibles avec les tailles 0, 1, 2, 3, 4.
 
+### Lingette de nettoyage des écrans à mémoire
+
+La **lingette de nettoyage des écrans à mémoire VistaScan** (Image Plate
+Cleaning Wipe) sert au nettoyage des plaques au phosphore VistaScan. C'est un
+**dispositif médical de classe I** (MDR EU 2017/745), fabriqué par orochemie
+(organisme notifié DEKRA 0124) et commercialisé sous la marque Dürr Dental.
+
 ## Mordus comfort
 
 Mordus larges et souples pour la
@@ -116,7 +123,7 @@ plâtres** (utile pour la prothèse et l'orthodontie). Compatible avec le
 | Tête | Technologie | Indication |
 |---|---|---|
 | **Cam** | Lumière blanche HD | Caméra intraorale standard |
-| **Proof** | Fluorescence 405 nm | Détection de plaque sans révélateur |
+| **Proof** | Fluorescence 405 nm | Détection des caries et de la plaque sans révélateur |
 | **Proxi** | NIR 850 nm | Détection caries approximales (voir [fiche VistaCam Proxi](../vistacam-proxi/overview/)) |
 
 Voir la [fiche VistaCam iX HD Smart](../vistacam-ix-hd-smart/overview/)
