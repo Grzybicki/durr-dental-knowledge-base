@@ -6,7 +6,7 @@ keywords: ["VistaScan Smart Reader", "Dürr Dental", "lecteur RFID USB", "attrib
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/
 permalink: /docs/fr/imagerie/smart-reader/overview/
-schema_type: MedicalDevice
+schema_type: Product
 breadcrumbs:
   - name: "Accueil"
     url: /
@@ -40,7 +40,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": "Product",
   "name": "VistaScan Smart Reader",
   "alternateName": ["Dürr Dental Smart Reader", "VistaScan IQ Smart Reader"],
   "category": "USB RFID reader for VistaScan IQ phosphor plates",
@@ -86,6 +86,14 @@ images étant automatiquement rangées dans le bon dossier patient.
 | Plaques compatibles | [VistaScan IQ](../vistascan-iq-ecrans/overview/) (avec puce RFID) |
 | Logiciel cible | [VistaSoft](../vistasoft-4-0/overview/) (toute version supportant le RFID IQ) |
 | Logiciel minimal | **VistaSoft ≥ 3.0.13** |
+
+## Statut réglementaire
+
+Le VistaScan Smart Reader **n'est pas un dispositif médical**. C'est un accessoire
+électronique (lecteur RFID) marqué **CE** au titre de la directive **RED 2014/53/UE**
+(équipements radio) et de la directive **RoHS 2011/65/UE**, et non au titre du MDR.
+Déclaration de Conformité UE — dossier technique **CE-230-G** (produit ULR01,
+Dürr Dental SE, SRN DE-MF-000006032, 06/11/2023).
 
 ## Workflow type
 

@@ -6,7 +6,7 @@ keywords: ["Orotol Plus", "Orotol Plus pH 7", "Dürr Dental", "désinfection asp
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/
 permalink: /docs/fr/hygiene-chimie/desinfection-aspiration/overview/
-schema_type: MedicalDevice
+schema_type: Product
 breadcrumbs:
   - name: "Accueil"
     url: /
@@ -44,7 +44,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": "Product",
   "name": "Désinfection des systèmes d'aspiration",
   "description": "Orotol Plus est le désinfectant Dürr Dental pour systèmes d'aspiration dentaire, premier au monde lancé en 1965. Orotol Plus pH 7 sans aldéhyde, sans phénol, sans chlore actif. > 95 % d'ingrédients biodégradables selon OECD.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/",
@@ -67,6 +67,13 @@ d'aspiration dentaire**. Selon la page produit officielle, **Orotol** a
 été lancé en **1965** comme le **premier désinfectant au monde pour
 systèmes d'aspiration**. Aujourd'hui, **Orotol Plus** reste le
 désinfectant **le plus utilisé** dans ce domaine.
+
+## Statut réglementaire
+
+Orotol Plus, Orotol Plus pH 7 et les désinfectants de la gamme d'aspiration sont des
+**produits biocides** au sens du règlement **BPR (UE) 528/2012** (type de produit
+**TP2**), et **non** des dispositifs médicaux. En France, ils sont soumis à
+l'obligation de **Certibiocide**.
 
 ## Modèles
 

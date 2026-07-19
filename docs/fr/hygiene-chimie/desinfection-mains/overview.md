@@ -6,7 +6,7 @@ keywords: ["désinfection mains", "Dürr Dental", "HD 420 plus", "distributeur d
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/
 permalink: /docs/fr/hygiene-chimie/desinfection-mains/overview/
-schema_type: MedicalDevice
+schema_type: Product
 breadcrumbs:
   - name: "Accueil"
     url: /
@@ -32,7 +32,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": "Product",
   "name": "Désinfection des mains",
   "description": "Désinfection des mains en cabinet dentaire selon Dürr Dental : HD 420 plus, nettoyage et entretien des mains, distributeur universel de préparations.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/",
@@ -56,6 +56,12 @@ personnel soignant inclut :
 - **HD 420 plus** — produit de désinfection des mains.
 - Produits de **nettoyage et entretien** des mains pour usage quotidien.
 - **Distributeurs universels** pour la mise en place dans le cabinet.
+
+## Statut réglementaire
+
+Les désinfectants pour les mains **HD 420 plus** (et HD 410) sont des **produits
+biocides** au sens du règlement **BPR (UE) 528/2012** (type de produit **TP1** —
+hygiène humaine), et **non** des dispositifs médicaux.
 
 ## Catégories de produits
 

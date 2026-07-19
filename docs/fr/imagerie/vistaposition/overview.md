@@ -60,6 +60,12 @@ français) et aux **capteurs intraoraux**. Le système met en œuvre un
 l'identification rapide du bras indicateur correct, même en situation
 de stress.
 
+## Statut réglementaire
+
+VistaPosition est un **dispositif médical de classe I** (MDR EU 2017/745), pour
+**toutes ses variantes** — Anterior, Posterior, Bitewing et Endo. Déclaration de
+Conformité UE réf. **RWT01** (Dürr Dental SE).
+
 ## Caractéristiques clés
 
 D'après la page produit officielle Dürr Dental :

@@ -67,6 +67,17 @@ dentaire couvre :
   naturelles** issues de matières premières renouvelables, **sans
   plastique** et **neutres en carbone**.
 
+## Statut réglementaire
+
+Les désinfectants de surface de la gamme **FD** (FD 350 et ses variantes Classic /
+Flower / Lemon / green, ainsi que FD 300, FD 312, FD 322, FD 333…) sont des
+**dispositifs médicaux de classe IIa** au titre du règlement **MDR (UE) 2017/745**
+(règle 16 — « désinfectants pour dispositifs médicaux invasifs, non point final du
+traitement — désinfection des surfaces »). Organisme notifié **DEKRA 0124**.
+Efficacité microbiologique documentée selon **EN 13727, EN 13624, EN 14348,
+EN 14476, EN 16615**. Fabricant légal : orochemie GmbH + Co KG (commercialisé sous
+la marque Dürr Dental).
+
 ## Système d'hygiène 4 couleurs
 
 Dürr Dental a structuré sa gamme désinfection sous forme d'un **système
