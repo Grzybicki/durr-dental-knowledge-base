@@ -151,7 +151,7 @@ rapport aux systèmes à canal latéral historiques.
 | **Consommation électrique** | **Jusqu'à −75 %** | Référence (100 %) |
 | **Poids** | **−50 %** | Référence |
 | **Efficacité** | **+35 %** sur Tyscor VS 2 | Référence |
-| **Tension** | 230 V monophasé (poste unique, V/VS 1, V/VS 2) | Souvent 400 V triphasé |
+| **Tension** | 230 V monophasé (toute la gamme radiale, jusqu'au V/VS 4) | Souvent 400 V triphasé |
 | **Installation** | Plug & Play (commande intégrée) | Câblage triphasé + raccordement |
 
 Ces économies sont **mesurées par le Fraunhofer Institute** (institut
@@ -289,7 +289,7 @@ Bénéfices clés :
 | **Tyscor V 2** | Sèche centralisée premium | 2 praticiens, radiale, Plug & Play | 230 V (1~) |
 | **V 900 S** | Sèche centralisée | Configuration moyenne | 400 V (3~) |
 | **V 1200 S** | Sèche centralisée | Configuration grande | 400 V (3~) |
-| **Tyscor V 4** | Sèche centralisée premium | 4 praticiens, radiale | 400 V (3~) |
+| **Tyscor V 4** | Sèche centralisée premium | 4 praticiens, radiale | 230 V (1∼) |
 | **V 2400** | Sèche très grande capacité | Multi-fauteuils, cliniques | 400 V (3~) |
 
 Une **logique équivalente** existe en aspiration humide (VS 300 S,
@@ -320,21 +320,34 @@ La gamme Tyscor est typiquement installée en **local technique** ou
 sa conception silencieuse (notamment Tyscor VS 1 Plus / V 1 Plus à
 230 V Plug & Play).
 
-### Tableau récapitulatif Tyscor
+### Données techniques par modèle
 
-| Modèle | Type | Tension | Capacité | Encombrement |
-|---|---|---|---|---|
-| **Tyscor VS 1 Plus** / **VSA 1 Plus** | Humide / + amalgame | 230 V (1~) | 1 praticien | Console sol/mur |
-| **Tyscor V 1 Plus** | Sèche | 230 V (1~) | 1 praticien | Console sol/mur (kit licence vers V 2) |
-| **Tyscor VS 2** / **VS 2 Plus** / **VSA 2** | Humide / + amalgame | 230 V (1~) | 2 praticiens | Châssis aspiration |
-| **Tyscor V 2** / **V 2 Plus** | Sèche | 230 V (1~) | 2 praticiens | Châssis aspiration |
-| **Tyscor VS 4** / **VSA 4** | Humide / + amalgame | 400 V (3~) | 4 praticiens | Châssis aspiration grande capacité |
-| **Tyscor V 4** | Sèche | 400 V (3~) | 4 praticiens | Idem |
+Source : brochure officielle Tyscor **`P007100170L02`**. La gamme Tyscor
+(technologie **radiale**) est caractérisée par sa **dépression de service
+(max. vacuum)** — et non par un débit l/min comme les aspirations à canal
+latéral. Les variantes **VSA** ajoutent un récupérateur d'amalgame intégré sur
+la même base technique que les VS correspondants.
 
-> Pour les **valeurs précises** de dimensions, poids, débit l/min et
-> **niveau sonore dB(A)** par modèle, se référer aux **factsheets Tyscor V 2**
-> et **Tyscor Pulse** sur [Medical Expo](https://pdf.medicalexpo.com/pdf/duerr-dental-72550.html)
-> ou au [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/).
+| Paramètre | V 1 Plus | VS 1 Plus | V 2 | VS 2 | V 2 Plus | VS 2 Plus | V 4 | VS 4 |
+|---|---|---|---|---|---|---|---|---|
+| **Praticiens** | 1 | 1 | 2 | 2 | 2 | 2 | **4** | **4** |
+| Tension / fréquence | 230 V (1∼) / 50–60 Hz | idem | idem | idem | idem | idem | idem | idem |
+| **Dépression max.** mbar (hPa) | **150** | **150** | **160** | **160** | **145** | **145** | **145** | **145** |
+| Puissance élec. max (kW) | 0,68 | 0,77 | 0,68 | 0,77 | 1,3 | 1,4 | 1,3 | 1,4 |
+| Intensité (A) | 3,0 | 3,3 | 3,0 | 3,3 | 5,8 | 6,2 | 5,8 | 6,2 |
+| Poids sans capot (kg) | 9 | 11 | 9 | 11 | 19 | 24 | 19 | 24 |
+| **Niveau sonore sans capot** dB(A) | ≈ 55 | ≈ 53 | ≈ 57 | ≈ 55 | ≈ 62 | ≈ 61/64 | ≈ 62 | ≈ 61/64 |
+| **Niveau sonore avec capot** dB(A) | ≈ 49 | ≈ 48 | ≈ 52 | ≈ 50 | – | – | – | – |
+| Dimensions sans capot H × L × P (cm) | 49×36×61 | 32×36×46 | 49×36×61 | 32×36×46 | 62×45×78 | 51×45×69 | 62×45×78 | 51×45×69 |
+| Dimensions avec capot (cm) | 52×45×71 | 39×45×52 | 52×45×71 | 39×45×52 | – | – | – | – |
+
+> - **Toute la gamme Tyscor radiale est en 230 V monophasé**, y compris le modèle
+>   **4 praticiens (V 4 / VS 4)** — le rendement de la technologie radiale évite le
+>   triphasé sur cette gamme (source : factsheet `P007100170L02`).
+> - Le **capot de réduction de bruit** (option) n'existe que pour les V/VS **1 et 2**
+>   (pas de valeur « avec capot » pour V/VS 2 Plus et 4).
+> - Les niveaux sonores sont mesurés sur l'unité d'aspiration seule ; une pièce
+>   réverbérante (carrelage) peut augmenter le niveau perçu.
 
 ### Accessoires et options
 

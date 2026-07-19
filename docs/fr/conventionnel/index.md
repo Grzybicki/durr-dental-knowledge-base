@@ -80,7 +80,7 @@ du **capot aérodynamique** (Tornado 1 et 2).
 | **Tyscor VS 1 Plus** / **VSA 1 Plus** | 230 V (1~) | 1 praticien | Conception **radiale** silencieuse (gamme premium) | Récupérateur amalgame intégré (VSA), Plug & Play |
 | **Tyscor V 1 Plus** | 230 V (1~) | 1 praticien | Idem (radial) | **Kit mise à niveau V 2** (réf. `7182100012`) — carte SD licence |
 | **Tyscor VS 2** / **VS 2 Plus** / **VSA 2** / **V 2** / **V 2 Plus** | 230 V (1~) | 2 praticiens | Radial — économies jusqu'à 75 % vs canal latéral | Tandem, Tridem, Tandem Flex (cross-fabricant) |
-| **Tyscor VS 4** / **VSA 4** / **V 4** | 400 V (3~) | 4 praticiens | Radial — gros débit avec consommation contenue | Tandem, intégration filtres aspiration (`0705-991-50`) |
+| **Tyscor VS 4** / **VSA 4** / **V 4** | 230 V (1∼) | 4 praticiens | Radial — 4 praticiens en 230 V monophasé, consommation contenue | Tandem, intégration filtres aspiration (`0705-991-50`) |
 | **VS 300 S** / **VSA 300 S** / **V 300 S** / **V 250** | 230 V (1~) | 1 praticien (entrée gamme) | Canal latéral classique | Récupérateur amalgame en option |
 | **VS 600** / **VSA 600** / **V 600** | 230 V ou 400 V | Jusqu'à 3 postes / 2 prat. simultanés | Canal latéral | Récupérateur amalgame en option |
 | **VS 900 S** / **VSA 900** / **V 900 S** | 400 V (3~) | Configuration moyenne | Canal latéral | Récupérateur amalgame en option |
