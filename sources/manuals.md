@@ -4,6 +4,8 @@ title: "Sources — Manuels publics Dürr Dental"
 description: "Index des notices d'utilisation et notices d'installation publiques Dürr Dental accessibles via qr.duerrdental.com."
 lang: fr
 permalink: /sources/manuals/
+last_factual_review: 2026-07-20
+license: CC-BY-4.0
 ---
 
 # Sources — Manuels publics Dürr Dental
@@ -93,16 +95,69 @@ Cette page sert d'index canonique des URLs publiques utilisées comme sources da
 | Vidéo officielle EN — S-Pan technology | <https://www.youtube.com/watch?v=IvYWC3ayR9Y> | YouTube Dürr Dental |
 | Vidéo officielle DE — Einführung einer neuen Generation (2024-04-29) | <https://www.youtube.com/watch?v=ckAyrOls-uA> | YouTube Dürr Dental |
 
-*À compléter au fil de la publication des fiches produit (VistaSoft 4.0, VistaVox S, VistaScan, VistaRay, VistaCam, VistaIntra…).*
+### Autres produits d'imagerie
+
+Chaque fiche produit contient sa propre section « Sources publiques » détaillée ;
+ci-dessous les pages produit officielles canoniques.
+
+| Produit | Page produit officielle |
+|---|---|
+| VistaVox S / S Ceph (CBCT + pano + céph) | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/> |
+| VistaScan Mini Easy 2.0 | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-mini-easy-20/> |
+| VistaScan Mini View 2.0 | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-mini-view-20/> |
+| VistaScan Nano Easy | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-nano-easy/> |
+| VistaScan Image Plates IQ (écrans à mémoire) | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-image-plates/> |
+| VistaRay 7 (capteur intra-oral) | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistaray/> |
+| VistaCam iX HD Smart (têtes Proof / Proxi) | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistacam/> |
+| VistaIntra DC (générateur RX) | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistaintra/> |
+| VistaPosition (système de positionneurs PSP) | <https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistaposition-psp-holder-system/> |
+| Hub imagerie | <https://www.duerrdental.com/en/products/imaging/> |
 
 ## Conventionnel
 
-*À compléter Sprint 2.*
+| Produit / gamme | Page produit officielle |
+|---|---|
+| Hub Air comprimé | <https://www.duerrdental.com/en/products/compressed-air/> |
+| Tornado (compresseurs) | <https://www.duerrdental.com/en/products/compressed-air/devices/tornado-range/> |
+| Silver Airline (compresseurs) | <https://www.duerrdental.com/en/products/compressed-air/devices/silver-airline-series/> |
+| Compresseurs CAD/CAM | <https://www.duerrdental.com/en/products/compressed-air/devices/cad-cam-compressors/> |
+| Power Tower (Silence / View) | <https://www.duerrdental.com/en/products/compressed-air/devices/power-tower/> |
+| Systèmes cliniques (air comprimé) | <https://www.duerrdental.com/en/products/compressed-air/devices/clinic-systems/> |
+| Sélecteur de filtres compresseurs | <https://www.duerrdental.com/en/products/compressed-air/materials-and-accessories/filter-finder/> |
+| Hub Aspiration | <https://www.duerrdental.com/en/products/suction/> |
+| Tyscor (aspiration) | <https://www.duerrdental.com/en/products/suction/devices/tyscor-systems/> |
+| Aspiration chirurgicale (VC) | <https://www.duerrdental.com/en/products/suction/devices/surgical-systems/> |
+| Récupérateurs d'amalgame | <https://www.duerrdental.com/en/products/suction/devices/amalgam-separator/> |
+| Systèmes cliniques (aspiration) | <https://www.duerrdental.com/en/products/suction/devices/clinic-systems/> |
+| Canules universelles | <https://www.duerrdental.com/en/products/suction/materials-and-accessories/cannulas/universal-cannula/> |
+| Filtres air rejeté (virus / bactéries) | <https://www.duerrdental.com/en/products/suction/materials-and-accessories/exhaust-air-virus-bacteria-filter/> |
+| DÜRR CONNECT (raccordement) | <https://www.duerrdental.com/en/products/suction/system-integration/duerrconnect/> |
 
 ## Hygiène et chimie
 
-*À compléter Sprint 3.*
+La chimie Dürr (HD / FD / ID / MD / Orotol) est fabriquée par orochemie ; voir aussi
+la [matrice MDR complète](/durr-dental-knowledge-base/sources/certificates/) pour les
+classes de dispositif médical et organismes notifiés.
+
+| Produit / gamme | Page produit officielle |
+|---|---|
+| Hub Hygiène | <https://www.duerrdental.com/en/products/hygiene/> |
+| Orotol Plus (désinfection aspiration) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-plus/> |
+| Orotol Plus pH 7 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-plus-ph-7/> |
+| MD 555 cleaner | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner/> |
+| MD 555 cleaner organic | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner-organic/> |
+| Désinfection instruments (ID 212 / 213 / 215) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/> |
+| HD 420 plus (désinfection mains) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/skin-and-hands/hd-420-plus/> |
+| FD 350 lingettes (désinfection surfaces) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/disinfection-wipes/fd-350-disinfection-wipes/> |
+| Hygojet (désinfection empreintes) | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/special-areas/hygojet/> |
+| Hygobox (transport et désinfection) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/hygobox/> |
+| Hygoclave 40 / 50 (autoclaves) | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/hygoclave-40/> |
+| Hygopac (emballage / scellage) | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/sealing-device/hygopac/> |
+| Hygowater (traitement de l'eau) | <https://www.duerrdental.com/en/GL/products/hygiene/hygiene-technology/water-treatment-for-small-steam-sterilisers/> |
+| Vector (parodontie non chirurgicale) | <https://www.duerrdental.com/en/products/dental-care/devices/vector-system/> |
+| Lunos / MyLunos (prophylaxie) | <https://www.duerrdental.com/en/products/dental-care/devices/mylunos-duo/> |
+| Hub soins dentaires (dental care) | <https://www.duerrdental.com/en/products/dental-care/> |
 
 ---
 
-*Dernière mise à jour : 2026-05-28.*
+*Dernière mise à jour : 2026-07-20.*

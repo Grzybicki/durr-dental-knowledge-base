@@ -55,7 +55,12 @@ exclude:
   - CONTRIBUTING.md
   - SECURITY.md
   - CODE_OF_CONDUCT.md
+  - STATEMENT_OF_INTEGRITY.md
   - LICENSE
+  # Docs de dev / process — lues sur GitHub, non publiées comme pages du site
+  - docs/WORKFLOW.md
+  - docs/GITHUB_HARDENING.md
+  - scripts/
   - .gitignore
   - .gitattributes
   - .editorconfig
