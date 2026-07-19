@@ -41,6 +41,11 @@ source_documents:
     url: "https://www.dental-tribune.com/c/durr-dental-se/video/vistacam-ix-hd-smart-intraoral-camera-by-durr-dental/"
     type: "presse spécialisée"
     language: "en"
+  - title: "Notice d'utilisation VistaCam iX (Operating Instructions)"
+    reference: "618178"
+    type: "notice d'utilisation"
+    language: "en"
+    note: "Édition 2014/07SE. Source de la tête Proof (détection caries/plaque/tartre) et de l'échelle de fluorescence (vues prophylaxie et caries, valeurs 1,0 à >2,5). Récupérable via le Centre de téléchargements Dürr Dental."
   - title: "Centre de téléchargements Dürr Dental France"
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
@@ -80,16 +85,16 @@ license: CC-BY-4.0
 
 **VistaCam iX HD Smart** est la caméra intraorale haute résolution Dürr
 Dental, équipée d'un **système de têtes interchangeables** qui permet une
-utilisation multi-modes : caméra standard (lumière blanche), détection de
-la plaque dentaire par fluorescence, détection des caries approximales
-par lumière proche infrarouge.
+utilisation multi-modes : caméra standard (lumière blanche), détection des
+**caries** et de la **plaque** par fluorescence (tête Proof), détection des
+caries approximales par lumière proche infrarouge (tête Proxi).
 
 ## Système de têtes interchangeables
 
 | Tête | Technologie | Indication clinique |
 |---|---|---|
 | **Cam** | Lumière blanche | Caméra intraorale standard, photos et vidéos HD du sourire et de la cavité buccale |
-| **Proof** | Fluorescence 405 nm | Visualisation de la plaque dentaire sans révélateur (pas de colorant ni de rinçage) |
+| **Proof** | Fluorescence 405 nm | Détection des **caries** (échelle de fluorescence graduée) et de la **plaque / du tartre** sans révélateur (ni colorant ni rinçage) |
 | **Proxi** | NIR 850 nm (proche infrarouge) | Détection des caries approximales sur dents postérieures (voir [fiche VistaCam Proxi](../vistacam-proxi/overview/)) |
 
 Cette modularité permet à un cabinet de **disposer d'un seul corps de
@@ -126,23 +131,29 @@ besoin clinique.
 
 ## Échelle de fluorescence Proof — interprétation diagnostique
 
-La tête **Proof** affiche un cliché coloré avec **valeur numérique
-graduée** correspondant à l'**activité de la carie** :
+La tête **Proof** de la VistaCam iX HD Smart propose deux vues d'analyse dans le
+logiciel (DBSWIN / VistaEasy) :
 
-| Valeur | Couleur | Interprétation clinique |
-|---|---|---|
-| **0 – 1,0** | Vert | **Émail dentaire sain** |
-| **1,0 – 1,5** | Bleu | **Début de carie de l'émail** |
-| **1,5 – 2,0** | Rouge | **Carie de l'émail profonde** |
-| **2,0 – 2,5** | Orange | **Carie de la dentine** |
-| **> 2,5** | Jaune | **Carie de la dentine profonde** |
+- **Vue prophylaxie** (image brute, sans filtre) : les **zones rouges** signalent
+  les **bactéries cariogènes** (plaque, tartre), les **zones vertes** l'**émail sain**.
+- **Vue caries** (filtre caries) : applique une **échelle numérique** de fluorescence
+  renseignant sur les lésions carieuses.
 
-> 📌 **Principe physique** : la **lumière violette 405 nm** stimule les
-> **produits du métabolisme** des bactéries cariogènes (porphyrines)
-> qui renvoient une **lumière rouge** par fluorescence. L'émail sain,
-> lui, **fluoresce en vert**. Pas de colorant, pas de rinçage —
-> visualisation directe + suivi de l'**élimination des caries en cours
-> d'opération** (curetage).
+| Valeur de fluorescence | Interprétation clinique (notice officielle) |
+|---|---|
+| **1,0** | Émail dentaire sain |
+| **1,5** | Carie débutante (carie initiale de l'émail) |
+| **2,0** | Carie de l'émail jusqu'à la jonction émail-dentine |
+| **2,5** | Jonction émail-dentine déjà dépassée |
+| **> 2,5** | Carie dentinaire profonde |
+
+> 📌 **Principe physique** : la **lumière bleu-violet 405 nm** stimule la
+> **biofluorescence intrinsèque** — la **structure dentaire** (émail, dentine)
+> fluoresce en **vert**, tandis que les **métabolites des bactéries cariogènes**
+> (porphyrines) fluorescent en **rouge**. Sans colorant ni rinçage : visualisation
+> directe, détection des caries de fissures difficiles, localisation des lésions sur
+> surfaces lisses et **contrôle optique pendant l'excavation**. Source : notice
+> d'utilisation VistaCam iX (réf. `618178`).
 
 ## Principe Proxi — caries proximales sans irradiation
 
@@ -199,7 +210,7 @@ VistaCam iX HD Smart s'intègre directement à
       "name": "Qu'est-ce que la VistaCam iX HD Smart ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Une caméra intraorale haute résolution Dürr Dental à têtes interchangeables, permettant une utilisation multi-modes : caméra standard, détection de plaque par fluorescence et détection des caries approximales par proche infrarouge."
+        "text": "Une caméra intraorale haute résolution Dürr Dental à têtes interchangeables, permettant une utilisation multi-modes : caméra standard, détection des caries et de la plaque par fluorescence, et détection des caries approximales par proche infrarouge."
       }
     },
     {
@@ -207,7 +218,7 @@ VistaCam iX HD Smart s'intègre directement à
       "name": "Quelles sont les trois têtes de la VistaCam iX HD Smart ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cam (lumière blanche, photos/vidéos HD), Proof (fluorescence 405 nm pour visualiser la plaque sans révélateur) et Proxi (NIR 850 nm pour les caries approximales)."
+        "text": "Cam (lumière blanche, photos/vidéos HD), Proof (fluorescence 405 nm pour détecter les caries et visualiser la plaque/tartre sans révélateur) et Proxi (NIR 850 nm pour les caries approximales)."
       }
     },
     {
@@ -215,7 +226,7 @@ VistaCam iX HD Smart s'intègre directement à
       "name": "Comment interpréter la tête Proof ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Elle affiche une échelle de fluorescence graduée : 0–1,0 (vert) émail sain, 1,0–1,5 (bleu) début de carie de l'émail, 1,5–2,0 (rouge) carie active."
+        "text": "Elle affiche une échelle numérique de fluorescence : 1,0 émail sain, 1,5 carie débutante de l'émail, 2,0 carie de l'émail jusqu'à la jonction émail-dentine, 2,5 jonction dépassée, au-delà de 2,5 carie dentinaire profonde. Principe : la structure dentaire saine fluoresce en vert, les bactéries cariogènes en rouge (source : notice VistaCam iX réf. 618178)."
       }
     },
     {
@@ -262,15 +273,15 @@ concentre sur les têtes **Cam, Proof et Proxi**.
 
 ### Qu'est-ce que la VistaCam iX HD Smart ?
 
-Une caméra intraorale haute résolution Dürr Dental à têtes interchangeables, permettant une utilisation multi-modes : caméra standard, détection de plaque par fluorescence et détection des caries approximales par proche infrarouge.
+Une caméra intraorale haute résolution Dürr Dental à têtes interchangeables, permettant une utilisation multi-modes : caméra standard, détection des caries et de la plaque par fluorescence, et détection des caries approximales par proche infrarouge.
 
 ### Quelles sont les trois têtes de la VistaCam iX HD Smart ?
 
-Cam (lumière blanche, photos/vidéos HD), Proof (fluorescence 405 nm pour visualiser la plaque sans révélateur) et Proxi (NIR 850 nm pour les caries approximales).
+Cam (lumière blanche, photos/vidéos HD), Proof (fluorescence 405 nm pour détecter les caries et visualiser la plaque/tartre sans révélateur) et Proxi (NIR 850 nm pour les caries approximales).
 
 ### Comment interpréter la tête Proof ?
 
-Elle affiche une échelle de fluorescence graduée : 0–1,0 (vert) émail sain, 1,0–1,5 (bleu) début de carie de l'émail, 1,5–2,0 (rouge) carie active.
+Elle affiche une échelle numérique de fluorescence : 1,0 émail sain, 1,5 carie débutante de l'émail, 2,0 carie de l'émail jusqu'à la jonction émail-dentine, 2,5 jonction dépassée, au-delà de 2,5 carie dentinaire profonde. Principe : la structure dentaire saine fluoresce en vert, les bactéries cariogènes en rouge (source : notice VistaCam iX réf. 618178).
 
 ### Quel est le principe de la tête Proxi ?
 
