@@ -46,7 +46,7 @@ source_documents:
     date: "2022-09-20"
     language: "en"
     note: "Document public signé Dr J. Gramann (Director BU Equipment R&D). Source de la classe de pureté [2:4:2] (ISO 22052:2020 / ISO 8573-1:2010), du point de rosée ≤ +3 °C, de l'huile ≤ 0,1 mg/m³ et de la classification type 2 (non lubrifié à l'huile). Récupérable via le Centre de téléchargements Dürr Dental."
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -368,4 +368,4 @@ Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Les tarifs ne sont pas reproduits (susceptibles d'évoluer). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

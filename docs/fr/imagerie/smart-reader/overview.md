@@ -33,7 +33,7 @@ source_documents:
     url: "https://dentistry.co.uk/2023/09/05/plug-into-the-future-vistascan-mini-view-2-0-x-ray-device/"
     type: "presse spécialisée"
     language: "en"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -232,4 +232,4 @@ L'attribution du patient à l'image est fiabilisée dès le départ, ce qui séc
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

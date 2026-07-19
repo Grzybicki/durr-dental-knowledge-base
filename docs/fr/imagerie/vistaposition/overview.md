@@ -25,7 +25,7 @@ source_documents:
     url: "https://www.airtechniques.com/product/vistaposition/"
     type: "page produit filiale officielle"
     language: "en"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -218,4 +218,4 @@ Une meilleure reproductibilité géométrique des clichés (utile au suivi longi
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

@@ -41,7 +41,7 @@ source_documents:
     type: "catalogue commercial public"
     language: "fr"
     note: "Catalogue commercial public présentant la gamme imagerie. Source des formats de plaques de série vs en option par scanner, et de la résolution par modèle."
-last_factual_review: 2026-06-06
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -322,4 +322,4 @@ Elles sont réutilisables des centaines de fois, s'effacent automatiquement apr�
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

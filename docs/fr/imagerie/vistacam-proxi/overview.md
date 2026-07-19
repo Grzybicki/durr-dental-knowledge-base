@@ -41,7 +41,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-05-28
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 

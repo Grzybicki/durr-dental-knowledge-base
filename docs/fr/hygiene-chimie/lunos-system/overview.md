@@ -49,7 +49,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/news/detail/well-supplied-all-round-the-lunos-prophylaxis-system-from-duerr-dental-is-compatible-with-any-treatment-philosophy/"
     type: "communiqué officiel"
     language: "en"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -276,4 +276,4 @@ Lunos couvre la prophylaxie générale (aéropolissage, pâtes, fluor) tandis qu
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

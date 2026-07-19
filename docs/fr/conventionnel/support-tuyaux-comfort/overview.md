@@ -35,7 +35,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/"
     type: "page produit"
     language: "fr"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -322,4 +322,4 @@ Les raccords pivotants sur le boîtier de filtre offrent une plus longue portée
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

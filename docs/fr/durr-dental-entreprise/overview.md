@@ -55,7 +55,7 @@ source_documents:
     url: "https://annuaire-entreprises.data.gouv.fr/entreprise/durr-dental-france-311995609"
     type: "registre INSEE / SIRENE"
     language: "fr"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -340,4 +340,4 @@ Autour de cinq lignes métier complémentaires formant un système complet pour 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et le registre administratif français (data.gouv.fr). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

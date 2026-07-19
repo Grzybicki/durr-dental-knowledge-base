@@ -33,7 +33,7 @@ source_documents:
     url: "https://www.youtube.com/watch?v=jp6mSkjuuOk"
     type: "vidéo officielle"
     language: "fr"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -202,4 +202,4 @@ Oui, une validation a été publiée par la Faculté dentaire de Strasbourg.
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et des publications validées (Faculté dentaire de Strasbourg). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

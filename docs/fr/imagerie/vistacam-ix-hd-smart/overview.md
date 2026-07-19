@@ -55,7 +55,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques (1280×1024, USB 2.0/3.0, 70 g, 200 mm, 3 têtes interchangeables Cam/Proof 405 nm/Proxi 850 nm)"
-last_factual_review: 2026-06-06
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -324,4 +324,4 @@ Raccordement USB 2.0 (compatible USB 3.0), utilisation multiposte plug & play, p
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

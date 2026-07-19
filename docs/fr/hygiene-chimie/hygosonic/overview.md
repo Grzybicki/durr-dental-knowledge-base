@@ -39,7 +39,7 @@ source_documents:
     type: "site fabricant"
     language: "en"
     note: "Depuis mars 2021 (MDR 2017/745), Sonoswiss AG (Ramsen, Suisse) est le fabricant légal ; Dürr Dental SE est distributeur. La référence et la marque restent identiques."
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -247,4 +247,4 @@ Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 53
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

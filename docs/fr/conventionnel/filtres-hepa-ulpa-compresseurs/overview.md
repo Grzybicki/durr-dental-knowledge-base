@@ -37,7 +37,7 @@ source_documents:
     url: "https://www.iso.org/standard/74647.html"
     type: "norme officielle"
     language: "en"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 

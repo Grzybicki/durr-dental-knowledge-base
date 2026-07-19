@@ -38,7 +38,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques (208×64×61 cm, 265-275 kg, 56 dB(A) à 35 °C, débits 115/230 l/min)"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -320,4 +320,4 @@ Oui : avertissements précoces et rappels de maintenance automatiques, exposés 
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

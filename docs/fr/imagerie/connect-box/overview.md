@@ -37,7 +37,7 @@ source_documents:
     url: "https://play.google.com/store/apps/details?id=com.duerrdental.vistasoftmonitor"
     type: "application mobile officielle"
     language: "en"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -248,4 +248,4 @@ Les générations récentes d'équipements se connectent nativement à VistaSoft
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

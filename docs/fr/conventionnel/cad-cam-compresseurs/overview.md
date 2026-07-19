@@ -38,7 +38,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental SE"
     language: "en"
     note: "Brochure officielle Dürr Dental SE — disponible via le Centre de téléchargements. Source des 4 références produits (4152-54, 4642-54, 4252-54, 4682-54), des caractéristiques techniques (cuve 50/90 L, débits 125-586 l/min, dB(A) 66-72) et de la table de compatibilité par plage de pression CAM"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -267,4 +267,4 @@ Oui : tous les modèles jusqu'au Duo Tandem sont disponibles avec insonorisation
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

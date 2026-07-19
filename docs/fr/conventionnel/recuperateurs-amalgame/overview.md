@@ -34,7 +34,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques complètes (dimensions, dB(A), taux de récupération, agrément DIBT)"
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 

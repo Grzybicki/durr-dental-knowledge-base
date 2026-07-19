@@ -21,7 +21,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-nano-easy/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-06-06
+last_factual_review: 2026-07-19
 license: CC-BY-4.0
 ---
 
@@ -175,4 +175,4 @@ Dans un cabinet exigu (nouveau cabinet, poste itinérant, second poste) où les 
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
