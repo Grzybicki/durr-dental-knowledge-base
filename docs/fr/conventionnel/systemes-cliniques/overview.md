@@ -69,22 +69,31 @@ européennes). D'après la page produit officielle Dürr Dental, la
 type dryers) + **séparateur cyclonique** et couvre **jusqu'à 80
 praticiens simultanés**.
 
-### Stations centralisées dédiées — gamme P
+### Stations centralisées dédiées — gamme P (air comprimé)
 
-| Modèle | Cible (praticiens) | Notes |
-|---|---|---|
-| **P 6000** | Grosse pratique / petite clinique | Station modulaire **upgradable** (extensible vers P 9000) |
-| **P 9000** | Clinique moyenne | Station modulaire |
-| **P 12000** | Grande clinique / CHU | Station modulaire — plus grande capacité de la gamme P |
+Source : brochure clinique officielle Dürr Dental `P007-695-02`. Valeurs **x / y** =
+**50 Hz / 60 Hz**. La couverture « postes » est donnée pour un **facteur de
+simultanéité GF 100 %** (tous postes actifs) et **GF 60 %** (usage réaliste).
 
-> 📌 **Brique de base — agrégat clinique** : les stations P sont assemblées à
-> partir d'**agrégats compresseurs cliniques** (réf. `5942-110-54`, 400 V / 3∼,
-> 50–60 Hz) délivrant chacun **780 – 880 l/min** à 5 bar pour **6,5 kW**, avec un
-> niveau sonore de **82 dB(A)** et un poids de **140 kg** par agrégat (source :
-> documentation aggregats compresseurs Dürr Dental). La station combine plusieurs
-> agrégats + **séchage** + **cuve tampon** + pressostat/commande selon la capacité
-> visée. Les valeurs détaillées par station (P 6000 / 9000 / 12000) figurent dans
-> le document de planification `9000-617-09` (Centre de téléchargements).
+| Paramètre | P 6000 | P 9000 | P 12000 |
+|---|---|---|---|
+| Tension / fréquence | 400 V (3∼) / 50–60 Hz | idem | idem |
+| **Débit à 5 bar** (l/min) | **1411 / 1685** | **2175 / 2479** | **2807 / 3305** |
+| **Puissance électrique** (kW) | 12,1 / 15,2 | 17,7 / 22,1 | 23,3 / 29 |
+| Intensité (A) | 22 / 26 | 32 / 37 | 41 / 48 |
+| **Cuve tampon** (l) | **500** | 500 | 500 |
+| **Plage de pression** (bar) | **7 – 8** | 6,5 – 8 | 6 – 8 |
+| **Postes GF 100 %** | 35 / 40 | 55 / 60 | 70 / 80 |
+| **Postes GF 60 %** | 60 / 70 | 85 / 100 | 115 / 130 |
+| Niveau sonore à 5 bar avec caisson dB(A) | 80 / 83 | 81 / 83 | 82 / 84 |
+| Niveau sonore sans caisson dB(A) | 91 / 93 | 93 / 94 | 94 / 96 |
+| Poids (kg) | 308 | 474 | 605 |
+| Dimensions station compresseur (cm) | 100×130×103 | 180×130×103 | 180×130×103 |
+
+> Stations **modulaires et évolutives** (P 6000 → P 9000 → P 12000). En deçà, le
+> **Quattro P 20** (Silver Airline évolutif : 1032/1172 l/min, cuve 90 L, 5,5–7,5 bar,
+> 16–20 postes) fait la transition avec la [gamme Silver Airline](../silver-airline/overview/).
+> Air conforme **ISO 22052** avec filtre bactérien (cf. [fiche filtres](../filtres-hepa-ulpa-compresseurs/overview/)).
 
 ### Modèles complémentaires (selon configuration)
 
@@ -96,15 +105,27 @@ praticiens simultanés**.
 
 ## Aspiration centralisée pour cliniques
 
-### Stations centralisées dédiées — gamme V (clinique)
+### Stations centralisées dédiées — gamme V (aspiration)
 
-| Modèle | Cible (praticiens) | Notes |
-|---|---|---|
-| **V 6000** | Grosse pratique / petite clinique | Station d'aspiration centralisée |
-| **V 9000** | Clinique moyenne | Station d'aspiration centralisée |
-| **V 12000** | Grande clinique | Station d'aspiration centralisée |
-| **V 15000** | Clinique de grande taille | Station d'aspiration centralisée |
-| **V 18000** | CHU / faculté dentaire | Plus grande capacité de la gamme V — couvre les installations universitaires |
+Source : flyer officiel « Clinic suction systems V 6000–V 18000 » (`P007100231L02`).
+Valeurs **x / y** = 50 Hz / 60 Hz.
+
+| Paramètre | V 6000 | V 9000 | V 12000 | V 15000 | V 18000 |
+|---|---|---|---|---|---|
+| Tension / fréquence | 400 V (3∼) / 50–60 Hz | idem | idem | idem | idem |
+| **Dépression de service** mbar | **–100 à –180** | –100 à –180 | –100 à –180 | –100 à –180 | –100 à –180 |
+| **Capacité d'aspiration à la dépression de service** (l/min) | **6000 / 7500** | 9000 / 11100 | 12000 / 15000 | 15000 / 18600 | 18000 / 22500 |
+| Capacité d'aspiration à 0 mbar (l/min) | 7000 / 9000 | 10500 / 13500 | 14000 / 18000 | 17500 / 22500 | 21000 / 27000 |
+| Niveau sonore avec caisson dB(A) | 58 / 61 | 63 / 66 | 61 / 62 | 63 / 65 | 65 / 68 |
+| Niveau sonore sans caisson dB(A) | 72 / 74 | 74 / 75 | 74 / 76 | 76 / 77 | 76 / 78 |
+| Poids (kg) | 188 | 234 | 349 | 398 | 447 |
+| Dimensions station (cm) | 115×130×130 | 115×130×130 | 180×130×130 | 180×130×130 | 180×130×130 |
+
+> La station d'aspiration clinique se complète d'un **réservoir de séparation central
+> CS 60** (230 V, 95 kg) pour la séparation liquide/air. Une gamme clinique apparentée,
+> **Tyscor V 20 à V 60** (400 V, dépression max **160 mbar**, **20 à 60 postes** à
+> GF 100 %, jusqu'à 100 postes à GF 60 %), figure également dans la brochure clinique
+> Dürr Dental `P007-695-02`.
 
 ### Modèles complémentaires Tyscor / V / VS
 
