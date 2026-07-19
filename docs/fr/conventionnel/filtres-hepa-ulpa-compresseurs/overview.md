@@ -457,4 +457,4 @@ Pour répondre aux exigences de la norme ISO 22052 relative à la qualité de l'
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et les normes EN / ISO publiquement référencées. Mainteneur : salarié de
 Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle. Dernière
-revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*
+revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

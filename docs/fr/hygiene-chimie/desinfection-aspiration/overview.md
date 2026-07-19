@@ -130,7 +130,7 @@ des canalisations d'aspiration. Protocole standard :
 | **Concentration standard** | **5 %** (50 ml de MD 555 + eau pour 1 litre) |
 | **Fréquence recommandée** | **2 fois par semaine au minimum** ; **3 fois par semaine** en cas d'usage de **poudre prophylactique** (aéropolissage). *(La documentation publique Astrodental indique « 1 à 2 fois par semaine » ; ces valeurs renforcées sont une recommandation de pratique terrain — la poudre prophylactique laisse des résidus inorganiques que seul le MD 555 dissout.)* |
 | **Concentration renforcée (biofilm marqué)** | **10 %** (100 ml de MD 555 + eau pour 1 litre) |
-| **Fréquence renforcée** | **1 à 5 fois par semaine** en **alternance avec Orotol Plus** |
+| **Fréquence renforcée** | **2 à 5 fois par semaine** en **alternance avec Orotol Plus** |
 | **Temps de contact optimal** | **1 à 2 heures** |
 | **Rinçage post-MD 555** | Rincer **abondamment** le système d'aspiration à l'eau |
 

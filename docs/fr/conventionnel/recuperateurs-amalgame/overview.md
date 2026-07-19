@@ -309,4 +309,4 @@ Les caractéristiques techniques sont issues de la factsheet officielle P007-619
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et la réglementation européenne. Mainteneur : salarié de Dürr Dental
 France (CDI déclaré) — initiative personnelle, non officielle. Dernière revue
-factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+factuelle : 2026-07-19. Licence : CC-BY 4.0.*

@@ -233,4 +233,4 @@ Selon le principe de near-infrared reflection : l'émail sain est transparent à
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et des publications scientifiques peer-reviewed. Mainteneur : salarié de
 Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle. Dernière
-revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*

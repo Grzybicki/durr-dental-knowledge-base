@@ -299,7 +299,7 @@ de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
 > Il est rappelé au bas de chaque tableau ci-dessous et détaillé dans la
 > **section « Filtre UHD » dédiée** plus loin.
 
-### Filtres intra-oraux (7)
+### Filtres intra-oraux classiques (7) + UHD
 
 | Filtre | Effet |
 |---|---|
@@ -312,7 +312,7 @@ de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
 | **Intra-oral Réduction du bruit** | Réduction des bruits d'images gênants tout en conservant la netteté |
 | **UHD (Ultra High Definition)** *— nouveau v4.0, tous types* | Optimisation locale luminosité / contraste / netteté, région par région (voir section dédiée ci-dessous) |
 
-### Filtres panoramiques (4)
+### Filtres panoramiques classiques (4) + UHD
 
 | Filtre | Effet |
 |---|---|
@@ -322,7 +322,7 @@ de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
 | **Panoramique Réduction du bruit** | Réduction du bruit + netteté conservée |
 | **UHD (Ultra High Definition)** *— nouveau v4.0, tous types* | Optimisation locale luminosité / contraste / netteté, région par région (voir section dédiée ci-dessous) |
 
-### Filtres céphalométriques (8)
+### Filtres céphalométriques classiques (8) + UHD
 
 | Filtre | Effet |
 |---|---|
