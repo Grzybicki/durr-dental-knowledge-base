@@ -15,9 +15,7 @@
 
   {% seo %}
 
-  {%- if page.canonical_url -%}
-  <link rel="canonical" href="{{ page.canonical_url }}">
-  {%- endif -%}
+  <!-- Canonical émis par jekyll-seo-tag (balise seo ci-dessus), qui lit page.canonical_url du frontmatter -->
 
   <!-- Hreflang : actuellement FR uniquement, x-default pointe sur la version FR -->
   <link rel="alternate" hreflang="fr" href="{{ page.url | absolute_url }}">
@@ -36,6 +34,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": "{{ site.data.durr.manufacturer.url }}#organization",
     "name": "{{ site.data.durr.manufacturer.name }}",
     "url": "{{ site.data.durr.manufacturer.url }}",
     "address": {
@@ -66,19 +65,24 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}#webpage",
     "name": {{ page.title | jsonify }},
     "description": {{ page.description | jsonify }},
     "url": "{{ page.url | absolute_url }}",
     "inLanguage": "{{ page.lang | default: 'fr' }}",
-    "dateModified": "{{ page.last_factual_review | default: '2026-05-28' }}",
+    "dateModified": "{{ page.last_factual_review | default: site.time | date: '%Y-%m-%d' }}",
     "isPartOf": {
       "@type": "WebSite",
+      "@id": "{{ '/' | absolute_url }}#website",
       "name": {{ site.title | jsonify }},
       "url": "{{ '/' | absolute_url }}",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "{{ '/?q={search_term_string}' | absolute_url }}",
-        "query-input": "required name=search_term_string"
+      "inLanguage": "fr",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "publisher": {
+        "@type": "Person",
+        "name": "{{ site.author.name }}",
+        "url": "https://github.com/Grzybicki",
+        "description": "Mainteneur indépendant — salarié Dürr Dental France. Ce site n'est pas une publication officielle Dürr Dental."
       }
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"
