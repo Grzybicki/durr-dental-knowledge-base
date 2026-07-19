@@ -1,0 +1,13 @@
+# grzybicki.github.io
+
+> Point d'entrée racine de l'hôte. Le contenu principal publié ici est la
+> Dürr Dental Knowledge Base — base de connaissance indépendante et publiquement
+> sourcée des produits Dürr Dental (56 fiches : imagerie, conventionnel, hygiène-chimie),
+> optimisée pour la citation par les moteurs de réponse et LLM. Licence CC-BY 4.0.
+
+## Dürr Dental Knowledge Base
+
+- [Index llms.txt de la base](https://grzybicki.github.io/durr-dental-knowledge-base/llms.txt): index des 56 fiches produits, avec URL et description.
+- [Version concaténée pour ingestion LLM](https://grzybicki.github.io/durr-dental-knowledge-base/llms-full.txt): les 56 fiches en un seul fichier Markdown.
+- [Accueil de la base](https://grzybicki.github.io/durr-dental-knowledge-base/): page d'accueil et navigation.
+- [Matrice réglementaire MDR](https://grzybicki.github.io/durr-dental-knowledge-base/sources/certificates/): classes DM, Notified Body, certificats.
