@@ -36,7 +36,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "VistaSoft Cloud Drive",
   "alternateName": ["Dürr Dental VistaSoft Cloud Drive"],
   "applicationCategory": "BusinessApplication",

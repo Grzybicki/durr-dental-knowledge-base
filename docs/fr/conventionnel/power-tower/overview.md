@@ -45,7 +45,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Power Tower (gamme)",
   "alternateName": ["Power Tower Silence", "Power Tower View", "Power Tower Silence 120/02", "Power Tower Silence 120/04", "Power Tower Silence 120/12", "Power Tower View VS 1200 S", "Power Tower View V 1200 S", "Power Tower View VS 900 S", "Power Tower View V 900 S", "Power Tower View VS 600", "Power Tower View V 600"],
   "category": "Combined dental compressor and suction unit",
@@ -53,7 +53,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa (MDR EU 2017/745)",
+  "legalStatus": "Class IIa (MDR EU 2017/745)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Footprint", "value": "0.3 – 0.4 m²" },
     { "@type": "PropertyValue", "name": "Integrated components", "value": "Compressor + air tank + suction + membrane dryer + (optional) amalgam separator" },

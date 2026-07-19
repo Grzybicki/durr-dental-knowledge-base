@@ -41,7 +41,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "Patient Bridge",
   "alternateName": ["Dürr Dental Patient Bridge", "VistaSoft Patient Bridge"],
   "applicationCategory": "MedicalImagingSoftware",

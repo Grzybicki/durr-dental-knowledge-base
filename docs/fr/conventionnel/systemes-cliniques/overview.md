@@ -36,7 +36,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Systèmes Dürr Dental pour cliniques et CHU",
   "description": "Dürr Dental propose des systèmes d'air comprimé et d'aspiration spécifiques pour les cliniques dentaires et les CHU. Compresseurs 400 V (3~) 50 Hz, systèmes d'aspiration Tyscor et V grande capacité.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/",

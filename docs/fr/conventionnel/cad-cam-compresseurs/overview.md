@@ -45,14 +45,14 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Compresseurs CAD/CAM Dürr Dental",
   "category": "Dental compressor for CAD/CAM systems",
   "description": "Compresseurs Dürr Dental dédiés à l'alimentation en air comprimé des systèmes CAD/CAM dentaires (CFAO). Déclinaison de la gamme Silver Airline adaptée aux exigences spécifiques CAD/CAM.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa (MDR EU 2017/745)"
+  "legalStatus": "Class IIa (MDR EU 2017/745)"
 }
 </script>
 

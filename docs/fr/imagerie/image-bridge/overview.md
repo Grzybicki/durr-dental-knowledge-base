@@ -37,7 +37,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "Image Bridge",
   "alternateName": ["Dürr Dental Image Bridge", "VistaSoft Image Bridge"],
   "applicationCategory": "MedicalImagingSoftware",

@@ -28,7 +28,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaScan Nano Easy",
   "description": "VistaScan Nano Easy est le scanner de plaques au phosphore le plus compact de la gamme Dürr Dental. Tailles intraorales 0, 1, 2. Conçu pour installation au fauteuil. Scan + effacement en une seule étape pour préparation de l'acquisition suivante.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-nano-easy/overview/",

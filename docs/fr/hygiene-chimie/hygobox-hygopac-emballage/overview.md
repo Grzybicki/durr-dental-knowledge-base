@@ -40,7 +40,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Hygobox, Hygopac et Hygofol",
   "description": "Hygobox (transport et désinfection des instruments), Hygopac et Hygopac Plus / View (soudeuses pour emballage stérile DIN EN ISO 11607-2), Hygofol (emballage stérile), Hygoprint (documentation).",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/",

@@ -45,7 +45,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Tornado (gamme)",
   "alternateName": ["Tornado 1", "Tornado 2", "Tornado 4", "Tornado Super Silent"],
   "category": "Dental compressor (compact, quiet, energy-efficient)",
@@ -53,7 +53,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa (MDR EU 2017/745)",
+  "legalStatus": "Class IIa (MDR EU 2017/745)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Maximum pressure", "value": "8 bar" },
     { "@type": "PropertyValue", "name": "Energy savings vs previous generation", "value": "Up to 12 %" },

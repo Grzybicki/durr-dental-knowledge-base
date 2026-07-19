@@ -44,7 +44,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaIntra DC",
   "alternateName": ["Dürr Dental VistaIntra DC"],
   "category": "Intraoral X-ray generator (DC technology)",

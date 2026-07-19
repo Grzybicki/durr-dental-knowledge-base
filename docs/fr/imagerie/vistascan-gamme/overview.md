@@ -48,7 +48,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Dürr Dental VistaScan gamme — Image Plate Scanners",
   "alternateName": ["VistaScan Mini Easy 2.0", "VistaScan Mini View 2.0", "VistaScan Nano Easy", "VistaScan Combi View", "VistaScan Ultra View"],
   "category": "Phosphor Plate Scanner for dental radiography",

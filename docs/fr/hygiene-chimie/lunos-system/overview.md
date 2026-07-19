@@ -56,7 +56,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Système Lunos (gamme)",
   "alternateName": ["MyLunos", "MyLunos Duo", "Lunos Prophy Powders", "Lunos Prophy Pastes"],
   "category": "Dental prophylaxis system (airpolishing, powders, pastes, fluoride)",

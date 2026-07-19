@@ -41,7 +41,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Récupérateurs d'amalgame Dürr Dental",
   "alternateName": ["CA 1", "CA 2", "CA 4", "Sepamatic CS 1", "CAS 1"],
   "category": "Dental amalgam separator",
@@ -49,7 +49,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa (MDR EU 2017/745)"
+  "legalStatus": "Class IIa (MDR EU 2017/745)"
 }
 </script>
 

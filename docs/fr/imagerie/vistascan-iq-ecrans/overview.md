@@ -41,7 +41,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaScan IQ",
   "alternateName": ["VistaScan IQ Image Plates", "Écrans à mémoire ERLM", "VistaScan IQ phosphor storage plates"],
   "category": "Phosphor storage plate (PSP) for dental radiography with RFID tracking",

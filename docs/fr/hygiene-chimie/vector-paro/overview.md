@@ -40,7 +40,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Vector Paro",
   "alternateName": ["Vector Paro Pro", "Vector System"],
   "category": "Periodontal ultrasonic treatment device",

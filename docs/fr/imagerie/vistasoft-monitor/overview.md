@@ -64,7 +64,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "VistaSoft Monitor",
   "alternateName": ["Dürr Dental VistaSoft Monitor"],
   "applicationCategory": "BusinessApplication",

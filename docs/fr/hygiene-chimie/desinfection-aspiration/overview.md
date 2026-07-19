@@ -44,7 +44,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Désinfection des systèmes d'aspiration",
   "description": "Orotol Plus est le désinfectant Dürr Dental pour systèmes d'aspiration dentaire, premier au monde lancé en 1965. Orotol Plus pH 7 sans aldéhyde, sans phénol, sans chlore actif. > 95 % d'ingrédients biodégradables selon OECD.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/",

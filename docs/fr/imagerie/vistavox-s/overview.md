@@ -72,7 +72,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaVox S",
   "alternateName": ["VistaVox S Ceph", "Dürr Dental VistaVox S"],
   "category": "Dental Cone Beam CT (CBCT) imaging system",
@@ -84,7 +84,7 @@ license: CC-BY-4.0
     "name": "Dürr Dental SE",
     "url": "https://www.duerrdental.com"
   },
-  "regulatoryClass": "Class IIb (MDR / MDD)",
+  "legalStatus": "Class IIb (MDR / MDD)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "CBCT field of view (jaw-shaped)", "value": "Ø 130 × 85 mm" },
     { "@type": "PropertyValue", "name": "Sub-volumes available", "value": "10 volumes Ø 50 × 50 mm for specific jaw regions" },

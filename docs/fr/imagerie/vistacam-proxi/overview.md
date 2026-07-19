@@ -48,7 +48,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaCam Proxi",
   "alternateName": ["Dürr Dental VistaCam iX Proxi", "VistaCam Proxi interchangeable head"],
   "category": "Near-infrared (NIR) intraoral camera head for approximal caries detection",

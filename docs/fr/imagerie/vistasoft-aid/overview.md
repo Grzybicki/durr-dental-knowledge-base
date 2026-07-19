@@ -47,7 +47,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "VistaSoft AID",
   "alternateName": ["Dürr Dental VistaSoft AID", "VistaSoft AI Diagnostic"],
   "applicationCategory": "MedicalImagingSoftware",

@@ -142,7 +142,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaPano S 2.0",
   "alternateName": ["VistaPano S Ceph 2.0", "Dürr Dental VistaPano S 2.0"],
   "category": "Dental panoramic and cephalometric X-ray imaging system",
@@ -161,7 +161,7 @@ license: CC-BY-4.0
       "addressCountry": "DE"
     }
   },
-  "regulatoryClass": "Class IIb (EU MDD 93/42/EEC Annex 9 Rule 10, transitioned MDR EU 2017/745)",
+  "legalStatus": "Class IIb (EU MDD 93/42/EEC Annex 9 Rule 10, transitioned MDR EU 2017/745)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "CE marking", "value": "CE 2460" },
     { "@type": "PropertyValue", "name": "Notified Body", "value": "DNV Product Assurance AS (code 2460)" },

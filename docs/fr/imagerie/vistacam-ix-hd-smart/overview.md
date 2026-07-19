@@ -62,7 +62,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaCam iX HD Smart",
   "alternateName": ["Dürr Dental VistaCam iX HD Smart", "VistaCam iX HD"],
   "category": "Intraoral HD camera with interchangeable head system",

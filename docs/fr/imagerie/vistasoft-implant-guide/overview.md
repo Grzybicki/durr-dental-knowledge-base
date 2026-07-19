@@ -44,7 +44,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "VistaSoft Implant & VistaSoft Guide",
   "alternateName": ["Dürr Dental VistaSoft Implant", "Dürr Dental VistaSoft Guide"],
   "applicationCategory": "MedicalImagingSoftware",

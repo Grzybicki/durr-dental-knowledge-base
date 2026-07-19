@@ -113,7 +113,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "VistaSoft 4.0",
   "alternateName": ["Dürr Dental VistaSoft 4.0", "VistaSoft Imaging"],
   "applicationCategory": "MedicalImagingSoftware",

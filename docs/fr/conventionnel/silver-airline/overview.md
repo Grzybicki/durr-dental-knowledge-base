@@ -53,7 +53,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Silver Airline (gamme)",
   "alternateName": ["Silver Airline Primo", "Silver Airline Duo", "Silver Airline Trio", "Silver Airline Quattro", "Silver Airline Duo Tandem", "Silver Airline Quattro Tandem"],
   "category": "Dental compressor (oil-free, piston, dental compressed air)",
@@ -61,7 +61,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa (MDR EU 2017/745)",
+  "legalStatus": "Class IIa (MDR EU 2017/745)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Air quality", "value": "Purity class 2:4:2 (ISO 8573-1:2010 / ISO 22052:2020), dry air + ULPA U16 bacteria filter" },
     { "@type": "PropertyValue", "name": "Lubrication", "value": "Oil-free (Dürr Dental pioneered this approach in 1965)" },

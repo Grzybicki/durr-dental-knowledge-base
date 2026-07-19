@@ -49,7 +49,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaRay 7",
   "alternateName": ["Dürr Dental VistaRay 7", "VistaRay 7 Size 1", "VistaRay 7 Size 2"],
   "category": "Intraoral X-ray sensor (CMOS, USB)",

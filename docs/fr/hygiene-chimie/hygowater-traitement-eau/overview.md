@@ -40,7 +40,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Hygowater",
   "description": "Hygowater est le système Dürr Dental de décontamination de l'eau des fauteuils dentaires. Élimine les micro-organismes par filtration et électrolyse, sans produit chimique. < 100 UFC/ml. Validé par la Faculté dentaire de Strasbourg.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/",

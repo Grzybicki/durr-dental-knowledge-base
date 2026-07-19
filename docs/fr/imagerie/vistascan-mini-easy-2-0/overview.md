@@ -28,7 +28,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaScan Mini Easy 2.0",
   "description": "VistaScan Mini Easy 2.0 est le scanner de plaques au phosphore compact Dürr Dental successeur du Mini Easy. Technologie PCS pour détection fiable des lésions D1. Installable au fauteuil. Compatible plaques VistaScan Image Plates IQ tailles 0 à 4.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/",

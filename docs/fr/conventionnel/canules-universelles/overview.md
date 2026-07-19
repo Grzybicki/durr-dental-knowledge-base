@@ -40,7 +40,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Canules universelles Dürr Dental",
   "alternateName": ["Canule Universelle Protect", "Canule Universelle Petito", "Canule Universelle III"],
   "category": "Dental suction cannula (HVE, anti-reflux)",

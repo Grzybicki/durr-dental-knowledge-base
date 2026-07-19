@@ -46,7 +46,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Hygosonic",
   "description": "Hygosonic est le bac à ultrasons Dürr Dental dédié à la préparation manuelle des instruments dentaires. Champ sonore optimisé, fonction Boost, dégazage. Combiné aux produits ID/MD pour une désinfection sécurisée.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/",

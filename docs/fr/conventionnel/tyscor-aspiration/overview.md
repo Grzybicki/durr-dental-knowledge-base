@@ -40,7 +40,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Tyscor (gamme aspiration dentaire)",
   "alternateName": ["Tyscor VS 1 Plus", "Tyscor VSA 1 Plus", "Tyscor V 1 Plus", "Tyscor VS 2", "Tyscor VS 2 Plus", "Tyscor VSA 2", "Tyscor V 2", "Tyscor V 2 Plus", "Tyscor VS 4", "Tyscor VSA 4", "Tyscor V 4"],
   "category": "Dental suction system (wet and dry, single station and centralized)",
@@ -48,7 +48,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa (MDR EU 2017/745)",
+  "legalStatus": "Class IIa (MDR EU 2017/745)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Energy savings (premium radial technology)", "value": "Up to 75 %" },
     { "@type": "PropertyValue", "name": "Weight reduction (premium radial technology)", "value": "Up to 50 %" },

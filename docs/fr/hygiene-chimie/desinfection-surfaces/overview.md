@@ -36,7 +36,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Désinfection des surfaces",
   "description": "Gamme Dürr Dental pour la désinfection des surfaces en cabinet dentaire : concentrés, désinfection rapide, soin du fauteuil, lingettes (alcool, sans alcool, sèches), FD 350 green wipes éco. Système d'hygiène 4 couleurs.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/",

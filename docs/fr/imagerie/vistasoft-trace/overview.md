@@ -40,7 +40,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
+  "@type": ["SoftwareApplication", "Product"],
   "name": "VistaSoft Trace",
   "alternateName": ["Dürr Dental VistaSoft Trace", "VistaSoft AI cephalometric analysis"],
   "applicationCategory": "MedicalImagingSoftware",

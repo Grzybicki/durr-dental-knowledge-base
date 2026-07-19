@@ -45,7 +45,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Hygoclave et Hygopure (gammes)",
   "alternateName": ["Hygoclave 40", "Hygoclave 50", "Hygoclave 90", "Hygopure 90", "Hygodem 90"],
   "category": "Dental sterilization and water treatment systems",
@@ -53,7 +53,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa/IIb (MDR EU 2017/745, selon modèle)"
+  "legalStatus": "Class IIa/IIb (MDR EU 2017/745, selon modèle)"
 }
 </script>
 

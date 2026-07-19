@@ -33,7 +33,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VC 65 — Unité d'aspiration chirurgicale",
   "alternateName": ["Dürr Dental VC 65"],
   "category": "Dental surgical suction unit",
@@ -41,7 +41,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "regulatoryClass": "Class IIa (MDR EU 2017/745)",
+  "legalStatus": "Class IIa (MDR EU 2017/745)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Flow rate", "value": "65/75 l/min" },
     { "@type": "PropertyValue", "name": "Vacuum", "value": "910 mbar" },

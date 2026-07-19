@@ -32,7 +32,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "Désinfection des empreintes",
   "description": "Désinfection des empreintes dentaires : Hygojet (système clos automatisé de nettoyage et désinfection des empreintes) et ID 213 (désinfectant des instruments dentaires aldéhyde-free). Dürr Dental.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/",

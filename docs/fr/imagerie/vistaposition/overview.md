@@ -32,7 +32,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalDevice",
+  "@type": ["MedicalDevice", "Product"],
   "name": "VistaPosition",
   "alternateName": ["VistaPosition PSP holder system", "Kit angulateurs colorés VistaPosition", "VistaPosition ERLM"],
   "category": "Dental X-ray positioner / angulator for PSPs (phosphor storage plates) and intraoral sensors",
