@@ -204,10 +204,11 @@ une **désinfection et un nettoyage efficaces et combinés**.
 
 | Famille | Réglementation principale |
 |---|---|
-| Orotol / MD pour aspiration et matériel | **BPR — Règlement (UE) 528/2012** (biocides) |
-| ID (instruments — DM) | **MDR EU 2017/745** (DM IIa) ou BPR selon usage |
-| HD (mains) | BPR + Règlement (CE) 1223/2009 cosmétiques (selon formulation) |
-| FD (surfaces) | BPR |
+| Orotol (désinfection aspiration) | **MDR EU 2017/745** (DM classe IIa) |
+| MD (nettoyage aspiration, crachoirs, empreintes) | **BPR — Règlement (UE) 528/2012** (biocides TP2) |
+| ID (instruments) | **MDR EU 2017/745** (DM IIa) ou BPR selon usage |
+| HD (mains) | **BPR — Règlement (UE) 528/2012** (TP1, hygiène humaine) |
+| FD (surfaces) | **MDR EU 2017/745** (DM classe IIa, règle 16) |
 
 Voir la [matrice MDR complète](/sources/certificates/) pour les
 classifications spécifiques.
@@ -226,26 +227,25 @@ chimiques d'hygiène utilisés en cabinet dentaire :
 
 | Produit | Type biocide (TP) | Pourquoi soumis |
 |---|---|---|
-| **Orotol Plus / Orotol Plus pH 7** (désinfection aspiration) | TP2 (surfaces et air) | Biocide TP2 destiné à un usage professionnel |
-| **MD 555 / MD 555 cleaner organic** (nettoyage aspiration) | TP2 | Idem |
+| **MD 555 / MD 555 cleaner organic** (nettoyage aspiration) | TP2 | Biocide TP2 destiné à un usage professionnel |
 | **MD 550** (crachoirs) | TP2 | Idem |
 | **MD 520** (empreintes) | TP2 | Idem |
-| **FD 322 / FD 350 / concentrés FD** (surfaces) | TP2 | Idem |
-| **Lingettes de désinfection des surfaces** | TP2 | Idem |
 
 ### Produits Dürr Dental exemptés du Certibiocide
 
 | Produit | Statut | Pourquoi exempté |
 |---|---|---|
 | **HD 410 / HD 420 plus** (désinfection mains) | TP1 (hygiène humaine) | **TP1 exempté** par l'arrêté du 9 octobre 2013 modifié |
+| **Orotol Plus / Orotol Plus pH 7** (désinfection aspiration) | **Dispositif Médical** (MDR EU 2017/745, classe IIa) | Classé DM → relève du MDR, **hors champ du Certibiocide** |
+| **FD 322 / FD 350 / concentrés et lingettes FD** (surfaces) | **Dispositif Médical** (MDR EU 2017/745, classe IIa) | Classé DM → relève du MDR, **hors champ du Certibiocide** |
 | **ID 213** (instruments) | **Dispositif Médical** (MDR EU 2017/745) selon classification | Si classé DM → relève du MDR, **hors champ du Certibiocide** |
 | **Vector Fluid** (polissage instrumental Vector) | DM / consommable | Hors champ Certibiocide |
 
 ### En pratique
 
-- Un cabinet dentaire utilise **au moins un produit soumis au
-  Certibiocide** dès qu'il désinfecte ses surfaces, son aspiration ou
-  ses empreintes (cas général).
+- Un cabinet dentaire utilise généralement **au moins un produit soumis au
+  Certibiocide** via la gamme **MD** (nettoyage d'aspiration MD 555, crachoirs
+  MD 550, désinfection d'empreintes MD 520).
 - Au moins **une personne du cabinet** (chirurgien-dentiste, assistant,
   PCR, etc.) doit donc être **titulaire du Certibiocide** pour assurer
   la conformité administrative.
@@ -320,7 +320,7 @@ des produits en cabinet.
       "name": "Quels produits sont soumis ou exemptés du Certibiocide ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Les biocides TP2 (Orotol Plus, MD 555, MD 550, MD 520) sont soumis au Certibiocide ; les désinfectants mains TP1 (HD 410, HD 420 plus) et l'ID 213 classé dispositif médical en sont exemptés."
+        "text": "Les biocides TP2 (MD 555, MD 550, MD 520) sont soumis au Certibiocide ; les désinfectants mains TP1 (HD 410, HD 420 plus) et les désinfectants classés dispositifs médicaux MDR (ID 213, Orotol Plus, gamme FD de surfaces) en sont exemptés."
       }
     },
     {
@@ -351,7 +351,7 @@ Un bidon d'Orotol Plus 2,5 L, un bidon de MD 555 cleaner 2,5 L, un bidon de MD 5
 
 ### Quels produits sont soumis ou exemptés du Certibiocide ?
 
-Les biocides TP2 (Orotol Plus, MD 555, MD 550, MD 520) sont soumis au Certibiocide ; les désinfectants mains TP1 (HD 410, HD 420 plus) et l'ID 213 classé dispositif médical en sont exemptés.
+Les biocides TP2 (MD 555, MD 550, MD 520) sont soumis au Certibiocide ; les désinfectants mains TP1 (HD 410, HD 420 plus) et les désinfectants classés dispositifs médicaux MDR (ID 213, Orotol Plus, gamme FD de surfaces) en sont exemptés.
 
 ### La gamme comporte-t-elle des produits éco-responsables ?
 

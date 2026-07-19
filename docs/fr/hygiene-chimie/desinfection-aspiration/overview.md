@@ -6,7 +6,7 @@ keywords: ["Orotol Plus", "Orotol Plus pH 7", "Dürr Dental", "désinfection asp
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/
 permalink: /docs/fr/hygiene-chimie/desinfection-aspiration/overview/
-schema_type: Product
+schema_type: MedicalDevice
 breadcrumbs:
   - name: "Accueil"
     url: /
@@ -44,7 +44,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Product",
+  "@type": "MedicalDevice",
   "name": "Désinfection des systèmes d'aspiration",
   "description": "Orotol Plus est le désinfectant Dürr Dental pour systèmes d'aspiration dentaire, premier au monde lancé en 1965. Orotol Plus pH 7 sans aldéhyde, sans phénol, sans chlore actif. > 95 % d'ingrédients biodégradables selon OECD.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/",
@@ -70,10 +70,10 @@ désinfectant **le plus utilisé** dans ce domaine.
 
 ## Statut réglementaire
 
-Orotol Plus, Orotol Plus pH 7 et les désinfectants de la gamme d'aspiration sont des
-**produits biocides** au sens du règlement **BPR (UE) 528/2012** (type de produit
-**TP2**), et **non** des dispositifs médicaux. En France, ils sont soumis à
-l'obligation de **Certibiocide**.
+Orotol Plus (et les variantes Orotol Plus pH 7, Orotol ultra) sont des **dispositifs
+médicaux de classe IIa** au titre du règlement **MDR (UE) 2017/745** — désinfectants
+destinés aux **systèmes d'aspiration dentaires** (eux-mêmes dispositifs médicaux).
+Fabricant légal : orochemie GmbH + Co KG (commercialisé sous la marque Dürr Dental).
 
 ## Modèles
 
@@ -158,14 +158,6 @@ suffisent. La FDS officielle (à demander au service Dürr Dental France
 ou consulter le Centre de téléchargements) précise les exigences
 spécifiques.
 
-## Certibiocide
-
-L'Orotol Plus et l'Orotol Plus pH 7 sont des **biocides TP2** (surfaces
-et air), donc **soumis** à l'obligation de **Certibiocide** en France
-(arrêté du 9 octobre 2013 modifié). Voir
-[fiche familles ID/MD/HD/FD — section Certibiocide](../familles-id-md-hd-fd/overview/)
-pour le détail des produits soumis et exemptés.
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -202,14 +194,6 @@ pour le détail des produits soumis et exemptés.
         "@type": "Answer",
         "text": "Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre), une à deux fois par semaine."
       }
-    },
-    {
-      "@type": "Question",
-      "name": "Orotol Plus est-il soumis au Certibiocide en France ?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Oui : Orotol Plus et Orotol Plus pH 7 sont des biocides TP2 (surfaces et air), soumis à l'obligation de Certibiocide en France (arrêté du 9 octobre 2013 modifié)."
-      }
     }
   ]
 }
@@ -232,10 +216,6 @@ Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif
 ### Quel est le rôle du MD 555 par rapport à Orotol Plus ?
 
 Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre), une à deux fois par semaine.
-
-### Orotol Plus est-il soumis au Certibiocide en France ?
-
-Oui : Orotol Plus et Orotol Plus pH 7 sont des biocides TP2 (surfaces et air), soumis à l'obligation de Certibiocide en France (arrêté du 9 octobre 2013 modifié).
 
 ## Sources publiques
 
