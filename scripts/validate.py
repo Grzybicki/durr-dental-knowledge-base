@@ -435,6 +435,17 @@ def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
     - permalink Jekyll (``../x/overview/`` ou ``/docs/fr/.../x/overview/``) dont
       le fichier source est ``x/overview.md`` — et NON ``x/overview/index.md``.
     """
+    # Une page publiée est servie SOUS le baseurl : tout lien interne absolu doit
+    # donc être préfixé du baseurl, sinon il pointe hors du site → 404 live.
+    try:
+        rel = path.relative_to(root).as_posix()
+    except ValueError:
+        rel = path.name
+    is_published = (
+        rel.startswith("docs/fr/") or rel.startswith("sources/")
+        or rel in ("index.md", "404.html")
+    )
+
     # Lien baseurl-absolu (/durr-dental-knowledge-base/docs/...) : retirer le
     # baseurl pour retomber sur un chemin racine-absolu résolvable localement.
     baseurl = "/durr-dental-knowledge-base"
@@ -442,6 +453,10 @@ def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
         return True  # page d'accueil (landing, dépôt racine séparé)
     if target.startswith(baseurl + "/"):
         target = target[len(baseurl):]
+    elif is_published and target.startswith("/") and not target.startswith("//"):
+        # lien racine-absolu SANS baseurl depuis une page publiée = 404 live
+        # (ex. `/docs/fr/` au lieu de `/durr-dental-knowledge-base/docs/fr/`).
+        return False
 
     stem = target.rstrip("/")
     if target.startswith("/"):
@@ -456,16 +471,26 @@ def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
         # haut), ce qui supprime cette ambiguïté. Ici on reste fichier-relatif,
         # correct pour les docs de dev non publiées (README, docs/WORKFLOW…).
         base = path.parent
+
+    # Fichier direct écrit en dur (asset, ``x/overview.md``, ``img.png``) :
+    # accepté uniquement si c'est vraiment un FICHIER (pas un dossier nu — un
+    # lien vers `.../produit/` 404 en live, seul `.../produit/overview/` existe).
+    try:
+        if (base / stem).resolve().is_file():
+            return True
+    except (OSError, ValueError):
+        pass
+    # Permalink Jekyll : `.../x/overview/` → fichier source `x/overview.md` ;
+    # `.../ligne/` → `ligne/index.md`. On ne mappe PAS un lien-dossier vers un
+    # `overview.md` enfant (Jekyll ne sert pas `.../produit/` mais `.../produit/overview/`).
     candidates = (
-        base / stem,                 # fichier direct ou dossier
         base / (stem + ".md"),       # permalink → fichier source .md
         base / (stem + ".html"),     # permalink → fichier source .html
-        base / stem / "index.md",    # dossier avec index
-        base / stem / "overview.md", # dossier avec overview
+        base / stem / "index.md",    # dossier avec index -> servi à `.../<dossier>/`
     )
     for c in candidates:
         try:
-            if c.resolve().exists():
+            if c.resolve().is_file():
                 return True
         except (OSError, ValueError):
             continue

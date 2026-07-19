@@ -200,11 +200,11 @@ Si une erreur factuelle est signalée (Issue avec label `factual-correction`) :
 
 ## Liens
 
-- [`CONTRIBUTING.md`](../CONTRIBUTING.md) — conventions détaillées.
-- [`SECURITY.md`](../SECURITY.md) — politique de signalement.
-- [`STATEMENT_OF_INTEGRITY.md`](../STATEMENT_OF_INTEGRITY.md) — engagements
+- [`CONTRIBUTING.md`](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/CONTRIBUTING.md) — conventions détaillées.
+- [`SECURITY.md`](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/SECURITY.md) — politique de signalement.
+- [`STATEMENT_OF_INTEGRITY.md`](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/STATEMENT_OF_INTEGRITY.md) — engagements
   procéduraux du mainteneur.
-- [`GITHUB_HARDENING.md`](GITHUB_HARDENING.md) — réglages GitHub à activer.
-- [`.pre-commit-config.yaml`](../.pre-commit-config.yaml) — hooks pre-commit.
-- [`scripts/validate.py`](../scripts/validate.py) — script de validation.
-- [`.github/workflows/ci.yml`](../.github/workflows/ci.yml) — workflow CI.
+- [`GITHUB_HARDENING.md`](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/docs/GITHUB_HARDENING.md) — réglages GitHub à activer.
+- [`.pre-commit-config.yaml`](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/.pre-commit-config.yaml) — hooks pre-commit.
+- [`scripts/validate.py`](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/scripts/validate.py) — script de validation.
+- [`.github/workflows/ci.yml`](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/.github/workflows/ci.yml) — workflow CI.

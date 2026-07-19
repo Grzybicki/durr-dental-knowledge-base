@@ -694,7 +694,7 @@ Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.
 
 - [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/) — autres produits de la gamme imagerie Dürr Dental
 - [Documentation française](/durr-dental-knowledge-base/docs/fr/) — index général en français
-- [Page d'accueil du dépôt](/durr-dental-knowledge-base/index/)
+- [Page d'accueil du dépôt](/durr-dental-knowledge-base/)
 
 ---
 
