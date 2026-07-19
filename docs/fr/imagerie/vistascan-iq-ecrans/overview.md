@@ -149,9 +149,15 @@ le reste de la gamme. Leurs références figurent sur la fiche
 |---|---|---|
 | **Puce RFID** | **Oui** | **Non** (pas de puce RFID) |
 | **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Perio, Perio Net) **et Combi (View / Plus)** |
-| **Compatibilité croisée** | Utilisables aussi sur la série 1.0, **sans** exploitation RFID | Conçus pour les scanners sans lecteur RFID |
-| **Workflow automatisé via [Smart Reader](../smart-reader/overview/)** | **Oui** | Non |
+| **Compatibilité croisée** | Lisibles aussi par les scanners **sans** lecteur RFID (série 1.0, Combi), la puce étant simplement ignorée | **Non lisibles par la série 2.0** (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View), qui exige une plaque IQ à puce |
+| **Workflow automatisé via [Smart Reader](../smart-reader/overview/)** | **Oui** — Mini Easy 2.0 et Mini View 2.0 uniquement | Non |
 | **Suivi qualité par IA (VistaSoft AI)** | **Oui** | Non |
+
+> **Règle de compatibilité (sens unique)** : un scanner **sans** lecteur RFID
+> (série 1.0, Combi View) lit indifféremment les plaques **Plus et IQ** (la puce
+> est alors ignorée) ; à l'inverse, un scanner **série 2.0** (Mini Easy 2.0,
+> Mini View 2.0, Nano Easy, Ultra View) n'accepte **que** les plaques **IQ** à
+> puce RFID et **refuse** les plaques Plus.
 
 Cette distinction est essentielle : pour un cabinet équipé uniquement de
 scanners de la **série 1.0**, le choix logique reste les **écrans Plus**

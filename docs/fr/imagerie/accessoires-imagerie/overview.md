@@ -65,22 +65,25 @@ Dürr Dental, complémentaires aux appareils principaux ([VistaVox S](../vistavo
 ### Pack VistaScan IQ — écrans intra-oraux
 
 **VistaScan Image Plates IQ** sont les plaques au phosphore standards
-utilisées par la gamme [VistaScan](../vistascan-gamme/overview/) (Mini
-Easy 2.0, Mini View 2.0, Nano Easy, Combi View, Ultra View). Formats
+utilisées par les scanners intra-oraux série 2.0 de la gamme
+[VistaScan](../vistascan-gamme/overview/) (Mini Easy 2.0, Mini View 2.0,
+Nano Easy, Ultra View — à lecteur RFID). Formats
 disponibles : tailles **0**, **1**, **2**, **3**, **4** pour couvrir les
 besoins intra-oraux.
 
 ### Écrans à mémoire Plus
 
-Variante **Plus** des écrans à mémoire, à utiliser selon les protocoles
-spécifiques du cabinet (par exemple pour la radiologie pédiatrique ou
-endodontique).
+Génération d'écrans à mémoire **Plus** (sans puce RFID), destinée aux scanners
+**sans lecteur RFID** : le **parc VistaScan série 1.0** (Mini Easy, Mini Plus,
+Perio, Perio Net) et le **Combi View**. Les scanners série 2.0 n'acceptent pas
+ces écrans — ils exigent des plaques IQ à puce. Voir la
+[fiche VistaScan IQ — section écrans Plus](../vistascan-iq-ecrans/overview/).
 
 ### Écrans à mémoire extra-oraux
 
-Pour les **panoramique** et **céphalométriques** sur les appareils
-[VistaScan Combi View](../vistascan-gamme/overview/) et VistaScan Ultra
-View, des écrans à mémoire **extra-oraux** spécifiques sont disponibles.
+Pour les formats **panoramique** et **céphalométrique** sur le
+[VistaScan Combi View](../vistascan-gamme/overview/), des écrans à mémoire
+**extra-oraux** spécifiques sont disponibles.
 
 ### Cassettes d'écran
 
@@ -156,7 +159,7 @@ pour les filtres bactériologiques ULPA U16 / ISO 65U.
       "name": "Existe-t-il des écrans à mémoire pour la panoramique et la céphalométrie ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui : des écrans à mémoire extra-oraux spécifiques sont disponibles pour les formats panoramique et céphalométrique sur VistaScan Combi View et Ultra View."
+        "text": "Oui : des écrans à mémoire extra-oraux spécifiques sont disponibles pour les formats panoramique et céphalométrique sur le VistaScan Combi View."
       }
     },
     {
@@ -187,7 +190,7 @@ Les plaques au phosphore (écrans à mémoire VistaScan IQ et Plus, intra-oraux 
 
 ### Existe-t-il des écrans à mémoire pour la panoramique et la céphalométrie ?
 
-Oui : des écrans à mémoire extra-oraux spécifiques sont disponibles pour les formats panoramique et céphalométrique sur VistaScan Combi View et Ultra View.
+Oui : des écrans à mémoire extra-oraux spécifiques sont disponibles pour les formats panoramique et céphalométrique sur le VistaScan Combi View.
 
 ### À quoi servent les sachets de protection contre la lumière ?
 

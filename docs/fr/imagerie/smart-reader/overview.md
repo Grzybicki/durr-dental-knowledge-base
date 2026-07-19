@@ -124,14 +124,16 @@ images étant automatiquement rangées dans le bon dossier patient.
 
 ### Scanners compatibles
 
-Le Smart Reader est conçu pour la **génération 2.0 des scanners
-VistaScan** :
+Le Smart Reader est compatible avec **deux scanners** de la gamme :
 
-- [VistaScan Mini View 2.0](../vistascan-gamme/overview/)
 - VistaScan Mini Easy 2.0
-- VistaScan Nano Easy
-- VistaScan Combi View
-- VistaScan Ultra View
+- [VistaScan Mini View 2.0](../vistascan-gamme/overview/)
+
+Les autres scanners **ne sont pas compatibles** avec le Smart Reader — y
+compris ceux qui utilisent pourtant des plaques IQ à puce RFID : le
+**VistaScan Nano Easy** et le **VistaScan Ultra View** (série 2.0), le
+**VistaScan Combi View**, le **VistaScan Perio** et les scanners VistaScan
+de génération antérieure.
 
 ## Vidéos officielles
 

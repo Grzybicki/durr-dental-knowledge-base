@@ -52,7 +52,7 @@ license: CC-BY-4.0
   "name": "Dürr Dental VistaScan gamme — Image Plate Scanners",
   "alternateName": ["VistaScan Mini Easy 2.0", "VistaScan Mini View 2.0", "VistaScan Nano Easy", "VistaScan Combi View", "VistaScan Ultra View"],
   "category": "Phosphor Plate Scanner for dental radiography",
-  "description": "Famille de scanners de plaques au phosphore Dürr Dental pour radiographie intraorale et extra-orale. Compatibilité avec les plaques VistaScan Image Plates IQ. Technologie PCS (Plate Scanning) sur les modèles 2.0.",
+  "description": "Famille de scanners de plaques au phosphore Dürr Dental pour radiographie intraorale et extra-orale. Les modèles intra-oraux série 2.0 (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View) utilisent les plaques VistaScan Image Plates IQ à puce RFID ; le Combi View utilise les plaques VistaScan Plus sans RFID. Technologie PCS (Plate Scanning) sur les modèles 2.0.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" }
@@ -79,12 +79,12 @@ extra-oral reste sur les plaques **VistaScan Plus** (sans RFID).
 | **VistaScan Mini View 2.0** | Variante Mini avec écran d'aperçu intégré. Permet la prévisualisation chairside avant transmission au logiciel. |
 | **VistaScan Nano Easy** | Le plus compact de la gamme — tailles plaques 0, 1, 2. Conçu pour installation au fauteuil. Scan + effacement en une seule étape pour préparation de l'acquisition suivante. |
 
-### Modèles extra-oraux et combi
+### Modèle combi et modèle intra-oral haut débit
 
 | Modèle | Particularité |
 |---|---|
 | **VistaScan Combi View** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). Écran d'aperçu intégré. Fonctionne sur **plaques Plus** (sans RFID). |
-| **VistaScan Ultra View** | Modèle haut de gamme. Capacité étendue de formats et de vitesse de scan. |
+| **VistaScan Ultra View** | Modèle **intra-oral** haut de gamme et haut débit : lit **tous les formats intra-oraux S0 à S4** en montant l'adaptateur correspondant. Plaques **IQ** (RFID actif). |
 
 ## Plaques au phosphore — VistaScan Image Plates IQ
 
@@ -164,7 +164,7 @@ L'ensemble de la gamme VistaScan s'intègre nativement à
       "name": "Que couvre la gamme VistaScan ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie intra-orale et extra-orale, utilisant tous les plaques VistaScan Image Plates IQ."
+        "text": "Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie intra-orale et extra-orale. Les modèles intra-oraux de la série 2.0 utilisent les plaques VistaScan Image Plates IQ à puce RFID ; le Combi View extra-oral utilise les plaques VistaScan Plus (sans RFID)."
       }
     },
     {
@@ -172,7 +172,7 @@ L'ensemble de la gamme VistaScan s'intègre nativement à
       "name": "Quels sont les modèles de la gamme VistaScan ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Les modèles intra-oraux compacts Mini Easy 2.0 et Mini View 2.0, et les modèles extra-oraux/combi Combi View et Ultra View."
+        "text": "Les modèles intra-oraux Mini Easy 2.0, Mini View 2.0, Nano Easy et Ultra View (série 2.0, plaques IQ à puce RFID), et le modèle combi intra-oral + extra-oral Combi View (plaques Plus, sans RFID)."
       }
     },
     {
@@ -288,11 +288,11 @@ Les scanners VistaScan affichent des **messages d'appareil** documentés dans la
 
 ### Que couvre la gamme VistaScan ?
 
-Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie intra-orale et extra-orale, utilisant tous les plaques VistaScan Image Plates IQ.
+Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie intra-orale et extra-orale. Les modèles intra-oraux de la série 2.0 utilisent les plaques VistaScan Image Plates IQ à puce RFID ; le Combi View extra-oral utilise les plaques VistaScan Plus (sans RFID).
 
 ### Quels sont les modèles de la gamme VistaScan ?
 
-Les modèles intra-oraux compacts Mini Easy 2.0 et Mini View 2.0, et les modèles extra-oraux/combi Combi View et Ultra View.
+Les modèles intra-oraux Mini Easy 2.0, Mini View 2.0, Nano Easy et Ultra View (série 2.0, plaques IQ à puce RFID), et le modèle combi intra-oral + extra-oral Combi View (plaques Plus, sans RFID).
 
 ### Qu'apporte la technologie PCS des modèles 2.0 ?
 
