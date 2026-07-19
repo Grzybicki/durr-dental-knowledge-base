@@ -37,7 +37,7 @@ source_documents:
     ref: "P007100194L03/N10"
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
-    note: "Source des caractéristiques techniques (208×64×61 cm, 265-275 kg, 53-55 dB(A), débits 115/230 l/min)"
+    note: "Source des caractéristiques techniques (208×64×61 cm, 265-275 kg, 56 dB(A) à 35 °C, débits 115/230 l/min)"
 last_factual_review: 2026-05-29
 license: CC-BY-4.0
 ---
@@ -161,13 +161,13 @@ de l'air comprimé silencieux (Silver Airline, Tornado Super Silent).
 
 | Modèle | Praticiens | Amalgame | dB(A) @ 35 °C | Tension | Dimensions H × l × P | Poids |
 |---|---|---|---|---|---|---|
-| **Power Tower View VS 600 Duo** | 2 | **Oui** | **55** | 230 V (1∼) 50 Hz | **208 × 64 × 61 cm** | 275 kg |
-| **Power Tower View VS 900 S Duo (230 V)** | 3 | Oui | 55 | 230 V (1∼) 50 Hz | 208 × 64 × 61 | 275 kg |
-| **Power Tower View VS 900 S Duo (400 V)** | 3 | Oui | **53** | **400 V (3∼)** 50 Hz | 208 × 64 × 61 | 275 kg |
-| **Power Tower View VS 1200 S Duo** | 4 | Oui | 53 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 275 kg |
-| **Power Tower View V 600 Duo** | 2 | **Non** | 55 | 230 V (1∼) 50 Hz | 208 × 64 × 61 | 265 kg |
-| **Power Tower View V 900 S Duo** | 3 | Non | 53 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 265 kg |
-| **Power Tower View V 1200 S Duo** | 4 | Non | 53 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 265 kg |
+| **Power Tower View VS 600 Duo** | 2 | **Oui** | **56** | 230 V (1∼) 50 Hz | **208 × 64 × 61 cm** | 275 kg |
+| **Power Tower View VS 900 S Duo (230 V)** | 3 | Oui | 56 | 230 V (1∼) 50 Hz | 208 × 64 × 61 | 275 kg |
+| **Power Tower View VS 900 S Duo (400 V)** | 3 | Oui | 56 | **400 V (3∼)** 50 Hz | 208 × 64 × 61 | 275 kg |
+| **Power Tower View VS 1200 S Duo** | 4 | Oui | 56 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 275 kg |
+| **Power Tower View V 600 Duo** | 2 | **Non** | 56 | 230 V (1∼) 50 Hz | 208 × 64 × 61 | 265 kg |
+| **Power Tower View V 900 S Duo** | 3 | Non | 56 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 265 kg |
+| **Power Tower View V 1200 S Duo** | 4 | Non | 56 | 400 V (3∼) 50 Hz | 208 × 64 × 61 | 265 kg |
 
 ### Débit air comprimé Power Tower View
 
@@ -180,7 +180,7 @@ de l'air comprimé silencieux (Silver Airline, Tornado Super Silent).
 
 - **Toutes les configurations View** sont des unités **complètes** intégrant : moteur d'aspiration + compresseur (1 ou 2 groupes) + cuve + dessiccateur + récupérateur amalgame (option) → footprint **0,64 × 0,61 m** ≈ **0,39 m²** au sol.
 - **Hauteur 2,08 m** = passage de porte standard.
-- **Gain ~2 dB(A)** entre la version 230 V (55 dB) et 400 V (53 dB) — le triphasé permet une régulation plus douce.
+- **Niveau sonore uniforme de 56 dB(A)** (mesuré à 35 °C ambiant) sur toutes les configurations View, **quelle que soit la tension** (verbatim factsheet `P007100194L02`).
 - Tous **filtres bactériologiques ULPA U16 / ISO 65U de série** sur Power Tower View.
 - **2ᵉ groupe compresseur en option** sur toutes les configurations → **doublement de capacité** sans changer de châssis.
 
@@ -197,12 +197,11 @@ D'après la factsheet, **4 familles de filtres** :
 
 Sélecteur de filtre officiel : <https://www.duerrdental.com/fr/produits/air-comprime/materiel-accessoires/choix-du-filtre/>.
 
-> Pour les **valeurs précises** de hauteur × largeur × profondeur,
-> poids, débit air comprimé l/min, débit aspiration et **niveau sonore
-> dB(A)**, se référer à la **brochure Power Tower Silence** [(Medical
-> Expo)](https://pdf.medicalexpo.com/pdf/duerr-dental/power-tower-silence-there-is-strength-quietness/72550-187987.html)
-> ou à la factsheet correspondante via le [Centre de téléchargements Dürr Dental
-> France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/).
+> **Aspiration** : la désignation **600 / 900 / 1200** correspond à la classe de
+> capacité d'aspiration du groupe intégré (unités V/VS 600, 900 S, 1200 S). Le
+> **compresseur** est un groupe **Duo** (115 l/min par groupe, 230 l/min avec le
+> 2ᵉ groupe en option). Le détail des specs d'aspiration figure sur les datasheets
+> V 600 / 900 S / 1200 S (Centre de téléchargements).
 
 ### Accessoires et options
 
