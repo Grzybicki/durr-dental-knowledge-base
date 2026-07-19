@@ -59,18 +59,18 @@ VistaSoft 4.0 est conçu pour s'intégrer avec **la quasi-totalité des logiciel
 de gestion de cabinet dentaire** (Practice Management Systems / PMS) du marché
 européen. Cette couverture universelle est obtenue par la **combinaison de
 cinq voies d'intégration complémentaires**, dont quatre couvertes par le
-module [Patient Bridge](../patient-bridge/overview/) et une cinquième nativement
+module [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) et une cinquième nativement
 DICOM.
 
 ## Les cinq voies d'intégration PMS
 
 | # | Voie | Couverture marché | Référence |
 |---|---|---|---|
-| 1 | **VDDS-media** (Verband Deutscher Dental-Software, standard 2005) | Marché DACH (DE, AT, CH) — très large | [Fiche VDDS-media et BDW](../vdds-bdw/overview/) |
-| 2 | **BDW** (Basic Dental Workflow, v1 2019 / v2 2022) | Successeur évolutif DICOM-based — en déploiement | [Fiche VDDS-media et BDW](../vdds-bdw/overview/) |
+| 1 | **VDDS-media** (Verband Deutscher Dental-Software, standard 2005) | Marché DACH (DE, AT, CH) — très large | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
+| 2 | **BDW** (Basic Dental Workflow, v1 2019 / v2 2022) | Successeur évolutif DICOM-based — en déploiement | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
 | 3 | **patimport.txt** | Format texte historique, simple, large compatibilité | Manuel [`qr.duerrdental.com/2110100028`](http://qr.duerrdental.com/2110100028) |
 | 4 | **Protocole Patient Bridge propre Dürr Dental** | PMS non-couverts par les voies précédentes — couvre la majorité du marché FR | Manuel [`qr.duerrdental.com/2110100028`](http://qr.duerrdental.com/2110100028) |
-| 5 | **DICOM Modality Worklist + Storage** | Architectures hospitalières / multi-cabinet DICOM-natives | [Fiche DICOM](../dicom/overview/) |
+| 5 | **DICOM Modality Worklist + Storage** | Architectures hospitalières / multi-cabinet DICOM-natives | [Fiche DICOM](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/) |
 
 La combinaison de ces cinq voies permet à VistaSoft d'être intégrable à la
 **quasi-totalité des PMS** présents en cabinet en Europe.
@@ -119,7 +119,7 @@ Pour les déploiements hospitaliers, la voie d'intégration privilégiée est
   depuis le RIS hospitalier.
 - **DICOM Storage** pour l'envoi des images vers le PACS hospitalier.
 
-Le [DICOM Conformance Statement VistaSoft](../dicom/overview/) documente en
+Le [DICOM Conformance Statement VistaSoft](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/) documente en
 détail les SOP Classes et Transfer Syntaxes supportées.
 
 ## Standards supportés en synthèse
@@ -139,19 +139,19 @@ détail les SOP Classes et Transfer Syntaxes supportées.
 
 Si le cabinet utilise déjà un autre logiciel d'imagerie et souhaite migrer
 vers VistaSoft tout en conservant ses dossiers, voir la fiche
-[Migration de bases de données](../migration-bases-donnees/overview/).
+[Migration de bases de données](/durr-dental-knowledge-base/docs/fr/imagerie/migration-bases-donnees/overview/).
 
 ### Cohabitation avec un logiciel d'imagerie tiers
 
 Si le cabinet souhaite conserver son logiciel d'imagerie existant tout en
 ajoutant un appareil Dürr Dental, voir la fiche
-[Image Bridge](../image-bridge/overview/).
+[Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/).
 
 ### Intégration avec 3Shape Trios
 
 Pour l'intégration avec l'écosystème 3Shape (scanner intra-oral Trios,
 planification implantaire), voir la fiche
-[Intégration 3Shape](../integration-3shape/overview/).
+[Intégration 3Shape](/durr-dental-knowledge-base/docs/fr/imagerie/integration-3shape/overview/).
 
 ## Limites et précisions
 
@@ -222,13 +222,13 @@ Conformance Statement officiel.
 
 ## Pour aller plus loin
 
-- [Patient Bridge](../patient-bridge/overview/)
-- [Image Bridge](../image-bridge/overview/)
-- [Standards VDDS-media et BDW](../vdds-bdw/overview/)
-- [DICOM Conformance Statement](../dicom/overview/)
-- [Migration de bases de données](../migration-bases-donnees/overview/)
-- [Intégration 3Shape](../integration-3shape/overview/)
-- [Index imagerie dentaire](../)
+- [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)
+- [Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/)
+- [Standards VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/)
+- [DICOM Conformance Statement](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/)
+- [Migration de bases de données](/durr-dental-knowledge-base/docs/fr/imagerie/migration-bases-donnees/overview/)
+- [Intégration 3Shape](/durr-dental-knowledge-base/docs/fr/imagerie/integration-3shape/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

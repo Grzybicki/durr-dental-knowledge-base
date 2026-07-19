@@ -117,10 +117,10 @@ D'après la brochure officielle (réf. `P007-521-03`) :
 
 | Produit chimique | Usage | Lien fiche |
 |---|---|---|
-| **ID 212** / **ID 212 forte plus** | Désinfection instruments **et fraises** (large spectre) | [Voir fiche désinfection empreintes/instruments](../desinfection-empreintes/overview/) |
+| **ID 212** / **ID 212 forte plus** | Désinfection instruments **et fraises** (large spectre) | [Voir fiche désinfection empreintes/instruments](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
 | **ID 213** | Aldéhyde-free, instruments chirurgicaux, classiques, rotatifs | Idem |
 | **ID 220** | **Bain pour fraises** dédié | Idem |
-| **MD 530 / MD 535** | **Dissolvants de ciments et plâtre** (travail labo dentaire) | [Voir fiche familles ID/MD/HD/FD](../familles-id-md-hd-fd/overview/) |
+| **MD 530 / MD 535** | **Dissolvants de ciments et plâtre** (travail labo dentaire) | [Voir fiche familles ID/MD/HD/FD](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/) |
 
 ## Accessoires (revendeurs spécialisés)
 
@@ -137,7 +137,7 @@ Hygosonic est conçu pour être utilisé avec les produits chimiques
 désinfectants Dürr Dental de la série **ID** (Instrument Disinfection)
 et **MD** (Material Disinfection) :
 
-- [ID 213](../desinfection-empreintes/overview/) : concentré
+- [ID 213](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) : concentré
   désinfectant et nettoyant aldéhyde-free pour instruments chirurgicaux,
   classiques et rotatifs.
 
@@ -148,12 +148,12 @@ L'utilisation combinée garantit la **désinfection sécurisée** et le
 
 1. **Préparation manuelle** : Hygosonic (ultrasons + ID 213) ← cette
    étape.
-2. **Transport** : [Hygobox](../hygobox-hygopac-emballage/overview/).
+2. **Transport** : [Hygobox](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/).
 3. **Stérilisation vapeur** :
-   [Hygoclave 40 / 50 / 90](../hygoclave-hygopure/overview/) avec eau DI
+   [Hygoclave 40 / 50 / 90](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) avec eau DI
    Hygopure 90.
 4. **Emballage stérile** :
-   [Hygopac / Hygopac View](../hygobox-hygopac-emballage/overview/) +
+   [Hygopac / Hygopac View](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/) +
    Hygofol.
 5. **Documentation** : Hygoprint.
 
@@ -238,10 +238,10 @@ Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 53
 
 ## Pour aller plus loin
 
-- [Hygoclave + Hygopure](../hygoclave-hygopure/overview/)
-- [Hygobox + Hygopac + Hygofol](../hygobox-hygopac-emballage/overview/)
-- [Désinfection des empreintes (Hygojet) et des instruments (ID 213)](../desinfection-empreintes/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Hygoclave + Hygopure](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Hygobox + Hygopac + Hygofol](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
+- [Désinfection des empreintes (Hygojet) et des instruments (ID 213)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

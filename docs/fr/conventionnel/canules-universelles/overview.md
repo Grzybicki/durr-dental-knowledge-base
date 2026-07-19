@@ -81,7 +81,7 @@ L'**entrée d'air secondaire** introduit un flux d'air contrôlé qui :
 - **Réduit le bruit perçu** par le patient (moins de turbulence).
 - **Aide à atteindre le seuil de 300 l/min** recommandé pour la
   réduction des aérosols infectieux (cf. [fiche Tyscor — section
-  norme DIN EN ISO 7494-2 et aérosols](../tyscor-aspiration/overview/)).
+  norme DIN EN ISO 7494-2 et aérosols](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)).
 
 ## Modèles disponibles
 
@@ -123,7 +123,7 @@ canules sont disponibles dans une gamme de **designs** et de
 | **Prothèse** | Canule Protect — bonne aspiration multi-instruments |
 | **Chirurgie buccale** | Canule chirurgicale dédiée |
 | **Endodontie** | Canule fine ou variante Petito |
-| **Prophylaxie** (avec [MyLunos](/docs/fr/hygiene-chimie/lunos-system/overview/)) | Canule fine ou Petito |
+| **Prophylaxie** (avec [MyLunos](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/)) | Canule fine ou Petito |
 
 ## Ergonomie et sécurité patient
 
@@ -147,7 +147,7 @@ aérosols porteurs de germes :
 > practice team. »*
 
 L'efficacité repose sur le respect du **seuil de 300 l/min HVE** (cf.
-[fiche Tyscor](../tyscor-aspiration/overview/)) combiné avec une
+[fiche Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)) combiné avec une
 **bonne pratique de positionnement** de la canule à proximité du site
 opératoire.
 
@@ -157,17 +157,17 @@ Les canules universelles Dürr Dental sont compatibles avec :
 
 | Système d'aspiration | Détail |
 |---|---|
-| [Tyscor](../tyscor-aspiration/overview/) | Aspiration humide et sec |
-| [Power Tower](../power-tower/overview/) | Gammes Silence + View |
-| [VC 65](../aspiration-chirurgicale/overview/) | Aspiration chirurgicale |
-| [DürrConnect](../durrconnect/overview/) | Raccordement des systèmes anciens |
+| [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) | Aspiration humide et sec |
+| [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/) | Gammes Silence + View |
+| [VC 65](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) | Aspiration chirurgicale |
+| [DürrConnect](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/) | Raccordement des systèmes anciens |
 
 ## Articulation avec d'autres accessoires
 
-- [Accessoires d'aspiration](../accessoires-aspiration/overview/) — autres composants compatibles (vannes, supports, tuyaux).
-- [Support de tuyaux Comfort](../support-tuyaux-comfort/overview/) — module modulaire de portage 5-6 composants.
-- [DürrConnect](../durrconnect/overview/) — système global d'intégration.
-- [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/) — collecte des résidus.
+- [Accessoires d'aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/accessoires-aspiration/overview/) — autres composants compatibles (vannes, supports, tuyaux).
+- [Support de tuyaux Comfort](/durr-dental-knowledge-base/docs/fr/conventionnel/support-tuyaux-comfort/overview/) — module modulaire de portage 5-6 composants.
+- [DürrConnect](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/) — système global d'intégration.
+- [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) — collecte des résidus.
 
 ## Références produits (brochure P007-173-03)
 
@@ -222,7 +222,7 @@ les canules Protect restent **particulièrement silencieuses**.
 | Par 20 (Ø 2,5 mm) | `0700-007-50` |
 | Par 100 (Ø 2,5 mm) | `0700-007-51` |
 
-Voir aussi [VC 65 — unité d'aspiration chirurgicale](../aspiration-chirurgicale/overview/)
+Voir aussi [VC 65 — unité d'aspiration chirurgicale](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
 qui utilise ces canules en standard.
 
 ### Canules prophylactiques (aéropolissage)
@@ -230,7 +230,7 @@ qui utilise ces canules en standard.
 **Embout de protection rotatif et amovible** — conçu pour absorber
 **deux fois plus** d'aérosol qu'un embout classique, particulièrement
 adapté aux traitements **prophylactiques avec aéropolisseurs**
-([système Lunos](/docs/fr/hygiene-chimie/lunos-system/overview/)).
+([système Lunos](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/)).
 
 | Conditionnement | Coloris | Référence |
 |---|---|---|
@@ -318,11 +318,11 @@ Oui, les canules d'aspiration s'intègrent au Support de tuyaux Comfort, support
 
 ## Pour aller plus loin
 
-- [Accessoires d'aspiration](../accessoires-aspiration/overview/)
-- [Tyscor — système d'aspiration centralisée](../tyscor-aspiration/overview/)
-- [Power Tower](../power-tower/overview/)
-- [VC 65 — aspiration chirurgicale](../aspiration-chirurgicale/overview/)
-- [Index conventionnel](../)
+- [Accessoires d'aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/accessoires-aspiration/overview/)
+- [Tyscor — système d'aspiration centralisée](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [VC 65 — aspiration chirurgicale](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

@@ -143,24 +143,24 @@ Source officielle : <https://www.duerrdental.com/en/company/duerr-dental-se/mile
 | **1947** | Premiers **contre-angles et pièces à main** avec **refroidissement par eau** pour la préparation dentaire. |
 | **1954** | **Transfert du siège** à Bietigheim — construction du premier hall de production. |
 | **1956** | Démarrage de la **production de compresseurs dentaires** (à l'époque encore lubrifiés à l'huile). |
-| **1965** | **Année charnière** : introduction du **premier compresseur sans huile au monde** pour la médecine dentaire (séchage à membrane Dürr Dental). Lancement simultané d'**Orotol**, premier désinfectant au monde pour systèmes d'aspiration ([fiche Orotol Plus](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)). |
+| **1965** | **Année charnière** : introduction du **premier compresseur sans huile au monde** pour la médecine dentaire (séchage à membrane Dürr Dental). Lancement simultané d'**Orotol**, premier désinfectant au monde pour systèmes d'aspiration ([fiche Orotol Plus](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)). |
 
 ### Évolution des systèmes air comprimé et aspiration (1974-2002)
 
 | Année | Étape |
 |---|---|
 | **1974** | Introduction des **unités d'air sec** au niveau mondial — protection des instruments dentaires (turbines, contre-angles) par air sec exempt d'humidité. |
-| **1993** | Lancement de l'**unité d'aspiration VS 300** — première intégration **aspiration + séparation + récupérateur d'amalgame** dans un seul châssis. Précurseur de la gamme [Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/). |
+| **1993** | Lancement de l'**unité d'aspiration VS 300** — première intégration **aspiration + séparation + récupérateur d'amalgame** dans un seul châssis. Précurseur de la gamme [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/). |
 | **1995** | Lancement du **système vidéo dentaire VistaCam** — première caméra intraorale Dürr Dental pour l'amélioration du diagnostic. |
 | **1997** | Introduction des **capteurs VistaRay** pour la **radiologie intraorale numérique** — entrée de Dürr Dental dans l'imagerie numérique. |
-| **2002** | Présentation du **VistaScan** — scanner de plaques au phosphore pour radiographies numériques. Aujourd'hui gamme complète ([Mini Easy 2.0, Nano Easy, Combi View, Ultra View](/docs/fr/imagerie/vistascan-gamme/overview/)). |
+| **2002** | Présentation du **VistaScan** — scanner de plaques au phosphore pour radiographies numériques. Aujourd'hui gamme complète ([Mini Easy 2.0, Nano Easy, Combi View, Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)). |
 
 ### Imagerie 3D et système complet (2013-2021)
 
 | Année | Étape |
 |---|---|
-| **2013** | Lancement du **panoramique VistaPano S** et du **générateur intraoral VistaIntra DC** ([fiche VistaIntra DC](/docs/fr/imagerie/vistaintra-dc/overview/)). |
-| **2016** | Introduction du **système Lunos®** ([fiche Lunos](/docs/fr/hygiene-chimie/lunos-system/overview/)), du **CBCT VistaVox S** ([fiche VistaVox S](/docs/fr/imagerie/vistavox-s/overview/)) et du **stérilisateur Hygoclave 90** ([fiche Hygoclave](/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)). |
+| **2013** | Lancement du **panoramique VistaPano S** et du **générateur intraoral VistaIntra DC** ([fiche VistaIntra DC](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)). |
+| **2016** | Introduction du **système Lunos®** ([fiche Lunos](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/)), du **CBCT VistaVox S** ([fiche VistaVox S](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/)) et du **stérilisateur Hygoclave 90** ([fiche Hygoclave](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)). |
 | **2019** | Ouverture d'un **nouveau site à Paris** (bureaux modernes et showroom) pour Dürr Dental France. |
 | **2021** | **80 ans** de l'entreprise. Site anniversaire dédié : <https://80.duerrdental.com/en/>. |
 
@@ -168,9 +168,9 @@ Source officielle : <https://www.duerrdental.com/en/company/duerr-dental-se/mile
 
 | Année | Étape |
 |---|---|
-| **2022** | **Silver Airline** récompensé par le **German Design Award 2022** ([fiche Silver Airline](/docs/fr/conventionnel/silver-airline/overview/)). |
-| **2024** | Lancement de **VistaSoft 4.0** ([fiche VistaSoft](/docs/fr/imagerie/vistasoft-4-0/overview/)) — refonte du logiciel d'imagerie diagnostique 2D/3D, DM classe IIb. |
-| **2025** | Nouvelle génération **NEW Tornado** ([fiche Tornado](/docs/fr/conventionnel/tornado/overview/)) — récompensée par l'**Innovations-Champion Award 2025** (1ʳᵉ place). **60 ans d'Orotol** et de l'aspiration sans huile. |
+| **2022** | **Silver Airline** récompensé par le **German Design Award 2022** ([fiche Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)). |
+| **2024** | Lancement de **VistaSoft 4.0** ([fiche VistaSoft](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)) — refonte du logiciel d'imagerie diagnostique 2D/3D, DM classe IIb. |
+| **2025** | Nouvelle génération **NEW Tornado** ([fiche Tornado](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/)) — récompensée par l'**Innovations-Champion Award 2025** (1ʳᵉ place). **60 ans d'Orotol** et de l'aspiration sans huile. |
 | **2026** | **NEW Tornado** récompensé par le **German Design Award 2026**. Tous les compresseurs Dürr Dental livrés sont équipés **de série** d'un filtre HEPA H14 / ULPA U16 (ISO 65U). |
 
 ## Distinctions récentes
@@ -190,11 +190,11 @@ le cabinet dentaire :
 
 | Ligne métier | Périmètre | Index |
 |---|---|---|
-| **Imagerie dentaire** | Logiciel d'imagerie diagnostique, panoramique, CBCT, scanners de plaques, capteurs intra-oraux, caméras, écrans | [Index imagerie](/docs/fr/imagerie/) |
-| **Air comprimé** | Compresseurs Silver Airline, Tornado, Power Tower, CAD/CAM, systèmes cliniques | [Index conventionnel](/docs/fr/conventionnel/) |
-| **Aspiration** | Systèmes Tyscor humides et secs, Power Tower, accessoires, récupérateurs amalgame | [Index conventionnel](/docs/fr/conventionnel/) |
-| **Hygiène et chimie de désinfection** | Stérilisateurs Hygoclave, désinfectants Orotol/MD/ID/HD/FD, traitement de l'eau Hygowater | [Index hygiène et chimie](/docs/fr/hygiene-chimie/) |
-| **Parodontologie et prophylaxie** | Système Lunos (MyLunos, poudres, pâtes), Vector Paro | [Index hygiène et chimie](/docs/fr/hygiene-chimie/) |
+| **Imagerie dentaire** | Logiciel d'imagerie diagnostique, panoramique, CBCT, scanners de plaques, capteurs intra-oraux, caméras, écrans | [Index imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/) |
+| **Air comprimé** | Compresseurs Silver Airline, Tornado, Power Tower, CAD/CAM, systèmes cliniques | [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/) |
+| **Aspiration** | Systèmes Tyscor humides et secs, Power Tower, accessoires, récupérateurs amalgame | [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/) |
+| **Hygiène et chimie de désinfection** | Stérilisateurs Hygoclave, désinfectants Orotol/MD/ID/HD/FD, traitement de l'eau Hygowater | [Index hygiène et chimie](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/) |
+| **Parodontologie et prophylaxie** | Système Lunos (MyLunos, poudres, pâtes), Vector Paro | [Index hygiène et chimie](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/) |
 
 ## Gouvernance — Dürr Dental SE
 
@@ -256,7 +256,7 @@ Dürr Dental publie sa stratégie ESG sur sa page officielle
   longévité produit, facilité de réparation et d'entretien.
 - **Conditionnement écologique**.
 - Gamme « Green » détaillée dans la
-  [fiche familles ID/MD/HD/FD — section Gamme Green](/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/).
+  [fiche familles ID/MD/HD/FD — section Gamme Green](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/).
 
 ## Citation du président-directeur général
 
@@ -329,11 +329,11 @@ Autour de cinq lignes métier complémentaires formant un système complet pour 
 
 ## Pour aller plus loin
 
-- [Index imagerie](/docs/fr/imagerie/)
-- [Index conventionnel](/docs/fr/conventionnel/)
-- [Index hygiène et chimie de désinfection](/docs/fr/hygiene-chimie/)
-- [Matrice MDR complète (sources/certificates)](/sources/certificates/)
-- [Index factsheets publiques](/sources/factsheets/)
+- [Index imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
+- [Matrice MDR complète (sources/certificates)](/durr-dental-knowledge-base/sources/certificates/)
+- [Index factsheets publiques](/durr-dental-knowledge-base/sources/factsheets/)
 
 ---
 

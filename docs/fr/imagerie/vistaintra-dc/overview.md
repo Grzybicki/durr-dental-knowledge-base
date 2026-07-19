@@ -90,9 +90,9 @@ région dentaire (incisives, canines, prémolaires, molaires) et par
 **récepteur** :
 
 - **Mode plaque au phosphore** (compatible avec la
-  [gamme VistaScan](../vistascan-gamme/overview/))
+  [gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/))
 - **Mode capteur intraoral** (compatible
-  [VistaRay 7](../vistaray-7/overview/))
+  [VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/))
 
 Le praticien peut basculer simplement entre les deux jeux de réglages
 selon le récepteur utilisé.
@@ -106,7 +106,7 @@ selon le récepteur utilisé.
 ## Intégration logicielle
 
 Le déclenchement s'effectue depuis le poste équipé de
-[VistaSoft 4.0](../vistasoft-4-0/overview/), qui gère la synchronisation
+[VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/), qui gère la synchronisation
 acquisition / archivage et l'horodatage du cliché dans le dossier
 patient.
 
@@ -116,9 +116,9 @@ VistaIntra DC est conçu pour s'intégrer nativement avec :
 
 | Composant | Lien |
 |---|---|
-| Plaques au phosphore VistaScan IQ + scanners VistaScan | [Gamme VistaScan](../vistascan-gamme/overview/) |
-| Capteurs intraoraux VistaRay 7 | [Fiche VistaRay 7](../vistaray-7/overview/) |
-| Logiciel d'imagerie | [VistaSoft 4.0](../vistasoft-4-0/overview/) |
+| Plaques au phosphore VistaScan IQ + scanners VistaScan | [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
+| Capteurs intraoraux VistaRay 7 | [Fiche VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/) |
+| Logiciel d'imagerie | [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
 
 ## Caractéristiques techniques
 
@@ -261,10 +261,10 @@ Avec les plaques au phosphore et les capteurs Dürr Dental, les doses pré-progr
 
 ## Pour aller plus loin
 
-- [VistaRay 7 — capteur intraoral compatible](../vistaray-7/overview/)
-- [Gamme VistaScan — scanners de plaques au phosphore](../vistascan-gamme/overview/)
-- [VistaSoft 4.0 — logiciel d'imagerie](../vistasoft-4-0/overview/)
-- [Index imagerie dentaire](../)
+- [VistaRay 7 — capteur intraoral compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
+- [Gamme VistaScan — scanners de plaques au phosphore](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
+- [VistaSoft 4.0 — logiciel d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

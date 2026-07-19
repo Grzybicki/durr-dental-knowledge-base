@@ -175,8 +175,8 @@ Selon la documentation officielle Dürr Dental :
 ## Compatibilité VistaSoft Monitor
 
 La gamme Tornado est connectable à
-[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/) **via
-la Connect Box** ([fiche dédiée](/docs/fr/imagerie/connect-box/overview/)).
+[VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/) **via
+la Connect Box** ([fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)).
 Paramètres surveillés : état, pression, températures, alertes
 maintenance, économies d'énergie réalisées.
 
@@ -196,7 +196,7 @@ ISO 65U). Verbatim de la documentation officielle Dürr Dental : un Tornado
   chaîne de filtration multi-étages du compresseur.
 - Sur les **générations antérieures** (Tornado 1 / 2 / 2+) non équipées
   d'origine, un **kit de rétrofit** de filtre bactérien permet d'atteindre
-  les exigences ISO 22052 (voir [fiche filtres HEPA / ULPA](../filtres-hepa-ulpa-compresseurs/overview/)).
+  les exigences ISO 22052 (voir [fiche filtres HEPA / ULPA](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/)).
 
 ### Compatibilité CAD/CAM — non recommandée
 
@@ -205,7 +205,7 @@ ISO 65U). Verbatim de la documentation officielle Dürr Dental : un Tornado
 > Furthermore the maximum pressure of the Tornado is 8 bar. »*
 
 Pour les besoins **CAD/CAM**, voir la
-[fiche compresseurs CAD/CAM dédiés](../cad-cam-compresseurs/overview/).
+[fiche compresseurs CAD/CAM dédiés](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/).
 La pression maximale du Tornado (**8 bar**) est insuffisante pour
 certains systèmes CAD/CAM qui exigent **plus de 8 bar**.
 
@@ -230,7 +230,7 @@ Deux entretiens **distincts** :
 > *« Connection to VistaSoft Monitor via a Connect Box is possible. »*
 
 Le NEW Tornado ne dispose pas d'interface réseau native — la mise en
-réseau s'effectue via la [Connect Box](/docs/fr/imagerie/connect-box/overview/).
+réseau s'effectue via la [Connect Box](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/).
 
 ## Données techniques — NEW Tornado (factsheet P007100308L03)
 
@@ -295,10 +295,10 @@ acoustique **directement dans la conception** du compresseur.
 
 | Accessoire | Notes |
 |---|---|
-| **Connect Box** | Connexion à [VistaSoft Monitor](/docs/fr/imagerie/connect-box/overview/) (pas d'interface réseau native sur Tornado) |
+| **Connect Box** | Connexion à [VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/) (pas d'interface réseau native sur Tornado) |
 | **Petite armoire en bois** | Option d'insonorisation — gain ~17 dB(A) supplémentaires vs capot |
 | **Détendeur avec raccord rapide** | Compatible toute la gamme Tornado et Silver Airline |
-| **Filtre d'admission** | Premier étage de filtration (groupe compresseur) — voir [fiche filtres](../filtres-hepa-ulpa-compresseurs/overview/) |
+| **Filtre d'admission** | Premier étage de filtration (groupe compresseur) — voir [fiche filtres](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/) |
 | **Filtre bactériologique** ULPA U16 (EN 1822-1:2019-10 / ISO 65U / ISO 29463-3:2018) | Troisième étage — élimine tous les germes restants |
 | **Filtre fin** | Anti-contamination micro-organismes en aval du dessiccateur |
 | **Filtre à coalescence** | Avec récipient collecteur d'eau, protège la membrane |
@@ -406,10 +406,10 @@ Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2
 
 ## Pour aller plus loin
 
-- [Silver Airline — autre gamme compresseurs (avec Tandem évolutif)](../silver-airline/overview/)
-- [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
-- [Compresseurs CAD/CAM](../cad-cam-compresseurs/overview/)
-- [Index conventionnel](../)
+- [Silver Airline — autre gamme compresseurs (avec Tandem évolutif)](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
+- [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

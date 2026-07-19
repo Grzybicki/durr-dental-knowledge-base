@@ -277,7 +277,7 @@ Pour ces systèmes :
 | **Référence** | À spécifier via le service commercial selon le système installé |
 | **Fréquence** | Selon usage et taille de la clinique (1-2 ans typique) |
 
-Voir la [fiche systèmes cliniques](../systemes-cliniques/overview/) pour
+Voir la [fiche systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/) pour
 le détail des configurations.
 
 ### Filtres jetables jaunes pour supports de tuyaux
@@ -305,9 +305,9 @@ plusieurs étages** :
    1-2 ans)
 
 > Ces références d'aspiration concernent les fiches
-> [Tyscor](../tyscor-aspiration/overview/),
-> [Power Tower](../power-tower/overview/) et
-> [systèmes cliniques](../systemes-cliniques/overview/) — incluses ici
+> [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/),
+> [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/) et
+> [systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/) — incluses ici
 > pour la cohérence globale du tableau filtres.
 
 ### Fréquence de remplacement standard
@@ -322,11 +322,11 @@ plusieurs étages** :
 - [**Filter Finder Dürr Dental** (outil officiel)](https://www.duerrdental.com/en/products/compressed-air/materials-and-accessories/filter-finder/)
 - [Page filtre bactériologique et virucide exhaust air](https://www.duerrdental.com/en/products/suction/materials-and-accessories/exhaust-air-virus-bacteria-filter/)
 - [Page filtre jetable (FR)](https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/filtre-jetable/)
-- [Silver Airline — gamme compresseurs](../silver-airline/overview/)
-- [Tornado — gamme compresseurs (évolution 70/130 → 1/2 → NEW)](../tornado/overview/)
-- [Power Tower](../power-tower/overview/)
-- [Tyscor — aspiration centralisée](../tyscor-aspiration/overview/)
-- [Systèmes cliniques (V 6000 à V 18000)](../systemes-cliniques/overview/)
+- [Silver Airline — gamme compresseurs](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
+- [Tornado — gamme compresseurs (évolution 70/130 → 1/2 → NEW)](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/)
+- [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Tyscor — aspiration centralisée](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Systèmes cliniques (V 6000 à V 18000)](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/)
 
 ## Référence pour les commandes
 
@@ -351,7 +351,7 @@ pour la dentisterie. La filtration **ULPA U16 / ISO 65U** est l'un des
 atteignent — et dépassent — la classe de pureté d'air **2:4:2**
 (particules classe 2, humidité classe 4, huile classe 2) définie par
 **ISO 8573-1** et exigée par ISO 22052 (voir
-[fiche Silver Airline](../silver-airline/overview/) pour les valeurs mesurées).
+[fiche Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/) pour les valeurs mesurées).
 
 ## Limites et précisions
 
@@ -446,11 +446,11 @@ Pour répondre aux exigences de la norme ISO 22052 relative à la qualité de l'
 
 ## Pour aller plus loin
 
-- [Silver Airline — compresseurs](../silver-airline/overview/)
-- [Tornado — compresseurs](../tornado/overview/)
-- [Power Tower — air comprimé + aspiration combinés](../power-tower/overview/)
-- [Compresseurs CAD/CAM](../cad-cam-compresseurs/overview/)
-- [Index conventionnel](../)
+- [Silver Airline — compresseurs](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
+- [Tornado — compresseurs](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/)
+- [Power Tower — air comprimé + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

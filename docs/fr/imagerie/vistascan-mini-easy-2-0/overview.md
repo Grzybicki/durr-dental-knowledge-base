@@ -59,15 +59,15 @@ fines.
 | Formats de plaques | Tailles intraorales **0, 1, 2, 3, 4** |
 | Technologie | **PCS** (Plate Carrier Scanning) — modèles 2.0 |
 | Utilisation | **Chairside** (installable au fauteuil) |
-| Plaques compatibles | **VistaScan Image Plates IQ** (RFID + QR code) — voir [fiche écrans IQ](../vistascan-iq-ecrans/overview/) |
+| Plaques compatibles | **VistaScan Image Plates IQ** (RFID + QR code) — voir [fiche écrans IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
 | Effacement | Automatique post-scan |
-| Logiciel | [VistaSoft 4.0](../vistasoft-4-0/overview/) (natif) |
+| Logiciel | [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) (natif) |
 
 ## Intégration logicielle
 
 Pilotage de l'acquisition, réception immédiate des images dans le dossier
-patient, support [Image Bridge](../image-bridge/overview/) pour cohabitation
-avec logiciels tiers, et [Smart Reader](../smart-reader/overview/) pour
+patient, support [Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/) pour cohabitation
+avec logiciels tiers, et [Smart Reader](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/) pour
 l'attribution patient/plaque avant acquisition (workflow multi-patients).
 
 ## Conception et logiciel
@@ -134,8 +134,8 @@ D'après la page produit officielle Dürr Dental :
 
 ## Consommables — écrans et sachets de protection
 
-- **Écrans à mémoire** : [VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/) (avec RFID et code QR). Formats **S0 et S2 de série** ; S1, S3 et S4 disponibles **en option** (guide de plaque correspondant à ajouter).
-- **Sachets de protection contre la lumière** : le scanner est **livré avec ses sachets** de protection (à usage unique), indispensables pour protéger la plaque de la lumière et des contaminations croisées en bouche. Détail et formats sur la fiche [Accessoires imagerie](../accessoires-imagerie/overview/).
+- **Écrans à mémoire** : [VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) (avec RFID et code QR). Formats **S0 et S2 de série** ; S1, S3 et S4 disponibles **en option** (guide de plaque correspondant à ajouter).
+- **Sachets de protection contre la lumière** : le scanner est **livré avec ses sachets** de protection (à usage unique), indispensables pour protéger la plaque de la lumière et des contaminations croisées en bouche. Détail et formats sur la fiche [Accessoires imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/).
 
 ## Questions fréquentes
 
@@ -157,11 +157,11 @@ Pour une utilisation chairside (au fauteuil), tout en couvrant l'ensemble des fo
 
 ## Pour aller plus loin
 
-- [Gamme VistaScan complète (vue d'ensemble)](../vistascan-gamme/overview/) — pour comparer Mini Easy 2.0 / Mini View 2.0 / Nano Easy / Combi View / Ultra View
-- [Écrans VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/)
-- [Smart Reader (lecteur RFID USB)](../smart-reader/overview/)
-- [VistaSoft 4.0 — logiciel d'imagerie](../vistasoft-4-0/overview/)
-- [Index imagerie dentaire](../)
+- [Gamme VistaScan complète (vue d'ensemble)](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) — pour comparer Mini Easy 2.0 / Mini View 2.0 / Nano Easy / Combi View / Ultra View
+- [Écrans VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)
+- [Smart Reader (lecteur RFID USB)](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)
+- [VistaSoft 4.0 — logiciel d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

@@ -116,7 +116,7 @@ l'évidence d'efficacité dans des conditions réelles de cabinet.
 
 - **Hygopure 90** = traitement d'eau **DI (déminéralisée)** pour
   alimenter les **stérilisateurs Hygoclave** (voir
-  [fiche Hygoclave + Hygopure](../hygoclave-hygopure/overview/)).
+  [fiche Hygoclave + Hygopure](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)).
 - **Hygowater** = décontamination de l'eau des **fauteuils dentaires**
   pendant les soins (eau de spray, eau de turbines).
 
@@ -193,9 +193,9 @@ Oui, une validation a été publiée par la Faculté dentaire de Strasbourg.
 
 ## Pour aller plus loin
 
-- [Hygoclave + Hygopure — stérilisation et eau DI](../hygoclave-hygopure/overview/)
-- [Désinfection des systèmes d'aspiration (Orotol Plus)](../desinfection-aspiration/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Hygoclave + Hygopure — stérilisation et eau DI](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Désinfection des systèmes d'aspiration (Orotol Plus)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

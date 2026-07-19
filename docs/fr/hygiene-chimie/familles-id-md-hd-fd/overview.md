@@ -69,7 +69,7 @@ license: CC-BY-4.0
 
 Dürr Dental structure sa gamme chimique d'hygiène autour de **préfixes
 fonctionnels** qui désignent le périmètre d'application. Cette
-codification correspond également au [**système d'hygiène 4 couleurs**](../desinfection-surfaces/overview/)
+codification correspond également au [**système d'hygiène 4 couleurs**](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)
 mis en avant en cabinet.
 
 | Préfixe | Périmètre | Couleur du système |
@@ -77,7 +77,7 @@ mis en avant en cabinet.
 | **Orotol** | Désinfection **aspiration** (canalisations) | Jaune |
 | **OroCup** | Doseur Orotol pour systèmes d'aspiration | Jaune |
 | **ID** | **Instrument Disinfection** | Bleu |
-| **MD** | **Material / Material Disinfection** (matériel spécifique : empreintes, crachoirs, surfaces étendues, aspiration) | Variable selon usage |
+| **MD** | **Material / Material Disinfection** (matériel spécifique : empreintes MD 520, crachoirs MD 550, aspiration MD 555) | Jaune |
 | **HD** | **Hand Disinfection** | Rose (magenta) |
 | **FD** | **Floor / Furniture / Fast Disinfection** (surfaces) | Vert |
 
@@ -85,8 +85,8 @@ mis en avant en cabinet.
 
 | Produit | Type | Fiche |
 |---|---|---|
-| **Orotol Plus** | Désinfectant historique (depuis 1965, premier au monde pour aspiration) | [Fiche dédiée](../desinfection-aspiration/overview/) |
-| **Orotol Plus pH 7** | Variante pH neutre, sans aldéhyde, sans phénol, sans chlore actif, > 95 % biodégradable | [Fiche dédiée](../desinfection-aspiration/overview/) |
+| **Orotol Plus** | Désinfectant historique (depuis 1965, premier au monde pour aspiration) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) |
+| **Orotol Plus pH 7** | Variante pH neutre, sans aldéhyde, sans phénol, sans chlore actif, > 95 % biodégradable | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) |
 | **OroCup** | Doseur de poche pour Orotol Plus, intégré au **Kit de démarrage Orotol** | Cf. catalogue |
 
 Page hub : <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/>
@@ -105,20 +105,20 @@ Page hub : <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations
 > cabinet prépare son bain **1 fois par semaine** au lieu d'1 fois par
 > jour → consommable et main-d'œuvre divisés par 5-7.
 
-Fiche dédiée : [Désinfection des empreintes et des instruments (ID 212, ID 213, Hygojet)](../desinfection-empreintes/overview/).
+Fiche dédiée : [Désinfection des empreintes et des instruments (ID 212, ID 213, Hygojet)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/).
 
 ## Famille MD — Désinfection matériel spécifique
 
 | Produit | Indication |
 |---|---|
-| **MD 520** | **Désinfection des empreintes** (préconisé avec [Hygojet](../desinfection-empreintes/overview/) et [Hygobox](../hygobox-hygopac-emballage/overview/)) |
+| **MD 520** | **Désinfection des empreintes** (préconisé avec [Hygojet](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) et [Hygobox](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)) |
 | **MD 550** | **Nettoyage des crachoirs** (spittoon bowl cleaner) |
 | **MD 555 cleaner** | **Nettoyage des systèmes d'aspiration** en complément d'**Orotol Plus**. Contient acides organiques + inorganiques + tensioactifs non moussants. Disponible en 2,5 l et 1 l. |
 | **MD 555 cleaner organic** | Variante **organique** de MD 555, formulation respectueuse de l'environnement |
 
 Le **MD 555 + Orotol Plus** constitue la combinaison **désinfection +
 nettoyage** complète des systèmes d'aspiration centralisée Dürr Dental
-(voir [Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/)).
+(voir [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)).
 
 Pages produit MD 555 :
 - <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner/>
@@ -132,7 +132,7 @@ Pages produit MD 555 :
 | **HD 420 plus** | Produit phare Dürr Dental — désinfection hygiénique et chirurgicale des mains |
 | Distributeurs universels | Distributeurs muraux pour application non manuelle |
 
-Fiche dédiée : [Désinfection des mains](../desinfection-mains/overview/).
+Fiche dédiée : [Désinfection des mains](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/).
 
 ## Famille FD — Désinfection surfaces (rapide)
 
@@ -143,13 +143,13 @@ Fiche dédiée : [Désinfection des mains](../desinfection-mains/overview/).
 | Concentrés FD | Produits à diluer pour usage volumique |
 | Lingettes (alcool / sans alcool / sèches) | Disponibles selon protocole cabinet |
 
-Fiche dédiée : [Désinfection des surfaces](../desinfection-surfaces/overview/).
+Fiche dédiée : [Désinfection des surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/).
 
 ## Protocoles d'usage standards Orotol Plus + MD 555
 
 Cette section synthétise les protocoles publics de référence. Le détail
 opérationnel figure dans la
-[fiche Désinfection des systèmes d'aspiration (Orotol Plus)](../desinfection-aspiration/overview/).
+[fiche Désinfection des systèmes d'aspiration (Orotol Plus)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/).
 
 ### Orotol Plus — quotidien
 
@@ -195,9 +195,9 @@ Le **Kit de démarrage Orotol** (catalogue Dürr Dental France réf
 | OroCup (doseur) | 1 unité |
 
 Conçu pour assurer une **longue durée de vie** du moteur d'aspiration
-([Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/) /
-[VS 300 S](/docs/fr/conventionnel/tyscor-aspiration/overview/) /
-[Power Tower](/docs/fr/conventionnel/power-tower/overview/)) grâce à
+([Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) /
+[VS 300 S](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) /
+[Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)) grâce à
 une **désinfection et un nettoyage efficaces et combinés**.
 
 ## Compatibilité réglementaire
@@ -210,7 +210,7 @@ une **désinfection et un nettoyage efficaces et combinés**.
 | HD (mains) | **BPR — Règlement (UE) 528/2012** (TP1, hygiène humaine) |
 | FD (surfaces) | **MDR EU 2017/745** (DM classe IIa, règle 16) |
 
-Voir la [matrice MDR complète](/sources/certificates/) pour les
+Voir la [matrice MDR complète](/durr-dental-knowledge-base/sources/certificates/) pour les
 classifications spécifiques.
 
 ## Formation Certibiocide (France) — produits soumis et exemptés
@@ -283,7 +283,7 @@ pour la stratégie ESG complète du groupe.
 
 ## Articulation avec le système d'hygiène 4 couleurs
 
-Voir la [fiche désinfection des surfaces](../desinfection-surfaces/overview/)
+Voir la [fiche désinfection des surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)
 pour la cartographie complète du **système 4 couleurs** Dürr Dental
 (vert / bleu / jaune / rose) qui structure l'identification visuelle
 des produits en cabinet.
@@ -371,14 +371,14 @@ Oui : Orotol Plus pH 7 (> 95 % d'ingrédients biodégradables OECD), MD 555 clea
 
 ## Pour aller plus loin
 
-- [Désinfection des systèmes d'aspiration (Orotol Plus)](../desinfection-aspiration/overview/)
-- [Désinfection des instruments et empreintes (ID 213, Hygojet, MD 520)](../desinfection-empreintes/overview/)
-- [Désinfection des surfaces (FD 322, FD 350)](../desinfection-surfaces/overview/)
-- [Désinfection des mains (HD 410, HD 420 plus)](../desinfection-mains/overview/)
-- [Hygoclave + Hygopure (stérilisation)](../hygoclave-hygopure/overview/)
-- [Hygosonic (bac à ultrasons + ID 213)](../hygosonic/overview/)
-- [Hygowater (eau fauteuils)](../hygowater-traitement-eau/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Désinfection des systèmes d'aspiration (Orotol Plus)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
+- [Désinfection des instruments et empreintes (ID 213, Hygojet, MD 520)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)
+- [Désinfection des surfaces (FD 322, FD 350)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)
+- [Désinfection des mains (HD 410, HD 420 plus)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/)
+- [Hygoclave + Hygopure (stérilisation)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Hygosonic (bac à ultrasons + ID 213)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/)
+- [Hygowater (eau fauteuils)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

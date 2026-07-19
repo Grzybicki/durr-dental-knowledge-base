@@ -71,7 +71,7 @@ license: CC-BY-4.0
 ## Description courte
 
 **VistaCam Proxi** est la **tête interchangeable** dédiée du système
-[VistaCam iX HD Smart](../vistacam-ix-hd-smart/overview/) de Dürr Dental.
+[VistaCam iX HD Smart](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/) de Dürr Dental.
 Elle est conçue pour la **détection des caries approximales** sur dents
 postérieures par **lumière proche infrarouge** à **850 nm**, selon la
 technologie de **near-infrared reflection (NIRR)**.
@@ -133,8 +133,8 @@ système.
 ## Intégration
 
 VistaCam Proxi nécessite un corps de caméra
-[VistaCam iX HD Smart](../vistacam-ix-hd-smart/overview/). L'intégration
-logicielle se fait via [VistaSoft 4.0](../vistasoft-4-0/overview/).
+[VistaCam iX HD Smart](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/). L'intégration
+logicielle se fait via [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
 ## Limites et précisions
 
@@ -223,10 +223,10 @@ Selon le principe de near-infrared reflection : l'émail sain est transparent à
 
 ## Pour aller plus loin
 
-- [VistaCam iX HD Smart — caméra mère](../vistacam-ix-hd-smart/overview/)
-- [VistaSoft 4.0 — logiciel d'imagerie](../vistasoft-4-0/overview/)
-- [VistaSoft AID — aide diagnostique IA pour caries (sur radiographies)](../vistasoft-aid/overview/)
-- [Index imagerie dentaire](../)
+- [VistaCam iX HD Smart — caméra mère](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/)
+- [VistaSoft 4.0 — logiciel d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft AID — aide diagnostique IA pour caries (sur radiographies)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

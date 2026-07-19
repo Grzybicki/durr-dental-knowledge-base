@@ -83,7 +83,7 @@ réglementaires.
 
 | Modèle | Capacité | Usage type |
 |---|---|---|
-| **CA 1** | Poste unique | Cabinets individuels en aspiration humide. S'installe en sortie du système d'aspiration ([Tyscor VS 1 Plus](../tyscor-aspiration/overview/), VS 300 S, etc.). |
+| **CA 1** | Poste unique | Cabinets individuels en aspiration humide. S'installe en sortie du système d'aspiration ([Tyscor VS 1 Plus](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/), VS 300 S, etc.). |
 | **CA 2** | Centralisée moyenne | 2 à 4 praticiens — pour configurations Tyscor VS 2 et équivalents. |
 | **CA 4** | Centralisée grande | Cabinets multi-postes — pour configurations Tyscor VS 4 et grandes installations. |
 
@@ -140,7 +140,7 @@ d'un récupérateur externe.
 > de référence pour les récupérateurs d'amalgame en Europe.
 
 > **Alarme de remplissage** : les récupérateurs signalent (optiquement, et via
-> [VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/) / Connect Box)
+> [VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/) / Connect Box)
 > lorsque le **conteneur d'amalgame atteint 95 %** de sa capacité. Le **VSA 300 S**
 > est une unité combinée aspiration + séparation d'amalgame (**300 l/min** de
 > puissance d'aspiration, taux de séparation **> 95 %**) pour poste unique.
@@ -183,9 +183,9 @@ Verbatim factsheet : *« Environ la moitié des systèmes d'aspiration
 voient leurs performances diminuer en raison de dépôts et
 d'obstructions. La plupart des systèmes sont certes désinfectés, mais
 pas nettoyés. »* La solution Dürr Dental est le couple
-**[Orotol® plus](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)**
+**[Orotol® plus](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)**
 (désinfection quotidienne) + **MD 555 cleaner** (nettoyage
-hebdomadaire) — voir fiche [désinfection aspiration](/docs/fr/hygiene-chimie/desinfection-aspiration/overview/).
+hebdomadaire) — voir fiche [désinfection aspiration](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/).
 
 ## Kit de contrôle
 
@@ -198,8 +198,8 @@ exigée dans le cadre du suivi réglementaire des cabinets dentaires.
 Les récupérateurs CA 1, CA 2, CA 4 et Sepamatic s'intègrent à tous les
 systèmes d'aspiration **humide** Dürr Dental :
 
-- [Tyscor VS / VSA](../tyscor-aspiration/overview/) (1 / 2 / 4 praticiens)
-- Power Tower View VS (voir [Power Tower](../power-tower/overview/))
+- [Tyscor VS / VSA](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) (1 / 2 / 4 praticiens)
+- Power Tower View VS (voir [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/))
 - Power Tower Silence (avec amalgame intégré en option)
 - Systèmes VS 300, VS 600, VS 900, VS 1200, VS 2400
 
@@ -299,10 +299,10 @@ Les caractéristiques techniques sont issues de la factsheet officielle P007-619
 
 ## Pour aller plus loin
 
-- [Tyscor — systèmes d'aspiration centralisés](../tyscor-aspiration/overview/)
-- [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
-- [Aspiration chirurgicale (VC 65)](../aspiration-chirurgicale/overview/)
-- [Index conventionnel](../)
+- [Tyscor — systèmes d'aspiration centralisés](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Aspiration chirurgicale (VC 65)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

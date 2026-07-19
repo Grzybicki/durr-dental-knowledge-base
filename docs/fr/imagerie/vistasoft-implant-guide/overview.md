@@ -130,7 +130,7 @@ planification implantaire VistaSoft et la conception prothétique exocad.
 
 ## Prérequis
 
-- Logiciel socle [VistaSoft 4.0](../vistasoft-4-0/overview/) installé.
+- Logiciel socle [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) installé.
 - Acquisition CBCT (typiquement via un appareil comme la VistaVox S, ou par
   import DICOM de données 3D issues d'un autre acquéreur).
 
@@ -223,9 +223,9 @@ planification implantaire compatible CEREC à partir d'appareils Dürr Dental).
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](../vistasoft-4-0/overview/)
-- [VistaSoft Trace — analyse céphalométrique](../vistasoft-trace/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Trace — analyse céphalométrique](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

@@ -98,8 +98,8 @@ corrosion et faciliter l'usage quotidien.
 ## Intégration
 
 Orotol Plus est utilisé avec les systèmes d'aspiration Dürr Dental
-([Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/),
-[Power Tower](/docs/fr/conventionnel/power-tower/overview/)) et avec
+([Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/),
+[Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)) et avec
 les **doseurs Hygosuc** (intégration système d'hygiène aspiration).
 
 ## Protocole d'utilisation Orotol Plus
@@ -121,22 +121,22 @@ Sources publiques :
 
 ## Protocole d'utilisation MD 555 (combiné à Orotol Plus)
 
-[**MD 555 cleaner**](../familles-id-md-hd-fd/overview/) est le nettoyant
+[**MD 555 cleaner**](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/) est le nettoyant
 spécial qui se combine à Orotol Plus pour le **nettoyage en profondeur**
 des canalisations d'aspiration. Protocole standard :
 
 | Élément | Valeur |
 |---|---|
 | **Concentration standard** | **5 %** (50 ml de MD 555 + eau pour 1 litre) |
-| **Fréquence standard** | **1 à 2 fois par semaine** |
+| **Fréquence recommandée** | **2 fois par semaine au minimum** ; **3 fois par semaine** en cas d'usage de **poudre prophylactique** (aéropolissage). *(La documentation publique Astrodental indique « 1 à 2 fois par semaine » ; ces valeurs renforcées sont une recommandation de pratique terrain — la poudre prophylactique laisse des résidus inorganiques que seul le MD 555 dissout.)* |
 | **Concentration renforcée (biofilm marqué)** | **10 %** (100 ml de MD 555 + eau pour 1 litre) |
 | **Fréquence renforcée** | **1 à 5 fois par semaine** en **alternance avec Orotol Plus** |
 | **Temps de contact optimal** | **1 à 2 heures** |
 | **Rinçage post-MD 555** | Rincer **abondamment** le système d'aspiration à l'eau |
 
-Cette combinaison **Orotol Plus quotidien + MD 555 hebdomadaire**
+Cette combinaison **Orotol Plus quotidien + MD 555 plusieurs fois par semaine**
 constitue le **protocole de référence** Dürr Dental pour préserver la
-longévité du moteur d'aspiration ([Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/)
+longévité du moteur d'aspiration ([Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
 et autres) et garantir la qualité d'hygiène réglementaire.
 
 ## EPI — Équipements de Protection Individuelle
@@ -192,7 +192,7 @@ spécifiques.
       "name": "Quel est le rôle du MD 555 par rapport à Orotol Plus ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre), une à deux fois par semaine."
+        "text": "Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre). Fréquence recommandée : au moins deux fois par semaine, et trois fois par semaine en cas d'usage de poudre prophylactique (aéropolissage), dont les résidus inorganiques sont dissous par le MD 555."
       }
     }
   ]
@@ -215,7 +215,7 @@ Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif
 
 ### Quel est le rôle du MD 555 par rapport à Orotol Plus ?
 
-Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre), une à deux fois par semaine.
+Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre). Fréquence recommandée : **au moins deux fois par semaine**, et **trois fois par semaine** en cas d'usage de **poudre prophylactique** (aéropolissage), dont les résidus inorganiques sont dissous par le MD 555.
 
 ## Sources publiques
 
@@ -228,10 +228,10 @@ Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration,
 
 ## Pour aller plus loin
 
-- [Hygobox / Hygopac — stockage et emballage](../hygobox-hygopac-emballage/overview/)
-- [Désinfection des instruments (ID 213)](../desinfection-empreintes/overview/)
-- [Désinfection des surfaces](../desinfection-surfaces/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Hygobox / Hygopac — stockage et emballage](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
+- [Désinfection des instruments (ID 213)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)
+- [Désinfection des surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

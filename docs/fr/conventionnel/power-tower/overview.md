@@ -208,7 +208,7 @@ Sélecteur de filtre officiel : <https://www.duerrdental.com/fr/produits/air-com
 | Élément | Type |
 |---|---|
 | Récupérateur d'amalgame intégrable | Option installable dans le châssis |
-| Connect Box ([fiche](/docs/fr/imagerie/connect-box/overview/)) | Pour générations antérieures sans interface réseau native |
+| Connect Box ([fiche](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)) | Pour générations antérieures sans interface réseau native |
 | Filtre bactériologique ULPA U16 / ISO 65U | De série sur Power Tower View, en option sur Power Tower Silence |
 | Kits de maintenance annuelle | Filtres fin et bactérios |
 | Extensions de garantie | Via service client Dürr Dental France |
@@ -218,9 +218,9 @@ Sélecteur de filtre officiel : <https://www.duerrdental.com/fr/produits/air-com
 Les Power Tower Silence et Power Tower View intègrent **avertissements
 précoces** et **rappels de maintenance automatiques** (verbatim page
 officielle). Cette intelligence embarquée est exposée à
-[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/) en
+[VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/) en
 natif (générations récentes) ou via
-[Connect Box](/docs/fr/imagerie/connect-box/overview/). Comme les Power
+[Connect Box](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/). Comme les Power
 Tower combinent **compresseur + aspiration**, ils remontent les
 paramètres des deux fonctions dans un même équipement.
 
@@ -310,11 +310,11 @@ Oui : avertissements précoces et rappels de maintenance automatiques, exposés 
 
 ## Pour aller plus loin
 
-- [Silver Airline — compresseurs seuls](../silver-airline/overview/)
-- [Tornado — compresseurs seuls (génération récente)](../tornado/overview/)
-- [Aspiration Tyscor (centralisée)](../tyscor-aspiration/overview/)
-- [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
-- [Index conventionnel](../)
+- [Silver Airline — compresseurs seuls](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
+- [Tornado — compresseurs seuls (génération récente)](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/)
+- [Aspiration Tyscor (centralisée)](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

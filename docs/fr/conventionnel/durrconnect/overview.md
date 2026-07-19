@@ -92,10 +92,10 @@ installation existante.
 DürrConnect est compatible avec tous les systèmes d'aspiration Dürr
 Dental :
 
-- [Tyscor — humide et sec, à poste unique ou centralisé](../tyscor-aspiration/overview/)
-- [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
-- [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
-- [VC 65 — aspiration chirurgicale](../aspiration-chirurgicale/overview/)
+- [Tyscor — humide et sec, à poste unique ou centralisé](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+- [VC 65 — aspiration chirurgicale](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
 
 <script type="application/ld+json">
 {
@@ -167,10 +167,10 @@ Oui, il assure la modularité et la compatibilité entre tous les composants d'a
 
 ## Pour aller plus loin
 
-- [Tyscor — gamme aspiration](../tyscor-aspiration/overview/)
-- [Power Tower](../power-tower/overview/)
-- [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
-- [Index conventionnel](../)
+- [Tyscor — gamme aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

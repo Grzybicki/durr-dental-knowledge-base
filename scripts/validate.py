@@ -435,13 +435,26 @@ def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
     - permalink Jekyll (``../x/overview/`` ou ``/docs/fr/.../x/overview/``) dont
       le fichier source est ``x/overview.md`` — et NON ``x/overview/index.md``.
     """
+    # Lien baseurl-absolu (/durr-dental-knowledge-base/docs/...) : retirer le
+    # baseurl pour retomber sur un chemin racine-absolu résolvable localement.
+    baseurl = "/durr-dental-knowledge-base"
+    if target == baseurl or target == baseurl + "/":
+        return True  # page d'accueil (landing, dépôt racine séparé)
+    if target.startswith(baseurl + "/"):
+        target = target[len(baseurl):]
+
     stem = target.rstrip("/")
     if target.startswith("/"):
         # lien racine-absolu : relatif à la racine du dépôt
         base = root
         stem = stem.lstrip("/")
     else:
-        # lien relatif : relatif au fichier courant
+        # lien relatif : relatif au fichier courant. NB : sur les pages publiées
+        # (permalinks Jekyll à slash final), un lien relatif se résout un cran
+        # plus bas côté navigateur — cause du bug 404. Les liens internes des
+        # pages publiées sont donc désormais TOUS en absolu baseurl (voir plus
+        # haut), ce qui supprime cette ambiguïté. Ici on reste fichier-relatif,
+        # correct pour les docs de dev non publiées (README, docs/WORKFLOW…).
         base = path.parent
     candidates = (
         base / stem,                 # fichier direct ou dossier

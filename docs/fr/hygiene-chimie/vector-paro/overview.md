@@ -201,7 +201,7 @@ parodontale non chirurgicale.
 
 ## Articulation avec Lunos
 
-Vector Paro et [Lunos](../lunos-system/overview/) sont les deux systèmes
+Vector Paro et [Lunos](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/) sont les deux systèmes
 Dürr Dental complémentaires pour la chaîne préventive et thérapeutique
 parodontale :
 
@@ -318,8 +318,8 @@ Oui : une étude prospective (PMC 11830227) sur 50 patients atteints de gingivit
 
 ## Pour aller plus loin
 
-- [Système Lunos — prophylaxie complémentaire](../lunos-system/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Système Lunos — prophylaxie complémentaire](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

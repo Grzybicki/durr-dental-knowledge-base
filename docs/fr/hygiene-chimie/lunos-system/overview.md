@@ -148,8 +148,8 @@ poudres prophylactiques historiques (bicarbonate de sodium, etc.) :
 - **Confort patient** : pas de poudre persistante en gorge.
 - **Compatibilité Tyscor** : aucune incidence sur la durée de vie du
   système d'aspiration centralisée (cf.
-  [Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/) et
-  [Orotol Plus](../desinfection-aspiration/overview/)).
+  [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) et
+  [Orotol Plus](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)).
 
 ### Variantes de poudres
 
@@ -187,7 +187,7 @@ reminéralisation et la protection post-traitement.
 ## Articulation avec Vector
 
 Le système Lunos s'articule avec le système **Vector** (notamment
-[Vector Paro](../vector-paro/overview/)) :
+[Vector Paro](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/vector-paro/overview/)) :
 
 - **Lunos** = prophylaxie générale, aéropolissage, pâtes, fluor.
 - **Vector** = thérapie parodontale ultrasonique atraumatique
@@ -269,8 +269,8 @@ Lunos couvre la prophylaxie générale (aéropolissage, pâtes, fluor) tandis qu
 
 ## Pour aller plus loin
 
-- [Vector Paro — thérapie parodontale atraumatique](../vector-paro/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Vector Paro — thérapie parodontale atraumatique](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/vector-paro/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

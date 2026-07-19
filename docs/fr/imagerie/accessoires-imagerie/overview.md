@@ -55,10 +55,10 @@ license: CC-BY-4.0
 ## Description courte
 
 Cette fiche cartographie les **accessoires** de la gamme imagerie
-Dürr Dental, complémentaires aux appareils principaux ([VistaVox S](../vistavox-s/overview/),
-[VistaPano S 2.0](../vistapano-2-0/overview/), [gamme VistaScan](../vistascan-gamme/overview/),
-[VistaRay 7](../vistaray-7/overview/), [VistaCam iX HD Smart](../vistacam-ix-hd-smart/overview/),
-[VistaIntra DC](../vistaintra-dc/overview/)).
+Dürr Dental, complémentaires aux appareils principaux ([VistaVox S](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/),
+[VistaPano S 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/), [gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/),
+[VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/), [VistaCam iX HD Smart](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/),
+[VistaIntra DC](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)).
 
 ## Plaques au phosphore (écrans à mémoire) VistaScan
 
@@ -66,7 +66,7 @@ Dürr Dental, complémentaires aux appareils principaux ([VistaVox S](../vistavo
 
 **VistaScan Image Plates IQ** sont les plaques au phosphore standards
 utilisées par les scanners intra-oraux série 2.0 de la gamme
-[VistaScan](../vistascan-gamme/overview/) (Mini Easy 2.0, Mini View 2.0,
+[VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) (Mini Easy 2.0, Mini View 2.0,
 Nano Easy, Ultra View — à lecteur RFID). Formats
 disponibles : tailles **0**, **1**, **2**, **3**, **4** pour couvrir les
 besoins intra-oraux.
@@ -77,12 +77,12 @@ Génération d'écrans à mémoire **Plus** (sans puce RFID), destinée aux scan
 **sans lecteur RFID** : le **parc VistaScan série 1.0** (Mini Easy, Mini Plus,
 Perio, Perio Net) et le **Combi View**. Les scanners série 2.0 n'acceptent pas
 ces écrans — ils exigent des plaques IQ à puce. Voir la
-[fiche VistaScan IQ — section écrans Plus](../vistascan-iq-ecrans/overview/).
+[fiche VistaScan IQ — section écrans Plus](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/).
 
 ### Écrans à mémoire extra-oraux
 
 Pour les formats **panoramique** et **céphalométrique** sur le
-[VistaScan Combi View](../vistascan-gamme/overview/), des écrans à mémoire
+[VistaScan Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/), des écrans à mémoire
 **extra-oraux** spécifiques sont disponibles.
 
 ### Cassettes d'écran
@@ -107,14 +107,14 @@ Cleaning Wipe) sert au nettoyage des plaques au phosphore VistaScan. C'est un
 ## Mordus comfort
 
 Mordus larges et souples pour la
-[VistaPano S 2.0 / Ceph 2.0](../vistapano-2-0/overview/), conçus pour
+[VistaPano S 2.0 / Ceph 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/), conçus pour
 stabiliser le patient et améliorer le confort pendant l'acquisition
 panoramique.
 
 ## Porte-modèles VistaVox S
 
 Porte-modèles dédiés à la
-[VistaVox S](../vistavox-s/overview/) pour l'**imagerie CBCT de modèles
+[VistaVox S](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/) pour l'**imagerie CBCT de modèles
 plâtres** (utile pour la prothèse et l'orthodontie). Compatible avec le
 **Stitching Tool** documenté par les filiales nationales Dürr Dental.
 
@@ -124,15 +124,15 @@ plâtres** (utile pour la prothèse et l'orthodontie). Compatible avec le
 |---|---|---|
 | **Cam** | Lumière blanche HD | Caméra intraorale standard |
 | **Proof** | Fluorescence 405 nm | Détection des caries et de la plaque sans révélateur |
-| **Proxi** | NIR 850 nm | Détection caries approximales (voir [fiche VistaCam Proxi](../vistacam-proxi/overview/)) |
+| **Proxi** | NIR 850 nm | Détection caries approximales (voir [fiche VistaCam Proxi](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/)) |
 
-Voir la [fiche VistaCam iX HD Smart](../vistacam-ix-hd-smart/overview/)
+Voir la [fiche VistaCam iX HD Smart](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/)
 pour le détail du système.
 
 ## Angulateurs (radiographie intraorale)
 
 **Angulateurs** : positionneurs métalliques ou plastiques utilisés avec
-les capteurs [VistaRay 7](../vistaray-7/overview/) ou les plaques
+les capteurs [VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/) ou les plaques
 VistaScan IQ pour standardiser le positionnement angulaire lors des
 prises de vue intraorales.
 
@@ -145,7 +145,7 @@ verticale et horizontale** adaptée aux différents praticiens du cabinet.
 ## Filtres ULPA (compresseurs)
 
 Pour les compresseurs Dürr Dental, voir la
-[fiche Silver Airline](/docs/fr/conventionnel/silver-airline/overview/)
+[fiche Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
 pour les filtres bactériologiques ULPA U16 / ISO 65U.
 
 <script type="application/ld+json">
@@ -217,14 +217,14 @@ La tête Cam (lumière blanche HD), la tête Proof (fluorescence 405 nm pour la 
 
 ## Pour aller plus loin
 
-- [VistaPano S 2.0 / Ceph 2.0](../vistapano-2-0/overview/)
-- [VistaVox S](../vistavox-s/overview/)
-- [Gamme VistaScan](../vistascan-gamme/overview/)
-- [VistaCam iX HD Smart](../vistacam-ix-hd-smart/overview/)
-- [VistaCam Proxi](../vistacam-proxi/overview/)
-- [VistaRay 7](../vistaray-7/overview/)
-- [VistaIntra DC](../vistaintra-dc/overview/)
-- [Index imagerie dentaire](../)
+- [VistaPano S 2.0 / Ceph 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)
+- [VistaVox S](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/)
+- [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
+- [VistaCam iX HD Smart](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/)
+- [VistaCam Proxi](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/)
+- [VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
+- [VistaIntra DC](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

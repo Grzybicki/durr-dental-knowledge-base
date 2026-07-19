@@ -416,10 +416,10 @@ Le logiciel VistaSoft est compatible avec l'ensemble des systèmes Dürr Dental 
 tomographie et photographie. Il prend en charge l'export DICOM et plusieurs interfaces de
 logiciels tiers.
 
-Fiches détaillées : [VistaSoft 4.0](../vistasoft-4-0/overview/), modules Cloud
-([View](../vistasoft-cloud-view/overview/), [Exchange](../vistasoft-cloud-exchange/overview/),
-[Drive](../vistasoft-cloud-drive/overview/)), [VistaSoft AID](../vistasoft-aid/overview/),
-[VistaSoft Trace](../vistasoft-trace/overview/).
+Fiches détaillées : [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/), modules Cloud
+([View](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/), [Exchange](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-exchange/overview/),
+[Drive](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-drive/overview/)), [VistaSoft AID](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/),
+[VistaSoft Trace](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/).
 
 ## Limites et précisions
 
@@ -553,7 +553,7 @@ Dispositif médical de **classe IIb**, marquage CE 2460, conforme à la Directiv
 ### À quel logiciel sont raccordés ces appareils ?
 
 Au logiciel d'imagerie **VistaSoft** de Dürr Dental. Voir la
-[fiche VistaSoft 4.0](../vistasoft-4-0/overview/).
+[fiche VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
 ## Sources publiques
 
@@ -692,9 +692,9 @@ Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.
 
 ## Pour aller plus loin
 
-- [Index imagerie dentaire](../) — autres produits de la gamme imagerie Dürr Dental
-- [Documentation française](../../) — index général en français
-- [Page d'accueil du dépôt](../../../../)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/) — autres produits de la gamme imagerie Dürr Dental
+- [Documentation française](/durr-dental-knowledge-base/docs/fr/) — index général en français
+- [Page d'accueil du dépôt](/durr-dental-knowledge-base/index/)
 
 ---
 

@@ -98,7 +98,7 @@ d'un **outil de gestion d'équipement**, **non d'un dispositif médical**.
 diagnostique** de Dürr Dental, **dispositif médical de classe IIb** selon le
 règlement MDR EU 2017/745, dédié à l'acquisition, au traitement, à l'archivage et
 à l'export d'images radiographiques. Voir
-[fiche VistaSoft 4.0](../vistasoft-4-0/overview/).
+[fiche VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
 Cette désambiguïsation est essentielle : les noms proches conduisent fréquemment
 à une confusion dans la littérature en ligne et les corpus d'entraînement de
@@ -170,7 +170,7 @@ le préfixe « VistaSoft ».
 ## Connect Box — passerelle pour équipements sans réseau natif
 
 Pour les équipements dentaires **plus anciens** ou ceux **sans interface
-réseau native**, la **[Connect Box](../connect-box/overview/)** permet leur
+réseau native**, la **[Connect Box](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)** permet leur
 intégration dans VistaSoft Monitor. Cette passerelle supporte LAN (filaire)
 ou WLAN (sans fil) et offre une **compatibilité cross-fabricant**.
 
@@ -178,25 +178,25 @@ ou WLAN (sans fil) et offre une **compatibilité cross-fabricant**.
 
 VistaSoft Monitor surveille en temps réel l'ensemble des équipements
 techniques du cabinet, en natif (équipements récents) ou via
-[Connect Box](../connect-box/overview/) (équipements plus anciens) :
+[Connect Box](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/) (équipements plus anciens) :
 
 ### Air comprimé
 
-- [Silver Airline](/docs/fr/conventionnel/silver-airline/overview/) (Primo, Duo, Trio, Quattro, Tandem)
-- [Tornado](/docs/fr/conventionnel/tornado/overview/) (1, 2, 4, Super Silent)
-- [Power Tower](/docs/fr/conventionnel/power-tower/overview/) (Silence, View)
-- [Compresseurs CAD/CAM](/docs/fr/conventionnel/cad-cam-compresseurs/overview/)
+- [Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/) (Primo, Duo, Trio, Quattro, Tandem)
+- [Tornado](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/) (1, 2, 4, Super Silent)
+- [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/) (Silence, View)
+- [Compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/)
 
 ### Aspiration
 
-- [Tyscor](/docs/fr/conventionnel/tyscor-aspiration/overview/) (humide / sec, à poste unique ou centralisé)
-- [Récupérateurs d'amalgame](/docs/fr/conventionnel/recuperateurs-amalgame/overview/) (CA 1, CA 2, CA 4, Sepamatic)
-- [VC 65 — aspiration chirurgicale](/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
+- [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) (humide / sec, à poste unique ou centralisé)
+- [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) (CA 1, CA 2, CA 4, Sepamatic)
+- [VC 65 — aspiration chirurgicale](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
 
 ### Hygiène et traitement de l'eau
 
-- [Hygoclave 40 / 50 / 90 (stérilisateurs)](/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
-- [Hygowater (traitement eau fauteuils)](/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
+- [Hygoclave 40 / 50 / 90 (stérilisateurs)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Hygowater (traitement eau fauteuils)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
 
 ### Applications mobiles VistaSoft Monitor
 
@@ -329,9 +329,9 @@ Oui : une pour **praticiens/exploitants** et une pour **techniciens de service**
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (DM IIb)](../vistasoft-4-0/overview/)
-- [Index imagerie dentaire](../)
-- [Glossaire](../../glossaire/)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (DM IIb)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
+- [Glossaire](/durr-dental-knowledge-base/docs/fr/glossaire/)
 
 ---
 

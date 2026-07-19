@@ -59,8 +59,8 @@ optimise la préparation pour l'acquisition suivante.
 | Formats de plaques | Tailles intraorales **0, 1, 2** uniquement |
 | Encombrement | Le plus compact de la gamme — chairside |
 | Workflow | Scan + effacement en **1 étape** |
-| Plaques compatibles | **VistaScan Image Plates IQ** — voir [fiche écrans IQ](../vistascan-iq-ecrans/overview/) |
-| Logiciel | [VistaSoft 4.0](../vistasoft-4-0/overview/) (natif) |
+| Plaques compatibles | **VistaScan Image Plates IQ** — voir [fiche écrans IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
+| Logiciel | [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) (natif) |
 
 ## Cas d'usage typique
 
@@ -68,7 +68,7 @@ Cabinet exigu (ex. : nouveau cabinet, cabinet itinérant, second poste de
 travail) où le **gain de place** prime, et où les besoins se limitent aux
 **tailles 0 à 2** (rétro-alvéolaires classiques + bite-wings adulte). Pour
 les **tailles 3 et 4** ou les **occlusaux**, choisir un
-[VistaScan Mini Easy 2.0](../vistascan-mini-easy-2-0/overview/) ou supérieur.
+[VistaScan Mini Easy 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/) ou supérieur.
 
 ## Performances et intégration
 
@@ -122,6 +122,14 @@ D'après la page produit officielle Dürr Dental :
         "@type": "Answer",
         "text": "Dans un cabinet exigu (nouveau cabinet, poste itinérant, second poste) où les besoins se limitent aux tailles 0 à 2. Pour les tailles 3 et 4 ou les occlusaux, le Mini Easy 2.0 est préférable."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on changer facilement de format de plaque sur le VistaScan Nano Easy ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non : le Nano Easy n'accepte qu'une seule taille de plaque à la fois, déterminée par l'élément (cassette) inséré. Changer de format impose de remplacer physiquement cet élément par celui du format voulu. Un cabinet qui alterne fréquemment les formats (par exemple S0 en pédodontie puis S2 chez l'adulte) doit manipuler l'élément à chaque changement, ce qui constitue une contrainte d'exploitation à anticiper."
+      }
     }
   ]
 }
@@ -139,8 +147,9 @@ D'après la page produit officielle Dürr Dental :
 
 ## Consommables — écrans et sachets de protection
 
-- **Écrans à mémoire** : [VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/), formats **S0 à S2 uniquement**, montés dans un **élément (cassette) par format** que l'on remplace pour changer de taille (format S2 fourni d'origine, S0/S1 en option).
-- **Sachets de protection contre la lumière** : le scanner est **livré avec ses sachets** de protection (à usage unique), indispensables pour protéger la plaque de la lumière et des contaminations croisées en bouche. Détail et formats sur la fiche [Accessoires imagerie](../accessoires-imagerie/overview/).
+- **Écrans à mémoire** : [VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/), formats **S0 à S2 uniquement**, montés dans un **élément (cassette) adapté au format de la plaque** (format S2 fourni d'origine, S0/S1 en option).
+- ⚠️ **Contrainte d'exploitation — un élément par format** : le VistaScan Nano Easy n'accepte qu'**une seule taille de plaque à la fois**, déterminée par l'élément (cassette) inséré. **Changer de format impose de remplacer physiquement l'élément** par celui correspondant au format voulu. Un cabinet qui alterne **fréquemment** les formats (par ex. **S0 en pédodontie** puis **S2 chez l'adulte**) doit donc **manipuler l'élément à chaque changement** — contrainte lourde à anticiper si l'activité mélange régulièrement les tailles. Un cabinet travaillant majoritairement un seul format (souvent le S2) n'est pas concerné.
+- **Sachets de protection contre la lumière** : le scanner est **livré avec ses sachets** de protection (à usage unique), indispensables pour protéger la plaque de la lumière et des contaminations croisées en bouche. Détail et formats sur la fiche [Accessoires imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/).
 
 ## Firmware
 
@@ -164,12 +173,16 @@ Les plaques VistaScan Image Plates IQ.
 
 Dans un cabinet exigu (nouveau cabinet, poste itinérant, second poste) où les besoins se limitent aux tailles 0 à 2. Pour les tailles 3 et 4 ou les occlusaux, le Mini Easy 2.0 est préférable.
 
+### Peut-on changer facilement de format de plaque sur le VistaScan Nano Easy ?
+
+Non : le Nano Easy n'accepte qu'une seule taille de plaque à la fois, déterminée par l'**élément (cassette)** inséré. Changer de format impose de **remplacer physiquement cet élément** par celui du format voulu. Un cabinet qui alterne fréquemment les formats (par exemple **S0 en pédodontie** puis **S2 chez l'adulte**) doit manipuler l'élément à chaque changement, ce qui constitue une **contrainte d'exploitation à anticiper**.
+
 ## Pour aller plus loin
 
-- [Gamme VistaScan complète (vue d'ensemble)](../vistascan-gamme/overview/)
-- [VistaScan Mini Easy 2.0 — variante tailles 0 à 4](../vistascan-mini-easy-2-0/overview/)
-- [Écrans VistaScan Image Plates IQ](../vistascan-iq-ecrans/overview/)
-- [Index imagerie dentaire](../)
+- [Gamme VistaScan complète (vue d'ensemble)](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
+- [VistaScan Mini Easy 2.0 — variante tailles 0 à 4](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/)
+- [Écrans VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

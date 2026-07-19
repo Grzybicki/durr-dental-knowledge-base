@@ -94,8 +94,8 @@ intégration ergonomique dans le cabinet et un déclenchement non manuel
 
 ## Système d'hygiène 4 couleurs
 
-La désinfection des mains correspond à la couleur **jaune** dans le
-[système d'hygiène 4 couleurs](../desinfection-surfaces/overview/) de
+La désinfection des mains (gamme **HD**) correspond à la couleur **rose** dans le
+[système d'hygiène 4 couleurs](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) de
 Dürr Dental.
 
 <script type="application/ld+json">
@@ -124,7 +124,7 @@ Dürr Dental.
       "name": "À quelle couleur correspond la désinfection des mains dans le système Dürr Dental ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "À la couleur jaune du système d'hygiène 4 couleurs (vert = surfaces, bleu = instruments, rouge = aspiration, jaune = mains)."
+        "text": "À la couleur rose du système d'hygiène 4 couleurs (vert = surfaces, bleu = instruments, jaune = aspiration et zones spéciales, rose = mains)."
       }
     },
     {
@@ -151,7 +151,7 @@ Le HD 420 plus, des produits de nettoyage et d'entretien des mains pour usage qu
 
 ### À quelle couleur correspond la désinfection des mains dans le système Dürr Dental ?
 
-À la couleur jaune du système d'hygiène 4 couleurs (vert = surfaces, bleu = instruments, rouge = aspiration, jaune = mains).
+À la couleur rose du système d'hygiène 4 couleurs (vert = surfaces, bleu = instruments, jaune = aspiration et zones spéciales, rose = mains).
 
 ### Le HD 420 plus est-il soumis au Certibiocide ?
 
@@ -166,10 +166,10 @@ Non : les désinfectants pour les mains (HD 410, HD 420 plus) sont des produits 
 
 ## Pour aller plus loin
 
-- [Désinfection des surfaces](../desinfection-surfaces/overview/)
-- [Désinfection des systèmes d'aspiration (Orotol Plus)](../desinfection-aspiration/overview/)
-- [Désinfection des empreintes (Hygojet)](../desinfection-empreintes/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Désinfection des surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)
+- [Désinfection des systèmes d'aspiration (Orotol Plus)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
+- [Désinfection des empreintes (Hygojet)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

@@ -149,7 +149,7 @@ couvrir l'ensemble des besoins, du cabinet standard à la clinique :
 | **2 × Duo Tandem** (deux compresseurs Duo Tandem associés) | Cabinets multi-praticiens étendus |
 | **2 × Quattro Tandem** (deux compresseurs Quattro Tandem associés) | Très grands cabinets, petites cliniques |
 | **2 × Quattro P 20** (deux Quattro P 20 associés) | Configurations transitoires avant systèmes cliniques |
-| **Au-delà** : passage aux **systèmes pour cliniques** | Cliniques universitaires, CHU, gros centres multi-cabinets — voir [fiche systèmes cliniques](../systemes-cliniques/overview/) |
+| **Au-delà** : passage aux **systèmes pour cliniques** | Cliniques universitaires, CHU, gros centres multi-cabinets — voir [fiche systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/) |
 
 Cette **progression continue** de capacité — sans rupture brutale —
 permet à un cabinet en croissance d'**augmenter progressivement** sa
@@ -159,13 +159,13 @@ plutôt qu'en remplaçant le compresseur.
 > **Règle pratique** : à partir de **2 × Quattro P 20**, la bascule
 > vers les **compresseurs systèmes cliniques** (400 V triphasé,
 > capacité dédiée hospitalière) devient économiquement et techniquement
-> pertinente. Voir [fiche systèmes cliniques](../systemes-cliniques/overview/).
+> pertinente. Voir [fiche systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/).
 
 ### Compresseurs CAD/CAM
 
 Une déclinaison spécifique de la gamme est dédiée aux **systèmes
 CAD/CAM** dentaires (laboratoires de prothèse, cabinets intégrant la CFAO).
-Voir la [fiche compresseurs CAD/CAM](../cad-cam-compresseurs/overview/).
+Voir la [fiche compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/).
 
 ## Caractéristiques techniques complètes — gamme Silver Airline (factsheet P007-158-03)
 
@@ -205,7 +205,7 @@ champ libre.
 >   cuve commune → doublement de capacité et redondance (si un groupe
 >   tombe en panne, l'autre prend le relais).
 > - **Quattro P 20** = la plus grosse configuration Silver Airline
->   évolutive avant passage en [systèmes cliniques dédiés (P 6000-12000)](../systemes-cliniques/overview/).
+>   évolutive avant passage en [systèmes cliniques dédiés (P 6000-12000)](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/).
 
 ### Lecture des valeurs sonores
 
@@ -258,8 +258,8 @@ certains modèles.
 
 L'ensemble de la gamme Silver Airline (Primo, Duo, Trio, Quattro et
 variantes Tandem) est connectable à
-[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/), soit
-nativement (générations récentes), soit via [Connect Box](/docs/fr/imagerie/connect-box/overview/)
+[VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/), soit
+nativement (générations récentes), soit via [Connect Box](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)
 pour les générations antérieures. Paramètres typiquement remontés :
 état de fonctionnement, pression, alertes de maintenance, heures de
 fonctionnement, températures.
@@ -357,11 +357,11 @@ Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la 
 
 ## Pour aller plus loin
 
-- [Tornado — autre gamme compresseurs Dürr Dental](../tornado/overview/)
-- [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
-- [Compresseurs CAD/CAM](../cad-cam-compresseurs/overview/)
-- [Aspiration Tyscor](../tyscor-aspiration/overview/)
-- [Index conventionnel](../)
+- [Tornado — autre gamme compresseurs Dürr Dental](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/)
+- [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/)
+- [Aspiration Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

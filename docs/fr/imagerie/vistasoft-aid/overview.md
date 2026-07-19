@@ -236,10 +236,10 @@ VistaSoft AID = module **DM IIa séparé** spécialisé caries.
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (prérequis)](../vistasoft-4-0/overview/)
-- [VistaSoft Trace — analyse céphalométrique](../vistasoft-trace/overview/)
-- [VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (prérequis)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Trace — analyse céphalométrique](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/)
+- [VistaSoft Implant & Guide](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

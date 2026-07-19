@@ -84,7 +84,7 @@ Page des interfaces : [vdds.de/en/interfaces/](https://www.vdds.de/en/interfaces
 
 Dürr Dental est membre du VDDS, et **VistaSoft 4.0 implémente les standards
 VDDS-media et BDW** via le module
-[Patient Bridge](../patient-bridge/overview/).
+[Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/).
 
 ## VDDS-media — l'interface historique
 
@@ -134,7 +134,7 @@ le monde dentaire allemand des standards internationaux.
 ## Implémentation par VistaSoft 4.0
 
 VistaSoft 4.0 implémente les standards VDDS-media et BDW via le module
-[Patient Bridge](../patient-bridge/overview/). Conjugués au protocole Patient
+[Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/). Conjugués au protocole Patient
 Bridge propre et à `patimport.txt`, ils constituent **quatre voies
 d'intégration** complémentaires avec les logiciels de gestion de cabinet
 (PMS) :
@@ -207,7 +207,7 @@ VDDS-media = standard historique (v1.3 / 2005). BDW = successeur évolutif
 
 ### Implémentés par VistaSoft 4.0 ?
 
-Oui — via [Patient Bridge](../patient-bridge/overview/).
+Oui — via [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/).
 
 ## Sources publiques
 
@@ -238,10 +238,10 @@ Oui — via [Patient Bridge](../patient-bridge/overview/).
 
 ## Pour aller plus loin
 
-- [Patient Bridge — interface VistaSoft vers les PMS](../patient-bridge/overview/)
-- [DICOM Conformance Statement VistaSoft](../dicom/overview/)
-- [Intégration avec les logiciels de gestion (PMS)](../integration-pms/overview/)
-- [Index imagerie dentaire](../)
+- [Patient Bridge — interface VistaSoft vers les PMS](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)
+- [DICOM Conformance Statement VistaSoft](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/)
+- [Intégration avec les logiciels de gestion (PMS)](/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

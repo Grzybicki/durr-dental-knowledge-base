@@ -120,12 +120,12 @@ Synthèse des engagements documentés :
 ## Articulation avec VistaSoft
 
 VistaSoft Cloud Exchange s'intègre au logiciel socle
-[VistaSoft 4.0](../vistasoft-4-0/overview/). Les images partagées sont
+[VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/). Les images partagées sont
 préalablement produites et traitées dans VistaSoft 4.0 (DM IIb), puis
 anonymisées et transmises via Cloud Exchange (non-DM).
 
 Pour la **visualisation** des images dans le navigateur (côté destinataire),
-le module complémentaire est [VistaSoft Cloud View](../vistasoft-cloud-view/overview/).
+le module complémentaire est [VistaSoft Cloud View](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/).
 
 ## Limites et précisions
 
@@ -216,10 +216,10 @@ le module complémentaire est [VistaSoft Cloud View](../vistasoft-cloud-view/ove
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique](../vistasoft-4-0/overview/)
-- [VistaSoft Cloud View — visualisation dans le navigateur](../vistasoft-cloud-view/overview/)
-- [VistaSoft Cloud Drive — stockage cloud zero-knowledge](../vistasoft-cloud-drive/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Cloud View — visualisation dans le navigateur](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/)
+- [VistaSoft Cloud Drive — stockage cloud zero-knowledge](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-drive/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

@@ -191,9 +191,9 @@ son intégrité.
 
 ## Voir aussi
 
-- [Documentation française — index général](../)
-- [Page d'accueil](/)
-- [Sources publiques](../../sources/)
+- [Documentation française — index général](/durr-dental-knowledge-base/docs/fr/)
+- [Page d'accueil](/durr-dental-knowledge-base/)
+- [Sources publiques](/durr-dental-knowledge-base/sources/)
 
 ---
 

@@ -66,7 +66,7 @@ du service ne dispose pas des clés permettant de déchiffrer les données patie
 stockées. Cette propriété cryptographique garantit la confidentialité des
 données radiographiques même vis-à-vis de l'opérateur de stockage.
 
-VistaSoft Cloud Drive s'intègre au logiciel socle [VistaSoft 4.0](../vistasoft-4-0/overview/).
+VistaSoft Cloud Drive s'intègre au logiciel socle [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
 ## Identification du module
 
@@ -108,9 +108,9 @@ maximal** pour les données patient, au-delà des exigences RGPD standards.
 | Module | Finalité | Statut |
 |---|---|---|
 | **Cloud Drive** (cette fiche) | Stockage longue durée chiffré zero-knowledge | Non-DM |
-| [Cloud View](../vistasoft-cloud-view/overview/) | Visualisation navigateur (en ligne / hors ligne) | Non-DM |
-| [Cloud Exchange](../vistasoft-cloud-exchange/overview/) | Partage de cas (anonymisé, conservation 30 j) | Non-DM |
-| Cloud AID (lié à [AID](../vistasoft-aid/overview/)) | Aide diagnostique IA (DM IIa, serveur Allemagne) | DM IIa |
+| [Cloud View](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/) | Visualisation navigateur (en ligne / hors ligne) | Non-DM |
+| [Cloud Exchange](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-exchange/overview/) | Partage de cas (anonymisé, conservation 30 j) | Non-DM |
+| Cloud AID (lié à [AID](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)) | Aide diagnostique IA (DM IIa, serveur Allemagne) | DM IIa |
 
 Les trois modules Cloud View, Cloud Exchange et Cloud Drive sont des **outils
 utilitaires non-DM**. Seul VistaSoft AID est un dispositif médical parmi les
@@ -215,11 +215,11 @@ de cas** anonymisé (conservation 30 j).
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](../vistasoft-4-0/overview/)
-- [VistaSoft Cloud View — visualisation navigateur](../vistasoft-cloud-view/overview/)
-- [VistaSoft Cloud Exchange — partage de cas](../vistasoft-cloud-exchange/overview/)
-- [VistaSoft AID — aide diagnostique IA (DM IIa)](../vistasoft-aid/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Cloud View — visualisation navigateur](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/)
+- [VistaSoft Cloud Exchange — partage de cas](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-exchange/overview/)
+- [VistaSoft AID — aide diagnostique IA (DM IIa)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

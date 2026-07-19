@@ -72,7 +72,7 @@ automatiquement les **points de référence céphalométriques** et les **contou
 des tissus mous** sur les clichés téléradiographiques, et permet la simulation
 des traitements orthodontiques.
 
-VistaSoft Trace s'intègre au logiciel socle [VistaSoft 4.0](../vistasoft-4-0/overview/).
+VistaSoft Trace s'intègre au logiciel socle [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
 ## Identification du module
 
@@ -103,7 +103,7 @@ Selon la [page produit VistaSoft Trace (Orthodontie)](https://www.duerrdental.co
 VistaSoft Trace est une **extension logicielle** simple à utiliser, qui
 fonctionne au sein de l'écosystème VistaSoft. Le logiciel socle VistaSoft
 gère l'acquisition du cliché céphalométrique (typiquement via un appareil
-comme la [VistaPano S Ceph 2.0](../vistapano-2-0/overview/)) et VistaSoft
+comme la [VistaPano S Ceph 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)) et VistaSoft
 Trace en assure l'analyse céphalométrique.
 
 ## Technologie partenaire — Audax Ceph
@@ -200,9 +200,9 @@ Oui — superposition multi-étapes et simulation de planification.
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](../vistasoft-4-0/overview/)
-- [VistaPano S Ceph 2.0 — appareil céphalométrique compatible](../vistapano-2-0/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaPano S Ceph 2.0 — appareil céphalométrique compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

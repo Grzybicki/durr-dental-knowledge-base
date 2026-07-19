@@ -98,7 +98,7 @@ configuration humide à sèche ou inversement).
 ## Articulation avec DürrConnect
 
 L'ensemble de ces accessoires fait partie du système global
-[DürrConnect](../durrconnect/overview/), qui garantit la
+[DürrConnect](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/), qui garantit la
 **compatibilité et la modularité** entre tous les composants
 d'aspiration Dürr Dental.
 
@@ -171,11 +171,11 @@ Oui, c'est le support modulaire d'aspiration au fauteuil de la gamme ; il accuei
 
 ## Pour aller plus loin
 
-- [DürrConnect — système global d'intégration](../durrconnect/overview/)
-- [Tyscor — aspiration centralisée](../tyscor-aspiration/overview/)
-- [Power Tower](../power-tower/overview/)
-- [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
-- [Index conventionnel](../)
+- [DürrConnect — système global d'intégration](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/)
+- [Tyscor — aspiration centralisée](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

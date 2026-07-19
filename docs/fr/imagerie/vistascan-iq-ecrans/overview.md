@@ -76,7 +76,7 @@ automatique de la qualité d'image.
 | **RFID intégré** | Identification automatique de la plaque (numéro de série, date de fabrication) à chaque acquisition |
 | **Code QR** | Identification visuelle et redondance avec le RFID |
 | **Attribution automatique** | Le patient est associé à l'image dès l'acquisition (workflow accéléré) |
-| **Rotation automatique** | Orientation anatomique correcte de l'image (alignée avec [VistaSoft AI](../vistasoft-aid/overview/)) |
+| **Rotation automatique** | Orientation anatomique correcte de l'image (alignée avec [VistaSoft AI](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)) |
 | **Suivi qualité par IA** | VistaSoft AI vérifie automatiquement chaque image et détecte la dégradation de la plaque dans le temps |
 
 ## Tailles disponibles
@@ -93,7 +93,7 @@ VistaScan IQ propose un **portfolio complet de tailles intra-orales** :
 
 Au-delà des tailles intraorales, des écrans à mémoire **extra-oraux**
 (panoramique, céphalométrique) sont disponibles pour les scanners
-[VistaScan Combi View](../vistascan-gamme/overview/).
+[VistaScan Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/).
 
 ## Compatibilité scanners VistaScan
 
@@ -104,10 +104,10 @@ plaques IQ :
 
 | Scanner | Liens |
 |---|---|
-| **VistaScan Nano Easy** | [Gamme VistaScan](../vistascan-gamme/overview/) |
-| **VistaScan Mini Easy 2.0** | [Gamme VistaScan](../vistascan-gamme/overview/) |
+| **VistaScan Nano Easy** | [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
+| **VistaScan Mini Easy 2.0** | [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
 | **VistaScan Mini View 2.0** | [Page officielle](https://www.duerrdental.com/en/products/imaging/intraoral-diagnostics/vistascan-mini-view-20/) |
-| **VistaScan Ultra View** | [Gamme VistaScan](../vistascan-gamme/overview/) |
+| **VistaScan Ultra View** | [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
 
 ### Ancienne génération (série 1.0) — Compatibilité plaques IQ sans RFID
 
@@ -143,14 +143,14 @@ le parc de scanners VistaScan série 1.0 en service reste important, et les plaq
 Plus offrent les mêmes **5 formats intra-oraux (S0 à S4)**, la **haute résolution
 effective (22 LP/mm)** et la **réutilisabilité** (des centaines d'expositions) que
 le reste de la gamme. Leurs références figurent sur la fiche
-[Accessoires imagerie](../accessoires-imagerie/overview/).
+[Accessoires imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/).
 
 | Critère | VistaScan IQ | Écrans VistaScan Plus |
 |---|---|---|
 | **Puce RFID** | **Oui** | **Non** (pas de puce RFID) |
 | **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Perio, Perio Net) **et Combi (View / Plus)** |
 | **Compatibilité croisée** | Lisibles aussi par les scanners **sans** lecteur RFID (série 1.0, Combi), la puce étant simplement ignorée | **Non lisibles par la série 2.0** (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View), qui exige une plaque IQ à puce |
-| **Workflow automatisé via [Smart Reader](../smart-reader/overview/)** | **Oui** — Mini Easy 2.0 et Mini View 2.0 uniquement | Non |
+| **Workflow automatisé via [Smart Reader](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)** | **Oui** — Mini Easy 2.0 et Mini View 2.0 uniquement | Non |
 | **Suivi qualité par IA (VistaSoft AI)** | **Oui** | Non |
 
 > **Règle de compatibilité (sens unique)** : un scanner **sans** lecteur RFID
@@ -200,13 +200,13 @@ le diagnostic.
 
 Pour un workflow optimisé avec les plaques VistaScan IQ, voir :
 
-- [**Smart Reader** — lecteur USB RFID pour attribution patient/plaque](../smart-reader/overview/)
-- [**VistaPosition** — système de positionnement PSP et angulateurs ERLM](../vistaposition/overview/)
+- [**Smart Reader** — lecteur USB RFID pour attribution patient/plaque](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)
+- [**VistaPosition** — système de positionnement PSP et angulateurs ERLM](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
 - **Sachets de protection contre la lumière** : disponibles dans toutes
   les tailles, pour la protection des plaques en bouche.
 - **Cassettes d'écran** pour les plaques extra-orales.
 
-Voir aussi la [fiche accessoires imagerie](../accessoires-imagerie/overview/).
+Voir aussi la [fiche accessoires imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/).
 
 <script type="application/ld+json">
 {
@@ -284,12 +284,12 @@ Oui, ils sont utilisables avec les scanners VistaScan de la série 1.0, mais san
 
 ## Pour aller plus loin
 
-- [Gamme VistaScan — scanners de plaques au phosphore](../vistascan-gamme/overview/)
-- [VistaPosition — positionneur et angulateurs](../vistaposition/overview/)
-- [VistaSoft AI — fonctions IA inclusives (rotation, qualité)](../vistasoft-4-0/overview/)
-- [VistaSoft AID — aide IA caries (DM IIa)](../vistasoft-aid/overview/)
-- [VistaIntra DC — générateur intraoral compatible](../vistaintra-dc/overview/)
-- [Index imagerie dentaire](../)
+- [Gamme VistaScan — scanners de plaques au phosphore](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
+- [VistaPosition — positionneur et angulateurs](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
+- [VistaSoft AI — fonctions IA inclusives (rotation, qualité)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft AID — aide IA caries (DM IIa)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)
+- [VistaIntra DC — générateur intraoral compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

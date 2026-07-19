@@ -123,7 +123,7 @@ Quel que soit le modèle, le scanner est **livré avec ses écrans** (formats de
 série ci-dessus) **et les sachets de protection contre la lumière**
 correspondants — consommable à usage unique, indispensable pour protéger la
 plaque de la lumière et des contaminations croisées en bouche. Détail des
-sachets et formats sur la fiche [Accessoires imagerie](../accessoires-imagerie/overview/).
+sachets et formats sur la fiche [Accessoires imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/).
 
 Source : *Mémento Imagerie Dürr Dental France* (catalogue commercial public).
 
@@ -137,22 +137,22 @@ plus précoces) et des **structures osseuses les plus fines**.
 ## Intégration logicielle
 
 L'ensemble de la gamme VistaScan s'intègre nativement à
-[VistaSoft 4.0](../vistasoft-4-0/overview/) :
+[VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) :
 
 - Pilotage de l'acquisition.
 - Réception immédiate des images dans le dossier patient.
-- Support [Image Bridge](../image-bridge/overview/) pour cohabitation avec
+- Support [Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/) pour cohabitation avec
   d'autres logiciels d'imagerie tiers, et
-  [VistaSoft Connect (TWAIN)](../migration-bases-donnees/overview/) pour
+  [VistaSoft Connect (TWAIN)](/durr-dental-knowledge-base/docs/fr/imagerie/migration-bases-donnees/overview/) pour
   exposition aux logiciels tiers via TWAIN.
 
 ## Compatibilité écosystème
 
 | Composant | Lien |
 |---|---|
-| Générateur de rayons X intraoral | [VistaIntra DC](../vistaintra-dc/overview/) — pré-programmé pour les plaques au phosphore |
-| Logiciel d'imagerie | [VistaSoft 4.0](../vistasoft-4-0/overview/) |
-| Cohabitation logiciels tiers | [Image Bridge](../image-bridge/overview/) |
+| Générateur de rayons X intraoral | [VistaIntra DC](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/) — pré-programmé pour les plaques au phosphore |
+| Logiciel d'imagerie | [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
+| Cohabitation logiciels tiers | [Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/) |
 
 <script type="application/ld+json">
 {
@@ -313,10 +313,10 @@ Elles sont réutilisables des centaines de fois, s'effacent automatiquement apr�
 
 ## Pour aller plus loin
 
-- [VistaIntra DC — générateur compatible](../vistaintra-dc/overview/)
-- [VistaRay 7 — capteur intraoral alternatif aux plaques](../vistaray-7/overview/)
-- [VistaSoft 4.0 — logiciel d'imagerie](../vistasoft-4-0/overview/)
-- [Index imagerie dentaire](../)
+- [VistaIntra DC — générateur compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)
+- [VistaRay 7 — capteur intraoral alternatif aux plaques](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
+- [VistaSoft 4.0 — logiciel d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

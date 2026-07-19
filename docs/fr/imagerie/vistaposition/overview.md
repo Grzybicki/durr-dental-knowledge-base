@@ -110,33 +110,33 @@ systèmes intraoraux courants** :
 
 ### Côté récepteur
 
-- **Plaques au phosphore** (PSPs / ERLM) [VistaScan IQ](../vistascan-iq-ecrans/overview/) toutes tailles (S0 à S4).
+- **Plaques au phosphore** (PSPs / ERLM) [VistaScan IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) toutes tailles (S0 à S4).
 - **Plaques au phosphore** autres marques (compatibilité plaques
   standardisées).
-- **Capteurs intraoraux filaires** [VistaRay 7](../vistaray-7/overview/)
+- **Capteurs intraoraux filaires** [VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
   tailles 1 et 2.
 - **Films argentiques** classiques (encore utilisés dans certains
   cabinets).
 
 ### Côté générateur
 
-- **VistaIntra DC** ([fiche dédiée](../vistaintra-dc/overview/)).
+- **VistaIntra DC** ([fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)).
 - **Générateurs intraoraux** tiers courants (compatibilité générique
   par positionnement géométrique).
 
 ## Reproduction / désinfection / stérilisation
 
 L'autoclavable intégral et la compatibilité avec les **désinfectants
-d'immersion** (par exemple [ID 213](/docs/fr/hygiene-chimie/desinfection-empreintes/overview/))
+d'immersion** (par exemple [ID 213](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/))
 et les **laveurs-désinfecteurs thermiques** simplifient la mise en
 place dans la chaîne d'hygiène cabinet :
 
-1. Pré-trempage dans [Hygobox](/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
+1. Pré-trempage dans [Hygobox](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
    avec ID 213 ou MD 555 dilué.
-2. **Nettoyage** dans [Hygosonic](/docs/fr/hygiene-chimie/hygosonic/overview/)
+2. **Nettoyage** dans [Hygosonic](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/)
    (bac à ultrasons).
-3. **Stérilisation** dans [Hygoclave 40 / 50 / 90](/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/).
-4. **Emballage stérile** via [Hygopac](/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
+3. **Stérilisation** dans [Hygoclave 40 / 50 / 90](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/).
+4. **Emballage stérile** via [Hygopac](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
    et Hygofol.
 
 <script type="application/ld+json">
@@ -208,11 +208,11 @@ Une meilleure reproductibilité géométrique des clichés (utile au suivi longi
 
 ## Pour aller plus loin
 
-- [VistaScan IQ — écrans à mémoire ERLM avec RFID](../vistascan-iq-ecrans/overview/)
-- [VistaRay 7 — capteurs intraoraux filaires](../vistaray-7/overview/)
-- [VistaIntra DC — générateur intraoral compatible](../vistaintra-dc/overview/)
-- [Accessoires imagerie](../accessoires-imagerie/overview/)
-- [Index imagerie dentaire](../)
+- [VistaScan IQ — écrans à mémoire ERLM avec RFID](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)
+- [VistaRay 7 — capteurs intraoraux filaires](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
+- [VistaIntra DC — générateur intraoral compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)
+- [Accessoires imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

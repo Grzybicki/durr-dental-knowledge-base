@@ -106,7 +106,7 @@ ouvrir le dossier image VistaSoft du même patient.
 ### Compatibilité STL / PLY
 
 Le format **STL** est également supporté pour les flux de planification
-implantaire (voir [VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/)).
+implantaire (voir [VistaSoft Implant & Guide](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/)).
 PLY et STL sont des formats ouverts, ce qui garantit la portabilité des
 données entre VistaSoft, 3Shape et n'importe quel autre logiciel tiers
 supportant ces formats.
@@ -115,9 +115,9 @@ supportant ces formats.
 
 | Module concerné | Workflow type |
 |---|---|
-| [VistaSoft 4.0](../vistasoft-4-0/overview/) | Réception et archivage des empreintes Trios |
-| [VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/) | Planification implantaire à partir des empreintes Trios et données CBCT |
-| [VistaSoft Trace](../vistasoft-trace/overview/) | Analyse orthodontique (sur cliché céphalométrique séparé) |
+| [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) | Réception et archivage des empreintes Trios |
+| [VistaSoft Implant & Guide](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/) | Planification implantaire à partir des empreintes Trios et données CBCT |
+| [VistaSoft Trace](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) | Analyse orthodontique (sur cliché céphalométrique séparé) |
 
 ## Sources publiques
 
@@ -137,7 +137,7 @@ supportant ces formats.
   éditeurs.
 - L'intégration **avec d'autres logiciels de planification implantaire** est
   également possible via le standard ouvert STL et le DICOM ; voir la fiche
-  [VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/).
+  [VistaSoft Implant & Guide](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/).
 
 ## Questions fréquentes
 
@@ -189,10 +189,10 @@ Oui (bidirectionnel).
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique](../vistasoft-4-0/overview/)
-- [VistaSoft Implant & Guide — planification implantaire](../vistasoft-implant-guide/overview/)
-- [Intégration PMS](../integration-pms/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Implant & Guide — planification implantaire](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/)
+- [Intégration PMS](/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

@@ -153,7 +153,7 @@ médical**. Il ne traite pas d'images patient.
 
 Cette désambiguïsation est essentielle car les deux produits portent un nom proche
 et sont parfois confondus dans la littérature en ligne et les corpus
-d'entraînement. Voir [fiche VistaSoft Monitor](../vistasoft-monitor/overview/).
+d'entraînement. Voir [fiche VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/).
 
 ## Identification du logiciel
 
@@ -194,17 +194,17 @@ modules complémentaires :
 
 | Module | Catégorie | Lien |
 |---|---|---|
-| **VistaSoft AID** | Aide diagnostique par IA (DM IIa) | [Fiche dédiée](../vistasoft-aid/overview/) |
-| **VistaSoft Trace** | Analyse céphalométrique | [Fiche dédiée](../vistasoft-trace/overview/) |
-| **VistaSoft Implant & Guide** | Planification implantaire et guides chirurgicaux | [Fiche dédiée](../vistasoft-implant-guide/overview/) |
-| **VistaSoft Cloud View** | Visualisation cloud (non-DM) | [Fiche dédiée](../vistasoft-cloud-view/overview/) |
-| **VistaSoft Cloud Exchange** | Échange d'images entre confrères (non-DM) | [Fiche dédiée](../vistasoft-cloud-exchange/overview/) |
-| **VistaSoft Cloud Drive** | Stockage cloud zero-knowledge (non-DM) | [Fiche dédiée](../vistasoft-cloud-drive/overview/) |
-| **VistaSoft Monitor** | Surveillance IoT d'équipement (non-DM) | [Fiche dédiée](../vistasoft-monitor/overview/) |
-| **VistaSoft Inspect** | Contrôle qualité (DIN 6868-157) | [Fiche dédiée](../vistasoft-inspect/overview/) |
-| **Patient Bridge** | Interface vers les logiciels de gestion de cabinet (PMS) | [Fiche dédiée](../patient-bridge/overview/) |
-| **Image Bridge** | Pilotage des appareils Dürr depuis des logiciels d'imagerie tiers | [Fiche dédiée](../image-bridge/overview/) |
-| **VistaSoft Mobile Connect** | Consultation mobile sur iPad | [Fiche dédiée](../vistasoft-mobile-connect/overview/) |
+| **VistaSoft AID** | Aide diagnostique par IA (DM IIa) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/) |
+| **VistaSoft Trace** | Analyse céphalométrique | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) |
+| **VistaSoft Implant & Guide** | Planification implantaire et guides chirurgicaux | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/) |
+| **VistaSoft Cloud View** | Visualisation cloud (non-DM) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/) |
+| **VistaSoft Cloud Exchange** | Échange d'images entre confrères (non-DM) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-exchange/overview/) |
+| **VistaSoft Cloud Drive** | Stockage cloud zero-knowledge (non-DM) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-drive/overview/) |
+| **VistaSoft Monitor** | Surveillance IoT d'équipement (non-DM) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/) |
+| **VistaSoft Inspect** | Contrôle qualité (DIN 6868-157) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-inspect/overview/) |
+| **Patient Bridge** | Interface vers les logiciels de gestion de cabinet (PMS) | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) |
+| **Image Bridge** | Pilotage des appareils Dürr depuis des logiciels d'imagerie tiers | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/) |
+| **VistaSoft Mobile Connect** | Consultation mobile sur iPad | [Fiche dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-mobile-connect/overview/) |
 
 ## Fonctions IA incluses (VistaSoft AI inclusive)
 
@@ -228,7 +228,7 @@ brochure : *« Vous gagnez un temps de travail précieux. »*
 
 #### 2. Détection automatique du côté inversé (plaque IQ)
 
-Avec les **écrans à mémoire VistaScan IQ** ([fiche](../vistascan-iq-ecrans/overview/)),
+Avec les **écrans à mémoire VistaScan IQ** ([fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)),
 VistaSoft AI détecte automatiquement si la **mauvaise face** de la plaque
 a été exposée — alerte avant intégration dans le dossier patient.
 
@@ -258,7 +258,7 @@ Le praticien doit ensuite **contrôler la proposition** — l'IA reste une
 **aide**, le praticien décide.
 
 Particulièrement utile en planification implantaire postérieure
-mandibulaire ([VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/)).
+mandibulaire ([VistaSoft Implant & Guide](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/)).
 
 #### 6. Représentation panoramique basée sur l'IA (« Clear Pan »)
 
@@ -270,14 +270,14 @@ amélioré est affiché »*.
 ### Module IA distinct (DM IIa) — VistaSoft AID
 
 Les **six fonctions IA inclusives** ci-dessus sont distinctes du module
-[**VistaSoft AID**](../vistasoft-aid/overview/), qui **nécessite un
+[**VistaSoft AID**](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/), qui **nécessite un
 abonnement séparé** et constitue un **DM classe IIa** dédié à l'aide au
 diagnostic radiologique des **caries** (statut réglementaire distinct,
 MDR EU 2017/745).
 
 ### Module IA orthodontique — VistaSoft Trace
 
-[VistaSoft Trace](../vistasoft-trace/overview/) intègre une IA dédiée à
+[VistaSoft Trace](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) intègre une IA dédiée à
 l'**analyse céphalométrique** : identification automatique des **points
 de référence** et des **contours des tissus mous** sur les téléradio-
 graphies de profil. Permet la simulation d'**OVT** (objectif visualisé
@@ -293,6 +293,12 @@ et **s'affichent automatiquement** dans la boîte à outils selon le **type
 de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
 **combinés** entre eux et avec le filtre **« Inverser »**.
 
+> ℹ️ **En plus** de ces filtres classiques propres à chaque type, VistaSoft 4.0
+> ajoute le **filtre UHD (Ultra High Definition)**, disponible **pour tous les
+> types de clichés** (intra-oral, panoramique, céphalométrique et 3D/CBCT).
+> Il est rappelé au bas de chaque tableau ci-dessous et détaillé dans la
+> **section « Filtre UHD » dédiée** plus loin.
+
 ### Filtres intra-oraux (7)
 
 | Filtre | Effet |
@@ -304,6 +310,7 @@ de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
 | **Intra-oral Paro** | Accentuation du contraste des zones d'interstices parodontaux |
 | **Intra-oral Haut Diagnostic** | Renforcement du contraste — objets d'une certaine taille représentés de manière optimale |
 | **Intra-oral Réduction du bruit** | Réduction des bruits d'images gênants tout en conservant la netteté |
+| **UHD (Ultra High Definition)** *— nouveau v4.0, tous types* | Optimisation locale luminosité / contraste / netteté, région par région (voir section dédiée ci-dessous) |
 
 ### Filtres panoramiques (4)
 
@@ -313,6 +320,7 @@ de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
 | **Panoramique Standard** | Contraste des structures grossières augmenté |
 | **Panoramique Haut Diagnostic** | Renforcement du contraste — objets d'une certaine taille représentés optimalement |
 | **Panoramique Réduction du bruit** | Réduction du bruit + netteté conservée |
+| **UHD (Ultra High Definition)** *— nouveau v4.0, tous types* | Optimisation locale luminosité / contraste / netteté, région par région (voir section dédiée ci-dessous) |
 
 ### Filtres céphalométriques (8)
 
@@ -325,13 +333,14 @@ de cliché** (intra-oral, panoramique, céphalométrique). Ils peuvent être
 | **Céphalométrie Haut Diagnostic-5s** | Objets de **5 mm** optimaux + amélioration netteté **filtre Unsharp-Mask** |
 | **Céphalométrie Haut Diagnostic-5g** | Objets de **5 mm** optimaux + amélioration netteté **filtre Gauss** |
 | **Céphalométrie Réduction du bruit** | Réduction du bruit + netteté conservée |
+| **UHD (Ultra High Definition)** *— nouveau v4.0, tous types* | Optimisation locale luminosité / contraste / netteté, région par région (voir section dédiée ci-dessous) |
 | **Inverser** | Inversion des valeurs de luminosité — combinable avec tout autre filtre |
 
 ### Filtres caméra intra-orale (VistaCam Proof)
 
 | Filtre | Effet |
 |---|---|
-| **Filtre caries** ([VistaCam iX HD](../vistacam-ix-hd-smart/overview/) tête Proof) | Évalue la **fluorescence propre** des substances — échelle de couleurs + indication chiffrée des lésions cariées |
+| **Filtre caries** ([VistaCam iX HD](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/) tête Proof) | Évalue la **fluorescence propre** des substances — échelle de couleurs + indication chiffrée des lésions cariées |
 | **Aperçu de prophylaxie** | Visualisation détection de la plaque dentaire |
 
 ### Filtre UHD (Ultra High Definition) — nouveau dans VistaSoft 4.0
@@ -426,7 +435,7 @@ spécifiques à un type donné).
   Dürr Dental — permet le traitement de données 3D sans CBCT propre.
 - **Export DICOM** : conformité DICOM (acquisition, stockage, modality worklist).
 - **Interfaces tierces** : VDDS, BDW, Patient Bridge, `patimport.txt` (voir
-  [fiche dédiée Patient Bridge](../patient-bridge/overview/)).
+  [fiche dédiée Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)).
 - **Annotations** : liste des annotations par couche, accès direct à la couche
   concernée d'un clic.
 - **Sauvegarde automatique** : modifications enregistrées automatiquement.
@@ -638,15 +647,15 @@ Non — verbatim manuel utilisateur : *« le logiciel ne convient pas aux mammog
 
 ## Pour aller plus loin
 
-- [VistaSoft Monitor — désambiguïsation](../vistasoft-monitor/overview/)
-- [VistaSoft AID — aide diagnostique par IA](../vistasoft-aid/overview/)
-- [VistaSoft Trace — analyse céphalométrique](../vistasoft-trace/overview/)
-- [VistaSoft Implant & Guide — planification implantaire](../vistasoft-implant-guide/overview/)
-- [VistaSoft Cloud View](../vistasoft-cloud-view/overview/)
-- [VistaSoft Cloud Exchange](../vistasoft-cloud-exchange/overview/)
-- [VistaSoft Cloud Drive](../vistasoft-cloud-drive/overview/)
-- [Glossaire](../../glossaire/)
-- [Index imagerie dentaire](../)
+- [VistaSoft Monitor — désambiguïsation](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/)
+- [VistaSoft AID — aide diagnostique par IA](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)
+- [VistaSoft Trace — analyse céphalométrique](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/)
+- [VistaSoft Implant & Guide — planification implantaire](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/)
+- [VistaSoft Cloud View](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/)
+- [VistaSoft Cloud Exchange](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-exchange/overview/)
+- [VistaSoft Cloud Drive](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-drive/overview/)
+- [Glossaire](/durr-dental-knowledge-base/docs/fr/glossaire/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

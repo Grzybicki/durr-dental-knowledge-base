@@ -172,12 +172,12 @@ l'App Store, l'application iPad permet :
 
 ## Articulation avec les autres modules
 
-- [VistaSoft 4.0](../vistasoft-4-0/overview/) — logiciel socle d'imagerie
+- [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) — logiciel socle d'imagerie
   diagnostique côté serveur.
-- [VistaSoft Cloud View](../vistasoft-cloud-view/overview/) — alternative
+- [VistaSoft Cloud View](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/) — alternative
   pour la consultation des images dans le navigateur Web (sans application
   native, multi-plateforme), notamment hors du cabinet.
-- [Patient Bridge](../patient-bridge/overview/) — interface qui assure la
+- [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) — interface qui assure la
   cohérence des fiches patients entre VistaSoft et le PMS du cabinet.
 
 ## Questions fréquentes
@@ -244,7 +244,7 @@ MobileConnect** installé.
 ### Dispositif médical ?
 
 **Non**. Outil de consultation. Diagnostic radiologique primaire reste sur
-[VistaSoft 4.0 (DM IIb)](../vistasoft-4-0/overview/).
+[VistaSoft 4.0 (DM IIb)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
 ### Fonctionne hors-ligne ?
 
@@ -275,7 +275,7 @@ Oui avec VistaSoft (pas avec DBSWin).
 
 | Document | Référence |
 |---|---|
-| Brochure FR VistaPano S 2.0 / Ceph 2.0 (mention iPad + Imaging App + MobileConnect) | `P007-772/03-T01` — téléchargeable depuis la [page produit VistaPano S 2.0](../vistapano-2-0/overview/) |
+| Brochure FR VistaPano S 2.0 / Ceph 2.0 (mention iPad + Imaging App + MobileConnect) | `P007-772/03-T01` — téléchargeable depuis la [page produit VistaPano S 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/) |
 
 ### Pérennité — archive Wayback Machine
 
@@ -286,10 +286,10 @@ Oui avec VistaSoft (pas avec DBSWin).
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle serveur)](../vistasoft-4-0/overview/)
-- [VistaSoft Cloud View — consultation navigateur Web](../vistasoft-cloud-view/overview/)
-- [Patient Bridge — interface PMS](../patient-bridge/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle serveur)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Cloud View — consultation navigateur Web](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/)
+- [Patient Bridge — interface PMS](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

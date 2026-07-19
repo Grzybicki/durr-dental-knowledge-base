@@ -87,14 +87,14 @@ couverture des PMS du marché européen.
 
 ### 1. VDDS-media
 
-[Standard VDDS-media](../vdds-bdw/overview/) défini par le **Verband Deutscher
+[Standard VDDS-media](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) défini par le **Verband Deutscher
 Dental-Software Unternehmen e.V.** (VDDS). Interface standardisée la plus
 répandue en Allemagne et en Autriche. Dürr Dental est membre du VDDS et VistaSoft
 implémente ce standard côté logiciel d'imagerie.
 
 ### 2. BDW (Basic Dental Workflow)
 
-[Standard BDW](../vdds-bdw/overview/) successeur évolutif de VDDS-media, qui
+[Standard BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) successeur évolutif de VDDS-media, qui
 définit comment les cas d'usage centraux du standard VDDS-media peuvent être
 réalisés sur la base des services DICOM. Le BDW est publiquement documenté
 par le VDDS (versions 1 et 2).
@@ -146,7 +146,7 @@ cohérence des dossiers.
 
 Patient Bridge est complémentaire aux services DICOM standards de VistaSoft
 (**Modality Worklist** et **Storage**), qui constituent une cinquième voie
-d'intégration DICOM-native. Voir [DICOM Conformance Statement](../dicom/overview/).
+d'intégration DICOM-native. Voir [DICOM Conformance Statement](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/).
 
 ## Limites et précisions
 
@@ -222,12 +222,12 @@ Oui, en complément (services DICOM Worklist + Storage natifs de VistaSoft).
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](../vistasoft-4-0/overview/)
-- [Image Bridge — cohabitation avec d'autres logiciels d'imagerie](../image-bridge/overview/)
-- [Standards VDDS-media et BDW](../vdds-bdw/overview/)
-- [DICOM Conformance Statement](../dicom/overview/)
-- [Intégration avec les logiciels de gestion (PMS)](../integration-pms/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [Image Bridge — cohabitation avec d'autres logiciels d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/)
+- [Standards VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/)
+- [DICOM Conformance Statement](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/)
+- [Intégration avec les logiciels de gestion (PMS)](/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

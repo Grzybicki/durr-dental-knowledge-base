@@ -94,7 +94,7 @@ six composants :
 | **Grand tuyau d'aspiration** | Aspiration du brouillard de spray (HVE — High-Volume Evacuation) |
 | **Petit tuyau d'aspiration** | Pompe à salive |
 | **Seringue air/eau** | Rinçage et séchage du champ opératoire |
-| **Support de caméra** | [VistaCam iX HD Smart](/docs/fr/imagerie/vistacam-ix-hd-smart/overview/) ou [Proxi](/docs/fr/imagerie/vistacam-proxi/overview/) |
+| **Support de caméra** | [VistaCam iX HD Smart](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/) ou [Proxi](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/) |
 | **Entonnoir** | Pour récupération de fluides ponctuels |
 | **Unité de filtrage** | Module filtre intégré au support |
 
@@ -186,7 +186,7 @@ stérile**.
 **Embout de protection rotatif et amovible** — conçu pour absorber
 **deux fois plus** d'aérosol qu'un embout classique, particulièrement
 adapté aux traitements prophylactiques avec **aéropolisseurs**
-([système Lunos](/docs/fr/hygiene-chimie/lunos-system/overview/)).
+([système Lunos](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/)).
 
 | Conditionnement | Coloris | Référence |
 |---|---|---|
@@ -196,7 +196,7 @@ adapté aux traitements prophylactiques avec **aéropolisseurs**
 
 Le module filtre intégré au support Comfort est **équipé d'un large
 réservoir** pour une **longue durée d'utilisation**. Voir la
-[fiche filtres jetables (HEPA/ULPA + aspiration)](../filtres-hepa-ulpa-compresseurs/overview/)
+[fiche filtres jetables (HEPA/ULPA + aspiration)](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/)
 pour les **boîtes de 12 unités** de filtres jetables jaunes —
 compatibles avec les supports **Comfort, Eco et Selective**.
 
@@ -207,7 +207,7 @@ aval** et la **pompe d'aspiration** elle-même.
 ## Articulation avec DürrConnect
 
 Le support Comfort fait partie du système global
-[DürrConnect](../durrconnect/overview/), qui garantit la **compatibilité
+[DürrConnect](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/), qui garantit la **compatibilité
 et la modularité** entre composants d'aspiration Dürr Dental (tuyaux,
 vannes, séparateurs, fauteuils).
 
@@ -216,7 +216,7 @@ vannes, séparateurs, fauteuils).
 Le support de tuyaux Comfort et ses accessoires (canules) sont des
 **dispositifs médicaux**. Les **canules autoclavables** doivent être
 stérilisées à **134 °C** selon le protocole habituel du cabinet (voir
-[Hygoclave](/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)).
+[Hygoclave](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)).
 
 ## Adresse historique vs adresse actuelle
 
@@ -227,7 +227,7 @@ Dental France : *« 26 rue Diderot, 92000 Nanterre »*. L'adresse
 > **Dürr Dental France SARL — 71 rue des Hautes Pâtures, 92000 Nanterre**
 > — Tél. **+33 1 55 69 11 50** — Email : infodurrfr@duerrdental.com
 
-Voir [fiche entreprise](/docs/fr/durr-dental-entreprise/overview/).
+Voir [fiche entreprise](/durr-dental-knowledge-base/docs/fr/durr-dental-entreprise/overview/).
 
 <script type="application/ld+json">
 {
@@ -311,12 +311,12 @@ Les raccords pivotants sur le boîtier de filtre offrent une plus longue portée
 
 ## Pour aller plus loin
 
-- [Accessoires d'aspiration](../accessoires-aspiration/overview/) — vue d'ensemble (canules, supports, vannes)
-- [Canules universelles (Protect, Petito, III)](../canules-universelles/overview/)
-- [DürrConnect — système global d'intégration](../durrconnect/overview/)
-- [Filtres HEPA/ULPA + filtres aspiration jaunes](../filtres-hepa-ulpa-compresseurs/overview/)
-- [Tyscor — aspiration centralisée](../tyscor-aspiration/overview/)
-- [Index conventionnel](../)
+- [Accessoires d'aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/accessoires-aspiration/overview/) — vue d'ensemble (canules, supports, vannes)
+- [Canules universelles (Protect, Petito, III)](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/)
+- [DürrConnect — système global d'intégration](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/)
+- [Filtres HEPA/ULPA + filtres aspiration jaunes](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/)
+- [Tyscor — aspiration centralisée](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

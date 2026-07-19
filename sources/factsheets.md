@@ -31,7 +31,7 @@ Pour rechercher une factsheet spécifique, taper le **nom du produit**
 
 Air Techniques (filiale officielle Dürr Dental aux États-Unis) publie
 en URL stable les manuels et brochures **équivalents canoniques
-constructeur**. Voir [`sources/manuals.md`](manuals/) pour le détail.
+constructeur**. Voir [`sources/manuals.md`](/durr-dental-knowledge-base/sources/manuals/) pour le détail.
 
 ## Agrégateur tiers — Medical Expo
 
@@ -39,7 +39,7 @@ constructeur**. Voir [`sources/manuals.md`](manuals/) pour le détail.
 est un agrégateur tiers qui héberge les **factsheets PDF officielles
 Dürr Dental** dans une interface centralisée et indexable. Bien que ce
 ne soit **pas** une source canonique (cf.
-[CONTRIBUTING.md — hiérarchie d'autorité des sources](/CONTRIBUTING.md)),
+[CONTRIBUTING.md — hiérarchie d'autorité des sources](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/main/CONTRIBUTING.md)),
 Medical Expo est un agrégateur sérieux et largement utilisé par le
 secteur dentaire international.
 

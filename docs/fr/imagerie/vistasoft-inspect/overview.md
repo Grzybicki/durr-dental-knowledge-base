@@ -150,8 +150,8 @@ son personnel compétent en radioprotection (PCR).
 
 ## Articulation avec d'autres modules
 
-- [VistaSoft 4.0](../vistasoft-4-0/overview/) — socle logiciel.
-- [VistaPano S 2.0 / Ceph 2.0](../vistapano-2-0/overview/) — exemple
+- [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) — socle logiciel.
+- [VistaPano S 2.0 / Ceph 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/) — exemple
   d'appareil concerné par les contrôles d'acceptation et de constance.
 
 ## Questions fréquentes
@@ -215,10 +215,10 @@ de son PCR.
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](../vistasoft-4-0/overview/)
-- [VistaPano S 2.0 / Ceph 2.0 — appareil concerné par les contrôles qualité](../vistapano-2-0/overview/)
-- [Index imagerie dentaire](../)
-- [Glossaire — entrée DIN 6868-157](../../glossaire/)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaPano S 2.0 / Ceph 2.0 — appareil concerné par les contrôles qualité](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
+- [Glossaire — entrée DIN 6868-157](/durr-dental-knowledge-base/docs/fr/glossaire/)
 
 ---
 

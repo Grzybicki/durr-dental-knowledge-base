@@ -167,7 +167,7 @@ Des temps d'acquisition courts réduisent les artefacts de mouvement et la dose.
 ### Technologie panoramique S-Pan
 
 VistaVox S intègre la même **technologie S-Pan** que la
-[VistaPano S 2.0](../vistapano-2-0/overview/) pour la radiographie
+[VistaPano S 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/) pour la radiographie
 panoramique 2D :
 
 - Acquisition de **multiples couches parallèles** lors du scan.
@@ -195,11 +195,11 @@ VistaSoft propose plusieurs **vues spécifiques pour le diagnostic CBCT** :
 | **TSA** (Transversal Slice Array) | Coupes transversales successives le long de l'arcade |
 | **MPR** (Multiplanar Reconstruction) | Reconstructions multiplanaires (axiale, coronale, sagittale) |
 
-Voir la fiche [VistaSoft 4.0](../vistasoft-4-0/overview/) pour le détail du
+Voir la fiche [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) pour le détail du
 logiciel d'imagerie diagnostique (DM IIb).
 
 Pour la planification implantaire à partir des volumes CBCT VistaVox S,
-voir la fiche [VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/).
+voir la fiche [VistaSoft Implant & Guide](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/).
 
 ## VistaVox S Ceph — module céphalométrique
 
@@ -209,7 +209,7 @@ au système CBCT hybride :
 - Acquisition céphalométrique rapide.
 - Faible exposition aux rayons X.
 - Idéale pour l'orthodontie (utiliser conjointement avec
-  [VistaSoft Trace](../vistasoft-trace/overview/) pour l'analyse).
+  [VistaSoft Trace](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) pour l'analyse).
 
 ## Stitching Tool (assemblage de volumes CBCT)
 
@@ -238,11 +238,11 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/).
 
 | Module | Lien |
 |---|---|
-| **VistaSoft 4.0** (logiciel d'imagerie diagnostique) | [Fiche](../vistasoft-4-0/overview/) |
-| **VistaSoft Implant & Guide** (planification implantaire à partir des volumes) | [Fiche](../vistasoft-implant-guide/overview/) |
-| **VistaSoft Trace** (céphalométrie orthodontique sur version Ceph) | [Fiche](../vistasoft-trace/overview/) |
-| **VistaPano S 2.0** (panoramique 2D dédié, mêmes principes S-Pan) | [Fiche](../vistapano-2-0/overview/) |
-| **VistaSoft Cloud View** (consultation cloud des volumes CBCT) | [Fiche](../vistasoft-cloud-view/overview/) |
+| **VistaSoft 4.0** (logiciel d'imagerie diagnostique) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
+| **VistaSoft Implant & Guide** (planification implantaire à partir des volumes) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/) |
+| **VistaSoft Trace** (céphalométrie orthodontique sur version Ceph) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) |
+| **VistaPano S 2.0** (panoramique 2D dédié, mêmes principes S-Pan) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/) |
+| **VistaSoft Cloud View** (consultation cloud des volumes CBCT) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/) |
 
 ## Limites et précisions
 
@@ -521,12 +521,12 @@ D'après la brochure VistaVox S :
 
 ## Pour aller plus loin
 
-- [VistaPano S 2.0 / Ceph 2.0 — panoramique 2D dédié (même technologie S-Pan)](../vistapano-2-0/overview/)
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique CBCT](../vistasoft-4-0/overview/)
-- [VistaSoft Implant & Guide — planification implantaire sur volumes CBCT](../vistasoft-implant-guide/overview/)
-- [VistaSoft Trace — analyse céphalométrique (version Ceph)](../vistasoft-trace/overview/)
-- [Index imagerie dentaire](../)
-- [Glossaire — CBCT, FOV, MPR, TSA](../../glossaire/)
+- [VistaPano S 2.0 / Ceph 2.0 — panoramique 2D dédié (même technologie S-Pan)](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique CBCT](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Implant & Guide — planification implantaire sur volumes CBCT](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/)
+- [VistaSoft Trace — analyse céphalométrique (version Ceph)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
+- [Glossaire — CBCT, FOV, MPR, TSA](/durr-dental-knowledge-base/docs/fr/glossaire/)
 
 ---
 

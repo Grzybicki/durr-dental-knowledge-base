@@ -200,8 +200,8 @@ détaillées.
 ## Compatibilité VistaSoft Monitor
 
 L'ensemble des systèmes d'aspiration Tyscor est connectable à
-[VistaSoft Monitor](/docs/fr/imagerie/vistasoft-monitor/overview/), soit
-nativement (générations récentes), soit via [Connect Box](/docs/fr/imagerie/connect-box/overview/)
+[VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/), soit
+nativement (générations récentes), soit via [Connect Box](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)
 (générations antérieures sans interface réseau native). Paramètres
 typiquement remontés : état de fonctionnement, dépressions, alertes
 de maintenance, consommations.
@@ -216,7 +216,7 @@ de maintenance, consommations.
 
 Dürr Dental propose des **kits de conversion** pour le passage d'une
 configuration à l'autre lors d'évolutions du cabinet (voir
-[fiche conversion / pièces détachées](../recuperateurs-amalgame/overview/)).
+[fiche conversion / pièces détachées](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)).
 
 ## Évolutivité — Tandem, Tridem et Tandem Flex
 
@@ -302,7 +302,7 @@ VSA 900, VSA 1200, Tyscor VSA 4).
 Les modèles avec **A** dans la désignation (VSA, VSA 600, Tyscor VSA 2,
 etc.) intègrent ou s'interfacent avec un récupérateur d'amalgame conforme
 aux exigences environnementales européennes. Voir la
-[fiche récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
+[fiche récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
 pour la documentation détaillée.
 
 ## Dimensions, bruit et accessoires — récapitulatif
@@ -358,9 +358,9 @@ la même base technique que les VS correspondants.
 | **Tandem Tyscor** | 2 unités VS/V 2 ou VS/V 4 associées — doublement capacité + redondance |
 | **Tridem Tyscor** | 3 unités associées (cliniques universitaires) |
 | **Tyscor Tandem Flex** | Couplage avec une aspiration **Dürr ou tierce** existante |
-| Filtre aspiration coupling parallèle | Voir [fiche filtres aspiration](../filtres-hepa-ulpa-compresseurs/overview/) — réf. `0705-991-50` |
+| Filtre aspiration coupling parallèle | Voir [fiche filtres aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/) — réf. `0705-991-50` |
 | Récupérateur amalgame intégré (modèles VSA) | Conforme Règlement UE 2017/852 |
-| Connect Box ([fiche](/docs/fr/imagerie/connect-box/overview/)) | Connexion VistaSoft Monitor pour générations antérieures |
+| Connect Box ([fiche](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)) | Connexion VistaSoft Monitor pour générations antérieures |
 
 ## DürrConnect
 
@@ -465,10 +465,10 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 
 ## Pour aller plus loin
 
-- [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
-- [Récupérateurs d'amalgame (CA 1, CA 2, CA 4, Sepamatic CS 1)](../recuperateurs-amalgame/overview/)
-- [Aspiration chirurgicale (VC 65)](../aspiration-chirurgicale/overview/)
-- [Index conventionnel](../)
+- [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Récupérateurs d'amalgame (CA 1, CA 2, CA 4, Sepamatic CS 1)](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+- [Aspiration chirurgicale (VC 65)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

@@ -172,7 +172,7 @@ La procédure officielle d'installation et de mise à jour vers VistaSoft
 Connect est documentée dans le manuel public
 [`qr.duerrdental.com/2110100029`](http://qr.duerrdental.com/2110100029).
 
-Voir aussi la fiche [Image Bridge](../image-bridge/overview/) pour la
+Voir aussi la fiche [Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/) pour la
 cohabitation plus large entre les appareils Dürr Dental et les logiciels
 d'imagerie tiers (Image Bridge fonctionne dans le sens inverse :
 piloter les appareils Dürr Dental depuis un logiciel tiers, plutôt
@@ -184,7 +184,7 @@ Au-delà de la migration DBSWin officielle, Dürr Dental propose une **politique
 de conversion des bases d'images d'autres logiciels** vers VistaSoft pour
 les cabinets faisant l'acquisition d'un nouvel appareil d'imagerie Dürr Dental.
 
-Selon la [brochure publique VistaPano S 2.0](../vistapano-2-0/overview/)
+Selon la [brochure publique VistaPano S 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)
 (verbatim) :
 
 > *« Lors de l'achat d'un nouvel appareil de radiographie pour votre cabinet
@@ -261,10 +261,10 @@ agréé est recommandé pour cette opération critique.
 
 ## Articulation avec d'autres modules
 
-- [VistaSoft 4.0](../vistasoft-4-0/overview/) — logiciel cible de la migration.
-- [DICOM Conformance Statement](../dicom/overview/) — pour les migrations
+- [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) — logiciel cible de la migration.
+- [DICOM Conformance Statement](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/) — pour les migrations
   passant par DICOM Storage.
-- [Patient Bridge](../patient-bridge/overview/) — pour la continuité de
+- [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) — pour la continuité de
   l'intégration PMS après migration.
 
 ## Questions fréquentes
@@ -409,11 +409,11 @@ annotations et rapports. DICOM privilégié pour la fidélité.
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel cible](../vistasoft-4-0/overview/)
-- [DICOM Conformance Statement](../dicom/overview/)
-- [Patient Bridge — intégration PMS](../patient-bridge/overview/)
-- [Intégration PMS — vue d'ensemble](../integration-pms/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel cible](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [DICOM Conformance Statement](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/)
+- [Patient Bridge — intégration PMS](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)
+- [Intégration PMS — vue d'ensemble](/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

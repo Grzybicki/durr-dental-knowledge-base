@@ -95,7 +95,7 @@ caries approximales par lumière proche infrarouge (tête Proxi).
 |---|---|---|
 | **Cam** | Lumière blanche | Caméra intraorale standard, photos et vidéos HD du sourire et de la cavité buccale |
 | **Proof** | Fluorescence 405 nm | Détection des **caries** (échelle de fluorescence graduée) et de la **plaque / du tartre** sans révélateur (ni colorant ni rinçage) |
-| **Proxi** | NIR 850 nm (proche infrarouge) | Détection des caries approximales sur dents postérieures (voir [fiche VistaCam Proxi](../vistacam-proxi/overview/)) |
+| **Proxi** | NIR 850 nm (proche infrarouge) | Détection des caries approximales sur dents postérieures (voir [fiche VistaCam Proxi](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/)) |
 
 Cette modularité permet à un cabinet de **disposer d'un seul corps de
 caméra** pour plusieurs usages, en changeant simplement la tête selon le
@@ -193,7 +193,7 @@ Selon la page produit officielle, VistaCam iX HD Smart aide à :
 ## Intégration logicielle
 
 VistaCam iX HD Smart s'intègre directement à
-[VistaSoft 4.0](../vistasoft-4-0/overview/) :
+[VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) :
 
 - Workflow « un clic » pour les fonctions principales.
 - Stockage des images dans la base patient VistaSoft.
@@ -316,9 +316,9 @@ Raccordement USB 2.0 (compatible USB 3.0), utilisation multiposte plug & play, p
 
 ## Pour aller plus loin
 
-- [VistaCam Proxi — détection caries approximales NIR](../vistacam-proxi/overview/)
-- [VistaSoft 4.0 — logiciel d'imagerie associé](../vistasoft-4-0/overview/)
-- [Index imagerie dentaire](../)
+- [VistaCam Proxi — détection caries approximales NIR](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/)
+- [VistaSoft 4.0 — logiciel d'imagerie associé](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

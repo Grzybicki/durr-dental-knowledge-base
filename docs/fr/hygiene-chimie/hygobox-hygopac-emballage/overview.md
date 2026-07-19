@@ -72,7 +72,7 @@ dentaires Dürr Dental. Selon la page produit officielle :
 
 L'Hygobox permet le **transport sécurisé** des instruments contaminés du
 poste de soin au local de stérilisation, en pré-trempage dans une
-solution désinfectante (typiquement [ID 213](../desinfection-empreintes/overview/)).
+solution désinfectante (typiquement [ID 213](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)).
 
 ## Hygopac — Soudeuses pour emballage stérile
 
@@ -128,10 +128,10 @@ réalisées.
 ## Articulation dans la chaîne d'hygiène
 
 1. **Transport** des instruments contaminés : Hygobox.
-2. **Désinfection chimique** : [ID 213](../desinfection-empreintes/overview/) en
+2. **Désinfection chimique** : [ID 213](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) en
    bain ou ultrasons.
 3. **Stérilisation vapeur** :
-   [Hygoclave 40 / 50 / 90](../hygoclave-hygopure/overview/) avec eau DI
+   [Hygoclave 40 / 50 / 90](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) avec eau DI
    issue de Hygopure 90.
 4. **Emballage stérile** : Hygopac + Hygofol.
 5. **Documentation** : Hygoprint.
@@ -259,10 +259,10 @@ La norme DIN EN ISO 11607-2 (formage, scellage et assemblage des emballages de d
 
 ## Pour aller plus loin
 
-- [Hygoclave + Hygopure — stérilisation et eau DI](../hygoclave-hygopure/overview/)
-- [Désinfection des empreintes (Hygojet) et des instruments (ID 213)](../desinfection-empreintes/overview/)
-- [Hygowater — traitement de l'eau des fauteuils](../hygowater-traitement-eau/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Hygoclave + Hygopure — stérilisation et eau DI](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Désinfection des empreintes (Hygojet) et des instruments (ID 213)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)
+- [Hygowater — traitement de l'eau des fauteuils](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

@@ -262,11 +262,11 @@ Transfer Syntaxes croisées.
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique](../vistasoft-4-0/overview/)
-- [Patient Bridge — interface PMS](../patient-bridge/overview/)
-- [Standards VDDS-media et BDW](../vdds-bdw/overview/)
-- [Index imagerie dentaire](../)
-- [Glossaire — entrée DICOM](../../glossaire/)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [Patient Bridge — interface PMS](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)
+- [Standards VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
+- [Glossaire — entrée DICOM](/durr-dental-knowledge-base/docs/fr/glossaire/)
 
 ---
 

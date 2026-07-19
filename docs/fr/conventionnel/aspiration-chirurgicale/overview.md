@@ -71,7 +71,7 @@ résidus osseux à l'aide de la canule chirurgicale nécessite **une
 dépression plus élevée** et **une pompe puissante**.
 
 Le VC 65 est typiquement utilisé en complément du système d'aspiration
-de soin ([Tyscor](../tyscor-aspiration/overview/), [Power Tower](../power-tower/overview/),
+de soin ([Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/), [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/),
 etc.), comme **unité dédiée chirurgicale** sur la salle de chirurgie
 ou en cabinet implantologique. Le **cart multifonctionnel** en option
 en fait également une **unité mobile** déplaçable d'une salle à l'autre.
@@ -113,7 +113,7 @@ en fait également une **unité mobile** déplaçable d'une salle à l'autre.
 | **Version table** | Disponible aussi en version posée sur table (sans cart) |
 | **Support de tuyaux flexible** | Adapté aussi pour les tuyaux à usage unique |
 | **Tuyau d'aspiration à usage unique** | Avec ou sans canule intégrée, longueur **2,1 m** |
-| **Canules d'aspiration chirurgicales** | Voir [fiche canules](../canules-universelles/overview/) — réfs `0700-007-50` (par 20) et `0700-007-51` (par 100), Ø 2,5 mm avec évents Protect intégrés |
+| **Canules d'aspiration chirurgicales** | Voir [fiche canules](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/) — réfs `0700-007-50` (par 20) et `0700-007-51` (par 100), Ø 2,5 mm avec évents Protect intégrés |
 
 ## Points clés de design
 
@@ -210,11 +210,11 @@ Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100
 
 ## Pour aller plus loin
 
-- [Canules universelles (dont Ø 2,5 mm chirurgicale stérile)](../canules-universelles/overview/)
-- [Tyscor — aspiration de soin centralisée](../tyscor-aspiration/overview/)
-- [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
-- [Récupérateurs d'amalgame](../recuperateurs-amalgame/overview/)
-- [Index conventionnel](../)
+- [Canules universelles (dont Ø 2,5 mm chirurgicale stérile)](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/)
+- [Tyscor — aspiration de soin centralisée](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
+- [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

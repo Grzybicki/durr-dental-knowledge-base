@@ -61,7 +61,7 @@ license: CC-BY-4.0
 ## Description courte
 
 Les **compresseurs CAD/CAM** de Dürr Dental sont une déclinaison de la
-gamme [Silver Airline](../silver-airline/overview/) **adaptée aux
+gamme [Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/) **adaptée aux
 exigences spécifiques des systèmes CAD/CAM** dentaires (CFAO de cabinet
 et de laboratoire).
 
@@ -258,10 +258,10 @@ Oui : tous les modèles jusqu'au Duo Tandem sont disponibles avec insonorisation
 
 ## Pour aller plus loin
 
-- [Silver Airline — gamme parent](../silver-airline/overview/)
-- [Tornado — autre gamme compresseurs](../tornado/overview/)
-- [Power Tower — compresseur + aspiration combinés](../power-tower/overview/)
-- [Index conventionnel](../)
+- [Silver Airline — gamme parent](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
+- [Tornado — autre gamme compresseurs](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/)
+- [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
+- [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

@@ -111,7 +111,7 @@ Selon la page produit officielle et le manuel public :
 VistaSoft Cloud View **n'est pas un dispositif médical** (non-DM). Il est conçu
 pour la visualisation et la démonstration, pas comme outil de diagnostic
 clinique primaire. Le diagnostic radiologique doit être posé via le logiciel
-socle [VistaSoft 4.0](../vistasoft-4-0/overview/), qui est lui un DM IIb.
+socle [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/), qui est lui un DM IIb.
 
 Cette distinction est explicitement documentée dans le manuel utilisateur
 public [`qr.duerrdental.com/2110100051`](http://qr.duerrdental.com/2110100051).
@@ -183,7 +183,7 @@ VistaSoft Cloud View est **complémentaire** à VistaSoft 4.0 :
 ### VistaSoft Cloud View est-il un dispositif médical ?
 
 **Non**. Visualisation uniquement. Le diagnostic clinique primaire se fait avec
-[VistaSoft 4.0 (DM IIb)](../vistasoft-4-0/overview/).
+[VistaSoft 4.0 (DM IIb)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
 ### URL du service ?
 
@@ -224,10 +224,10 @@ Oui (en ligne et hors ligne une fois les données chargées).
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (DM IIb)](../vistasoft-4-0/overview/)
-- [VistaSoft Cloud Exchange — échange de cas](../vistasoft-cloud-exchange/overview/)
-- [VistaSoft Cloud Drive — stockage cloud zero-knowledge](../vistasoft-cloud-drive/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0 — logiciel d'imagerie diagnostique (DM IIb)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaSoft Cloud Exchange — échange de cas](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-exchange/overview/)
+- [VistaSoft Cloud Drive — stockage cloud zero-knowledge](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-drive/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 

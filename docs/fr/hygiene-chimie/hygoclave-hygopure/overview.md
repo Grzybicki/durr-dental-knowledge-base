@@ -145,13 +145,13 @@ système** complète Dürr Dental, qui couvre :
 1. **Préparation** : Hygoclave (stérilisation vapeur).
 2. **Traitement d'eau** : Hygopure 90 / Hygodem 90.
 3. **Emballage stérile** : Hygopac / Hygopac View (voir
-   [fiche Hygobox / Hygopac](../hygobox-hygopac-emballage/overview/)).
+   [fiche Hygobox / Hygopac](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)).
 4. **Documentation** : Hygoprint pour la traçabilité.
 5. **Stockage** : Hygobox.
 6. **Désinfection préalable** : produits chimiques (voir fiches
-   désinfection [aspiration](../desinfection-aspiration/overview/),
-   [surfaces](../desinfection-surfaces/overview/),
-   [empreintes](../desinfection-empreintes/overview/)).
+   désinfection [aspiration](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/),
+   [surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/),
+   [empreintes](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)).
 
 ## Caractéristiques techniques — Hygoclave 50 et 50 Plus (factsheet P007100196L03)
 
@@ -317,10 +317,10 @@ Oui. Les stérilisateurs Hygoclave sont des dispositifs médicaux réglementés 
 
 ## Pour aller plus loin
 
-- [Hygobox / Hygopac — stockage et emballage stérile](../hygobox-hygopac-emballage/overview/)
-- [Désinfection des instruments — préalable à la stérilisation](../desinfection-aspiration/overview/)
-- [Hygowater — traitement de l'eau des fauteuils](../hygowater-traitement-eau/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Hygobox / Hygopac — stockage et emballage stérile](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
+- [Désinfection des instruments — préalable à la stérilisation](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
+- [Hygowater — traitement de l'eau des fauteuils](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

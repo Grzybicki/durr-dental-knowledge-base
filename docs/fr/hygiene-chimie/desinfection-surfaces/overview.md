@@ -83,10 +83,11 @@ la marque Dürr Dental).
 Dürr Dental a structuré sa gamme désinfection sous forme d'un **système
 4 couleurs** qui simplifie l'identification visuelle :
 
-- **Vert** = surfaces.
-- **Bleu** = instruments.
-- **Rouge** = aspiration / canalisations.
-- **Jaune** = mains.
+- **Vert** = surfaces (gamme FD).
+- **Bleu** = instruments (gamme ID).
+- **Jaune** = aspiration et zones spéciales (gamme MD / Orotol : aspiration MD 555,
+  empreintes MD 520, crachoir MD 550).
+- **Rose** = mains (gamme HD).
 
 Voir l'article presse spécialisée Dynamique Dentaire pour le détail du
 système et son rationale opérationnel.
@@ -152,7 +153,7 @@ désinfection rapide des surfaces.
       "name": "Qu'est-ce que le système d'hygiène 4 couleurs ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Un repérage visuel structurant la gamme : vert = surfaces, bleu = instruments, rouge = aspiration et canalisations, jaune = mains."
+        "text": "Un repérage visuel structurant la gamme : vert = surfaces (FD), bleu = instruments (ID), jaune = aspiration et zones spéciales (MD / Orotol), rose = mains (HD)."
       }
     },
     {
@@ -183,7 +184,7 @@ Des concentrés à diluer, des produits de désinfection rapide prêts à l'empl
 
 ### Qu'est-ce que le système d'hygiène 4 couleurs ?
 
-Un repérage visuel structurant la gamme : vert = surfaces, bleu = instruments, rouge = aspiration et canalisations, jaune = mains.
+Un repérage visuel structurant la gamme : vert = surfaces (FD), bleu = instruments (ID), jaune = aspiration et zones spéciales (MD / Orotol), rose = mains (HD).
 
 ### Quelle couleur correspond à la désinfection des surfaces ?
 
@@ -203,10 +204,10 @@ Oui : les FD 350 green wipes sont des lingettes éco-conçues en fibres naturell
 
 ## Pour aller plus loin
 
-- [Désinfection des mains](../desinfection-mains/overview/)
-- [Désinfection des systèmes d'aspiration (Orotol Plus)](../desinfection-aspiration/overview/)
-- [Désinfection des empreintes (Hygojet)](../desinfection-empreintes/overview/)
-- [Index hygiène et chimie de désinfection](../)
+- [Désinfection des mains](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/)
+- [Désinfection des systèmes d'aspiration (Orotol Plus)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
+- [Désinfection des empreintes (Hygojet)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)
+- [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---
 

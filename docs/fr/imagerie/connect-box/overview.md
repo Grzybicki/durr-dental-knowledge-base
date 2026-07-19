@@ -65,7 +65,7 @@ license: CC-BY-4.0
 ## Description courte
 
 **Connect Box** est l'appareil Dürr Dental qui permet d'**intégrer dans
-le tableau de bord [VistaSoft Monitor](../vistasoft-monitor/overview/)
+le tableau de bord [VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/)
 des équipements dentaires existants** (compresseurs, aspiration, autres
 équipements techniques) **sans interface réseau native**. Elle constitue
 la **passerelle IoT** entre les équipements traditionnels et la
@@ -137,15 +137,15 @@ disponible. Les équipements concernés incluent :
 
 | Catégorie | Lien fiche |
 |---|---|
-| Compresseurs Silver Airline | [Fiche](/docs/fr/conventionnel/silver-airline/overview/) |
-| Compresseurs Tornado | [Fiche](/docs/fr/conventionnel/tornado/overview/) |
-| Power Tower (Silence + View) | [Fiche](/docs/fr/conventionnel/power-tower/overview/) |
-| Compresseurs CAD/CAM | [Fiche](/docs/fr/conventionnel/cad-cam-compresseurs/overview/) |
-| Aspiration Tyscor (humide + sec) | [Fiche](/docs/fr/conventionnel/tyscor-aspiration/overview/) |
-| Récupérateurs d'amalgame | [Fiche](/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
-| VC 65 — aspiration chirurgicale | [Fiche](/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
-| Hygoclave 40 / 50 / 90 (stérilisateurs) | [Fiche](/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
-| Hygowater (traitement eau fauteuils) | [Fiche](/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/) |
+| Compresseurs Silver Airline | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/) |
+| Compresseurs Tornado | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/) |
+| Power Tower (Silence + View) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/) |
+| Compresseurs CAD/CAM | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/) |
+| Aspiration Tyscor (humide + sec) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) |
+| Récupérateurs d'amalgame | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
+| VC 65 — aspiration chirurgicale | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
+| Hygoclave 40 / 50 / 90 (stérilisateurs) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
+| Hygowater (traitement eau fauteuils) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/) |
 
 ## Applications mobiles VistaSoft Monitor
 
@@ -240,9 +240,9 @@ Les générations récentes d'équipements se connectent nativement à VistaSoft
 
 ## Pour aller plus loin
 
-- [VistaSoft Monitor — solution IoT cabinet](../vistasoft-monitor/overview/)
-- [Index imagerie dentaire](../)
-- [Index conventionnel (compresseurs et aspiration connectables)](/docs/fr/conventionnel/)
+- [VistaSoft Monitor — solution IoT cabinet](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
+- [Index conventionnel (compresseurs et aspiration connectables)](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
 

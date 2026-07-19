@@ -159,10 +159,10 @@ Selon la page produit officielle Dürr Dental :
 ## Intégration logicielle
 
 VistaRay 7 est piloté nativement par
-[VistaSoft 4.0](../vistasoft-4-0/overview/). Le **support TWAIN** intégré à
+[VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/). Le **support TWAIN** intégré à
 VistaSoft permet aussi l'usage avec des logiciels d'imagerie tiers, via la
-passerelle [VistaSoft Connect](../migration-bases-donnees/overview/) ou
-le module [Image Bridge](../image-bridge/overview/).
+passerelle [VistaSoft Connect](/durr-dental-knowledge-base/docs/fr/imagerie/migration-bases-donnees/overview/) ou
+le module [Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/).
 
 <script type="application/ld+json">
 {
@@ -252,10 +252,10 @@ téléchargements Dürr Dental France ou la base européenne **Eudamed**).
 
 ## Pour aller plus loin
 
-- [VistaSoft 4.0](../vistasoft-4-0/overview/)
-- [VistaIntra DC — générateur intra-oral compatible](../vistaintra-dc/overview/)
-- [Gamme VistaScan — scanners de plaques au phosphore](../vistascan-gamme/overview/)
-- [Index imagerie dentaire](../)
+- [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
+- [VistaIntra DC — générateur intra-oral compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)
+- [Gamme VistaScan — scanners de plaques au phosphore](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
+- [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
 ---
 
