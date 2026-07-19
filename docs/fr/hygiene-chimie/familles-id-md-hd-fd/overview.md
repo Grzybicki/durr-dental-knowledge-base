@@ -74,11 +74,11 @@ mis en avant en cabinet.
 
 | Préfixe | Périmètre | Couleur du système |
 |---|---|---|
-| **Orotol** | Désinfection **aspiration** (canalisations) | Rouge |
-| **OroCup** | Doseur Orotol pour systèmes d'aspiration | Rouge |
+| **Orotol** | Désinfection **aspiration** (canalisations) | Jaune |
+| **OroCup** | Doseur Orotol pour systèmes d'aspiration | Jaune |
 | **ID** | **Instrument Disinfection** | Bleu |
 | **MD** | **Material / Material Disinfection** (matériel spécifique : empreintes, crachoirs, surfaces étendues, aspiration) | Variable selon usage |
-| **HD** | **Hand Disinfection** | Jaune |
+| **HD** | **Hand Disinfection** | Rose (magenta) |
 | **FD** | **Floor / Furniture / Fast Disinfection** (surfaces) | Vert |
 
 ## Famille Orotol — Désinfection aspiration
@@ -285,7 +285,7 @@ pour la stratégie ESG complète du groupe.
 
 Voir la [fiche désinfection des surfaces](../desinfection-surfaces/overview/)
 pour la cartographie complète du **système 4 couleurs** Dürr Dental
-(vert / bleu / rouge / jaune) qui structure l'identification visuelle
+(vert / bleu / jaune / rose) qui structure l'identification visuelle
 des produits en cabinet.
 
 <script type="application/ld+json">
