@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hygiène et chimie de désinfection Dürr Dental — Index (à venir)"
+title: "Hygiène et chimie de désinfection Dürr Dental — Index"
 description: "Catalogue de la ligne hygiène Dürr Dental : produits de désinfection des instruments, surfaces, aspiration et empreintes."
 lang: fr
 permalink: /docs/fr/hygiene-chimie/
@@ -33,6 +33,10 @@ solutions de désinfection des instruments, surfaces, systèmes d'aspiration et 
 
 ### Désinfection — Système 4 couleurs
 
+Repère transversal des gammes chimiques et de leur statut réglementaire
+(biocide vs dispositif médical) : voir la
+[fiche familles ID / MD / HD / FD](familles-id-md-hd-fd/overview/).
+
 | Gamme | Description | Fiche |
 |---|---|---|
 | **[Désinfection des surfaces](desinfection-surfaces/overview/)** | Concentrés, désinfection rapide, soin du fauteuil, lingettes (alcool, sans alcool, sèches), FD 350 green wipes éco | Couleur **verte** |
@@ -47,7 +51,3 @@ solutions de désinfection des instruments, surfaces, systèmes d'aspiration et 
 - [Page hygiène Dürr Dental France](https://www.duerrdental.com/fr/produits/hygiene/)
 - Fiches de données de sécurité (FDS) publiques par produit (à indexer)
 - Index sources complet : [`/sources/`](../../../sources/)
-
----
-
-*Cette section est en cours de rédaction. Première publication prévue Sprint 3 du projet.*

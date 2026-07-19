@@ -347,4 +347,4 @@ Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Les tarifs ne sont pas reproduits (susceptibles d'évoluer). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*

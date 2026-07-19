@@ -416,8 +416,10 @@ Le logiciel VistaSoft est compatible avec l'ensemble des systèmes Dürr Dental 
 tomographie et photographie. Il prend en charge l'export DICOM et plusieurs interfaces de
 logiciels tiers.
 
-*Fiches détaillées à venir : VistaSoft 4.0, modules Cloud (View, Exchange, Drive), VistaSoft AID,
-VistaSoft Trace.*
+Fiches détaillées : [VistaSoft 4.0](../vistasoft-4-0/overview/), modules Cloud
+([View](../vistasoft-cloud-view/overview/), [Exchange](../vistasoft-cloud-exchange/overview/),
+[Drive](../vistasoft-cloud-drive/overview/)), [VistaSoft AID](../vistasoft-aid/overview/),
+[VistaSoft Trace](../vistasoft-trace/overview/).
 
 ## Limites et précisions
 
@@ -550,7 +552,8 @@ Dispositif médical de **classe IIb**, marquage CE 2460, conforme à la Directiv
 
 ### À quel logiciel sont raccordés ces appareils ?
 
-Au logiciel d'imagerie **VistaSoft** de Dürr Dental. *Fiche dédiée à venir.*
+Au logiciel d'imagerie **VistaSoft** de Dürr Dental. Voir la
+[fiche VistaSoft 4.0](../vistasoft-4-0/overview/).
 
 ## Sources publiques
 

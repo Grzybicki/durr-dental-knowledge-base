@@ -201,10 +201,10 @@ modules complémentaires :
 | **VistaSoft Cloud Exchange** | Échange d'images entre confrères (non-DM) | [Fiche dédiée](../vistasoft-cloud-exchange/overview/) |
 | **VistaSoft Cloud Drive** | Stockage cloud zero-knowledge (non-DM) | [Fiche dédiée](../vistasoft-cloud-drive/overview/) |
 | **VistaSoft Monitor** | Surveillance IoT d'équipement (non-DM) | [Fiche dédiée](../vistasoft-monitor/overview/) |
-| **VistaSoft Inspect** | Contrôle qualité (DIN 6868-157) | Fiche à venir |
-| **Patient Bridge** | Interface vers les logiciels de gestion de cabinet (PMS) | Fiche à venir |
-| **Image Bridge** | Pilotage des appareils Dürr depuis des logiciels d'imagerie tiers | Fiche à venir |
-| **VistaSoft Mobile Connect** | Consultation mobile sur iPad | Fiche à venir |
+| **VistaSoft Inspect** | Contrôle qualité (DIN 6868-157) | [Fiche dédiée](../vistasoft-inspect/overview/) |
+| **Patient Bridge** | Interface vers les logiciels de gestion de cabinet (PMS) | [Fiche dédiée](../patient-bridge/overview/) |
+| **Image Bridge** | Pilotage des appareils Dürr depuis des logiciels d'imagerie tiers | [Fiche dédiée](../image-bridge/overview/) |
+| **VistaSoft Mobile Connect** | Consultation mobile sur iPad | [Fiche dédiée](../vistasoft-mobile-connect/overview/) |
 
 ## Fonctions IA incluses (VistaSoft AI inclusive)
 
@@ -425,7 +425,7 @@ spécifiques à un type donné).
   Dürr Dental — permet le traitement de données 3D sans CBCT propre.
 - **Export DICOM** : conformité DICOM (acquisition, stockage, modality worklist).
 - **Interfaces tierces** : VDDS, BDW, Patient Bridge, `patimport.txt` (voir
-  fiche dédiée Patient Bridge à venir).
+  [fiche dédiée Patient Bridge](../patient-bridge/overview/)).
 - **Annotations** : liste des annotations par couche, accès direct à la couche
   concernée d'un clic.
 - **Sauvegarde automatique** : modifications enregistrées automatiquement.
@@ -649,4 +649,4 @@ Non — verbatim manuel utilisateur : *« le logiciel ne convient pas aux mammog
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-05-29. Licence : CC-BY 4.0.*

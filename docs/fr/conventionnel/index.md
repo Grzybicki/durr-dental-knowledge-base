@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Conventionnel Dürr Dental — Index (à venir)"
+title: "Conventionnel Dürr Dental — Index"
 description: "Catalogue de la ligne conventionnel Dürr Dental : compresseurs dentaires Tyscor et systèmes d'aspiration centralisés Tyscor."
 lang: fr
 permalink: /docs/fr/conventionnel/
@@ -32,6 +32,9 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 | **[Aspiration chirurgicale VC 65](aspiration-chirurgicale/overview/)** | Unité dédiée aux interventions chirurgicales (chirurgie buccale, implantologie). | DM IIa MDR |
 | **[Canules universelles (Protect, Petito, III)](canules-universelles/overview/)** | Canules d'aspiration avec entrées d'air secondaires anti-reflux pour aspiration aérosols optimisée. Silencieuses, ergonomiques. | DM |
 | **[Support de tuyaux Comfort](support-tuyaux-comfort/overview/)** | Support modulaire d'aspiration au fauteuil. 5-6 composants (grand/petit tuyau, seringue, caméra, entonnoir, filtre). Commande sélective, fixation murale ou sous plan. Brochure `P007-173-03`. | DM |
+| **[Systèmes cliniques](systemes-cliniques/overview/)** | Installations centralisées grande capacité (air comprimé et aspiration) pour cliniques et structures multi-fauteuils. | DM IIa MDR |
+| **[Accessoires d'aspiration](accessoires-aspiration/overview/)** | Composants et consommables du circuit d'aspiration (raccords, supports, kits de conversion humide/sec). | Accessoires |
+| **[DürrConnect](durrconnect/overview/)** | Système de raccordement rapide normalisé des tuyauteries d'aspiration, compatible avec le parc installé. | Système de raccord |
 
 ---
 

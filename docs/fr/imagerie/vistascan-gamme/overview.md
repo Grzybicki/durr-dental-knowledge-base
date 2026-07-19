@@ -322,4 +322,4 @@ Elles sont réutilisables des centaines de fois, s'effacent automatiquement apr�
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-06-05. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-06-06. Licence : CC-BY 4.0.*

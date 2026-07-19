@@ -155,12 +155,12 @@ opératoire.
 
 Les canules universelles Dürr Dental sont compatibles avec :
 
-| Système d'aspiration | Lien |
+| Système d'aspiration | Détail |
 |---|---|
-| [Tyscor — humide et sec](../tyscor-aspiration/overview/) |
-| [Power Tower](../power-tower/overview/) (Silence + View) |
-| [VC 65 — aspiration chirurgicale](../aspiration-chirurgicale/overview/) |
-| Systèmes anciens via [DürrConnect](../durrconnect/overview/) |
+| [Tyscor](../tyscor-aspiration/overview/) | Aspiration humide et sec |
+| [Power Tower](../power-tower/overview/) | Gammes Silence + View |
+| [VC 65](../aspiration-chirurgicale/overview/) | Aspiration chirurgicale |
+| [DürrConnect](../durrconnect/overview/) | Raccordement des systèmes anciens |
 
 ## Articulation avec d'autres accessoires
 

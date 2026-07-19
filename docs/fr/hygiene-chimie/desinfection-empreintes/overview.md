@@ -182,7 +182,7 @@ Les **inhibiteurs de corrosion** présents dans ID 213 préservent les
 décisif pour les cabinets équipés d'instruments inox de qualité
 chirurgicale ou de pièces à main coûteuses.
 
-#<script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -253,14 +253,7 @@ La désinfection chimique préalable (par ID 213 notamment) est suivie d'une st�
 
 Lorsqu'ils sont classés comme dispositifs médicaux (MDR EU 2017/745), ils relèvent du MDR et sont donc hors du champ du Certibiocide.
 
-## Sources publiques
-
-| Document | URL publique |
-|---|---|
-| Page ID 212 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-instrument-disinfection/> |
-| Page ID 213 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-213-instrument-disinfection/> |
-
-### EPI — Équipements de Protection Individuelle
+## EPI — Équipements de Protection Individuelle
 
 Lors de la **manipulation du concentré ID 212 / ID 213** (versement,
 dilution, préparation), les EPI recommandés par les FDS publiques
@@ -276,7 +269,7 @@ Lors de l'**immersion routinière des instruments** dans la solution
 **diluée à 2 %**, les EPI standards du cabinet suffisent (gants
 nitrile et tenue de travail).
 
-### Certibiocide
+## Certibiocide
 
 Les **ID 212** et **ID 213**, lorsqu'ils sont classés comme
 **dispositifs médicaux** (MDR EU 2017/745), sont **hors champ du
@@ -296,6 +289,8 @@ puis un **emballage stérile** via
 
 | Document | URL publique |
 |---|---|
+| Page ID 212 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-instrument-disinfection/> |
+| Page ID 213 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-213-instrument-disinfection/> |
 | Page Hygojet | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/special-areas/hygojet/> |
 | Page Hub Hygiène | <https://www.duerrdental.com/en/products/hygiene/> |
 
