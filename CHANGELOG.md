@@ -4,6 +4,49 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.5.0] — 2026-07-20
+
+Correction de la **navigation interne** (404 systémiques), du **système de couleurs**
+de la gamme chimie, et durcissement du validateur — le tout audité par un relecteur
+indépendant (modèle Fable, 2 passes).
+
+### Corrigé — liens internes 404 (cause racine)
+
+- Les permalinks Jekyll se terminent par `/` (`.../overview/`), donc un lien relatif
+  `../x/overview/` grimpe un cran trop haut côté navigateur → **404**. Un lien absolu
+  **sans** baseurl (`/docs/...`) échoue aussi (site servi sous `/durr-dental-knowledge-base/`).
+- **~760 liens** convertis en absolus baseurl `/durr-dental-knowledge-base/docs/...`
+  (`docs/fr/**`, `sources/*.md`, `index.md` racine). Format prouvé en live (HTTP 200).
+- Création de `sources/index.md` (page d'accueil `/sources/` qui manquait → réparait les
+  liens « Index sources complet »).
+- Corrections de 404 résiduels débusqués par l'audit : `404.html` (liens sans baseurl),
+  `vistapano-2-0` (lien `/index/` inexistant), `docs/WORKFLOW.md` (liens vers fichiers du dépôt).
+
+### Corrigé — système d'hygiène 4 couleurs
+
+- Mapping rétabli d'après la brochure officielle `DD_674L02` et l'article Dynamique
+  Dentaire : **ID = bleu, MD = jaune, HD = rose, FD = vert**. L'ancien « rouge = aspiration,
+  jaune = mains » était erroné (fiches surfaces, mains, index, familles corrigées ;
+  MD « variable selon usage » → jaune).
+
+### Corrigé / enrichi — contenu
+
+- **MD 555** : fréquence portée à **2×/semaine minimum, 3× si poudre prophylactique**
+  (recommandation de pratique, mention de la source publique 1–2×/sem conservée).
+- **Filtre UHD** ajouté dans les 3 tableaux de filtres basiques de VistaSoft 4.0.
+- **VistaScan Nano Easy** : contrainte « 1 élément (cassette) par format, à remplacer à
+  chaque changement de format » documentée (+ FAQ).
+- **`sources/manuals.md`** complété (imagerie, conventionnel, hygiène) à partir des pages
+  produit officielles déjà citées dans les fiches (fin des placeholders « À compléter »).
+
+### Modifié — tooling / build
+
+- `scripts/validate.py` **durci** : rejette tout lien racine-absolu sans baseurl depuis une
+  page publiée ; n'accepte plus un lien-dossier nu ni le mapping vers un `overview.md` enfant.
+  Testé (2 classes de 404 désormais détectées, 0 faux positif sur 84 fichiers).
+- `_config.yml` : **exclusion du build** des docs de dev/process servies par erreur
+  (`STATEMENT_OF_INTEGRITY.md`, `docs/WORKFLOW.md`, `docs/GITHUB_HARDENING.md`, `scripts/`).
+
 ## [0.4.0] — 2026-07-19
 
 Supervision experte (4 domaines) puis corrections **validées sur documents officiels**
