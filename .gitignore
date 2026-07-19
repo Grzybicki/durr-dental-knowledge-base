@@ -23,3 +23,8 @@ desktop.ini
 /drafts/
 /_local/
 *.draft.md
+
+# Claude Code — outils de dev locaux (non publies)
+/CLAUDE.md
+/.claude/
+/tasks/
