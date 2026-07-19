@@ -4,6 +4,58 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.4.0] — 2026-07-19
+
+Supervision experte (4 domaines) puis corrections **validées sur documents officiels**
+(DoC MDR, FDS, notices, factsheets, lettre qualité d'air) + GEO structurel.
+
+### Corrigé — cohérence factuelle (imagerie)
+
+- Compatibilité plaques **IQ/Plus à sens unique** (un scanner série 2.0 refuse les
+  plaques Plus) ; **Smart Reader** compatible Mini Easy/View 2.0 uniquement.
+- **VistaVox** : 3 temps d'acquisition distincts (CBCT 18 s / pano 7 s / céphalo 1,9 s).
+- **VistaSoft** : 6 fonctions IA incluses + **AID sur abonnement**.
+- **VistaCam Proof** : détection caries **et** plaque ; échelle de fluorescence réécrite
+  sur la notice officielle `618178` (dégradé de couleurs inventé supprimé).
+
+### Corrigé — statut réglementaire (chimie et accessoires)
+
+- La chimie Dürr est **quasi intégralement un dispositif médical MDR** (FD, ID, MD,
+  Orotol, Vector = classe I ou IIa) ; **seul HD (mains) = biocide TP1** → **aucun produit
+  Dürr n'est soumis au Certibiocide**. Fiches surfaces/mains/aspiration/familles corrigées.
+- **Smart Reader** = non-DM (CE au titre RED 2014/53/UE + RoHS) ; **VistaPosition** = DM classe I.
+- Catalogue réglementaire complet dans `sources/certificates.md` (NB **DEKRA 0124** ajouté).
+
+### Corrigé — conventionnel
+
+- **Tyscor V4/VS4 = 230 V** monophasé (la fiche indiquait 400 V à tort).
+- **Power Tower View = 56 dB(A)** uniforme (correction du 53/55 dB inventé).
+- Classes de pureté d'air = **ISO 8573-1** (pas ISO 22052) ; classe **[2:4:2]**.
+
+### Ajouté — enrichissement conventionnel
+
+- Tableaux techniques complets par modèle : Tornado, Tyscor, Power Tower, CAD/CAM,
+  récupérateurs d'amalgame (+ **ISO 11143**), systèmes cliniques (stations P + V).
+- Qualité d'air ISO 22052 détaillée (point de rosée ≤ +3 °C, huile ≤ 0,1 mg/m³, type 2).
+- Notified Body des compresseurs (**DQS 0297**) dans la matrice.
+
+### Ajouté — GEO structurel
+
+- Accueil `index.md` refait (index réel des 56 fiches) ; `llms.txt` refondu (format
+  llmstxt.org, 56 fiches, URL absolues) + **`llms-full.txt`** (concaténation pour ingestion).
+- Layout JSON-LD : **`publisher` indépendant** (anti-attribution), **`@id`**, `dateModified`
+  au build, **`sameAs`** vérifiés (Wikidata Q1272127, registres officiels France + réseaux),
+  **SIREN** structuré ; retrait du canonical dupliqué et de la SearchAction fictive.
+- JSON-LD `@type` des fiches produit → **`[MedicalDevice/SoftwareApplication, Product]`**
+  + **`legalStatus`** (au lieu de `regulatoryClass` inexistant en schema.org).
+- Bundle dépôt racine `deploy/root-site/` (prêt à déployer — rend robots.txt/llms.txt
+  visibles des crawlers IA).
+
+### Gouvernance
+
+- Règle d'or appliquée : un **e-mail interne** (PII salariés) et un **certificat OEM tiers**
+  ont été **écartés**, non cités, non intégrés.
+
 ## [0.3.0] — 2026-06-01
 
 Audit structurel du dépôt puis correction priorisée (P0 → P2). Détail interne :

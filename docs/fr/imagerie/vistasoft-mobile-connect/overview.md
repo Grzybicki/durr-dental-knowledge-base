@@ -51,7 +51,7 @@ license: CC-BY-4.0
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MobileApplication",
+  "@type": ["MobileApplication", "Product"],
   "name": "DÜRR DENTAL Imaging",
   "alternateName": ["VistaSoft Mobile Connect", "VistaSoft MobileConnect", "Dürr Dental Imaging App"],
   "applicationCategory": "MedicalApplication",
