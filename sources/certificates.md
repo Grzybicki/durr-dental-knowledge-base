@@ -25,9 +25,10 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 
 ## Notified Body principaux
 
-- **DQS Medizinprodukte GmbH** — code Notified Body **0297** —
-  certifie les logiciels d'imagerie Dürr Dental (VistaSoft 4.0,
-  VistaSoft AID, etc.) sous MDR EU 2017/745.
+- **DQS Medizinprodukte GmbH** — code Notified Body **0297** — certifie sous
+  MDR EU 2017/745, via le **certificat QMS unique 518373 MDR2017Q**, à la fois les
+  **logiciels d'imagerie** (VistaSoft 4.0, VistaSoft AID…) **et la ligne équipement
+  air comprimé** (compresseurs Silver Airline, Tornado…).
 - **DNV Product Assurance AS** — code Notified Body **2460** — certifie
   la gamme panoramique VistaPano S 2.0 sous MDD 93/42/EEC.
 - **DEKRA Certification GmbH** — code Notified Body **0124** — certifie la
@@ -72,12 +73,12 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 
 | Produit | Classe | Réglementation | Notified Body | Fiche |
 |---|---|---|---|---|
-| **Silver Airline** (Primo, Duo, Trio, Quattro, Tandem) | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/docs/fr/conventionnel/silver-airline/overview/) |
-| **Tornado** (1, 2, 4, Super Silent) | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/docs/fr/conventionnel/tornado/overview/) |
-| **Power Tower** (Silence, View) | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/docs/fr/conventionnel/power-tower/overview/) |
-| **Compresseurs CAD/CAM** | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/docs/fr/conventionnel/cad-cam-compresseurs/overview/) |
+| **Silver Airline** (Primo, Duo, Trio, Quattro, Tandem) | **IIa** | MDR EU 2017/745 (+ 2014/29/EU & 2014/68/EU récipients sous pression) | **DQS 0297** — cert. 518373 MDR2017Q (dossier CE-100-A) | [Fiche](/docs/fr/conventionnel/silver-airline/overview/) |
+| **Tornado** (1, 2, 4, Super Silent) | **IIa** | MDR EU 2017/745 (+ 2014/29/EU & 2014/68/EU) | **DQS 0297** — cert. 518373 MDR2017Q (dossier CE-100-B) | [Fiche](/docs/fr/conventionnel/tornado/overview/) |
+| **Power Tower** (Silence, View) | **IIa** | MDR EU 2017/745 | À confirmer (probable DQS 0297 — même QMS Dürr) | [Fiche](/docs/fr/conventionnel/power-tower/overview/) |
+| **Compresseurs CAD/CAM** | **IIa** | MDR EU 2017/745 | À confirmer (déclinaison Silver Airline → DQS 0297) | [Fiche](/docs/fr/conventionnel/cad-cam-compresseurs/overview/) |
 | **Tyscor** (gamme aspiration humide + sèche, poste unique et centralisé) | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/docs/fr/conventionnel/tyscor-aspiration/overview/) |
-| **Récupérateurs d'amalgame** (CA 1, CA 2, CA 4, Sepamatic CS 1, CAS 1) | **IIa** | MDR EU 2017/745 + Règlement (UE) 2017/852 sur le mercure | À confirmer | [Fiche](/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
+| **Récupérateurs d'amalgame** (CA 1, CA 2, CA 4, Sepamatic CS 1, CAS 1) | **IIa** | MDR EU 2017/745 + Règlement (UE) 2017/852 (mercure) | DoC MDR **sans NB cité** (auto-déclaration) ; agrément **DIBt Z-64.1** (dossier CE-110-M/L) | [Fiche](/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
 | **VC 65** (aspiration chirurgicale) | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
 | **DürrConnect** (système de raccordement) | Composant accessoire | MDR EU 2017/745 | — | [Fiche](/docs/fr/conventionnel/durrconnect/overview/) |
 | **Accessoires d'aspiration** (canules, vannes, supports) | Composant accessoire | MDR EU 2017/745 | — | [Fiche](/docs/fr/conventionnel/accessoires-aspiration/overview/) |
