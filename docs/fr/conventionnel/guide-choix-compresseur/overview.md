@@ -136,8 +136,16 @@ degrés :
 3. **Évolutivité** — un **Duo Tandem 1 groupe** peut être **mis à niveau en Duo Tandem 2 groupes**
    (montée en puissance sans remplacer l'unité), utile quand le cabinet s'agrandit.
 
-C'est ce qui distingue le **principe Tandem** d'un simple compresseur plus gros : on gagne à la
-fois en **puissance** et en **redondance**.
+> ⚠️ **Pourquoi uniquement les modèles à commande électronique ?** Les compresseurs simples
+> (**Primo, Duo, Trio, Quattro** et leurs équivalents **Tornado**) sont pilotés par
+> **pressostat mécanique** : on ne peut **pas** les connecter à deux sur une même ligne d'air,
+> car rien n'empêche que ce soit **toujours le même compresseur qui démarre en premier** (usure
+> déséquilibrée, pas de vraie répartition ni de redondance). Seule la **commande électronique**
+> (Duo/Quattro Tandem, Power Tower View) permet de coordonner les démarrages et donc
+> l'interconnexion.
+
+C'est ce qui distingue le **principe Tandem** (et les unités électroniques) d'un simple
+compresseur plus gros : on gagne à la fois en **puissance** et en **redondance**.
 
 ## Tornado ou Silver Airline ?
 
