@@ -26,6 +26,9 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 >
 > 🌡️ **[Local technique — température & ventilation](/durr-dental-knowledge-base/docs/fr/conventionnel/local-technique-compresseur/overview/)** —
 > conditions d'installation : +10 à +25 °C, ventilation, gestion de la chaleur.
+>
+> 🏥 **[Air comprimé clinique (clinic)](/durr-dental-knowledge-base/docs/fr/conventionnel/air-clinic/overview/)** —
+> stations centralisées grandes structures : qualité supérieure, point de rosée abaissé (séchage par réfrigération), supervision réseau.
 
 | Gamme | Description | Fiche |
 |---|---|---|

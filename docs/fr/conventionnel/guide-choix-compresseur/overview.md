@@ -138,7 +138,11 @@ degrés :
    remplacer le compresseur** : un **Duo Tandem 1 groupe** se **met à niveau en Duo Tandem
    2 groupes** (ajout d'un groupe moteur). On investit donc dans une base **évolutive**, plutôt
    que de surdimensionner d'emblée ou de devoir tout changer plus tard lorsqu'un fauteuil est
-   ajouté.
+   ajouté. Et une fois le **Duo Tandem passé en 2 groupes**, on peut encore franchir un palier
+   en lui **adjoignant un second Duo Tandem** (interconnexion électronique, cf. point 2) — la
+   capacité grandit ainsi **par étapes successives**, sans jamais remplacer l'installation. **Le
+   même principe s'applique aux [Quattro Tandem](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
+   et au Quattro P 20** (montée en capacité par ajout de groupes / interconnexion d'unités).
 
 > ⚠️ **Pourquoi uniquement les modèles à commande électronique ?** Les compresseurs simples
 > (**Primo, Duo, Trio, Quattro** et leurs équivalents **Tornado**) sont pilotés par
@@ -149,7 +153,17 @@ degrés :
 > l'interconnexion.
 
 C'est ce qui distingue le **principe Tandem** (et les unités électroniques) d'un simple
-compresseur plus gros : on gagne à la fois en **puissance** et en **redondance**.
+compresseur plus gros : on gagne à la fois en **puissance**, en **redondance** et en
+**évolutivité**.
+
+## Supervision réseau (compresseurs électroniques)
+
+Les compresseurs à **commande électronique** (Duo/Quattro Tandem, Power Tower View) sont
+**connectables au réseau Ethernet** du cabinet et **supervisables via
+[VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/)** :
+suivi en temps réel de l'état de fonctionnement, alertes, rappels de maintenance. Les modèles
+**sans interface réseau native** (compresseurs simples, parc plus ancien) peuvent être remontés
+via la **[Connect Box](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)**.
 
 ## Tornado ou Silver Airline ?
 
