@@ -139,9 +139,34 @@ DICOM :
 | **CT** | Cone Beam CT (CBCT) |
 | **OT** | Other (caméras intraorales, vidéo) |
 
-Le DICOM Conformance Statement détaille les SOP Classes spécifiques pour
-chaque modalité (par exemple **Dental X-Ray IO Storage**, **Dental Radiograph
-Storage**, **Enhanced CT Image Storage** pour CBCT).
+Le DICOM Conformance Statement officiel VistaSoft (ProFile `4492706`) distingue
+**deux jeux de SOP Classes** — il ne faut pas les confondre :
+
+**À l'import** (lecture de fichiers / DICOMDIR, rôle *File-Set Reader*), VistaSoft
+accepte un **large éventail** de SOP Classes :
+
+| SOP Class (import) | UID |
+|---|---|
+| Computed Radiography Image Storage | `1.2.840.10008.5.1.4.1.1.1` |
+| Digital X-Ray Image Storage — For Presentation / For Processing | `…1.1.1.1` / `…1.1.1.1.1` |
+| Digital Intra-Oral X-Ray Image Storage — For Presentation / For Processing | `…1.1.1.3` / `…1.1.1.3.1` |
+| CT / Enhanced CT Image Storage | `…1.1.2` / `…1.1.2.1` |
+| Secondary Capture Image Storage | `1.2.840.10008.5.1.4.1.1.7` |
+
+**En gestion interne et à l'envoi vers un PACS** (rôle *Storage SCU*), VistaSoft
+**mappe** ses images vers un jeu **restreint** (table « Mapping of VistaSoft image
+types to SOP Classes ») :
+
+| Type d'image VistaSoft | SOP Class émise |
+|---|---|
+| Rétro-alvéolaire / panoramique / céphalométrique | **Computed Radiography Image Storage** |
+| CBCT | **Enhanced CT / CT Image Storage** |
+| Photos / vidéo / proof | **Secondary Capture Image Storage** |
+
+L'attribut **Modality** (0008,0060) vaut alors **IO** (rétro-alvéolaire), **PX**
+(panoramique), **DX** (céphalométrique) ou **CT** (CBCT). VistaSoft agit en
+**Storage SCU uniquement** (il envoie vers un PACS mais n'accepte pas d'associations
+entrantes ; la réception d'images externes se fait par **import de fichiers**).
 
 ## Articulation avec le standard officiel
 

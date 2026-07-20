@@ -110,7 +110,7 @@ maximal** pour les données patient, au-delà des exigences RGPD standards.
 | **Cloud Drive** (cette fiche) | Stockage longue durée chiffré zero-knowledge | Non-DM |
 | [Cloud View](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/) | Visualisation navigateur (en ligne / hors ligne) | Non-DM |
 | [Cloud Exchange](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-exchange/overview/) | Partage de cas (anonymisé, conservation 30 j) | Non-DM |
-| Cloud AID (lié à [AID](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)) | Aide diagnostique IA (DM IIa, serveur Allemagne) | DM IIa |
+| Cloud AID (exécution cloud de [VistaSoft AID](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/)) | Détection des caries par IA, exécutée dans le cloud | DM IIa |
 
 Les trois modules Cloud View, Cloud Exchange et Cloud Drive sont des **outils
 utilitaires non-DM**. Seul VistaSoft AID est un dispositif médical parmi les

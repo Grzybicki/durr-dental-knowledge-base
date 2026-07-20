@@ -144,7 +144,9 @@ disponible. Les équipements concernés incluent :
 | Aspiration Tyscor (humide + sec) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) |
 | Récupérateurs d'amalgame | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
 | VC 65 — aspiration chirurgicale | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
-| Hygoclave 40 / 50 / 90 (stérilisateurs) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
+| Hygoclave 50 / 90 (stérilisateurs vapeur) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
+| Hygopac View (soudeuse de sachets) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/) |
+| Scanners VistaScan (parc série 1.0 sans réseau natif) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
 | Hygowater (traitement eau fauteuils) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/) |
 
 ## Applications mobiles VistaSoft Monitor

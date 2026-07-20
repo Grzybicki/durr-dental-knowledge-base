@@ -48,7 +48,7 @@ license: CC-BY-4.0
   "publisher": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Functions", "value": "Driver bridge to allow third-party imaging software to capture from Dürr Dental hardware" },
-    { "@type": "PropertyValue", "name": "TWAIN support", "value": "Yes (intra-oral devices)" }
+    { "@type": "PropertyValue", "name": "Logiciels tiers ciblés", "value": "Sidexis, VixWin (le support TWAIN générique relève de VistaSoft Connect)" }
   ]
 }
 </script>
@@ -101,12 +101,20 @@ produits **ScanX**, **SensorX** et **CamX** appartiennent au même groupe Dürr
 Dental ; ils ne sont pas concernés par Image Bridge au sens cohabitation
 externe.
 
-## Support TWAIN
+## Périmètre d'Image Bridge vs VistaSoft Connect (TWAIN)
 
-VistaSoft 4.0 et Image Bridge supportent le standard **TWAIN** pour les
-capteurs intra-oraux. Cela permet l'intégration des capteurs Dürr Dental
-dans tout logiciel tiers supportant TWAIN, ce qui couvre une grande partie
-des logiciels d'imagerie historiques.
+Deux modules Dürr Dental permettent de faire fonctionner les appareils d'imagerie
+Dürr dans un environnement logiciel tiers, avec des **périmètres distincts** :
+
+- **Image Bridge** est l'**intégration dédiée** aux logiciels d'imagerie
+  **Sidexis** et **VixWin** — il pilote les appareils Dürr Dental depuis ces
+  logiciels précis.
+- **VistaSoft Connect** est la **passerelle TWAIN générique** : c'est *elle* qui
+  expose les capteurs / appareils Dürr Dental à **tout logiciel tiers compatible
+  TWAIN**, pour les faire fonctionner dans un autre environnement.
+
+Autrement dit, le **support TWAIN** relève de **VistaSoft Connect**, tandis
+qu'Image Bridge cible spécifiquement Sidexis et VixWin.
 
 ## Cas d'usage typiques
 

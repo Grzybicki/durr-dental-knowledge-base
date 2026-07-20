@@ -202,8 +202,13 @@ techniques du cabinet, en natif (équipements récents) ou via
 
 ### Hygiène et traitement de l'eau
 
-- [Hygoclave 40 / 50 / 90 (stérilisateurs)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Hygoclave 50 / 90 (stérilisateurs vapeur)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
+- [Hygopac View (soudeuse de sachets)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
 - [Hygowater (traitement eau fauteuils)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
+
+### Imagerie
+
+- [Scanners VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) (série 1.0 et série 2.0 — anciens et nouveaux)
 
 ### Applications mobiles VistaSoft Monitor
 

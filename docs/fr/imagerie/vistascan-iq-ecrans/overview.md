@@ -134,9 +134,9 @@ dans VistaSoft, comme historiquement).
 Dürr Dental propose également une gamme distincte d'écrans dits **« Plus »**
 (catalogue Dürr Dental France 2026, section *Écrans à mémoire Plus*),
 **sans puce RFID**. Ils équipent le **parc VistaScan série 1.0** (Mini Easy,
-Mini Plus, Mini View 1.0, Perio, Perio Net) **ainsi que les scanners
-Combi (Combi View / Combi Plus)** — ces derniers encore commercialisés mais
-fonctionnant sur la **génération Plus** (sans lecteur RFID).
+Mini Plus, Mini View 1.0, Perio, Perio Net) **ainsi que le scanner
+Combi View** (extra-oral + intra-oral) — **toujours commercialisé** (catalogue
+2026, réf. `2151-01`) mais fonctionnant sur la **génération Plus** (sans lecteur RFID).
 
 Les écrans Plus restent un **consommable courant et activement commercialisé** :
 le parc de scanners VistaScan série 1.0 en service reste important, et les plaques
@@ -148,7 +148,7 @@ le reste de la gamme. Leurs références figurent sur la fiche
 | Critère | VistaScan IQ | Écrans VistaScan Plus |
 |---|---|---|
 | **Puce RFID** | **Oui** | **Non** (pas de puce RFID) |
-| **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Perio, Perio Net) **et Combi (View / Plus)** |
+| **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Perio, Perio Net) **et Combi View** |
 | **Compatibilité croisée** | Lisibles aussi par les scanners **sans** lecteur RFID (série 1.0, Combi), la puce étant simplement ignorée | **Non lisibles par la série 2.0** (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View), qui exige une plaque IQ à puce |
 | **Workflow automatisé via [Smart Reader](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)** | **Oui** — Mini Easy 2.0 et Mini View 2.0 uniquement | Non |
 | **Suivi qualité par IA (VistaSoft AI)** | **Oui** | Non |
