@@ -36,6 +36,12 @@ vault, POC firmware).
 - Ajouts : **ISO 8573-1** (matrice normes), section **MD 520** (fiche empreintes), note
   Lunos tréhalose vs MD 555.
 
+### Structurel (GEO)
+
+- **Convention FAQPage harmonisée** sur les **56 fiches** : le bloc JSON-LD FAQPage est
+  désormais placé **avant** le titre « Questions fréquentes » partout (18 fiches réalignées
+  sur la convention majoritaire). Aucun impact rendu — cohérence structurelle pour le chunking.
+
 ### Enrichi
 
 - **VistaScan Nano Easy** : technologie **2D MEMS Scan** brevetée + données techniques
