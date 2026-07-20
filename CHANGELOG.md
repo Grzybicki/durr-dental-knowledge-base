@@ -4,6 +4,21 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.6.2] — 2026-07-20
+
+### Ajouté
+
+- **Fiche « Air comprimé clinique (clinic) »** — stations centralisées pour grandes structures
+  (cliniques, hôpitaux, universités) : **qualité d'air supérieure** avec **point de rosée abaissé**
+  via **séchage par réfrigération**, service continu intensif, sans huile, DM classe IIa,
+  supervision réseau. (Bâtie sur la page produit publique clinic-systems ; contenu interne écarté.)
+- **Guide compresseur — supervision réseau** : compresseurs à commande électronique
+  **connectables au réseau Ethernet** et supervisables via **VistaSoft Monitor** (Connect Box
+  pour le parc sans interface native).
+- **Guide compresseur — évolutivité Tandem généralisée** : Duo Tandem 1 groupe → 2 groupes →
+  ajout d'un 2ᵉ Duo Tandem ; **même principe pour Quattro Tandem et Quattro P 20** (montée en
+  capacité par étapes, sans remplacer l'installation).
+
 ## [0.6.1] — 2026-07-20
 
 ### Ajouté — écosystème « air comprimé » (technique & installation)
