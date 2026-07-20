@@ -20,6 +20,12 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 >
 > 🧪 **[Dessiccateur à membrane vs colonne à silicate](/durr-dental-knowledge-base/docs/fr/conventionnel/dessiccateur-membrane/overview/)** —
 > la technologie de séchage à fibres membranaires (cycle 100 %, sans régénération) et ses avantages, notamment pour le CAD/CAM.
+>
+> 💨 **[Qualité de l'air comprimé dentaire et normes](/durr-dental-knowledge-base/docs/fr/conventionnel/qualite-air-comprime-dentaire/overview/)** —
+> pourquoi un air sec et sans huile (collages, corrosion, hygiène) ; normes ISO 8573-1 / ISO 22052, classe [2:4:2].
+>
+> 🌡️ **[Local technique — température & ventilation](/durr-dental-knowledge-base/docs/fr/conventionnel/local-technique-compresseur/overview/)** —
+> conditions d'installation : +10 à +25 °C, ventilation, gestion de la chaleur.
 
 | Gamme | Description | Fiche |
 |---|---|---|

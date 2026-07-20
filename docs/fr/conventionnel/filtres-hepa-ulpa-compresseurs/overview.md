@@ -172,6 +172,30 @@ filtres** par numéro de référence du compresseur :
 4. Fréquence de remplacement standard : **1× par an** pour tous les
    filtres (verbatim communication officielle).
 
+## Renouvellement des filtres — pourquoi c'est essentiel
+
+Le **changement annuel des filtres** n'est pas une simple formalité d'entretien : il agit à la
+fois sur la **qualité de l'air** produit et sur la **longévité** du compresseur.
+
+Au fil du temps, la **poussière et les impuretés colmatent le filtre**. Un filtre encrassé
+entraîne une **cascade d'effets négatifs** :
+
+| Filtre encrassé (non renouvelé) | Filtre renouvelé (à temps) |
+|---|---|
+| Le **débit d'air chute** (l'air passe plus difficilement) | **Débit maximal** préservé |
+| La **consommation d'énergie augmente** (le compresseur force) | **Coûts d'exploitation** réduits |
+| L'**usure du compresseur s'accélère** | **Moins d'usure** des composants |
+| La **qualité de l'air se dégrade** (filtration moins efficace) | **Qualité d'air** (sec, sans huile, hygiénique) maintenue |
+| **Durée de vie de l'appareil réduite** | **Longévité maximale** du compresseur |
+
+En résumé, renouveler les filtres à la fréquence prévue (**annuelle**), c'est **préserver le
+débit et la qualité de l'air** tout en **protégeant l'investissement** (moins d'usure, moins de
+surconsommation, durée de vie prolongée). Le **filtre coalesceur / sinter** du dessiccateur à
+membrane se change en **jeu complet** (avec sa chambre collectrice).
+
+> 💡 Un compresseur qui « faiblit » (débit ou pression insuffisants) a très souvent des
+> **filtres à renouveler** avant toute autre hypothèse.
+
 ## Tableau récapitulatif filtres par génération (références indicatives)
 
 > ⚠️ **Important** : ce tableau référence des numéros de filtres

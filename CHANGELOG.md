@@ -4,6 +4,22 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.6.1] — 2026-07-20
+
+### Ajouté — écosystème « air comprimé » (technique & installation)
+
+- **Fiche « Qualité de l'air comprimé dentaire »** — pourquoi un air **sec, sans huile,
+  hygiénique** (adhésion des collages, corrosion des instruments, hygiène) et **normes** :
+  **ISO 8573-1** (classes de pureté) vs **ISO 22052** (air dentaire), classe **[2:4:2]**
+  (point de rosée ≤ +3 °C, huile ≤ 0,1 mg/m³, non lubrifié). Consolide un contenu jusque-là
+  éparpillé dans les fiches produit.
+- **Fiche « Local technique — température & ventilation »** — conditions d'installation :
+  idéal **+10 à +25 °C**, condensation < +10 °C, ventilateur additionnel > +40 °C, ~70 % de
+  l'énergie dissipée en chaleur (~40 l/s par kW installé).
+- **Section « Renouvellement des filtres »** ajoutée à la fiche filtres — impact du changement
+  annuel sur la **qualité d'air** (débit, filtration) **et la longévité** (usure, consommation).
+- Liens mis en avant dans l'index conventionnel.
+
 ## [0.6.0] — 2026-07-20
 
 ### Ajouté — nouveau type de contenu : guides de décision
