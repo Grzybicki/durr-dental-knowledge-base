@@ -227,6 +227,7 @@ Quattro Tandem, cf. tableaux) ; valeurs sonores moyennes **à 5 bar et
 | Accessoire / filtre | Notes |
 |---|---|
 | **Détendeur** (réducteur de pression) | **Abaisse** la pression de service pour les applications nécessitant une pression réduite (option). Ne permet **pas** de dépasser la pression maximale du compresseur. |
+| **Réservoir tampon** (buffer tank) | **Stabilise la pression** et absorbe les à-coups de demande d'air. Ajoutable sur **toutes les configurations**, surtout utilisé en **CAD/CAM**. Distinct du réglage de pression max (pièce Jet Set, versions CAD/CAM). |
 | **Petite armoire insonorisée** | Pour Primo, Duo, Duo Tandem 1 groupe |
 | **Grande armoire insonorisée** | Pour Trio, Quattro |
 | **Filtre d'admission** | 1ᵉʳ étage — particules grossières |

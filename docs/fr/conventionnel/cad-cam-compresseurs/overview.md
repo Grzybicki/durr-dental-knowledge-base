@@ -134,6 +134,12 @@ synthétique est la suivante :
 > selon la pression désirée. Cette capacité **9,5 bar est propre aux versions
 > CAD/CAM** : la gamme Silver Airline standard plafonne à 7,8 bar.
 >
+> Un **réservoir tampon** (buffer tank) peut par ailleurs être ajouté sur
+> **toutes les configurations** de compresseur ; il **stabilise la pression** et
+> absorbe les à-coups de demande d'air, et est **surtout utilisé en CAD/CAM**, où
+> la constance de pression conditionne la précision d'usinage. Il est **distinct**
+> du réglage de la pression maximale (pièce Jet Set ci-dessus).
+>
 > À l'inverse, la pression maximale du **Tornado (8 bar)** est insuffisante pour
 > les usineuses haut de gamme : les compresseurs **CAD/CAM dédiés** (Duo Tandem /
 > Quattro Tandem 1 ou 2 agrégats) sont obligatoires pour ces machines.
