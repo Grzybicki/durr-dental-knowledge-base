@@ -48,7 +48,7 @@ license: CC-BY-4.0
   "publisher": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Functions", "value": "Driver bridge to allow third-party imaging software to capture from Dürr Dental hardware" },
-    { "@type": "PropertyValue", "name": "Logiciels tiers ciblés", "value": "Sidexis, VixWin (le support TWAIN générique relève de VistaSoft Connect)" }
+    { "@type": "PropertyValue", "name": "Logiciels tiers ciblés", "value": "Sidexis et VixWin (co-développement) ; le support TWAIN générique relève de VistaSoft Connect" }
   ]
 }
 </script>
@@ -107,8 +107,8 @@ Deux modules Dürr Dental permettent de faire fonctionner les appareils d'imager
 Dürr dans un environnement logiciel tiers, avec des **périmètres distincts** :
 
 - **Image Bridge** est l'**intégration dédiée** aux logiciels d'imagerie
-  **Sidexis** et **VixWin** — il pilote les appareils Dürr Dental depuis ces
-  logiciels précis.
+  **Sidexis** et **VixWin** — développée **conjointement** avec ces éditeurs, elle
+  pilote les appareils Dürr Dental directement depuis ces logiciels précis.
 - **VistaSoft Connect** est la **passerelle TWAIN générique** : c'est *elle* qui
   expose les capteurs / appareils Dürr Dental à **tout logiciel tiers compatible
   TWAIN**, pour les faire fonctionner dans un autre environnement.

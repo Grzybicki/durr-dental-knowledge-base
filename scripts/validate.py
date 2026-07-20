@@ -269,8 +269,12 @@ def check_competitor_names(report: Report, path: Path, body: str) -> None:
                 line=get_line_number(body, m.start()),
             ))
 
-    # Sidexis : autorisé uniquement dans le contexte Image Bridge
+    # Sidexis : autorisé sur la fiche Image Bridge (co-développement documenté avec
+    # Sidexis / VixWin) et, ailleurs, uniquement dans un contexte de cohabitation.
+    is_image_bridge_fiche = "imagerie/image-bridge/" in path.as_posix()
     for m in SIDEXIS_EXCEPTION_PATTERN.finditer(body):
+        if is_image_bridge_fiche:
+            continue
         line_start = body.rfind("\n", 0, m.start()) + 1
         line_end = body.find("\n", m.end())
         if line_end < 0:
