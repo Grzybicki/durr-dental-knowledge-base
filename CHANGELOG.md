@@ -4,6 +4,50 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.5.5] — 2026-07-20
+
+Résolution du reste de l'audit de cohérence (items non réglementaires), vérifiée sur
+sources officielles (catalogue 2026, DICOM Conformance Statement, brochures/PDF produit,
+vault, POC firmware).
+
+### Corrigé — contradictions inter-fiches
+
+- **TWAIN** : le support TWAIN générique relève de **VistaSoft Connect** (faire fonctionner
+  les appareils Dürr dans tout environnement) ; **Image Bridge** est l'intégration
+  **co-développée** dédiée à **Sidexis** et **VixWin**.
+- **VistaSoft Monitor** : **3 profils** (praticien / technicien / gestionnaire de dépôt) ;
+  équipements supervisés complétés (scanners **VistaScan**, **Hygopac View**, Hygoclave 50/90).
+- **Cloud AID** = exécution cloud de VistaSoft AID (détection caries IA) ; assertion
+  « serveur Allemagne » retirée.
+- **DICOM** : distinction **import** (large : CR, Digital X-Ray, Digital Intra-Oral X-Ray,
+  CT, Enhanced CT, SC) vs **gestion / envoi PACS** (Storage SCU : CR, CT/Enhanced CT, SC).
+- **Combi View** : confirmé toujours commercialisé (catalogue réf 2151-01, plaques Plus) ;
+  « Combi Plus » (non attesté) retiré.
+
+### Corrigé — erreurs internes et cohérence
+
+- Tornado : économies « 12 % vs génération précédente » (fin du cumul −15/−25 %) ; gain
+  acoustique requalifié ; filtre de série = **ULPA U16** (HEPA H14 = filtres d'aspiration).
+- CAD/CAM : ordre de la chaîne de filtration ; note dB (variantes standard / CAD-CAM,
+  tension, armoire). Amalgame « trois tailles ». Table familles ID : ajout **ID 220**.
+- Accessoires imagerie : « sachets de protection contre la lumière » (et non « stériles »).
+- VistaSoft AID : « optimisation d'image » retirée des fonctions IA. Cloud View : JSON-LD
+  `sameAs`. Lien Hygoclave recorrigé.
+- Ajouts : **ISO 8573-1** (matrice normes), section **MD 520** (fiche empreintes), note
+  Lunos tréhalose vs MD 555.
+
+### Enrichi
+
+- **VistaScan Nano Easy** : technologie **2D MEMS Scan** brevetée + données techniques
+  brochure officielle (S0/S1/S2 avec cassette par format, 4 kg, 231×167×216 mm, laser
+  classe 1) — sources brochures `P007100137` et formation Academy.
+
+### Confirmé sans changement (faux positifs de l'audit)
+
+- Canules = **4 familles** (universelle, Protect, Petito, chirurgicale) — catalogue.
+- Firmware VistaVox correct (POC : Gen 2 = MCU 7.xx, Gen 1 = 8.xx, lignées indépendantes).
+- Décompte « 21 filtres classiques » VistaSoft cohérent (7 + 4 + 8 + 2).
+
 ## [0.5.4] — 2026-07-20
 
 ### Corrigé — filtration et valeurs sonores (audit, vérifié sur vault produit)
