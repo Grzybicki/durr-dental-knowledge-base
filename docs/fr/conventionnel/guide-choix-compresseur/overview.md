@@ -133,8 +133,12 @@ degrés :
    peuvent être **reliés pour fonctionner comme un seul compresseur** sur la **même ligne
    d'alimentation**. Si un groupe moteur tombe en panne, **les autres prennent le relais** →
    redondance renforcée sans interrompre le cabinet.
-3. **Évolutivité** — un **Duo Tandem 1 groupe** peut être **mis à niveau en Duo Tandem 2 groupes**
-   (montée en puissance sans remplacer l'unité), utile quand le cabinet s'agrandit.
+3. **Évolutivité — faire grandir la capacité dans le futur** — le principe Tandem permet
+   d'**augmenter facilement la capacité au rythme de la croissance du cabinet**, **sans
+   remplacer le compresseur** : un **Duo Tandem 1 groupe** se **met à niveau en Duo Tandem
+   2 groupes** (ajout d'un groupe moteur). On investit donc dans une base **évolutive**, plutôt
+   que de surdimensionner d'emblée ou de devoir tout changer plus tard lorsqu'un fauteuil est
+   ajouté.
 
 > ⚠️ **Pourquoi uniquement les modèles à commande électronique ?** Les compresseurs simples
 > (**Primo, Duo, Trio, Quattro** et leurs équivalents **Tornado**) sont pilotés par
