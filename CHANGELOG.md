@@ -4,6 +4,20 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.5.4] — 2026-07-20
+
+### Corrigé — filtration et valeurs sonores (audit, vérifié sur vault produit)
+
+- **Tornado** : le filtre de série est le **bactériologique ULPA U16** (pas « HEPA H14 »).
+  Le **HEPA H14** concerne les filtres d'**aspiration** (VS/VSA, Tyscor VS), pas les
+  compresseurs — distinction confirmée par les références service (compresseur `1650100172`
+  ULPA U16 sur unité de séchage ; aspiration `7119100010` / `0705-991-05` HEPA H14).
+- **Valeurs sonores Tandem** : les écarts de 1-2 dB(A) entre fiche Silver Airline et fiche
+  CAD/CAM ne sont **pas des contradictions** mais des **variantes** — version standard vs
+  **CAD/CAM à commande électronique** (~1 dB plus silencieuse : Quattro Tandem 2 agrégats
+  72 vs 73), **tension** 230 V / 400 V (Duo Tandem 1 agrégat 66/68), et armoire (~51-53 dB).
+  Note de lecture ajoutée à la fiche CAD/CAM.
+
 ## [0.5.3] — 2026-07-20
 
 ### Corrigé — pression Silver Airline / CAD/CAM (audit, précision terrain)

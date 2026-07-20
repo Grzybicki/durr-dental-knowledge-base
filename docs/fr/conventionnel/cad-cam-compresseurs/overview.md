@@ -107,6 +107,17 @@ sont disponibles avec **insonorisation optionnelle**.
 | **Duo Tandem — 2 agrégats** | **`4252-54`** | **50 L** | **253 / 292** | **69** | 400 V (3∼) |
 | **Quattro Tandem — 2 agrégats** | **`4682-54`** | **90 L** | **516 / 586** | **72** | 400 V (3∼) |
 
+> 📌 **Lecture des valeurs sonores** : mesurées **à 5 bar**, compresseur **nu**.
+> Ce sont les **versions CAD/CAM à commande électronique**, environ **1 dB(A) plus
+> silencieuses** que les Silver Airline standard équivalentes (ex. Quattro Tandem
+> 2 agrégats : **72 dB(A)** ici vs **73 dB(A)** sur la version standard). Sur les
+> modèles **bi-tension**, la valeur **230 V** est légèrement inférieure à la **400 V**
+> (Duo Tandem 1 agrégat : **66 / 68 dB(A)**). Jusqu'au **Duo Tandem**, l'**armoire
+> d'insonorisation** optionnelle abaisse le niveau à ~**51-53 dB(A)**. Les écarts de
+> 1-2 dB(A) entre cette fiche et la [fiche Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
+> tiennent donc à la **version** (standard vs CAD/CAM) et à la **tension**, non à une
+> contradiction.
+
 ### Compatibilité par plage de pression CAD/CAM
 
 La factsheet officielle Dürr Dental **« Compressed air for exacting

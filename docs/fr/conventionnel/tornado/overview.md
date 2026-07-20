@@ -87,7 +87,7 @@ pièces détachées ou de documentation technique.
 |---|---|---|---|
 | **1ʳᵉ génération** | **Tornado 70**, **Tornado 70 S**, **Tornado 130**, **Tornado 130 S** | années 1990-2000 | Compresseurs simples avec dessiccateur. Pièces détachées encore disponibles (joints, segments de pistons). |
 | **2ᵉ génération** | **Tornado 1**, **Tornado 2**, **Tornado 2+** | années 2010-début 2020 | Membrane drying ; conformes ISO 22052 **lorsqu'équipés du filtre bactérien** ; capot d'insonorisation aérodynamique disponible pour Tornado 1 et 2 ; conçus pour cabinets 1 à 4 praticiens. |
-| **3ᵉ génération — NEW Tornado** | **Tornado 1**, **Tornado 2**, **Tornado 4** + **Super Silent** | 2024-2026 | **+12 % d'économies d'énergie** vs génération 2. Pression max 8 bar. German Design Award 2026 + Innovations-Champion Award 2025. Filtre HEPA H14 / ULPA U16 de série. |
+| **3ᵉ génération — NEW Tornado** | **Tornado 1**, **Tornado 2**, **Tornado 4** + **Super Silent** | 2024-2026 | **+12 % d'économies d'énergie** vs génération 2. Pression max 8 bar. German Design Award 2026 + Innovations-Champion Award 2025. Filtre bactériologique **ULPA U16** de série (le HEPA H14 concerne les filtres d'**aspiration**, pas les compresseurs). |
 
 > **Pour identifier la génération** d'un Tornado en cabinet : se
 > référer à la **plaque signalétique** du compresseur ou au **numéro de
