@@ -61,6 +61,22 @@ optimise la préparation pour l'acquisition suivante.
 | Workflow | Scan + effacement en **1 étape** |
 | Plaques compatibles | **VistaScan Image Plates IQ** — voir [fiche écrans IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
 | Logiciel | [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) (natif) |
+| Technologie de balayage | **2D MEMS Scan** brevetée (plaque immobile pendant le scan) |
+
+## Technologie 2D MEMS Scan (brevetée)
+
+Le **VistaScan Nano Easy** introduit une **technologie de balayage 2D MEMS**
+brevetée (micro-miroir orientable) qui le distingue des scanners à entraînement
+mécanique de la plaque :
+
+- **Aucun transport de la plaque** pendant le scan — la plaque reste **immobile**
+  (le balayage est assuré par le miroir MEMS, pas par un déplacement de l'écran).
+- **Scan silencieux**.
+- **Moteur de balayage entièrement capsulé**, **sans usure** → **sans maintenance**
+  du mécanisme de scan.
+
+Cette architecture explique la compacité et la robustesse du Nano Easy pour un
+usage au fauteuil.
 
 ## Cas d'usage typique
 
