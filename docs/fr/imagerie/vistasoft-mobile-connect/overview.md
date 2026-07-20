@@ -68,8 +68,8 @@ license: CC-BY-4.0
   },
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "App Store identifier", "value": "id460076346" },
-    { "@type": "PropertyValue", "name": "Required server software (option 1)", "value": "VistaSoft 2.0 or higher + Dürr Dental MobileConnect" },
-    { "@type": "PropertyValue", "name": "Required server software (option 2)", "value": "DBSWin 5.4 or higher + Dürr Dental MobileConnect" },
+    { "@type": "PropertyValue", "name": "Required server software (option 1)", "value": "VistaSoft 2.0 or higher + Dürr Dental Mobile Connect (composant serveur)" },
+    { "@type": "PropertyValue", "name": "Required server software (option 2)", "value": "DBSWin 5.4 or higher + Dürr Dental Mobile Connect (composant serveur)" },
     { "@type": "PropertyValue", "name": "Offline mode", "value": "Supported (offline database)" }
   ]
 }
@@ -122,8 +122,8 @@ serveur Dürr Dental :
 
 | Logiciel serveur requis | Version minimale | Complément obligatoire |
 |---|---|---|
-| VistaSoft | **2.0** et supérieures | Module Dürr Dental MobileConnect installé |
-| DBSWin | **5.4** et supérieures | Module Dürr Dental MobileConnect installé |
+| VistaSoft | **2.0** et supérieures | Module Dürr Dental Mobile Connect (composant serveur) installé |
+| DBSWin | **5.4** et supérieures | Module Dürr Dental Mobile Connect (composant serveur) installé |
 
 La version **VistaSoft 4.0** est pleinement supportée.
 
@@ -161,7 +161,7 @@ l'App Store, l'application iPad permet :
 - L'application **DÜRR DENTAL Imaging est limitée à iPadOS** (Apple iPad).
   Aucune version Android n'est documentée publiquement par Dürr Dental.
 - Le fonctionnement complet **suppose l'installation du module serveur**
-  Dürr Dental MobileConnect côté VistaSoft ou DBSWin — sans ce composant,
+  Dürr Dental Mobile Connect (composant serveur) côté VistaSoft ou DBSWin — sans ce composant,
   l'application iPad reste limitée à la base de démonstration.
 - VistaSoft Mobile Connect **n'est pas un dispositif médical** de
   diagnostic primaire ; il s'agit d'un outil de consultation et de
@@ -201,7 +201,7 @@ l'App Store, l'application iPad permet :
       "name": "Quels sont les prérequis logiciels côté serveur ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Côté serveur, deux options sont supportées : VistaSoft 2.0 ou supérieur, ou DBSWin 5.4 ou supérieur. Dans les deux cas, le module Dürr Dental MobileConnect doit également être installé sur le poste serveur."
+        "text": "Côté serveur, deux options sont supportées : VistaSoft 2.0 ou supérieur, ou DBSWin 5.4 ou supérieur. Dans les deux cas, le module Dürr Dental Mobile Connect (composant serveur) doit également être installé sur le poste serveur."
       }
     },
     {

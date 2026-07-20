@@ -144,7 +144,10 @@ parodontale est une propriété **majeure** de la tréhalose vs les
 poudres prophylactiques historiques (bicarbonate de sodium, etc.) :
 
 - **Aucun résidu** dans la cavité buccale après traitement.
-- **Aucun dépôt** dans les canalisations d'aspiration.
+- **Aucun dépôt** dans les canalisations d'aspiration — à la différence des
+  poudres prophylactiques **génériques** (dont les résidus inorganiques
+  nécessitent un nettoyage renforcé au [MD 555](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)),
+  la tréhalose se dissout sans laisser de dépôt.
 - **Confort patient** : pas de poudre persistante en gorge.
 - **Compatibilité Tyscor** : aucune incidence sur la durée de vie du
   système d'aspiration centralisée (cf.

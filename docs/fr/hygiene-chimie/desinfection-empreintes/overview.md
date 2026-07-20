@@ -65,6 +65,23 @@ Caractéristiques clés :
 - **Action en une étape** : nettoyage + désinfection + séchage.
 - **Activation par bouton** : protocole simple et standardisé.
 
+## MD 520 — Désinfection des empreintes (solution)
+
+**MD 520** est la **solution de désinfection des empreintes** de la gamme
+chimique Dürr Dental (préfixe MD, couleur **jaune** — cf.
+[familles ID / MD / HD / FD](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/)).
+C'est une **solution prête à l'emploi entièrement virucide** pour la
+désinfection et le nettoyage des **empreintes dentaires** et des **travaux
+prothétiques** :
+
+- Compatible **alginates, silicones, polyéthers, hydrocolloïdes, polysulfures**.
+- **Pas d'altération** de la stabilité dimensionnelle ni de la compatibilité plâtre.
+- Utilisable en **bain d'immersion** (accessoire **MD 520 disinfection box**) ou
+  en complément du **Hygojet**.
+
+MD 520 est un **dispositif médical MDR** (fabriqué par orochemie), comme le reste
+de la gamme chimique Dürr — **non soumis au Certibiocide**.
+
 ## Famille ID — Désinfectants pour instruments (ID 212, ID 212 forte plus, ID 213, ID 215)
 
 La famille **ID** (Instrument Disinfection) Dürr Dental couvre quatre

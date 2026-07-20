@@ -137,7 +137,8 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 |---|---|
 | **MDR EU 2017/745** | Règlement européen sur les dispositifs médicaux |
 | **MDD 93/42/EEC** (modifié 2007/47/EC) | Directive historique sur les DM (transition vers MDR) |
-| **ISO 22052** | Qualité d'air comprimé dentaire |
+| **ISO 22052** | Air comprimé pour l'art dentaire (exigences appareils) |
+| **ISO 8573-1** | Classes de pureté de l'air comprimé — particules / eau / huile (ex. classe **[2:4:2]**) |
 | **DIN EN ISO 7494-2** | Units dentaires — alimentation air/eau, aspiration, évacuation |
 | **EN 13060** | Petits stérilisateurs vapeur (classes N, S, B) |
 | **DIN EN ISO 11607-2** | Emballage stérile des DM |
