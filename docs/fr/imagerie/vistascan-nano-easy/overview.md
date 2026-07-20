@@ -161,6 +161,18 @@ D'après la page produit officielle Dürr Dental :
 - **Scanner** : **16,7 LP/mm** (théorique).
 - **Effective** : **12,5 LP/mm** — résolution plus basse que les modèles Mini / Ultra (40 / 22 LP/mm), cohérente avec un scanner compact d'entrée de gamme.
 
+## Données techniques (brochure officielle `P007100137`)
+
+| Paramètre | Valeur |
+|---|---|
+| Formats de plaques | **S0, S1, S2** — chaque format est lu avec **sa cassette correspondante** |
+| Résolution | **16,7 LP/mm** (≈ **849 dpi**) |
+| Niveaux de gris | **16 bits** |
+| Poids | **4 kg** |
+| Dimensions (H × L × P) | **231 × 167 × 216 mm** |
+| Interface | **Réseau** |
+| Classe laser | **1** |
+
 ## Consommables — écrans et sachets de protection
 
 - **Écrans à mémoire** : [VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/), formats **S0 à S2 uniquement**, montés dans un **élément (cassette) adapté au format de la plaque** (format S2 fourni d'origine, S0/S1 en option).
