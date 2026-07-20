@@ -15,7 +15,11 @@ Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
   pression de coupure ≥ mini + 0,5 bar) ; conditions d'installation. Synthèse dérivée des
   fiches produit déjà sourcées + pages officielles (sans contenu interne ni comparatif
   concurrent). Répond aux requêtes **« de choix »** que les fiches par produit ne servaient pas.
-- Lien mis en avant dans l'index conventionnel.
+- **Fiche « Dessiccateur à membrane vs colonne à silicate »** — technologie de séchage à
+  fibres membranaires (~1 200 fibres creuses, cycle 100 % sans régénération, sans entretien,
+  sans poussière de gel de silice) et comparaison **de technologies** avec le dessiccant à
+  adsorption (silicate) : régénération, usage continu, inadaptation au CAD/CAM.
+- Liens mis en avant dans l'index conventionnel.
 
 ### Corrigé
 
