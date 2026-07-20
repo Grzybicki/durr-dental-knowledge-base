@@ -15,6 +15,9 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 
 ## Air comprimé — compresseurs
 
+> 🧭 **[Guide : comment choisir un compresseur](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-compresseur/overview/)** —
+> dimensionner sur le débit (pas la cuve), sélection par nombre de postes, Tornado vs Silver Airline, cas CAD/CAM, installation.
+
 | Gamme | Description | Fiche |
 |---|---|---|
 | **[Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)** | Compresseurs à pistons linéaires sans huile (Primo, Duo, Trio, Quattro + variants Tandem évolutifs). German Design Award 2022. ISO 22052. | DM IIa MDR |
@@ -55,9 +58,9 @@ du **capot aérodynamique** (Tornado 1 et 2).
 | **Silver Airline Trio** | gamme 53xx | voir catalogue | – | – | – | – | Kits filtres, armoire grande |
 | **Silver Airline Quattro** / **Quattro P 20** | gamme 54xx | voir catalogue | – | – | – | – | Kits filtres, armoire grande |
 | **Silver Airline Duo Tandem** / **Quattro Tandem** | gamme tandem | voir catalogue | – | – | – | – | Carte commande réseau intégrée |
-| **NEW Tornado 1** / **Tornado 1 Super Silent** | gamme NEW (génération 2025-2026) | voir page produit | – | – | – | Capot aérodynamique disponible | **Filtre HEPA H14 / ULPA U16 de série** + capot aérodynamique + kit filtre annuel |
+| **NEW Tornado 1** / **Tornado 1 Super Silent** | gamme NEW (génération 2025-2026) | voir page produit | – | – | – | Capot aérodynamique disponible | **Filtre bactériologique ULPA U16 de série** + capot aérodynamique + kit filtre annuel |
 | **NEW Tornado 2** | idem | voir page produit | – | – | – | Capot aérodynamique disponible | Idem Tornado 1 |
-| **NEW Tornado 4** | idem | voir page produit | – | – | – | Pas de capot dédié | Filtre HEPA H14 / ULPA U16 de série, kit filtre annuel |
+| **NEW Tornado 4** | idem | voir page produit | – | – | – | Pas de capot dédié | Filtre bactériologique ULPA U16 de série, kit filtre annuel |
 | **Power Tower Silence 120/02, 120/04, 120/12, PTS 105** | voir page produit | châssis 0,3–0,4 m² au sol | – | – | « Silence » natif (conception) | n.a. (intégré au châssis) | Récupérateur amalgame en option, Connect Box |
 | **Power Tower View VS / V 600, 900 S, 1200 S** | voir page produit | châssis 0,3–0,4 m² au sol | – | – | « Silence » natif | n.a. | **Filtre ULPA U16 de série**, écran tactile, Connect Box |
 | **Compresseurs CAD/CAM** | gamme dédiée | voir [fiche CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/) | – | – | – | – | Pression > 8 bar, filtre bactério, kit raccordement CFAO |

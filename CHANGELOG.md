@@ -4,6 +4,24 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.6.0] — 2026-07-20
+
+### Ajouté — nouveau type de contenu : guides de décision
+
+- **Guide « Comment choisir un compresseur dentaire Dürr Dental »** (premier guide de
+  dimensionnement / choix) : dimensionner sur le **débit** et non la cuve, selon le nombre
+  de postes et d'opérateurs **simultanés** ; sélection indicative par nombre de postes ;
+  **Tornado vs Silver Airline** ; cas **CAD/CAM** (compresseur dédié, dessiccateur à membrane,
+  pression de coupure ≥ mini + 0,5 bar) ; conditions d'installation. Synthèse dérivée des
+  fiches produit déjà sourcées + pages officielles (sans contenu interne ni comparatif
+  concurrent). Répond aux requêtes **« de choix »** que les fiches par produit ne servaient pas.
+- Lien mis en avant dans l'index conventionnel.
+
+### Corrigé
+
+- Résiduel « HEPA H14 » du Tornado dans le **tableau de l'index conventionnel** (lignes NEW
+  Tornado) → **ULPA U16** (le HEPA H14 concerne l'aspiration), cohérent avec la fiche.
+
 ## [0.5.5] — 2026-07-20
 
 Résolution du reste de l'audit de cohérence (items non réglementaires), vérifiée sur
