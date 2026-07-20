@@ -4,6 +4,30 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.5.1] — 2026-07-20
+
+Resynchronisation de la matrice réglementaire `sources/certificates.md` sur les
+**dernières déclarations de conformité (DoC) officielles Dürr Dental SE** (2025-2026),
+suite à l'audit de cohérence (matrice ↔ fiches).
+
+### Corrigé — classes MDR d'imagerie (sur DoC)
+
+- **Inversion corrigée** : les **écrans à mémoire VistaScan IQ** sont **IIa** (et non I) —
+  NB DQS 0297, certificat **518373 MDR2017Q** (valide jusqu'au 2027-03-10, DoC 2026-04-13) ;
+  les **scanners VistaScan** (Nano, Mini Easy/View 2.0, Combi View…) sont **classe I**
+  (auto-déclaration, sans NB) — et non IIa.
+- **VistaCam iX HD Smart** (et tête **Proxi**) : **classe I** (auto-déclaration + RoHS),
+  et non IIa.
+- **VistaVox S / S Ceph** (IIb) et **VistaRay 7** (IIa) : champs NB / certificat / date
+  complétés (DQS 0297, 518373 MDR2017Q, DoC 2026-04-13) — n'étaient plus « À confirmer ».
+- **VistaSoft AID** (IIa) : certificat renseigné (518373 MDR2017Q, DoC 2026-04-01),
+  confirmant que le certificat QMS unique couvre aussi les logiciels et le matériel d'imagerie.
+- Paragraphe « Notified Body » mis en cohérence (périmètre du certificat 518373 + validité).
+
+Les appareils **pas encore re-déclarés sous la nouvelle MDR** (ex. VistaIntra DC, VistaPano S)
+conservent volontairement leurs entrées antérieures. Le reste des constats d'audit
+(non réglementaires) est traité manuellement, élément par élément.
+
 ## [0.5.0] — 2026-07-20
 
 Correction de la **navigation interne** (404 systémiques), du **système de couleurs**

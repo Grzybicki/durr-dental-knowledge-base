@@ -26,9 +26,13 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 ## Notified Body principaux
 
 - **DQS Medizinprodukte GmbH** — code Notified Body **0297** — certifie sous
-  MDR EU 2017/745, via le **certificat QMS unique 518373 MDR2017Q**, à la fois les
-  **logiciels d'imagerie** (VistaSoft 4.0, VistaSoft AID…) **et la ligne équipement
-  air comprimé** (compresseurs Silver Airline, Tornado…).
+  MDR EU 2017/745 (Annexe IX ch. I+III), via le **certificat QMS unique
+  518373 MDR2017Q** (valide jusqu'au **2027-03-10**) : les **logiciels d'imagerie**
+  (VistaSoft 4.0 IIb, VistaSoft AID IIa…), le **matériel d'imagerie** (écrans à mémoire
+  VistaScan IQ IIa, VistaVox S IIb, VistaRay 7 IIa) **et la ligne équipement air comprimé**
+  (compresseurs Silver Airline, Tornado…). Les **scanners** VistaScan (Nano, Mini,
+  Combi View…) et les **caméras** VistaCam iX HD sont eux en **classe I** (auto-déclaration,
+  sans organisme notifié).
 - **DNV Product Assurance AS** — code Notified Body **2460** — certifie
   la gamme panoramique VistaPano S 2.0 sous MDD 93/42/EEC.
 - **DEKRA Certification GmbH** — code Notified Body **0124** — certifie la
@@ -40,8 +44,8 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 
 | Produit | Classe | Réglementation | Notified Body | N° certificat | Date DoC | Fiche |
 |---|---|---|---|---|---|---|
-| **VistaSoft 4.0** | **IIb** | MDR EU 2017/745 | DQS Medizinprodukte (0297) | 518373 MDR2017Q | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
-| **VistaSoft AID** | **IIa** | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/) |
+| **VistaSoft 4.0** | **IIb** | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-13 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
+| **VistaSoft AID** | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-01 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/) |
 | **VistaSoft Trace** | À confirmer (probable IIa via socle Audax Ceph) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) |
 | **VistaSoft Implant & Guide** | À confirmer (probable IIa) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/) |
 | **VistaSoft Inspect** | À confirmer | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-inspect/overview/) |
@@ -58,13 +62,13 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | Produit | Classe | Réglementation | Notified Body | N° certificat | Date DoC | Fiche |
 |---|---|---|---|---|---|---|
 | **VistaPano S 2.0 / VistaPano S Ceph 2.0** | **IIb** | MDD 93/42/EEC (Annexe 9, Règle 10), transitioned MDR EU 2017/745 | DNV Product Assurance AS (2460) | 10877-2017-CE-KOR-NA-PS Rev 3.0 | 2024-01-29 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/) |
-| **VistaVox S / VistaVox S Ceph** | **IIb** | MDR EU 2017/745 | À confirmer | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/) |
-| **Gamme VistaScan** (Mini Easy 2.0, Mini View 2.0, Nano Easy, Combi View, Ultra View) | **IIa** | MDR EU 2017/745 | À confirmer | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
-| **VistaRay 7** | **IIa** | MDR EU 2017/745 | À confirmer | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/) |
-| **VistaCam iX HD Smart** | **IIa** | MDR EU 2017/745 | À confirmer | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/) |
-| **VistaCam Proxi** (tête NIR 850 nm) | **IIa** | MDR EU 2017/745 | À confirmer | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/) |
+| **VistaVox S / VistaVox S Ceph** | **IIb** | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-13 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/) |
+| **Scanners VistaScan** (Nano Easy, Mini Easy 2.0, Mini View 2.0, Combi View, Ultra View) | **I** (lecteur de plaques, sans fonction de mesure) | MDR EU 2017/745 — **auto-déclaration** (+ RoHS ; RED pour les modèles RFID) | — (aucun, classe I) | — | 2025-05-03 (Nano : 2025-09-30) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
+| **VistaRay 7** | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-13 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/) |
+| **VistaCam iX HD Smart** | **I** (caméra intra-orale optique, sans fonction de mesure) | MDR EU 2017/745 — **auto-déclaration** (+ RoHS) | — (aucun, classe I) | — | 2025-05-03 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/) |
+| **VistaCam Proxi** (tête NIR 850 nm) | **I** (tête interchangeable de la VistaCam iX HD Smart — couverte par la même DoC) | MDR EU 2017/745 — **auto-déclaration** | — (aucun, classe I) | — | 2025-05-03 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/) |
 | **VistaIntra DC** | **IIb** (générateur RX) | MDR EU 2017/745 | À confirmer | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/) |
-| **VistaScan IQ — Écrans à mémoire (ERLM)** | **I** (accessoire d'imagerie) | MDR EU 2017/745 | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
+| **VistaScan IQ — Écrans à mémoire (ERLM / plaques)** | **IIa** (dispositif de diagnostic non-actif non-implantable, MDN 1207) | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-13 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
 | **VistaPosition** | **I** (positionneur) | MDR EU 2017/745 | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/) |
 | **Connect Box** | Non-DM (passerelle IoT) | — | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/) |
 | **Smart Reader** (lecteur RFID USB) | **Non-DM** (CE au titre RED 2014/53/UE + RoHS 2011/65/UE) | — | — | — | 2023-11-06 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/) |
