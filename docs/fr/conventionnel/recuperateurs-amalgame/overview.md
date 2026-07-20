@@ -49,7 +49,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "legalStatus": "Class IIa (MDR EU 2017/745)"
+  "legalStatus": "Class I (MDR EU 2017/745, auto-déclaration)"
 }
 </script>
 
@@ -210,8 +210,10 @@ est installé en aval comme module séparé.
 ## Statut réglementaire
 
 Les récupérateurs d'amalgame Dürr Dental sont des **dispositifs médicaux
-de classe IIa** selon le règlement **MDR EU 2017/745**, conformes au
-règlement (UE) 2017/852 sur le mercure.
+de classe I** (procédure d'**auto-déclaration** MDR, sans organisme notifié)
+selon le règlement **MDR EU 2017/745**, conformes au
+règlement (UE) 2017/852 sur le mercure. Ils bénéficient par ailleurs de
+l'agrément technique allemand **DIBt Z-64.1**.
 
 <script type="application/ld+json">
 {
@@ -247,7 +249,7 @@ règlement (UE) 2017/852 sur le mercure.
       "name": "Les récupérateurs d'amalgame sont-ils des dispositifs médicaux ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui, dispositifs médicaux de classe IIa selon MDR EU 2017/745, conformes au règlement (UE) 2017/852 sur le mercure."
+        "text": "Oui, dispositifs médicaux de classe I (auto-déclaration MDR, sans organisme notifié) selon MDR EU 2017/745, conformes au règlement (UE) 2017/852 sur le mercure."
       }
     },
     {
@@ -282,7 +284,7 @@ Le CS 1 (Combi-Sepamatic) combine en un seul appareil la séparation des particu
 
 ### Les récupérateurs d'amalgame sont-ils des dispositifs médicaux ?
 
-Oui, dispositifs médicaux de classe IIa selon MDR EU 2017/745, conformes au règlement (UE) 2017/852 sur le mercure.
+Oui, dispositifs médicaux de classe I (auto-déclaration MDR, sans organisme notifié) selon MDR EU 2017/745, conformes au règlement (UE) 2017/852 sur le mercure.
 
 ### Quelle est la référence documentaire technique ?
 

@@ -4,6 +4,28 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.5.2] — 2026-07-20
+
+Suite de la resynchronisation réglementaire (conventionnel + hygiène) sur les DoC
+officielles fournies.
+
+### Corrigé — classes MDR (sur DoC)
+
+- **Récupérateurs d'amalgame** (CA 1/2/4, CAS 1, Combi) : **classe I** (et non IIa) —
+  DoC Dürr Dental SE en **auto-déclaration MDR sans organisme notifié** (2026-03-25 /
+  2025-05-03). Résout la contradiction « IIa + auto-déclaration » (impossible sous MDR).
+  Fiche + matrice + JSON-LD alignés ; agrément DIBt Z-64.1 conservé.
+- **VC 65** (aspiration chirurgicale, IIa) : NB / certificat complétés — **DQS 0297**,
+  **518373 MDR2017Q** (valide 2027-03-10, DoC 2026-04-15). Le certificat QMS unique
+  couvre aussi la ligne aspiration.
+- **Hygoclave 40 / 50 / 90** : **IIb** (et non IIa) — stérilisateurs vapeur **classe B**,
+  **93/42/EEC Annexe IX Règle 15**. DoC **Hygoclave 50** (Dürr Dental Faro Sterilization,
+  NB **CE 0051 / IMQ**) sur dossier ; 40 et 90 alignés (même famille, DoC modèle à joindre).
+- **Notified Body** : ajout de **IMQ (0051)** à la liste (stérilisateurs Hygoclave).
+
+Restent sur régime antérieur (non re-déclarés sous nouvelle MDR, entrées inchangées) :
+VistaIntra DC, VistaPano S. Documents OEM tiers / confidentiels écartés (règle d'or).
+
 ## [0.5.1] — 2026-07-20
 
 Resynchronisation de la matrice réglementaire `sources/certificates.md` sur les

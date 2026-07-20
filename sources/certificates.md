@@ -35,6 +35,9 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
   sans organisme notifié).
 - **DNV Product Assurance AS** — code Notified Body **2460** — certifie
   la gamme panoramique VistaPano S 2.0 sous MDD 93/42/EEC.
+- **IMQ** — code Notified Body **0051** — certifie les stérilisateurs vapeur
+  **Hygoclave** (fabricant **Dürr Dental Faro Sterilization Srl**, Italie) sous
+  93/42/EEC (Annexe IX Règle 15, classe IIb).
 - **DEKRA Certification GmbH** — code Notified Body **0124** — certifie la
   **chimie de désinfection et de nettoyage** (fabricant **orochemie GmbH + Co KG**,
   SRN DE-MF-000006461) sous MDR EU 2017/745 : familles FD, ID, MD, Orotol,
@@ -82,8 +85,8 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Power Tower** (Silence, View) | **IIa** | MDR EU 2017/745 | À confirmer (probable DQS 0297 — même QMS Dürr) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/) |
 | **Compresseurs CAD/CAM** | **IIa** | MDR EU 2017/745 | À confirmer (déclinaison Silver Airline → DQS 0297) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/) |
 | **Tyscor** (gamme aspiration humide + sèche, poste unique et centralisé) | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) |
-| **Récupérateurs d'amalgame** (CA 1, CA 2, CA 4, Sepamatic CS 1, CAS 1) | **IIa** | MDR EU 2017/745 + Règlement (UE) 2017/852 (mercure) | DoC MDR **sans NB cité** (auto-déclaration) ; agrément **DIBt Z-64.1** (dossier CE-110-M/L) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
-| **VC 65** (aspiration chirurgicale) | **IIa** | MDR EU 2017/745 | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
+| **Récupérateurs d'amalgame** (CA 1, CA 2, CA 4, Sepamatic CS 1, CAS 1) | **I** (auto-déclaration MDR, sans organisme notifié) | MDR EU 2017/745 + Règlement (UE) 2017/852 (mercure) | **Aucun (classe I)** — DoC Dürr Dental SE 2026-03-25 (CA, dossier CE-110-M/L) et 2025-05-03 (CAS 1 Combi) ; + agrément **DIBt Z-64.1** | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
+| **VC 65** (aspiration chirurgicale) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | **DQS 0297** — cert. 518373 MDR2017Q (valide 2027-03-10, DoC 2026-04-15, dossier CE-110-P) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
 | **DürrConnect** (système de raccordement) | Composant accessoire | MDR EU 2017/745 | — | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/) |
 | **Accessoires d'aspiration** (canules, vannes, supports) | Composant accessoire | MDR EU 2017/745 | — | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/accessoires-aspiration/overview/) |
 | **Filtres HEPA / ULPA U16** | Composant — Norme EN 1822 / ISO 29463 | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/) |
@@ -94,9 +97,9 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 |---|---|---|---|
 | **Lunos System** (MyLunos, MyLunos Duo, poudres, pâtes, fluor) | **IIa** (appareils) / I (consommables) | MDR EU 2017/745 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/) |
 | **Vector Paro / Vector Paro Pro** | **IIa** | MDR EU 2017/745 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/vector-paro/overview/) |
-| **Hygoclave 40** | **IIa** | MDR EU 2017/745 + EN 13060 (stérilisateurs vapeur classe B) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
-| **Hygoclave 50** | **IIa** | MDR EU 2017/745 + EN 13060 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
-| **Hygoclave 90** | **IIa** | MDR EU 2017/745 + EN 13060 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
+| **Hygoclave 40** | **IIb** | 93/42/EEC Annexe IX Règle 15 (stérilisateur vapeur classe B) + EN 13060 — même famille que HC50 (DoC modèle à joindre) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
+| **Hygoclave 50** (+ Plus) | **IIb** | **MDD 93/42/EEC** Annexe IX **Règle 15** (stérilisateur vapeur classe B, GMDN 14413) — DoC Dürr Dental Faro Sterilization, NB **CE 0051** (IMQ) ; EN 13060 / EN 62304 / EN 14971 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
+| **Hygoclave 90** | **IIb** | 93/42/EEC Annexe IX Règle 15 (stérilisateur vapeur classe B) + EN 13060 — même famille que HC50 (DoC modèle à joindre) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
 | **Hygopure 90 / Hygodem 90** (traitement d'eau pour stérilisateurs) | I (composant) | MDR EU 2017/745 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) |
 | **Hygowater** (décontamination eau fauteuils) | **IIa** | MDR EU 2017/745 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/) |
 | **Hygojet** (laveur-désinfecteur empreintes) | **IIa** | MDR EU 2017/745 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |

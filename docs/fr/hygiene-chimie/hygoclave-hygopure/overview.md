@@ -53,7 +53,7 @@ license: CC-BY-4.0
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" },
-  "legalStatus": "Class IIa/IIb (MDR EU 2017/745, selon modèle)"
+  "legalStatus": "Class IIb (93/42/EEC Annexe IX Règle 15, stérilisateur vapeur classe B — NB CE 0051)"
 }
 </script>
 
