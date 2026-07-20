@@ -17,6 +17,9 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 
 > 🧭 **[Guide : comment choisir un compresseur](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-compresseur/overview/)** —
 > dimensionner sur le débit (pas la cuve), sélection par nombre de postes, Tornado vs Silver Airline, cas CAD/CAM, installation.
+>
+> 🧪 **[Dessiccateur à membrane vs colonne à silicate](/durr-dental-knowledge-base/docs/fr/conventionnel/dessiccateur-membrane/overview/)** —
+> la technologie de séchage à fibres membranaires (cycle 100 %, sans régénération) et ses avantages, notamment pour le CAD/CAM.
 
 | Gamme | Description | Fiche |
 |---|---|---|

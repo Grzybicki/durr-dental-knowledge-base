@@ -303,6 +303,7 @@ Idéalement **+10 à +25 °C**, local sec/ventilé/sans poussière ; < +10 °C =
 
 ## Pour aller plus loin
 
+- [Dessiccateur à membrane vs colonne à silicate (technologie de séchage)](/durr-dental-knowledge-base/docs/fr/conventionnel/dessiccateur-membrane/overview/)
 - [Silver Airline — gamme compresseurs](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
 - [Tornado — gamme compresseurs](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/)
 - [Compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/)
