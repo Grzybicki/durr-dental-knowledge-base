@@ -4,6 +4,19 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.5.3] — 2026-07-20
+
+### Corrigé — pression Silver Airline / CAD/CAM (audit, précision terrain)
+
+- La **pression de 9,5 bar n'existe que sur les versions CAD/CAM** : la gamme
+  **Silver Airline standard plafonne à 7,8 bar** (5,5–7,5 bar sur les Quattro Tandem).
+  Mentions erronées « 9,5 bar via détendeur » supprimées (fiche Silver Airline : note
+  source, tableau accessoires, FAQ ×2).
+- **Mécanisme réel** du réglage de pression CAD/CAM : **remplacement de la pièce
+  « Jet Set » (réf. 1650-981-00) sur la colonne de dessiccation** selon la pression
+  désirée — et non un « réservoir tampon / buffer tank » (interprétation corrigée).
+- Le **détendeur** est requalifié en **réducteur** de pression (il abaisse, n'étend pas).
+
 ## [0.5.2] — 2026-07-20
 
 Suite de la resynchronisation réglementaire (conventionnel + hygiène) sur les DoC

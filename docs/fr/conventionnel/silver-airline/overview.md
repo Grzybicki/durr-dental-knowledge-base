@@ -171,9 +171,16 @@ Voir la [fiche compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/convent
 
 Source : brochure officielle **« Les compresseurs de Dürr Dental »**
 (réf. `P007-158-03/N04`). Valeurs débit mesurées **sans dessiccateur à
-membranes** ; **plage de pression réglable maximale 9,5 bar** (détendeur
-en option) ; valeurs sonores moyennes **à 5 bar et 50 Hz**, mesurées en
-champ libre.
+membranes** ; **pression de service 6 – 7,8 bar** (5,5 – 7,5 bar sur les
+Quattro Tandem, cf. tableaux) ; valeurs sonores moyennes **à 5 bar et
+50 Hz**, mesurées en champ libre.
+
+> ⚠️ **Pression de 9,5 bar** : elle n'est **pas** disponible sur la gamme
+> Silver Airline standard (plafonnée à 7,8 bar), mais **uniquement sur les
+> versions CAD/CAM**. Le réglage de la pression y est obtenu en **remplaçant
+> la pièce « Jet Set » (réf. `1650-981-00`) sur la colonne de dessiccation**,
+> choisie selon la pression désirée. Détail sur la
+> [fiche compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/).
 
 ### Compresseurs simples (1 à 4 praticiens)
 
@@ -219,7 +226,7 @@ champ libre.
 
 | Accessoire / filtre | Notes |
 |---|---|
-| **Détendeur** | Permet d'utiliser la plage jusqu'à **9,5 bar** maximum (option) |
+| **Détendeur** (réducteur de pression) | **Abaisse** la pression de service pour les applications nécessitant une pression réduite (option). Ne permet **pas** de dépasser la pression maximale du compresseur. |
 | **Petite armoire insonorisée** | Pour Primo, Duo, Duo Tandem 1 groupe |
 | **Grande armoire insonorisée** | Pour Trio, Quattro |
 | **Filtre d'admission** | 1ᵉʳ étage — particules grossières |
@@ -316,7 +323,7 @@ fonctionnement, températures.
       "name": "Peut-on superviser un Silver Airline à distance ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la Connect Box. La plage de pression réglable maximale est de 9,5 bar (factsheet P007-158-03)."
+        "text": "Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la Connect Box. La pression de service est de 6 à 7,8 bar (5,5 à 7,5 bar sur les Quattro Tandem) ; le 9,5 bar est réservé aux versions CAD/CAM (réglage par la pièce Jet Set réf. 1650-981-00 sur la colonne de dessiccation)."
       }
     }
   ]
@@ -343,7 +350,7 @@ Oui, grâce au principe Tandem des groupes compresseurs (Primo, Duo, Trio, Quatt
 
 ### Peut-on superviser un Silver Airline à distance ?
 
-Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la Connect Box. La plage de pression réglable maximale est de 9,5 bar (factsheet P007-158-03).
+Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la Connect Box. La pression de service est de 6 à 7,8 bar (5,5 à 7,5 bar sur les Quattro Tandem) ; le 9,5 bar est réservé aux versions CAD/CAM (réglage par la pièce Jet Set réf. 1650-981-00 sur la colonne de dessiccation).
 
 ## Sources publiques
 

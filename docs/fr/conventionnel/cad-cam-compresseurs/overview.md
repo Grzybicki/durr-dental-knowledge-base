@@ -127,9 +127,12 @@ synthétique est la suivante :
 > et la factsheet `P007100024L02` (Centre de téléchargements).
 
 > 📌 **Plage de pression des compresseurs CAD/CAM** : ils délivrent jusqu'à
-> **9 bar**, **extensible à 9,5 bar** avec le **réservoir tampon (buffer tank)**
-> en option (verbatim factsheet : *« expanding the pressure range setting from
-> 9 to 9.5 bar »*) — ce qui couvre les usineuses exigeant jusqu'à 8,5 bar.
+> **9 bar**, **réglable jusqu'à 9,5 bar** (verbatim factsheet : *« expanding the
+> pressure range setting from 9 to 9.5 bar »*) — ce qui couvre les usineuses
+> exigeant jusqu'à 8,5 bar. Le réglage de la pression s'obtient en **remplaçant la
+> pièce « Jet Set » (réf. `1650-981-00`) sur la colonne de dessiccation**, choisie
+> selon la pression désirée. Cette capacité **9,5 bar est propre aux versions
+> CAD/CAM** : la gamme Silver Airline standard plafonne à 7,8 bar.
 >
 > À l'inverse, la pression maximale du **Tornado (8 bar)** est insuffisante pour
 > les usineuses haut de gamme : les compresseurs **CAD/CAM dédiés** (Duo Tandem /
