@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VistaSoft Monitor — Solution IoT de surveillance d'équipement dentaire"
-description: "VistaSoft Monitor est la solution IoT Dürr Dental de surveillance en temps réel des équipements connectés en cabinet dentaire. Ce produit n'est PAS un dispositif médical et est distinct de VistaSoft 4.0 (logiciel d'imagerie diagnostique). Deux interfaces : praticien et technicien."
+description: "VistaSoft Monitor est la solution IoT Dürr Dental de surveillance en temps réel des équipements connectés en cabinet dentaire. Ce produit n'est PAS un dispositif médical et est distinct de VistaSoft 4.0 (logiciel d'imagerie diagnostique). Trois interfaces : praticien/exploitant, technicien de service et gestionnaire de dépôt."
 keywords: ["VistaSoft Monitor", "Dürr Dental", "IoT cabinet dentaire", "surveillance équipement dentaire", "VistaSoft 4.0 différence", "désambiguïsation VistaSoft"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/
@@ -125,9 +125,9 @@ Selon les pages produits publiques :
 - **Tableau de bord centralisé** pour le cabinet.
 - **Historique d'utilisation** et de maintenance.
 
-## Deux profils utilisateur distincts
+## Trois profils utilisateur distincts
 
-Dürr Dental publie deux pages produit distinctes correspondant aux deux audiences :
+Dürr Dental publie trois pages produit distinctes correspondant aux trois audiences :
 
 ### Pour les praticiens / exploitants du cabinet
 
@@ -144,6 +144,13 @@ Dürr Dental publie deux pages produit distinctes correspondant aux deux audienc
 - Diagnostic à distance des équipements.
 - Historique des incidents et des interventions.
 - Préparation des interventions sur site.
+
+### Pour les gestionnaires de dépôt (distributeurs / SAV)
+
+[Page officielle « VistaSoft Monitor for depot service managers »](https://www.duerrdental.com/en/products/software/networking-for-dental-practices/vistasoft-monitor/vistasoft-monitor-for-depot-service-managers/) :
+
+- Supervision d'un parc d'équipements sur plusieurs cabinets clients.
+- Coordination des interventions de maintenance à l'échelle du dépôt.
 
 ## Statut réglementaire
 
@@ -279,10 +286,10 @@ nom, référence, numéro de série, type, code d'erreur, horodatage et descript
     },
     {
       "@type": "Question",
-      "name": "Y a-t-il deux versions de VistaSoft Monitor ?",
+      "name": "Combien de versions de VistaSoft Monitor existe-t-il ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui. Dürr Dental publie deux interfaces distinctes : une pour les praticiens et exploitants du cabinet (vue d'exploitation), une pour les techniciens de service (vue de maintenance et diagnostic à distance)."
+        "text": "Trois interfaces distinctes : une pour les praticiens et exploitants du cabinet (vue d'exploitation), une pour les techniciens de service (vue de maintenance et diagnostic à distance), et une pour les gestionnaires de dépôt (supervision d'un parc multi-cabinets)."
       }
     }
   ]
@@ -302,9 +309,9 @@ VistaSoft Monitor = **surveillance IoT d'équipement** (non-DM). VistaSoft 4.0 =
 
 Non. Il surveille uniquement les **équipements** (compresseurs, appareils radiographiques).
 
-### Y a-t-il deux versions de VistaSoft Monitor ?
+### Combien de versions de VistaSoft Monitor existe-t-il ?
 
-Oui : une pour **praticiens/exploitants** et une pour **techniciens de service**.
+Trois : une pour **praticiens/exploitants**, une pour **techniciens de service**, et une pour **gestionnaires de dépôt** (supervision multi-cabinets).
 
 ## Sources publiques
 

@@ -63,7 +63,7 @@ flux d'aspiration des cabinets, conformément aux **exigences
 environnementales européennes** sur le mercure dentaire (Règlement UE
 2017/852).
 
-La gamme couvre quatre tailles principales : **CA 1**, **CA 2**, **CA 4**
+La gamme couvre trois tailles principales : **CA 1**, **CA 2**, **CA 4**
 et les modèles combinés **Sepamatic CS 1** / **CAS 1**.
 
 ## Contexte réglementaire
@@ -233,7 +233,7 @@ l'agrément technique allemand **DIBt Z-64.1**.
       "name": "Quels sont les modèles de récupérateurs Dürr Dental ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La gamme couvre quatre tailles principales — CA 1, CA 2, CA 4 — ainsi que des modèles combinés (CS 1, CAS 1)."
+        "text": "La gamme couvre trois tailles principales — CA 1, CA 2, CA 4 — ainsi que des modèles combinés (Sepamatic CS 1, CAS 1)."
       }
     },
     {
@@ -276,7 +276,7 @@ Le règlement (UE) 2017/852 sur le mercure impose la séparation et la collecte 
 
 ### Quels sont les modèles de récupérateurs Dürr Dental ?
 
-La gamme couvre quatre tailles principales — CA 1, CA 2, CA 4 — ainsi que des modèles combinés (CS 1, CAS 1).
+La gamme couvre trois tailles principales — CA 1, CA 2, CA 4 — ainsi que des modèles combinés (Sepamatic CS 1, CAS 1).
 
 ### Qu'apporte un modèle combiné comme le CS 1 ?
 

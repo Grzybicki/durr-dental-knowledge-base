@@ -174,8 +174,8 @@ huile et eau) :
 | Étage | Filtre |
 |---|---|
 | 1 | **Filtre à coalescence** avec récipient collecteur d'eau (filtre d'entrée du dessiccateur à membranes) |
-| 2 | **Filtre bactériologique ULPA U16** — EN 1822-1:2019-10 / ISO 65U / ISO 29463-3:2018 |
-| 3 | **Dessiccateur à membranes** — pas de régénération nécessaire |
+| 2 | **Dessiccateur à membranes** — assèchement continu, pas de régénération nécessaire |
+| 3 | **Filtre bactériologique ULPA U16** — EN 1822-1:2019-10 / ISO 65U / ISO 29463-3:2018 (filtration finale, en sortie de séchage) |
 
 **Maintenance** : changement annuel de l'ensemble des filtres.
 

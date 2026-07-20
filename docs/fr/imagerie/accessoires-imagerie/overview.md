@@ -93,7 +93,7 @@ ergonomique** des plaques.
 
 ### Sachets de protection contre la lumière
 
-Sachets stériles à usage unique pour les plaques intra-orales, qui
+Sachets de protection contre la lumière, à usage unique, pour les plaques intra-orales, qui
 **protègent la plaque** lors de l'acquisition et facilitent la mise en
 bouche pour le confort patient. Compatibles avec les tailles 0, 1, 2, 3, 4.
 
@@ -174,7 +174,7 @@ pour les filtres bactériologiques ULPA U16 / ISO 65U.
       "name": "À quoi servent les sachets de protection contre la lumière ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ce sont des sachets stériles à usage unique qui protègent la plaque intra-orale lors de l'acquisition et facilitent la mise en bouche ; ils sont compatibles avec les tailles 0, 1, 2, 3 et 4."
+        "text": "Ce sont des sachets de protection contre la lumière, à usage unique, qui protègent la plaque intra-orale de la lumière et des contaminations lors de l'acquisition et facilitent la mise en bouche ; ils sont compatibles avec les tailles 0, 1, 2, 3 et 4."
       }
     },
     {
@@ -201,7 +201,7 @@ Oui : des écrans à mémoire extra-oraux spécifiques sont disponibles pour les
 
 ### À quoi servent les sachets de protection contre la lumière ?
 
-Ce sont des sachets stériles à usage unique qui protègent la plaque intra-orale lors de l'acquisition et facilitent la mise en bouche ; ils sont compatibles avec les tailles 0, 1, 2, 3 et 4.
+Ce sont des sachets de protection contre la lumière, à usage unique, qui protègent la plaque intra-orale de la lumière et des contaminations lors de l'acquisition et facilitent la mise en bouche ; ils sont compatibles avec les tailles 0, 1, 2, 3 et 4.
 
 ### Quelles sont les têtes interchangeables de la VistaCam ?
 

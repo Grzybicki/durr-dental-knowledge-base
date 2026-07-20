@@ -99,6 +99,7 @@ Page hub : <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations
 | **ID 212 forte plus** ⭐ | Instruments, rotatifs **et fraises**. Spectre étendu : **bactéricide + tuberculocide US + levuricide + virucide limité (HBV, HCV, HIV, coronavirus) + ADÉNOVIRUS + NOROVIRUS** non enveloppés | 2 % | (variable selon spectre) | **Jusqu'à 7 jours** | 2,5 l = 125 l solution |
 | **ID 213** | Concentré aldéhyde-free + **inhibiteurs de corrosion** (instruments classiques + chirurgicaux) | 2 % | 5 min bain / 2 min US (jusqu'à 60 min selon spectre) | **Jusqu'à 14 jours** ⭐ | 2,5 l = 125 l solution |
 | **ID 215** | **Nettoyant enzymatique** complémentaire (nettoyage avant désinfection) | Selon protocole | Selon protocole | Selon protocole | — |
+| **ID 220** | **Désinfection des fraises** et instruments rotatifs résistants à l'alcool (bain dédié) — **entièrement virucide**, prêt à l'emploi | 100 % (prêt à l'emploi) | (temps court) | **Jusqu'à 7 jours** | — |
 
 > **Avantage économique majeur des ID** : **longue conservation de la
 > solution diluée** (7 jours ID 212, **jusqu'à 14 jours ID 213**). Le

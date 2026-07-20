@@ -94,9 +94,10 @@ pièces détachées ou de documentation technique.
 > série** — le service technique Dürr Dental France ou le distributeur
 > agréé peut identifier la génération à partir du numéro de série.
 
-Entre la 2ᵉ et la 3ᵉ génération, la **consommation énergétique a été
-réduite d'environ 15 %** (puis encore +12 % avec la NEW Tornado par
-rapport à la génération précédente — cumul ≈ −25 % sur deux générations).
+La **NEW Tornado** (3ᵉ génération) apporte **jusqu'à 12 % d'économies
+d'énergie** par rapport à la génération précédente, à performance égale
+(source : campagne officielle « Built for the Long Run », mise à jour
+2026-06-01).
 
 ## Distinctions récentes
 
@@ -296,7 +297,7 @@ acoustique **directement dans la conception** du compresseur.
 | Accessoire | Notes |
 |---|---|
 | **Connect Box** | Connexion à [VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/) (pas d'interface réseau native sur Tornado) |
-| **Petite armoire en bois** | Option d'insonorisation — gain ~17 dB(A) supplémentaires vs capot |
+| **Petite armoire en bois** | Option d'insonorisation décorative — gain acoustique par rapport au **compresseur nu** (comparable à l'armoire d'insonorisation), coloris compatible cabinet |
 | **Détendeur avec raccord rapide** | Compatible toute la gamme Tornado et Silver Airline |
 | **Filtre d'admission** | Premier étage de filtration (groupe compresseur) — voir [fiche filtres](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/) |
 | **Filtre bactériologique** ULPA U16 (EN 1822-1:2019-10 / ISO 65U / ISO 29463-3:2018) | Troisième étage — élimine tous les germes restants |

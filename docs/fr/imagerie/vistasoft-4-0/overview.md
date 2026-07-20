@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VistaSoft 4.0 — Logiciel d'imagerie dentaire diagnostique (vue d'ensemble)"
-description: "VistaSoft 4.0 est le logiciel d'imagerie dentaire de Dürr Dental SE. Dispositif médical de classe IIb (MDR EU 2017/745), Notified Body DQS Medizinprodukte 0297. Acquisition, traitement, archivage 2D et 3D, modules AI inclus, conforme DICOM."
+description: "VistaSoft 4.0 est le logiciel d'imagerie dentaire de Dürr Dental SE. Dispositif médical de classe IIb (MDR EU 2017/745), Notified Body DQS Medizinprodukte 0297. Acquisition, traitement, archivage 2D et 3D, fonctions IA incluses, conforme DICOM."
 keywords: ["VistaSoft 4.0", "VistaSoft", "Dürr Dental", "logiciel imagerie dentaire", "dispositif médical classe IIb", "MDR EU 2017/745", "DICOM", "imagerie dentaire numérique", "VistaSoft AI"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/

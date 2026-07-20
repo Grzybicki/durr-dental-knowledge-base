@@ -58,7 +58,7 @@ license: CC-BY-4.0
     "name": "Dürr Dental SE",
     "url": "https://www.duerrdental.com"
   },
-  "url2": "https://view.vistasoft.com/",
+  "sameAs": "https://view.vistasoft.com/",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Medical device status", "value": "NOT a medical device" },
     { "@type": "PropertyValue", "name": "Service URL", "value": "view.vistasoft.com" },

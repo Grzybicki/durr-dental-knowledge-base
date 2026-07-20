@@ -318,7 +318,7 @@ Oui. Les stérilisateurs Hygoclave sont des dispositifs médicaux réglementés 
 ## Pour aller plus loin
 
 - [Hygobox / Hygopac — stockage et emballage stérile](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
-- [Désinfection des instruments — préalable à la stérilisation](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
+- [Désinfection des instruments — préalable à la stérilisation](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/)
 - [Hygowater — traitement de l'eau des fauteuils](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)
 - [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 

@@ -131,7 +131,7 @@ VistaSoft 4.0. Les deux modules sont des dispositifs médicaux séparés, certif
 indépendamment par le même Notified Body (DQS 0297).
 
 VistaSoft AID est **distinct des fonctions IA inclusives** intégrées à VistaSoft
-4.0 (rotation automatique, optimisation d'image, détection canal mandibulaire),
+4.0 (rotation automatique, détection des dents, détection du canal mandibulaire),
 qui sont disponibles sans abonnement séparé. VistaSoft AID, à l'inverse, est une
 extension spécialisée qui **nécessite un abonnement dédié**.
 
@@ -187,7 +187,7 @@ Verbatim page produit officielle :
       "name": "Quelle est la différence entre VistaSoft AID et les fonctions IA inclusives de VistaSoft 4.0 ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Les fonctions IA inclusives (rotation automatique, optimisation d'image, détection canal mandibulaire) sont intégrées sans abonnement séparé à VistaSoft 4.0. VistaSoft AID est un module dispositif médical de classe IIa dédié à la détection des caries — extension distincte avec son propre statut réglementaire."
+        "text": "Les fonctions IA inclusives (rotation automatique, détection des dents, détection du canal mandibulaire) sont intégrées sans abonnement séparé à VistaSoft 4.0. VistaSoft AID est un module dispositif médical de classe IIa dédié à la détection des caries — extension distincte avec son propre statut réglementaire."
       }
     }
   ]
