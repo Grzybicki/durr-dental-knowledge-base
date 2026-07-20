@@ -82,21 +82,25 @@ Un compresseur dentaire se choisit sur son **débit d'air disponible (« output 
 Les cuves sont dimensionnées **avec** le groupe : **20 L** (1-2 cylindres), **50 L** (Trio,
 Quattro, Duo Tandem, Tornado 4), **90 L** (Quattro Tandem, Quattro P 20).
 
-## Les paramètres de dimensionnement
+## Le principe de dimensionnement (règle pratique)
 
-L'ancienne règle « **un cylindre par praticien** » (turbine ≈ **40-50 l/min**) n'est **plus
-suffisante** : les postes accumulent aujourd'hui de plus en plus de consommateurs d'air. Le
-dimensionnement correct prend en compte :
+Le nombre de **cylindres** nécessaires se compte simplement :
 
-1. le **nombre de postes** de traitement ;
-2. le **nombre d'opérateurs travaillant simultanément** (praticiens **et** assistants) — c'est
-   le facteur clé, car deux fauteuils rarement utilisés en même temps ne demandent pas le même
-   débit que deux fauteuils actifs en parallèle ;
-3. l'**équipement des postes** (turbines, seringues air/eau, autres consommateurs) ;
-4. les **équipements annexes** (nettoyage, CAD/CAM…) et une **réserve de puissance**.
+- **1 cylindre par fauteuil utilisé *simultanément*** — c'est l'usage **simultané réel** qui
+  compte, pas le nombre de fauteuils installés ;
+- **+ 1 cylindre par appareil de nettoyage / lubrification** de turbines et contre-angles
+  (station d'entretien).
 
-> 💡 En pratique, le service Dürr Dental dimensionne à partir de ces paramètres (un outil de
-> calcul dédié existe). Ce guide donne la logique ; le **choix final se valide au cas par cas**.
+Le **CAD/CAM n'entre pas** dans ce calcul : il est **toujours alimenté par un compresseur
+autonome** (voir la section CAD/CAM plus bas).
+
+On ajoute ensuite une **réserve de puissance**. Un modèle se lit alors par son nombre de
+cylindres : **Primo = 1**, **Duo = 2**, **Trio = 3**, **Quattro = 4**… Ce décompte détermine
+le **débit d'air** requis (le vrai critère physique, cf. section précédente), que le compresseur
+doit fournir **à la pression de service**.
+
+> 💡 Le **choix final se valide au cas par cas** avec le service Dürr Dental (l'équipement exact
+> des postes et les consommateurs annexes affinent le calcul).
 
 ## Sélection indicative par nombre de postes
 
@@ -115,6 +119,25 @@ chaque modèle renvoie à sa fiche :
 Voir les débits et niveaux sonores exacts par modèle sur les fiches
 [Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/)
 et [Tornado](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/).
+
+## Tolérance de panne et évolutivité (Tandem)
+
+À mesure que le nombre de fauteuils augmente, la **continuité de service** devient critique :
+un cabinet ne peut pas s'arrêter si le compresseur tombe en panne. La gamme y répond par
+degrés :
+
+1. **Compresseurs Tandem** — plusieurs **groupes moteurs indépendants** à commande électronique
+   (Duo Tandem, Quattro Tandem). C'est le premier niveau de **tolérance de panne**.
+2. **Interconnexion de deux unités** — **deux Duo Tandem**, **deux Quattro Tandem
+   électroniques**, ou encore **deux [Power Tower View](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)**
+   peuvent être **reliés pour fonctionner comme un seul compresseur** sur la **même ligne
+   d'alimentation**. Si un groupe moteur tombe en panne, **les autres prennent le relais** →
+   redondance renforcée sans interrompre le cabinet.
+3. **Évolutivité** — un **Duo Tandem 1 groupe** peut être **mis à niveau en Duo Tandem 2 groupes**
+   (montée en puissance sans remplacer l'unité), utile quand le cabinet s'agrandit.
+
+C'est ce qui distingue le **principe Tandem** d'un simple compresseur plus gros : on gagne à la
+fois en **puissance** et en **redondance**.
 
 ## Tornado ou Silver Airline ?
 
@@ -141,8 +164,10 @@ Les usineuses **CAD/CAM** ont des besoins **différents d'un cabinet** — voir 
   versions CAD/CAM).
 - **Cycle de fonctionnement quasi continu** (peu d'arrêts) → la **pression de coupure** du
   compresseur doit être **≥ pression mini de l'usineuse + 0,5 bar**.
-- **Compresseur dédié** (ou au minimum une **ligne de pression séparée**) fortement
-  recommandé, pour éviter les variations de pression qui dégradent la précision d'usinage.
+- **Compresseur toujours autonome** : le CAD/CAM est **systématiquement** alimenté par son
+  **propre compresseur**, **jamais partagé** avec l'air de soin du cabinet (ni compté dans le
+  dimensionnement du compresseur de soins) — pour éviter les variations de pression qui
+  dégradent la précision d'usinage.
 - **Dessiccateur à membrane indispensable** : en usage continu, il reste **constamment sec**
   sans phase de régénération — ce que ne garantissent pas les sécheurs à adsorption.
 
@@ -171,7 +196,15 @@ local doit être **sec, ventilé et sans poussière**.
       "name": "Sur quel critère choisit-on un compresseur dentaire ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sur le débit d'air utile (l/min) fourni à la pression de service, dimensionné selon le nombre de postes et surtout le nombre d'opérateurs travaillant simultanément. La taille de la cuve n'est pas un critère de performance."
+        "text": "Sur le débit d'air utile fourni à la pression de service. En pratique, on compte 1 cylindre par fauteuil utilisé simultanément, plus 1 cylindre par appareil de nettoyage/lubrification de turbine et contre-angle ; le CAD/CAM a toujours son propre compresseur. La taille de la cuve n'est pas un critère de performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment gère-t-on la panne d'un compresseur dans un grand cabinet ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avec le principe Tandem : plusieurs groupes moteurs indépendants à commande électronique. On peut relier deux Duo Tandem ou deux Quattro Tandem électroniques pour qu'ils fonctionnent comme un seul compresseur sur la même ligne d'alimentation ; si un groupe moteur tombe en panne, les autres prennent le relais. Un Duo Tandem 1 groupe peut aussi être mis à niveau en Duo Tandem 2 groupes."
       }
     },
     {
@@ -214,9 +247,17 @@ local doit être **sec, ventilé et sans poussière**.
 
 ### Sur quel critère choisit-on un compresseur dentaire ?
 
-Sur le **débit d'air utile** (l/min) fourni **à la pression de service**, dimensionné selon le
-nombre de postes et surtout le **nombre d'opérateurs travaillant simultanément**. La taille de
-la cuve n'est pas un critère de performance.
+Sur le **débit d'air utile** fourni **à la pression de service**. En pratique on compte
+**1 cylindre par fauteuil utilisé simultanément**, **+ 1 cylindre par appareil de
+nettoyage/lubrification** de turbine et contre-angle ; le **CAD/CAM a toujours son propre
+compresseur**. La taille de la cuve n'est pas un critère de performance.
+
+### Comment gère-t-on la panne d'un compresseur dans un grand cabinet ?
+
+Avec le **principe Tandem** (plusieurs groupes moteurs indépendants). On peut relier **deux
+Duo Tandem**, **deux Quattro Tandem** ou **deux Power Tower View** électroniques pour qu'ils
+fonctionnent comme **un seul compresseur** sur la **même ligne** : si un groupe tombe en panne,
+les autres prennent le relais. Un **Duo Tandem 1 groupe** peut aussi être **upgradé en 2 groupes**.
 
 ### La taille de la cuve détermine-t-elle la puissance ?
 
