@@ -291,9 +291,13 @@ Dernières versions connues (référence mai 2026) :
 | Composant | Version |
 |---|---|
 | Pack logiciel VVSP | 3.2.2 (avril 2026) |
-| Firmware MCU (génération actuelle) | 7.00.22 |
-| Firmware MCU (génération antérieure) | 8.00.33 |
-| Interface (GUI) | 1.10.0.4494 |
+| Firmware MCU (génération actuelle — Gen 2) | 7.00.22 |
+| Firmware MCU (génération antérieure — Gen 1) | 8.00.33 |
+| Interface (GUI, commun Gen 1 + Gen 2) | 1.10.0.4494 |
+
+> ℹ️ Les deux générations utilisent des **lignées de numérotation MCU indépendantes** :
+> la génération **actuelle (Gen 2)** est en **7.xx**, l'ancienne **(Gen 1)** en **8.xx**.
+> Le « 7 » plus petit ne signifie donc **pas** plus ancien — ce ne sont pas la même série.
 
 ## Dépannage
 
