@@ -156,8 +156,6 @@ d'intégration DICOM-native. Voir [DICOM Conformance Statement](/durr-dental-kno
 - L'installation et la configuration de l'interface dans un PMS donné peuvent
   nécessiter un paramétrage technique au cas par cas.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -191,6 +189,8 @@ d'intégration DICOM-native. Voir [DICOM Conformance Statement](/durr-dental-kno
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Combien de voies d'intégration ?
 

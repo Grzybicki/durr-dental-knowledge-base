@@ -138,8 +138,6 @@ le module complémentaire est [VistaSoft Cloud View](/durr-dental-knowledge-base
 - Le respect de l'obligation d'information du patient (RGPD) avant tout partage
   reste de la responsabilité du praticien.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -181,6 +179,8 @@ le module complémentaire est [VistaSoft Cloud View](/durr-dental-knowledge-base
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Durée de conservation cloud ?
 

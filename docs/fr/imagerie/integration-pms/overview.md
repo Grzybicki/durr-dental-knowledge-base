@@ -162,8 +162,6 @@ planification implantaire), voir la fiche
 - Le **paramétrage technique** de l'interface dans un PMS donné peut nécessiter
   une intervention du service technique au cas par cas.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -197,6 +195,8 @@ planification implantaire), voir la fiche
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Combien de voies d'intégration ?
 

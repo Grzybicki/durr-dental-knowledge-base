@@ -154,8 +154,6 @@ son personnel compétent en radioprotection (PCR).
 - [VistaPano S 2.0 / Ceph 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/) — exemple
   d'appareil concerné par les contrôles d'acceptation et de constance.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -189,6 +187,8 @@ son personnel compétent en radioprotection (PCR).
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### À quoi sert VistaSoft Inspect ?
 

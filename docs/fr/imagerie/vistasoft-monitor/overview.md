@@ -257,8 +257,6 @@ Notifications via l'icône système et l'interface web ; les **Service Partners*
 autorisés peuvent **acquitter les messages à distance**. Chaque message détaille :
 nom, référence, numéro de série, type, code d'erreur, horodatage et description.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -300,6 +298,8 @@ nom, référence, numéro de série, type, code d'erreur, horodatage et descript
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Quelle est la différence entre VistaSoft Monitor et VistaSoft 4.0 ?
 

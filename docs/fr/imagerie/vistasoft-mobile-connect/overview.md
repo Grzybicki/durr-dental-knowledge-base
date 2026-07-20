@@ -180,8 +180,6 @@ l'App Store, l'application iPad permet :
 - [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) — interface qui assure la
   cohérence des fiches patients entre VistaSoft et le PMS du cabinet.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -231,6 +229,8 @@ l'App Store, l'application iPad permet :
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Sur quelle plateforme ?
 

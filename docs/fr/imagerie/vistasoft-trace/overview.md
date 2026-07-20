@@ -126,8 +126,6 @@ la technologie sous-jacente.
 - Les simulations de traitement sont des aides à la planification et ne
   garantissent pas un résultat clinique précis.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -161,6 +159,8 @@ la technologie sous-jacente.
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### À quoi sert VistaSoft Trace ?
 

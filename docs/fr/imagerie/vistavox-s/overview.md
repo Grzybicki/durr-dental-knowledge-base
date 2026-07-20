@@ -303,8 +303,6 @@ Dernières versions connues (référence mai 2026) :
 
 VistaVox S signale les anomalies par des **codes d'erreur** documentés dans la notice d'utilisation officielle. Démarche générale : noter le code affiché, **redémarrer** l'appareil et le PC de reconstruction ; si l'erreur persiste, contacter un **technicien agréé Dürr Dental**. L'ouverture de l'appareil et les interventions internes sont réservées aux techniciens qualifiés.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -354,6 +352,8 @@ VistaVox S signale les anomalies par des **codes d'erreur** documentés dans la 
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### FOV de VistaVox S ?
 

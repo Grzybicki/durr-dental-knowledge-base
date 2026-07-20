@@ -267,8 +267,6 @@ agréé est recommandé pour cette opération critique.
 - [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) — pour la continuité de
   l'intégration PMS après migration.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -326,6 +324,8 @@ agréé est recommandé pour cette opération critique.
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Migration DBSWin supportée à partir de quelle version ?
 

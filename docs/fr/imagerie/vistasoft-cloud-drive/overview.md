@@ -134,8 +134,6 @@ récupérables via le [Centre de téléchargements Dürr Dental France](https://
 - Le débit Internet du cabinet conditionne le temps de sauvegarde et de
   restauration.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -177,6 +175,8 @@ récupérables via le [Centre de téléchargements Dürr Dental France](https://
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Qu'est-ce que le zero-knowledge ?
 

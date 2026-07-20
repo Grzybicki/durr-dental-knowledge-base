@@ -13,8 +13,8 @@ vault, POC firmware).
 ### Corrigé — contradictions inter-fiches
 
 - **TWAIN** : le support TWAIN générique relève de **VistaSoft Connect** (faire fonctionner
-  les appareils Dürr dans tout environnement) ; **Image Bridge** est l'intégration
-  **co-développée** dédiée à **Sidexis** et **VixWin**.
+  les appareils Dürr dans tout environnement) ; **Image Bridge** est une intégration
+  **co-développée** dédiée à des logiciels d'imagerie tiers spécifiques.
 - **VistaSoft Monitor** : **3 profils** (praticien / technicien / gestionnaire de dépôt) ;
   équipements supervisés complétés (scanners **VistaScan**, **Hygopac View**, Hygoclave 50/90).
 - **Cloud AID** = exécution cloud de VistaSoft AID (détection caries IA) ; assertion

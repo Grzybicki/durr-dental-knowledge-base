@@ -149,8 +149,6 @@ Image Bridge **n'est pas un substitut** à VistaSoft 4.0 :
 - Le statut **dispositif médical** des images acquises dépend du logiciel
   tiers utilisé pour le diagnostic clinique.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -184,6 +182,8 @@ Image Bridge **n'est pas un substitut** à VistaSoft 4.0 :
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### À quoi sert Image Bridge ?
 

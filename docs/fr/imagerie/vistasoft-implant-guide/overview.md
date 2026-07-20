@@ -145,8 +145,6 @@ planification implantaire VistaSoft et la conception prothétique exocad.
   du laboratoire de prothèse ; Dürr Dental ne fabrique pas les guides
   physiques.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -180,6 +178,8 @@ planification implantaire VistaSoft et la conception prothétique exocad.
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Quelle est la différence entre VistaSoft Implant et VistaSoft Guide ?
 

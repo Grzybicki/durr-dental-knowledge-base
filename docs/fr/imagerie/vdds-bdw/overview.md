@@ -159,8 +159,6 @@ quasi-totalité des PMS du marché européen.
 - Les spécifications complètes des interfaces VDDS sont publiquement
   consultables sur [vdds.de/en/interfaces/](https://www.vdds.de/en/interfaces/).
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -194,6 +192,8 @@ quasi-totalité des PMS du marché européen.
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Qu'est-ce que le VDDS ?
 

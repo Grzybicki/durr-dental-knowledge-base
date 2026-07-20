@@ -136,8 +136,6 @@ VistaSoft Cloud View est **complémentaire** à VistaSoft 4.0 :
 - Les exigences RGPD pour la transmission d'images sont à respecter selon le
   périmètre d'usage du cabinet.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -179,6 +177,8 @@ VistaSoft Cloud View est **complémentaire** à VistaSoft 4.0 :
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### VistaSoft Cloud View est-il un dispositif médical ?
 

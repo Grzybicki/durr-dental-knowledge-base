@@ -150,8 +150,6 @@ Verbatim page produit officielle :
 - VistaSoft AID ne se substitue pas à la responsabilité diagnostique du
   praticien.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -193,6 +191,8 @@ Verbatim page produit officielle :
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Quel est le statut réglementaire de VistaSoft AID ?
 

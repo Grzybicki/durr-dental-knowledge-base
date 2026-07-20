@@ -139,8 +139,6 @@ supportant ces formats.
   également possible via le standard ouvert STL et le DICOM ; voir la fiche
   [VistaSoft Implant & Guide](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/).
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -174,6 +172,8 @@ supportant ces formats.
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Versions minimales requises ?
 

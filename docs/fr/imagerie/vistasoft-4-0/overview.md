@@ -501,8 +501,6 @@ Volumétrie indicative par image : caméra ≈ 1 Mo, radiographie ≈ 2–10 Mo,
 - Les communications cloud (View, Exchange, Drive) sont assurées par des modules
   spécifiques avec leur propre statut réglementaire.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -560,6 +558,8 @@ Volumétrie indicative par image : caméra ≈ 1 Mo, radiographie ≈ 2–10 Mo,
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Quelle est la différence entre VistaSoft 4.0 et VistaSoft Monitor ?
 

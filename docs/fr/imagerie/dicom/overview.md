@@ -204,8 +204,6 @@ récupération directe.
 - La **compatibilité bidirectionnelle** avec un PACS ou RIS dépend autant
   de la conformité de VistaSoft que de celle du système partenaire.
 
-## Questions fréquentes
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -247,6 +245,8 @@ récupération directe.
   ]
 }
 </script>
+
+## Questions fréquentes
 
 ### Qu'est-ce qu'un DICOM Conformance Statement ?
 
