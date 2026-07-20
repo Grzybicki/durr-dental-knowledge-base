@@ -25,6 +25,11 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/compressed-air/"
     type: "page hub"
     language: "en"
+  - title: "Informations sur la planification — Station d'air comprimé pour cliniques P 6000 – P 12000"
+    ref: "5922100029L03/1608V001 FR"
+    type: "notice de planification officielle Dürr Dental"
+    language: "fr"
+    note: "Source publique des valeurs : air sans huile/sec/filtré, dessiccateur à froid (point de rosée ≈ +3 °C), récupérateur cyclonique + filtre bactériologique, dimensionnement (P 6000 ≈ 60 postes). Récupérable via le Centre de téléchargements Dürr Dental."
 last_factual_review: 2026-07-20
 license: CC-BY-4.0
 ---
@@ -56,21 +61,34 @@ supérieure** avec un **point de rosée abaissé**, pour un **service continu in
 - **Cliniques, hôpitaux, facultés dentaires, gros centres** multi-fauteuils.
 - Toute installation à **fort débit** et **fonctionnement continu** (bien au-delà d'un cabinet
   classique), où la constance et la pureté de l'air sont critiques.
-- Voir la [fiche systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/)
-  pour les installations centralisées (air comprimé et aspiration).
+
+**Gamme** : stations d'**air comprimé pour cliniques** **P 6000 – P 12000** (une station **P 6000**
+alimente à titre d'exemple **jusqu'à ~60 postes de soins**). Côté aspiration, la gamme centralisée
+correspondante va de **V 6000 à V 18000** — voir la
+[fiche systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/).
 
 ## Une qualité d'air supérieure : le point de rosée abaissé
 
 La différence clé de l'air clinic est un **point de rosée plus bas** (air plus sec) que celui
-d'un compresseur de cabinet. Il est obtenu par un **séchage par réfrigération** (sécheur
-frigorifique / « par climatisation ») : l'air comprimé est **refroidi**, ce qui **condense**
-l'humidité résiduelle et l'évacue — abaissant d'autant le point de rosée.
+d'un compresseur de cabinet. Il est obtenu par un **dessiccateur à froid** (séchage par
+**réfrigération** / échangeur thermique) : l'air comprimé est **refroidi** jusqu'à sa
+température de service, ce qui **condense** l'humidité résiduelle et l'évacue.
+
+| Type de séchage | Point de rosée sous pression |
+|---|---|
+| **Cabinet** — [dessiccateur à membrane](/durr-dental-knowledge-base/docs/fr/conventionnel/dessiccateur-membrane/overview/) | dépend de la température ambiante : **≤ +3 °C** (classe [2:4:2], ambiance tempérée) → jusqu'à **≈ +5 °C** à forte température ambiante / 7 bar |
+| **Clinique** — dessiccateur à **froid** (réfrigération) | **≈ +3 °C, maintenu activement** (constant même en service continu intensif) |
+
+> L'atout de l'air clinic n'est pas seulement une valeur plus basse : c'est un point de rosée
+> **maintenu bas et constant** par réfrigération active, y compris à forte charge continue et par
+> température ambiante élevée — là où un séchage passif dépend davantage des conditions du local.
 
 - **Air plus sec** = meilleure protection contre la corrosion, meilleure constance en service
   continu, marge supplémentaire pour des usages exigeants.
-- Ce principe **complète** la logique de séchage des compresseurs de cabinet (voir le
-  [dessiccateur à membrane](/durr-dental-knowledge-base/docs/fr/conventionnel/dessiccateur-membrane/overview/))
-  en visant, pour les grandes installations, un **niveau de qualité encore plus élevé**.
+- Au démarrage, le **dessiccateur à froid** met quelques minutes (jusqu'à ~3 min selon la
+  température ambiante) à ramener l'échangeur à sa température de service.
+- Chaîne de traitement typique : **récupérateur cyclonique** + **dessiccateur à froid** +
+  **filtre bactériologique** → air **sans huile, sec, filtré**.
 
 ## Caractéristiques communes à l'air comprimé Dürr
 
@@ -111,7 +129,7 @@ structure. Les équipements sans interface native se remontent via la
       "name": "Pourquoi l'air clinic a-t-il une qualité supérieure ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Parce qu'il utilise un séchage par réfrigération (sécheur frigorifique / climatisation) qui refroidit l'air, condense l'humidité résiduelle et abaisse le point de rosée : l'air obtenu est plus sec que celui d'un compresseur de cabinet, ce qui améliore la protection contre la corrosion et la constance en service continu."
+        "text": "Parce qu'il utilise un dessiccateur à froid (séchage par réfrigération) qui refroidit l'air, condense l'humidité résiduelle et abaisse le point de rosée à environ +3 °C, contre environ +5 °C (à 7 bar) pour le dessiccateur à membrane d'un compresseur de cabinet. L'air obtenu est plus sec, ce qui améliore la protection contre la corrosion et la constance en service continu."
       }
     },
     {
@@ -136,9 +154,9 @@ abaissé**) en **service continu intensif** — sans huile, DM classe IIa.
 
 ### Pourquoi une qualité d'air supérieure ?
 
-Grâce à un **séchage par réfrigération** (sécheur frigorifique / climatisation) qui **refroidit**
-l'air, **condense** l'humidité et **abaisse le point de rosée** → air plus sec que celui d'un
-compresseur de cabinet.
+Grâce à un **dessiccateur à froid** (séchage par réfrigération) qui **refroidit** l'air,
+**condense** l'humidité et **abaisse le point de rosée à ≈ +3 °C** — contre ≈ +5 °C (à 7 bar)
+pour le dessiccateur à membrane d'un compresseur de cabinet. L'air est donc **plus sec**.
 
 ### L'air clinic est-il supervisable à distance ?
 
@@ -151,9 +169,12 @@ Oui — stations électroniques **connectables au réseau Ethernet** et supervis
 |---|---|
 | Systèmes cliniques — air comprimé Dürr Dental | <https://www.duerrdental.com/en/products/compressed-air/devices/clinic-systems/> |
 | Hub Air comprimé Dürr Dental | <https://www.duerrdental.com/en/products/compressed-air/> |
+| Informations de planification — Station d'air comprimé cliniques P 6000–P 12000 (réf. `5922100029L03`) | Centre de téléchargements Dürr Dental |
 
-> Pour le **dimensionnement d'une installation clinique**, Dürr Dental propose un **service de
-> planification** (plans, schémas de tuyauterie, conception des salles techniques).
+> Les valeurs (air sans huile/sec/filtré, **dessiccateur à froid → point de rosée ≈ +3 °C**,
+> récupérateur cyclonique + filtre bactériologique, P 6000 ≈ 60 postes) proviennent de la
+> **notice de planification publique** `5922100029L03`. Pour le **dimensionnement**, Dürr Dental
+> propose un **service de planification** (plans, schémas de tuyauterie, salles techniques).
 
 ## Pour aller plus loin
 
