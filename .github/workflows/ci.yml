@@ -19,7 +19,7 @@ jobs:
     name: "Lychee — vérification des liens"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Restaurer le cache lychee
         uses: actions/cache@v6
@@ -48,7 +48,7 @@ jobs:
     name: "Markdownlint"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Lint Markdown
         uses: DavidAnson/markdownlint-cli2-action@v24
         with:
@@ -63,7 +63,7 @@ jobs:
     name: "Jekyll — build de vérification"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -80,7 +80,7 @@ jobs:
     name: "Validate repository (deterministic content checks)"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Setup Python
         uses: actions/setup-python@v7
