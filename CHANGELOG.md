@@ -4,6 +4,34 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.7.0] — 2026-07-22
+
+### Ajouté — guide de décision « aspiration »
+
+- **Fiche « Comment choisir une aspiration »** (`guide-choix-aspiration`) — jumeau du guide
+  compresseur. Dimensionnement sur le **débit à la canule** (300–350 l/min par praticien
+  travaillant **simultanément**), choix **humide (VS/VSA)** vs **sec (V)**, contrainte
+  **mono 230 V / tri 400 V** (VS 1200 = tri → Tyscor VS 4 pour rester mono), **distance maximale
+  fauteuil-moteur** (10 m sec / 6 m humide en entrée de gamme, 10 m Tyscor VS 1, 30 m au-delà),
+  **pose en étoile** vs faisceau, **régulation** classique (moteur permanent + clapet NLV) vs
+  Tyscor (Eco/Balanced/Boost, −75 %), **évolutivité** (clé de licence, Tandem, **Tandem Flex**),
+  **installation** (meuble/chaleur/bruit + capots), **air de refoulement** (extérieur / filtre
+  bactériologique HEPA H14 / couplage de boîtiers / silencieux), **supervision** Tyscor Pulse →
+  VistaSoft Monitor, et **cliniques** — gamme radiale **Tyscor V 20–V 60** (30→100 postes,
+  20→60 praticiens) et gamme classique canal latéral **V 6000–V 18000** (2→6 moteurs), **cuves de
+  séparation CS 20 / CS 60**. Sourcé sur documents publics Dürr Dental (`9000-617-03/03`, brochures
+  `DD_100170L03` / `P007-620-03`, flyer filtre `P007100174L03`, brochure Clinics, pages produit
+  officielles) ; capacités par modèle clinique **confirmées** sur le catalogue matériel Dürr Dental
+  France 2026 (désignations/capacités uniquement, prix exclus).
+- Lien du guide mis en avant dans l'**index conventionnel**.
+
+### Enrichi
+
+- **Fiche Tyscor** — ajout de l'**architecture moteurs** (V/VS 1-2 = 1 moteur ; VS 4 = 2 moteurs ;
+  VS 2 Plus = même matériel bridé), de la **régulation électronique** (Eco/Balanced/Boost vs
+  clapet NLV classique), des **distances maximales** fauteuil-moteur, et de la section **air de
+  refoulement + filtre bactériologique** (couplage de boîtiers selon le modèle). Lien vers le guide.
+
 ## [0.6.2] — 2026-07-20
 
 ### Ajouté

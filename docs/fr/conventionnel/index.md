@@ -4,7 +4,7 @@ title: "Conventionnel Dürr Dental — Index"
 description: "Catalogue de la ligne conventionnel Dürr Dental : compresseurs dentaires Tyscor et systèmes d'aspiration centralisés Tyscor."
 lang: fr
 permalink: /docs/fr/conventionnel/
-last_factual_review: 2026-05-29
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -39,6 +39,10 @@ Documentation publique de la ligne **conventionnel** Dürr Dental :
 | **[Filtres HEPA / ULPA U16](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/)** | Filtres bactériologiques ULPA U16 / ISO 65U (EN 1822-1:2019-10 / ISO 29463-3:2018) — 100× plus filtrant que HEPA H14. Option ou de série selon modèle (de série sur Power Tower View). | Norme EN 1822 |
 
 ## Aspiration
+
+> 🧭 **[Guide : comment choisir une aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-aspiration/overview/)** —
+> dimensionner sur le débit à la canule (300–350 l/min par praticien simultané), humide/sec, contrainte mono/triphasé,
+> distance fauteuil-moteur, pose en étoile, évolutivité Tandem, supervision réseau, cliniques V 6000–V 18000.
 
 | Gamme | Description | Fiche |
 |---|---|---|

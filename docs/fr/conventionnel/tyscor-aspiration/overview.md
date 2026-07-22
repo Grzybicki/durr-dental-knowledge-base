@@ -33,7 +33,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/devices/clinic-systems/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -244,6 +244,14 @@ Ce kit permet de transformer une Tyscor V 1 Plus (jusqu'à 2 postes,
 1 praticien) en Tyscor V 2 (jusqu'à 3 postes, 2 praticiens) sans
 remplacer le matériel — uniquement par licence logicielle.
 
+**Architecture moteurs** : les Tyscor **V/VS 1 et V/VS 2 comportent un
+seul moteur** (la licence distingue 1 ou 2 praticiens). Le **Tyscor VS 4
+dispose de deux moteurs** dès la fabrication — chacun identique au moteur
+d'un VS 2. La variante **VS 2 Plus** est ce **même matériel à deux moteurs,
+électroniquement bridé** à deux praticiens, puis débridé vers VS 4 par clé
+de licence. C'est pourquoi la notice de planification désigne le VS 2 Plus
+comme « Tyscor V 4 (modèle V 2 plus) ».
+
 ### Tandem (2 unités) et Tridem (3 unités)
 
 L'**électronique de commande** intégrée aux Tyscor (V 1 Plus, V 2, V 4
@@ -362,6 +370,48 @@ la même base technique que les VS correspondants.
 | Récupérateur amalgame intégré (modèles VSA) | Conforme Règlement UE 2017/852 |
 | Connect Box ([fiche](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/)) | Connexion VistaSoft Monitor pour générations antérieures |
 
+## Régulation électronique, distances et air de refoulement
+
+### Régulation électronique (Eco / Balanced / Boost)
+
+Sources : brochure Tyscor nouvelle génération `DD_100170L03` (régulation
+électronique, modes Eco/Balanced/Boost) et brochure gamme classique
+`P007-620-03` (mécanisme des unités V/VS classiques).
+
+Contrairement aux aspirations **classiques** (V/VS 300, 600, 900, 1200),
+dont le **moteur fonctionne en permanence** avec un **clapet de régulation
+de dépression intégré à la machine** — celui-ci admet l'air d'appoint pour
+réguler la puissance d'aspiration et empêcher la surchauffe —, les **Tyscor
+régulent électroniquement la puissance en fonction des besoins**, via trois
+modes **Eco / Balanced / Boost** (réglables à l'écran tactile sur VS 4).
+C'est ce pilotage à la demande qui explique les **économies d'énergie
+jusqu'à 75 %** mesurées par le **Fraunhofer Institute** (Tyscor VS 4 vs
+aspiration à canal latéral équivalente).
+
+### Distances maximales fauteuil ↔ moteur (Tyscor)
+
+Source : notice de planification Dürr Dental `9000-617-03/03`.
+
+| Modèle Tyscor | Distance max fauteuil ↔ moteur |
+|---|---|
+| **Tyscor V 1** (sec) | **10 m** |
+| **Tyscor VS 1** (humide) | **10 m** |
+| **Tyscor V/VS 2**, **V/VS 4** (+ association) | **30 m** |
+
+Au-delà de la distance admise, il faut passer au modèle supérieur (qui
+autorise 30 m). Le détail de la logique de dimensionnement figure dans le
+[guide « Comment choisir une aspiration »](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-aspiration/overview/).
+
+### Air de refoulement et filtre bactériologique
+
+L'air de refoulement doit être **évacué vers l'extérieur**. **S'il n'est pas
+possible de déboucher dehors**, un **filtre bactériologique et viral**
+(qualité **HEPA H14**, à remplacer tous les 1–2 ans) est **obligatoire**. Le
+choix du boîtier suit la machine : **un boîtier** pour Tyscor V/VS 1, **deux
+boîtiers en parallèle** pour Tyscor VS 2 (et V/VS 600), **gros filtre**
+(réf. `0705-991-50`) pour les modèles supérieurs. Un **silencieux** peut
+compléter la conduite de refoulement pour limiter le bruit d'évacuation.
+
 ## DürrConnect
 
 Le système **DürrConnect** est le standard Dürr Dental d'interfaces et
@@ -465,6 +515,7 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 
 ## Pour aller plus loin
 
+- [Guide — comment choisir une aspiration (dimensionnement)](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-aspiration/overview/)
 - [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
 - [Récupérateurs d'amalgame (CA 1, CA 2, CA 4, Sepamatic CS 1)](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
 - [Aspiration chirurgicale (VC 65)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
@@ -474,4 +525,4 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
