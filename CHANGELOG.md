@@ -4,6 +4,35 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.8.0] — 2026-07-22
+
+### Ajouté — écosystème aspiration (fiches VC 45, Variosuc, VSA)
+
+- **Fiche « Aspiration chirurgicale VC 45 »** (`aspiration-chirurgicale-vc-45`) — implantologie /
+  chirurgie buccale, **pompe à membrane** (45 l/min, 910 mbar, 48 dB(A)), bocaux autoclavables
+  1,5/3 L ou poche jetable 2 L. Hygiène par **consommables usage unique, sans Orotol/MD 555**
+  (distinct de l'aspiration de soin). Source : brochure `P007-522-03`.
+- **Fiche « Variosuc »** (`variosuc`) — aspiration de soin **mobile** de brouillard de spray
+  (300 l/min), technologie VS 300 / VSA 300 sur roulettes + support Comfort + capot, **filtre
+  viro-bactérien HEPA H13**, variantes VS/VSA. S'entretient à l'Orotol/MD 555 + filtres jetables
+  (3 mois) / bactérien (annuel). Sources : brochure `P007-177-02`, notice `9000-606-40`, planning
+  de maintenance.
+- **Fiche « Systèmes VSA »** (`vsa`) — **décodeur V/S/A/C** (Vacuum / Séparation / Amalgame /
+  Centrifugation) ; **VSA 300 S monobloc intégré** vs **VSA 600/900/1200 + Tyscor VSA = packages**
+  (aspiration VS + récupérateur CA + support Plug & Play ; CA 2 réservoir intégré / CA 4 réservoir
+  d'équilibrage via support). Tables techniques canal latéral + radial. Source : brochure
+  `P007100068L03`.
+- **Navigation** : notes VC 45/65 « salle de chirurgie uniquement → Variosuc pour le spray-mist
+  mobile » ; liens « produits d'entretien » ; **index conventionnel** enrichi (VC 45, Variosuc, VSA).
+
+### Corrigé — récupérateurs d'amalgame (brochure P007-619-03/N09)
+
+- **CS 1 = pur séparateur (SANS récupération d'amalgame)** vs **CAS 1 = séparation + récupération**
+  (l'ancienne fiche les confondait). Taux alignés sur la brochure (CS 1 = – ; CAS 1 ≈ 98 % ;
+  CA 1 = 98 % ; **CA 2 > 95 % = minimum ISO 11143**, pas la perf réelle ; CA 4 = 98,9 %). Puissances
+  **CA 2 = 100 W** / **CA 4 = 210 W** (W, pas VA) ; **fréquence CA 4 = 60 Hz**. Ajout du **décodeur
+  V/S/A/C** et de l'**appairage sec (V → CS/CAS/CA 1) / humide (VS → CA 2/CA 4 → VSA)**. FAQ corrigée.
+
 ## [0.7.1] — 2026-07-22
 
 ### Corrigé — statut réglementaire FD 312 (biocide TP2 / Certibiocide)

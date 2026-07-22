@@ -34,7 +34,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques complètes (dimensions, dB(A), taux de récupération, agrément DIBT)"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -79,29 +79,54 @@ réglementaires.
 
 ## Modèles de la gamme
 
-### Récupérateurs autonomes (séparateurs purs)
+> **Décodage des noms Dürr Dental (aspiration / séparation)** — les lettres
+> composent la fonction de l'appareil : **V** = *Vacuum* (génération de vide /
+> aspiration) · **S** = *Séparation* air/eau · **A** = récupération
+> d'**Amalgame** · **C** = *Centrifugation*. Ainsi : **VS** = vide + séparation
+> (ex. VS 300 S) ; **VSA** = vide + séparation + amalgame (ex. VSA 300 S) ;
+> **CS** = centrifugation + séparation, **sans amalgame** (CS 1) ; **CAS** =
+> centrifugation + amalgame + séparation (CAS 1) ; **CA** = centrifugation +
+> amalgame (CA 1 / CA 2 / CA 4).
+
+> **Appairage aspiration sèche / humide** : les aspirations **sèches** (« V » :
+> V 300, V 600, Tyscor V…) s'associent à un **CS 1**, un **CAS 1** ou un
+> **CA 1** pour leur apporter la séparation et/ou la récupération d'amalgame.
+> Les aspirations **humides** (« VS », séparation air/eau intégrée) reçoivent
+> un **CA 2** ou un **CA 4** pour la récupération d'amalgame — formant les
+> configurations [VSA](/durr-dental-knowledge-base/docs/fr/conventionnel/vsa/overview/).
+
+### Récupérateurs d'amalgame autonomes (CA 1 / CA 2 / CA 4)
 
 | Modèle | Capacité | Usage type |
 |---|---|---|
-| **CA 1** | Poste unique | Cabinets individuels en aspiration humide. S'installe en sortie du système d'aspiration ([Tyscor VS 1 Plus](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/), VS 300 S, etc.). |
-| **CA 2** | Centralisée moyenne | 2 à 4 praticiens — pour configurations Tyscor VS 2 et équivalents. |
-| **CA 4** | Centralisée grande | Cabinets multi-postes — pour configurations Tyscor VS 4 et grandes installations. |
+| **CA 1** | Poste unique | Solution **périphérique** pour un seul poste — aspiration **humide ou sèche**. Centrifugeuse auto-nettoyante en armoire ; module ajoutable **a posteriori** à un moteur avec séparation intégrée (ex. VS 300 S). Taux de récupération **98 %**. |
+| **CA 2** | 2 praticiens | Pour **2 praticiens** — combiné au **VS 600** ou au **Tyscor VS 2**. Réservoir d'équilibrage **intégré d'usine**, grande cassette, surveillance électronique du niveau. |
+| **CA 4** | Multi-postes / central | Solution **universelle** — raccordable à **plusieurs fauteuils** (VS 600 / VS 900 S / VS 1200 S). Débit jusqu'à **16 l/min**, commande par capteurs, taux **98,9 %**. |
 
-### Modèles combinés (séparateur + séparation des liquides)
+### Systèmes de séparation pour aspiration « sèche » (CS 1 / CAS 1)
+
+Ces deux appareils protègent le **moteur d'aspiration à sec** raccordé en aval,
+grâce à une **séparation à deux niveaux** (séparateur cyclonique + turbine dynamique
+de séparation), très tolérante à la mousse de sang. Ils s'intègrent au fauteuil ou
+en périphérie.
 
 | Modèle | Description |
 |---|---|
-| **CS 1** (*Combi-Sepamatic CS 1*) | **Combiné** séparateur amalgame + **séparation des liquides** en sortie d'aspiration humide. Solution intégrée pour cabinets unique poste qui souhaitent traiter à la fois la séparation des particules d'amalgame et la séparation des phases liquides en un seul appareil. |
-| **CAS 1** | **Combiné** séparateur amalgame + module additionnel de séparation, configuration adaptée à certaines installations spécifiques. Différent du CS 1 par le périmètre et la mécanique interne. |
+| **CS 1** (*Combi-Sepamatic*) | **Pur dispositif de séparation** air/eau — **SANS récupération d'amalgame**. Rôle : protéger le moteur d'aspiration sec de la mousse et des liquides. |
+| **CAS 1** (*Combi-séparateur*) | **Séparation air/eau + récupération d'amalgame** (centrifugeuse **auto-nettoyante**, taux **≈ 98 %**). C'est le CS 1 **complété** d'un étage de récupération d'amalgame. |
+
+> Une **unité de rinçage** optionnelle peut être raccordée aux deux appareils : la
+> pellicule aqueuse permanente empêche le dépôt des particules et la coagulation du sang.
 
 ### Tableau de positionnement
 
 | Configuration cabinet | Récupérateur recommandé |
 |---|---|
-| Poste unique sans séparation liquide complémentaire | **CA 1** |
-| Poste unique avec séparation liquide intégrée | **CS 1** (Combi-Sepamatic) ou **CAS 1** |
-| Cabinet 2-4 praticiens | **CA 2** |
-| Cabinet multi-postes / clinique | **CA 4** |
+| Récupération d'amalgame, poste unique (aspiration humide ou sèche) | **CA 1** |
+| Aspiration **sèche** — séparation seule (protéger le moteur sec) | **CS 1** (Combi-Sepamatic) |
+| Aspiration **sèche** — séparation **+ récupération d'amalgame** | **CAS 1** (Combi-séparateur) |
+| 2 praticiens (VS 600 / Tyscor VS 2) | **CA 2** |
+| Cabinet multi-postes / clinique (plusieurs fauteuils) | **CA 4** |
 | Centralisation grande capacité (CS 20) | Réservoir de séparation central CS 20 (associé à VS 2400, par exemple) |
 
 ### Intégration directe en VSA (récupérateur intégré)
@@ -118,9 +143,9 @@ d'un récupérateur externe.
 
 | Caractéristique | **CS 1** | **CAS 1** | **CA 1** | **CA 2** | **CA 4** |
 |---|---|---|---|---|---|
-| Tension (V) | 24 | 24 | 24 | **230 (1∼)** | **230 (1∼)** |
-| Fréquence (Hz) | 50-60 | 50-60 | 50-60 | 50-60 | 50-60 |
-| Puissance électrique (VA) | 70 | 100 | 60 | 115 | 230 |
+| Tension (V) | 24 (AC) / 24-36 (DC) | 24 (AC) / 24-36 (DC) | 24 | **230 (1∼)** | **230 (1∼)** |
+| Fréquence (Hz) | 50-60 | 50-60 | 50-60 | 50-60 | **60** |
+| Puissance électrique (W) | 70 | 100 | 60 | **100** | **210** |
 | Puissance veille (W) | – | – | – | 4 | 7 |
 | Intensité (A) | 2,7 | 4,0 | 2,5 | – | – |
 | **Débit liquide max** (l/min) | **2** | **4** | **4** | – | **jusqu'à 16** |
@@ -130,7 +155,7 @@ d'un récupérateur externe.
 | Poids avec boîtier (kg) | 7,4 | 8,7 | 8,7 | – | – |
 | **Niveau sonore sans boîtier dB(A)** | – | – | – | **56** | **55** |
 | **Niveau sonore avec boîtier dB(A)** | – | – | – | – | **46** |
-| **Taux de récupération** | – | **97,9 %** | **97,9 %** | **97,9 %** | **98,9 %** |
+| **Taux de récupération** (TÜV Essen) | – *(séparation seule)* | **≈ 98 %** | **98 %** | **> 95 %** ¹ | **98,9 %** |
 | Volume cassette amalgame (cm³) | – | – | – | **~90** | **600** |
 | Agrément DIBT (Allemagne) | – | Z64.1-20 | Z64.1-20 | Z-64.1-20 | Z-64.1-22 |
 
@@ -138,6 +163,12 @@ d'un récupérateur externe.
 > standard allemand à débit maximal. **DIBT** = Deutsches Institut für
 > Bautechnik (Institut allemand de la technique du bâtiment) — agrément
 > de référence pour les récupérateurs d'amalgame en Europe.
+>
+> ¹ **« > 95 % » = seuil minimal imposé par la norme ISO 11143:2008** (repris
+> par le Règlement UE 2017/852 sur le mercure), et non la performance réelle
+> de l'appareil. Pour le **CA 2**, la brochure ne publie que ce minimum ; les
+> autres modèles affichent leur valeur **mesurée** (CA 1 ≈ 98 %, CAS 1 ≈ 98 %,
+> CA 4 = 98,9 %, VSA 300 S = 97,5 %), tous **au-dessus** du seuil normatif.
 
 > **Alarme de remplissage** : les récupérateurs signalent (optiquement, et via
 > [VistaSoft Monitor](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/) / Connect Box)
@@ -149,10 +180,10 @@ d'un récupérateur externe.
 > (« Séparateurs d'amalgame ») définit en Europe la **méthode d'essai**
 > et le **taux de rétention minimal de 95 %** exigé — seuil également
 > repris par le **Règlement (UE) 2017/852** sur le mercure. Les
-> récupérateurs d'amalgame Dürr Dental **dépassent ce seuil** avec des
-> taux de rétention mesurés de **97,9 % à 98,9 %** (verbatim fiche
-> séparateurs Dürr Dental : « *Separation rate of > 95%* », « *ISO
-> standard 11143:2008* »).
+> récupérateurs d'amalgame Dürr Dental **dépassent ce seuil**, avec des
+> taux de rétention **mesurés (TÜV Essen)** de **≈ 98 %** (CA 1, CAS 1) à
+> **98,9 %** (CA 4) — VSA 300 S à **97,5 %** — tous **au-dessus** du
+> minimum normatif de 95 %.
 
 ### Unité d'aspiration humide avec récupérateur intégré — VSA 300 S
 
@@ -241,7 +272,7 @@ l'agrément technique allemand **DIBt Z-64.1**.
       "name": "Qu'apporte un modèle combiné comme le CS 1 ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le CS 1 (Combi-Sepamatic) combine en un seul appareil la séparation des particules d'amalgame et la séparation des liquides en sortie d'aspiration humide."
+        "text": "Le CS 1 (Combi-Sepamatic) est un pur dispositif de séparation air/eau à deux niveaux, SANS récupération d'amalgame : son rôle est de protéger le moteur d'aspiration à sec de la mousse et des liquides. Le CAS 1 (Combi-séparateur) ajoute un étage de récupération d'amalgame (centrifugeuse auto-nettoyante, taux de récupération ≈ 98 %)."
       }
     },
     {
@@ -280,7 +311,7 @@ La gamme couvre trois tailles principales — CA 1, CA 2, CA 4 — ainsi que des
 
 ### Qu'apporte un modèle combiné comme le CS 1 ?
 
-Le CS 1 (Combi-Sepamatic) combine en un seul appareil la séparation des particules d'amalgame et la séparation des liquides en sortie d'aspiration humide.
+Le CS 1 (Combi-Sepamatic) est un pur dispositif de séparation air/eau à deux niveaux, **sans récupération d'amalgame** : son rôle est de protéger le moteur d'aspiration à sec de la mousse et des liquides. Le CAS 1 (Combi-séparateur) ajoute un étage de **récupération d'amalgame** (centrifugeuse auto-nettoyante, taux de récupération ≈ 98 %).
 
 ### Les récupérateurs d'amalgame sont-ils des dispositifs médicaux ?
 
@@ -312,4 +343,4 @@ Les caractéristiques techniques sont issues de la factsheet officielle P007-619
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et la réglementation européenne. Mainteneur : salarié de Dürr Dental
 France (CDI déclaré) — initiative personnelle, non officielle. Dernière revue
-factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+factuelle : 2026-07-22. Licence : CC-BY 4.0.*

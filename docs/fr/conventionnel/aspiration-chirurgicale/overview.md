@@ -26,7 +26,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques (910 mbar, 44 dB(A), 35×33×37 cm, 16 kg, bocal 2 L gélifiant, aspiration 75 % plus rapide que VC 45)"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -75,6 +75,11 @@ de soin ([Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspir
 etc.), comme **unité dédiée chirurgicale** sur la salle de chirurgie
 ou en cabinet implantologique. Le **cart multifonctionnel** en option
 en fait également une **unité mobile** déplaçable d'une salle à l'autre.
+
+> **Le VC 65 est réservé aux salles de chirurgie.** Pour une **aspiration
+> mobile de brouillard de spray** (aspiration de soin), ce n'est pas le VC
+> mais le [Variosuc](/durr-dental-knowledge-base/docs/fr/conventionnel/variosuc/overview/)
+> qu'il faut (VS 300 / VSA 300 mobile, ~300 l/min).
 
 ## Caractéristiques techniques (factsheet P007100188L03)
 
@@ -210,6 +215,7 @@ Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100
 
 ## Pour aller plus loin
 
+- [VC 45 — aspiration chirurgicale (modèle précédent, pompe à membrane)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale-vc-45/overview/)
 - [Canules universelles (dont Ø 2,5 mm chirurgicale stérile)](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/)
 - [Tyscor — aspiration de soin centralisée](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
 - [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
@@ -220,4 +226,4 @@ Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
