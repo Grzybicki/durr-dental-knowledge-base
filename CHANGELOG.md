@@ -4,6 +4,15 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.8.3] — 2026-07-22
+
+### Ajouté — conditions ambiantes (fiche local technique)
+
+- **Fiche `local-technique-compresseur`** : plages ambiantes des **notices officielles** Dürr Dental —
+  **fonctionnement +10 à +40 °C** (idéale +10/+25), **humidité relative < 95 %**, **altitude < 2000 m** ;
+  **stockage / transport −10 à +55 °C** ; rappel **ventilateur obligatoire si local > 40 °C** (ne jamais
+  recouvrir l'appareil). + Q/R FAQ. Sources : notices `5152100003L02` (Silver) et `5180300004L03` (Tornado).
+
 ## [0.8.2] — 2026-07-22
 
 ### Enrichi / corrigé — caractéristiques techniques compresseurs (notices officielles)
