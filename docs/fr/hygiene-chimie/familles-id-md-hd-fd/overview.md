@@ -37,7 +37,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/instruments/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -209,7 +209,7 @@ une **désinfection et un nettoyage efficaces et combinés**.
 | MD (empreintes, crachoirs, nettoyants) | **MDR EU 2017/745** (DM — MD 530/535/555 classe I, MD 550 classe IIa, MD 520 dispositif médical) |
 | ID (instruments) | **MDR EU 2017/745** (DM — ID 215 classe I, ID 212/213/220 classe IIa) |
 | HD (mains) | **BPR — Règlement (UE) 528/2012** (TP1, hygiène humaine) |
-| FD (surfaces) | **MDR EU 2017/745** (DM classe IIa, règle 16) |
+| FD (surfaces) | **MDR EU 2017/745** (DM classe IIa, règle 16) — le **FD 312** cumule en outre un statut **biocide TP2** (BPR 528/2012) |
 
 Voir la [matrice MDR complète](/durr-dental-knowledge-base/sources/certificates/) pour les
 classifications spécifiques.
@@ -226,18 +226,28 @@ chimiques d'hygiène utilisés en cabinet dentaire :
 
 ### Produits Dürr Dental soumis au Certibiocide
 
-**Aucun.** La quasi-totalité des désinfectants et nettoyants Dürr Dental (fabriqués
-par orochemie, organisme notifié **DEKRA 0124**) sont des **dispositifs médicaux** au
-titre du **MDR (UE) 2017/745** — donc **hors du champ des produits biocides** et du
-Certibiocide. Les seuls produits biocides de la gamme sont les désinfectants pour les
-**mains** (HD 410, HD 420 plus), de type **TP1**, lui-même **exempté** de Certibiocide.
+Le **FD 312** (désinfection des surfaces). D'après sa page produit officielle et son
+information produit, le FD 312 présente un **double statut réglementaire** : il est **à la
+fois** un **dispositif médical (MDR UE 2017/745)** — pour la désinfection des surfaces de
+**dispositifs médicaux non invasifs** — **et** un **produit biocide de type TP2 (règlement
+biocide BPR UE 528/2012**, n° d'enregistrement **N-21211)** — pour la désinfection des
+**sols et surfaces**. Au titre de ce statut **biocide TP2 à usage professionnel**, le FD 312
+relève du **Certibiocide « désinfectants » (TP2/3/4)**, obligatoire depuis le **1er janvier
+2024** (arrêté du 9 octobre 2013 modifié le 23 janvier 2023).
+
+La plupart des autres désinfectants et nettoyants Dürr Dental (fabriqués par orochemie,
+organisme notifié **DEKRA 0124**) sont classés **dispositifs médicaux** au titre du
+**MDR (UE) 2017/745** — donc **hors du champ des produits biocides** et du Certibiocide. Les
+désinfectants pour les **mains** (HD 410, HD 420 plus) sont des biocides de type **TP1**
+(hygiène humaine) : le Certibiocide « désinfectants » ne couvrant que les TP2/3/4, ils en
+sont **hors périmètre**, et sont par ailleurs vendus au **grand public**.
 
 ### Produits Dürr Dental exemptés du Certibiocide
 
 | Produit | Statut | Pourquoi exempté |
 |---|---|---|
-| **HD 410 / HD 420 plus** (mains) | **Biocide TP1** (BPR 528/2012) | **TP1 exempté** par l'arrêté du 9 octobre 2013 modifié |
-| **FD** surfaces (300/312/322/333/350/366) | **DM MDR** classe IIa (règle 16) | Dispositif médical → hors champ des biocides |
+| **HD 410 / HD 420 plus** (mains) | **Biocide TP1** (BPR 528/2012) | **TP1 hors périmètre** — le Certibiocide « désinfectants » ne couvre que les TP2/3/4 (produits par ailleurs vendus au grand public) |
+| **FD** surfaces (300/322/333/350/366) | **DM MDR** classe IIa (règle 16) | Dispositif médical → hors champ des biocides (**le FD 312 fait exception** : voir ci-dessus) |
 | **ID** instruments (215, 212, 213, 220) | **DM MDR** (classe I à IIa) | Dispositif médical → hors champ des biocides |
 | **MD** (530/535/555 nettoyants, 550 crachoirs, 520 empreintes) | **DM MDR** (classe I à IIa) | Dispositif médical → hors champ des biocides |
 | **Orotol** (Plus, pH 7, ultra, expert cleaner) | **DM MDR** (classe I à IIa) | Dispositif médical → hors champ des biocides |
@@ -245,11 +255,11 @@ Certibiocide. Les seuls produits biocides de la gamme sont les désinfectants po
 
 ### En pratique
 
-- Un cabinet dentaire équipé **exclusivement** des désinfectants et nettoyants
-  Dürr Dental n'a **pas** d'obligation Certibiocide au titre de ces produits :
-  ce sont des **dispositifs médicaux** (MDR). L'obligation ne naît que s'il utilise
-  par ailleurs des **produits biocides** (autres gammes) relevant d'un type de
-  produit (TP) soumis.
+- Un cabinet qui utilise le **FD 312** doit disposer d'au moins **une personne
+  titulaire du Certibiocide « désinfectants »**, au titre du statut **biocide TP2**
+  de ce produit. Pour les autres désinfectants et nettoyants Dürr Dental classés
+  **dispositifs médicaux** (MDR), aucune obligation Certibiocide ne naît de leur
+  seule utilisation.
 - Le cas échéant, au moins **une personne du cabinet** doit être **titulaire du
   Certibiocide** pour ces produits biocides.
 - Les **organismes de formation agréés** (cf. site du Ministère de la
@@ -323,7 +333,7 @@ des produits en cabinet.
       "name": "Quels produits sont soumis ou exemptés du Certibiocide ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Aucun désinfectant ou nettoyant Dürr Dental n'est soumis au Certibiocide : ce sont des dispositifs médicaux (MDR 2017/745, fabriqués par orochemie, NB DEKRA 0124). Seuls les désinfectants pour les mains (HD 410, HD 420 plus) sont des biocides, mais de type TP1, lui-même exempté."
+        "text": "Le FD 312 (désinfection des surfaces) est soumis au Certibiocide « désinfectants » : c'est à la fois un dispositif médical (MDR 2017/745) et un produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211), et le TP2 relève du Certibiocide depuis le 1er janvier 2024. Les autres désinfectants et nettoyants Dürr Dental classés dispositifs médicaux (MDR, orochemie, NB DEKRA 0124) sont hors champ. Les désinfectants pour les mains (HD 410, HD 420 plus) sont des biocides TP1, hors périmètre du Certibiocide et vendus au grand public."
       }
     },
     {
@@ -354,7 +364,7 @@ Un bidon d'Orotol Plus 2,5 L, un bidon de MD 555 cleaner 2,5 L, un bidon de MD 5
 
 ### Quels produits sont soumis ou exemptés du Certibiocide ?
 
-Aucun désinfectant ou nettoyant Dürr Dental n'est soumis au Certibiocide : ce sont des dispositifs médicaux (MDR 2017/745, fabriqués par orochemie, NB DEKRA 0124). Seuls les désinfectants pour les mains (HD 410, HD 420 plus) sont des biocides, mais de type TP1, lui-même exempté.
+Le FD 312 (désinfection des surfaces) est soumis au Certibiocide « désinfectants » : c'est à la fois un dispositif médical (MDR 2017/745) et un produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211), et le TP2 relève du Certibiocide depuis le 1er janvier 2024. Les autres désinfectants et nettoyants Dürr Dental classés dispositifs médicaux (MDR, orochemie, NB DEKRA 0124) sont hors champ. Les désinfectants pour les mains (HD 410, HD 420 plus) sont des biocides TP1, hors périmètre du Certibiocide et vendus au grand public.
 
 ### La gamme comporte-t-elle des produits éco-responsables ?
 
@@ -385,4 +395,4 @@ Oui : Orotol Plus pH 7 (> 95 % d'ingrédients biodégradables OECD), MD 555 clea
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*

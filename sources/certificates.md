@@ -111,13 +111,18 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 > **Point clé** : la quasi-totalité de la chimie professionnelle Dürr Dental est
 > constituée de **dispositifs médicaux** (MDR EU 2017/745), classés d'après les
 > Déclarations de Conformité MDR publiques (DoC classe IIa réf. `01040300…014`,
-> DoC classe I réf. `01040200…007`). **Seuls les désinfectants pour les mains (HD)
-> sont des biocides** (BPR 528/2012, TP1). Aucun de ces produits n'est **soumis au
-> Certibiocide** (les DM sont hors champ ; le TP1 est exempté).
+> DoC classe I réf. `01040200…007`). Deux cas relèvent aussi du **règlement biocide**
+> (BPR 528/2012) : les désinfectants pour les **mains (HD)** sont des biocides **TP1**
+> (hygiène humaine, vendus grand public — **hors périmètre Certibiocide**, qui ne couvre
+> que TP2/3/4) ; et le **FD 312** (surfaces) présente un **double statut** — **DM MDR
+> classe IIa** *et* **biocide TP2** (n° d'enregistrement **N-21211**) — qui, au titre du
+> TP2 à usage professionnel, le rend **soumis au Certibiocide « désinfectants » (TP2/3/4)**
+> depuis le **1er janvier 2024** (arrêté du 9 octobre 2013 modifié le 23 janvier 2023).
 
 | Produit | Classe | Réglementation | Fiche |
 |---|---|---|---|
-| **FD — surfaces** (300, 312, 322, 333, 350, 366 + variantes/wipes) | **DM IIa** (règle 16) | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
+| **FD 312** (surfaces) | **DM IIa** (règle 16) **+ biocide TP2** (N-21211) — **soumis au Certibiocide** « désinfectants » | MDR 2017/745 — NB DEKRA 0124 ; BPR 528/2012 ; arrêté 9 oct. 2013 mod. | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
+| **FD — surfaces** (300, 322, 333, 350, 366 + variantes/wipes) | **DM IIa** (règle 16) | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
 | **FD 360 / FD multi wipes** (entretien/nettoyage) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
 | **ID — instruments** (212, 212 forte, 212 forte plus, 213, 220) | **DM IIa** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
 | **ID 215** (nettoyant enzymatique) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
@@ -129,7 +134,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Vector / RinsEndo** (désinfectant) | **DM IIa** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/vector-paro/overview/) |
 | **Lingette de nettoyage écrans VistaScan** | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/) |
 | **Automat XR/C⁺ / Periomat Intra/C⁺** (chimies radiographiques film) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | — |
-| **HD 410 / HD 420 plus** (désinfection mains) | **Biocide TP1** (exempté Certibiocide) | BPR — Règlement (UE) 528/2012 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/) |
+| **HD 410 / HD 420 plus** (désinfection mains) | **Biocide TP1** (hors périmètre Certibiocide — couvre TP2/3/4) | BPR — Règlement (UE) 528/2012 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/) |
 
 ## Normes et règlements de référence
 
@@ -150,6 +155,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **RoHS Directive 2011/65/EU** | Restriction des substances dangereuses |
 | **Règlement (UE) 2017/852** | Réglementation européenne sur le mercure (récupération amalgame dentaire) |
 | **BPR — Règlement (UE) 528/2012** | Mise à disposition et utilisation des produits biocides |
+| **Arrêté du 9 octobre 2013** (modifié 23 janvier 2023) | Certibiocide (FR) — certificat individuel « désinfectants » requis pour les biocides TP2/3/4 à usage professionnel, depuis le 1er janvier 2024 |
 | **Règlement (UE) 2016/679 (RGPD)** | Protection des données personnelles (Cloud Exchange, Cloud Drive) |
 
 ## Récupération de la Déclaration de Conformité publique

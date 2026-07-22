@@ -37,7 +37,15 @@ source_documents:
     url: "https://www.dynamiquedentaire.com/systeme-dhygiene-a-4-couleurs-de-durr-dental-la-securite-et-lefficacite-au-service-de-votre-cabinet/"
     type: "presse spécialisée"
     language: "fr"
-last_factual_review: 2026-07-19
+  - title: "Page MD 555 cleaner organic (EN)"
+    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner-organic/"
+    type: "page produit"
+    language: "en"
+  - title: "Hub désinfection des systèmes d'aspiration — Orotol expert cleaner, MD 555, Orotol (EN)"
+    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/"
+    type: "page hub"
+    language: "en"
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -83,17 +91,24 @@ Désinfectant historique de référence pour les systèmes d'aspiration.
 
 ### Orotol Plus pH 7
 
-Variante à **pH neutre** :
+Variante à **pH neutre** — la déclinaison **durable (« green »)** du désinfectant
+d'aspiration — pour la désinfection, la désodorisation, le nettoyage et le soin
+**simultanés** de tous les systèmes d'aspiration, crachoirs et **récupérateurs
+d'amalgame** :
 
-- **Désinfection rapide et fiable** des systèmes d'aspiration.
-- **Sans aldéhydes**.
-- **Sans phénol**.
-- **Sans chlore actif**.
-- **> 95 % d'ingrédients organiques biodégradables** selon les directives
-  **OECD** sur la biodégradabilité.
+- **Sans aldéhydes**, **sans phénol**, **sans chlore actif** ; **sans mousse**, ménage les matériaux.
+- **> 95 % d'ingrédients organiques biodégradables** selon les directives **OECD**.
+- **Spectre** : bactéricide, levuricide, virucide sur **virus enveloppés** (dont VHB, VHC, VIH,
+  coronavirus). Listé **VAH** et **IHO** ; testé selon **EN 13727 / 14561 / 13624 / 14562 /
+  14476 / 17111** et directives **DVV/RKI**.
+- **Base** : ammoniums quaternaires. **pH** concentré 7,0-8,0 (solution 2 % : 6,0-7,0).
 
-Cette formulation à pH 7 est conçue pour minimiser les risques de
-corrosion et faciliter l'usage quotidien.
+**Protocole Orotol Plus pH 7** : solution à **2 %** (40 ml ou 2 bouchons + eau froide pour
+2 L, aspirer 1 L via **OroCup**, verser le reste dans le crachoir), **1 à 2 fois par jour**
+(l'application unique se fait le soir). **Temps d'action 15 à 30 min** (2 % – 30 min
+bactéricide/levuricide ; 2 % – 15 min virucide enveloppés). Rincer le système à **≥ 1 L
+d'eau avant et après**. Cette formulation à pH 7 minimise les risques de corrosion et
+facilite l'usage quotidien. *(Source : information produit Orotol plus pH 7, 2023-06.)*
 
 ## Intégration
 
@@ -138,6 +153,80 @@ Cette combinaison **Orotol Plus quotidien + MD 555 plusieurs fois par semaine**
 constitue le **protocole de référence** Dürr Dental pour préserver la
 longévité du moteur d'aspiration ([Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
 et autres) et garantir la qualité d'hygiène réglementaire.
+
+## MD 555 cleaner organic — variante « green » (éco) du nettoyant
+
+Le **MD 555 cleaner organic** est la version **durable** du nettoyant d'aspiration : nettoyant
+spécial **non moussant à base d'acide citrique** (acide organique 40-50 %), **sans parfum ni
+colorant**. Il est particulièrement recommandé dans les **régions à eau problématique** (eau
+dure, minéraux peu solubles), pour les **conduits d'évacuation à pente insuffisante**, et avec
+les **poudres de prophylaxie / aéropolissage** (il dissout les dépôts de **carbonate de
+calcium**). Compatible avec les systèmes à **récupérateur d'amalgame**.
+
+| Élément | Valeur |
+|---|---|
+| **Concentration standard** | **5 %** (100 ml ou 5 bouchons + eau pour 2 L, aspirer 1 L via OroCup, reste au crachoir) |
+| **Fréquence** | **≥ 2 fois par semaine** (matin avant le 1ᵉʳ soin ou pause déjeuner) — **temps d'action ≥ 30 min** (jusqu'à **120 min** si fort encrassement) |
+| **Usage quotidien alternatif** | **5 %**, temps d'action **≥ 5 min** (jusqu'à 15 min) |
+| **Biofilm marqué / cas difficiles** | **10 %** (200 ml ou 10 bouchons pour 2 L), en **alternance avec un Orotol**, ≥ 2×/semaine — **temps d'action 1 à 2 h** |
+| **Rinçage / précautions** | **≥ 1 L d'eau avant et après** ; ne pas laisser la solution la nuit ; pas sur **aluminium** ni surfaces acido-sensibles |
+| **pH** | concentré **< 1,0** ; solution 5 % : **1,5-2,5** |
+| **Conditionnement** | bouteille **2,5 L** ou **1 L** ; doseur **OroCup** |
+
+*(Source : information produit MD 555 cleaner organic, 2023-06. Complément idéal aux Orotol plus /
+plus pH 7 / ultra et au MD 550.)*
+
+## Orotol expert cleaner — nettoyage de base intensif (réservé aux techniciens)
+
+⚠️ **Réservé aux techniciens de maintenance** d'équipements dentaires — ce **n'est pas** un
+produit d'entretien quotidien du cabinet. L'**Orotol expert cleaner** est un nettoyant spécial
+**hautement alcalin** (hydroxyde de potassium + métasilicate de sodium, **pH > 13**), destiné à
+l'**assainissement et au nettoyage de base** des systèmes d'aspiration **fortement encrassés**
+(avec ou sans récupérateur d'amalgame) et de leurs **conduits d'évacuation**.
+
+| Élément | Valeur |
+|---|---|
+| **Concentration** | **6 %** (120 ml + 2 L d'eau dans l'**OroCup**) — **par technicien uniquement** |
+| **Procédure** | Rincer le crachoir avec **250 ml** de solution → fixer les tuyaux sur OroCup et aspirer le reste → **laisser agir 10 à 15 min** (jusqu'à **30 min** si fortes salissures) → répéter si besoin |
+| **Rinçage** | Système entier à **≥ 2 L d'eau avant et après** ; crachoir à **500 ml d'eau avant et après** |
+| **Cliniques / séparateurs centraux** | Appliquer la solution à 6 % en surface, **30 min**, puis rincer (éventuellement mécaniquement) |
+| **Après traitement** | **Contrôler tous les filtres** — les nettoyer ou remplacer si nécessaire avant réutilisation |
+| **Restrictions** | Pas sur **aluminium**, **polycarbonate** ni surfaces sensibles aux alcalins |
+| **Conditionnement** | bouteille **120 ml** (carton de 9) |
+
+Pour l'entretien **quotidien** (non technicien), Dürr Dental recommande les **Orotol** (plus /
+plus pH 7 / ultra) associés à **MD 550** et **MD 555 cleaner / organic**. *(Source :
+information produit Orotol expert cleaner, 2025-07.)*
+
+## Entretien annuel obligatoire (kit de révision — technicien agréé)
+
+Un système d'aspiration dentaire est un **dispositif médical** : à ce titre, la réglementation
+impose un **entretien annuel**, réalisé par un **technicien agréé**. Cet entretien annuel est
+**distinct** de l'entretien courant (Orotol quotidien + MD 555 plusieurs fois par semaine) : il
+porte sur le **contrôle et le remplacement du filtre d'aspiration**, le **raccord de vidange**
+et le **nettoyage de base intensif** que le quotidien ne couvre pas.
+
+Dürr Dental propose des **kits d'entretien annuel** dédiés, dont la **composition type** est :
+
+- le **filtre d'aspiration** du moteur concerné ;
+- le **raccord de vidange anti-retour** ;
+- une solution de **120 ml d'Orotol expert cleaner** (nettoyage de base intensif — voir la
+  section ci-dessus) ;
+- une **fiche procédure** d'utilisation de l'Orotol expert cleaner ;
+- une **fiche de suivi du dispositif médical**.
+
+**Références par type d'aspiration** (catalogue Dürr Dental France ; prix non repris ici) :
+
+| Référence kit | Aspiration concernée |
+|---|---|
+| `7125985999` | VS 300 S et VSA 300 S |
+| `7128985999` | VS 600 (avant 2021) |
+| `7133985999` | VS 600 (après 2021) et VS 900 S |
+| `7186985999` | Tyscor VS 1+ et VS 2 |
+| `7188985999` | Tyscor VS 2+ et VS 4 |
+
+Ce kit se renouvelle **tous les ans**, garantissant la **performance** et la **conformité**
+réglementaire de l'équipement.
 
 ## EPI — Équipements de Protection Individuelle
 
@@ -194,6 +283,22 @@ spécifiques.
         "@type": "Answer",
         "text": "Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre). Fréquence recommandée : au moins deux fois par semaine, et trois fois par semaine en cas d'usage de poudre prophylactique (aéropolissage), dont les résidus inorganiques sont dissous par le MD 555."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'est-ce que l'Orotol expert cleaner et qui peut l'utiliser ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "L'Orotol expert cleaner est un nettoyant hautement alcalin (pH > 13) réservé aux techniciens de maintenance, pour le nettoyage de base des systèmes d'aspiration fortement encrassés. Il s'utilise à 6 % (120 ml pour 2 L d'eau dans l'OroCup), avec un temps d'action de 10 à 15 minutes (jusqu'à 30 min), en rinçant le système à au moins 2 L d'eau avant et après. Ce n'est pas un produit d'entretien quotidien du cabinet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la version « green » (éco) des produits d'aspiration ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La ligne durable comprend l'Orotol plus pH 7 (désinfectant neutre, plus de 95 % d'ingrédients biodégradables OECD) et le MD 555 cleaner organic (nettoyant à base d'acide citrique, sans parfum ni colorant, particulièrement adapté aux eaux dures et aux poudres de prophylaxie). Le MD 555 cleaner organic s'utilise à 5 % au moins deux fois par semaine (temps d'action au moins 30 min), ou à 10 % en alternance avec un Orotol pour les biofilms marqués."
+      }
     }
   ]
 }
@@ -217,12 +322,22 @@ Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif
 
 Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration, utilisé en complément d'Orotol Plus, à 5 % (50 ml pour 1 litre). Fréquence recommandée : **au moins deux fois par semaine**, et **trois fois par semaine** en cas d'usage de **poudre prophylactique** (aéropolissage), dont les résidus inorganiques sont dissous par le MD 555.
 
+### Qu'est-ce que l'Orotol expert cleaner et qui peut l'utiliser ?
+
+L'Orotol expert cleaner est un nettoyant hautement alcalin (pH > 13) **réservé aux techniciens de maintenance**, pour le **nettoyage de base** des systèmes d'aspiration **fortement encrassés**. Il s'utilise à **6 %** (120 ml pour 2 L d'eau dans l'OroCup), avec un **temps d'action de 10 à 15 minutes** (jusqu'à 30 min), en rinçant le système à **au moins 2 L d'eau avant et après**. Ce n'est **pas** un produit d'entretien quotidien du cabinet.
+
+### Quelle est la version « green » (éco) des produits d'aspiration ?
+
+La ligne durable comprend l'**Orotol plus pH 7** (désinfectant neutre, > 95 % d'ingrédients biodégradables OECD) et le **MD 555 cleaner organic** (nettoyant à base d'**acide citrique**, sans parfum ni colorant, particulièrement adapté aux **eaux dures** et aux **poudres de prophylaxie**). Le MD 555 cleaner organic s'utilise à **5 % au moins deux fois par semaine** (temps d'action ≥ 30 min), ou à **10 % en alternance** avec un Orotol pour les biofilms marqués.
+
 ## Sources publiques
 
 | Document | URL publique |
 |---|---|
 | Page Orotol Plus | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-plus/> |
 | Page Orotol Plus pH 7 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-plus-ph-7/> |
+| Page MD 555 cleaner organic | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner-organic/> |
+| Hub désinfection aspiration (Orotol expert cleaner, MD 555, Orotol) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/> |
 | Page Hygosuc (FR) | <https://www.duerrdental.com/fr/produits/aspiration/integration-du-systeme/systeme-daspiration-humide/hygosuc/> |
 | Article Dynamique Dentaire — Système d'hygiène 4 couleurs | <https://www.dynamiquedentaire.com/systeme-dhygiene-a-4-couleurs-de-durr-dental-la-securite-et-lefficacite-au-service-de-votre-cabinet/> |
 
@@ -237,4 +352,4 @@ Le MD 555 cleaner est le nettoyant en profondeur des canalisations d'aspiration,
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*

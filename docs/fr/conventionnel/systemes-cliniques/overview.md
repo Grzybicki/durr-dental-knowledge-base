@@ -255,6 +255,7 @@ Conformité aux exigences des établissements de santé : radioprotection, hygi�
 - [Power Tower View](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
 - [Tyscor — aspiration centralisée](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
 - [DürrConnect — intégration aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/)
+- [Produits d'entretien de l'aspiration — Orotol Plus, Orotol Plus pH 7, MD 555, MD 555 cleaner organic (+ kit annuel)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
 - [DICOM dans VistaSoft 4.0 — intégration PACS hospitalier](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/)
 - [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 

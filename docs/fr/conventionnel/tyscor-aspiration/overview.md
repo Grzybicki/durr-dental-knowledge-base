@@ -518,6 +518,7 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 - [Guide — comment choisir une aspiration (dimensionnement)](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-aspiration/overview/)
 - [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
 - [Récupérateurs d'amalgame (CA 1, CA 2, CA 4, Sepamatic CS 1)](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+- [Produits d'entretien de l'aspiration — Orotol Plus, Orotol Plus pH 7, MD 555, MD 555 cleaner organic (+ Orotol expert cleaner, kit annuel)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
 - [Aspiration chirurgicale (VC 65)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
 - [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 

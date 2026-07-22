@@ -4,6 +4,42 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.7.1] — 2026-07-22
+
+### Corrigé — statut réglementaire FD 312 (biocide TP2 / Certibiocide)
+
+- **Correction d'une conclusion P4 erronée** : la base affirmait « **aucun produit Dürr n'est
+  soumis au Certibiocide** » (seul HD = biocide TP1). C'est **faux** pour le **FD 312**, qui
+  présente un **double statut réglementaire** — **dispositif médical (MDR UE 2017/745)** *et*
+  **produit biocide de type TP2 (BPR UE 528/2012**, n° d'enregistrement **N-21211)** — attesté par
+  sa page produit et son information produit officielles. Le **TP2** relevant du **Certibiocide
+  « désinfectants » (TP2/3/4)** depuis le **1er janvier 2024** (arrêté du 9 octobre 2013 modifié le
+  23 janvier 2023), le FD 312 **y est soumis**.
+- Fiches et matrice mises à jour : **`familles-id-md-hd-fd`** (section Certibiocide + FAQ),
+  **`desinfection-surfaces`** (statut réglementaire + Q/R FAQ + sources), **`sources/certificates.md`**
+  (point clé + ligne FD scindée + arrêté Certibiocide ajouté). HD (TP1, grand public) et ID/Orotol/MD
+  (DM MDR) restent **hors périmètre** — non modifiés. Formulation **positive et sourcée** (pas
+  d'affirmation « FD 312 seul concerné » côté public, non vérifiable par source citable).
+- Sources : page produit FD 312 (duerrdental.com), information produit FD 312 (PT 2 + N-21211),
+  ministère de la Transition écologique (Certibiocide), arrêté du 9 octobre 2013 modifié (Légifrance).
+
+### Enrichi — entretien des systèmes d'aspiration
+
+- **Fiche `desinfection-aspiration`** : protocole complet **Orotol Plus pH 7** (variante « green »
+  durable — 2 %, 15-30 min, spectre + normes EN, pH neutre) ; nouvelle section **MD 555 cleaner
+  organic** (variante « green » à base d'acide citrique — 5 % ≥ 2×/sem, 10 % biofilm) ; nouvelle
+  section **Orotol expert cleaner** (nettoyage de base intensif **réservé aux techniciens**, 6 %) ;
+  nouvelle section **entretien annuel obligatoire** (aspiration = DM → révision annuelle par
+  technicien agréé ; composition du **kit** : filtre d'aspiration + raccord de vidange anti-retour +
+  120 ml Orotol expert cleaner + fiche procédure + fiche de suivi DM ; **références catalogue** par
+  modèle VS 300 S / VS 600 / VS 900 S / Tyscor VS 1+/2/2+/4, **prix exclus**). +2 Q/R FAQ + sources.
+  Sourcé sur les informations produit publiques Dürr Dental / orochemie (Orotol plus pH 7 2023-06,
+  MD 555 cleaner organic 2023-06, Orotol expert cleaner 2025-07) ; références kit = catalogue DDF
+  (désignations uniquement).
+- **Liens « produits d'entretien »** (Orotol Plus, Orotol Plus pH 7, MD 555, MD 555 cleaner organic)
+  ajoutés/enrichis sur toutes les fiches aspiration et amalgame : `tyscor-aspiration`, `power-tower`,
+  `systemes-cliniques`, `guide-choix-aspiration`, `recuperateurs-amalgame`.
+
 ## [0.7.0] — 2026-07-22
 
 ### Ajouté — guide de décision « aspiration »

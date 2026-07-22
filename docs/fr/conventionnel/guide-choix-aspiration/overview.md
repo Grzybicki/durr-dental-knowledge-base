@@ -479,7 +479,7 @@ indépendants apportent aussi une **tolérance aux pannes** par commutation auto
 - [Support de tuyaux Comfort & canules d'aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/support-tuyaux-comfort/overview/)
 - [Canules universelles (III, Petito, Protect)](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/)
 - [Aspiration chirurgicale (VC 45)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
-- [Désinfection des systèmes d'aspiration (Orotol, MD 555)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
+- [Produits d'entretien de l'aspiration — Orotol Plus, Orotol Plus pH 7, MD 555, MD 555 cleaner organic (+ Orotol expert cleaner, kit annuel)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
 - [VistaSoft Monitor (supervision réseau)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/)
 - [Guide de choix — compresseur (air comprimé)](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-compresseur/overview/)
 - [Index conventionnel (air comprimé & aspiration)](/durr-dental-knowledge-base/docs/fr/conventionnel/)

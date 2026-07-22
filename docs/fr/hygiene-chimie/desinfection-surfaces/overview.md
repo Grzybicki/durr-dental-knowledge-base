@@ -29,7 +29,19 @@ source_documents:
     url: "https://www.dynamiquedentaire.com/systeme-dhygiene-a-4-couleurs-de-durr-dental-la-securite-et-lefficacite-au-service-de-votre-cabinet/"
     type: "presse spécialisée"
     language: "fr"
-last_factual_review: 2026-07-19
+  - title: "Page produit FD 312 désinfection des surfaces (double statut DM MDR + biocide BPR)"
+    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/concentrates-and-ready-to-use-solutions/fd-312-surface-disinfection/"
+    type: "page produit"
+    language: "en"
+  - title: "Ministère de la Transition écologique — Produits biocides / Certibiocide"
+    url: "https://www.ecologie.gouv.fr/politiques-publiques/produits-biocides"
+    type: "source réglementaire officielle"
+    language: "fr"
+  - title: "Arrêté du 9 octobre 2013 modifié (Certibiocide) — Légifrance"
+    url: "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028214219"
+    type: "texte réglementaire"
+    language: "fr"
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -77,6 +89,16 @@ traitement — désinfection des surfaces »). Organisme notifié **DEKRA 0124**
 Efficacité microbiologique documentée selon **EN 13727, EN 13624, EN 14348,
 EN 14476, EN 16615**. Fabricant légal : orochemie GmbH + Co KG (commercialisé sous
 la marque Dürr Dental).
+
+Le **FD 312** présente un **double statut réglementaire** : outre son statut de
+**dispositif médical** (MDR UE 2017/745, pour la désinfection des surfaces de dispositifs
+médicaux non invasifs), il est aussi un **produit biocide de type TP2** (règlement biocide
+**BPR UE 528/2012**, n° d'enregistrement **N-21211**) pour la désinfection des **sols et
+surfaces**. À ce titre biocide **TP2** et pour un **usage professionnel**, le FD 312 relève
+en **France** du **Certibiocide « désinfectants » (TP2/3/4)**, obligatoire depuis le
+**1er janvier 2024** (arrêté du 9 octobre 2013 modifié le 23 janvier 2023) : un cabinet qui
+l'utilise doit disposer d'au moins une personne titulaire de ce certificat. Détails :
+[fiche familles ID/MD/HD/FD — section Certibiocide](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/).
 
 ## Système d'hygiène 4 couleurs
 
@@ -171,6 +193,14 @@ désinfection rapide des surfaces.
         "@type": "Answer",
         "text": "Oui : les FD 350 green wipes sont des lingettes éco-conçues en fibres naturelles renouvelables, sans plastique et neutres en carbone."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Le FD 312 est-il soumis au Certibiocide ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Le FD 312 a un double statut : dispositif médical (MDR 2017/745) et produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211). Le TP2 relevant du Certibiocide « désinfectants » (TP2/3/4) depuis le 1er janvier 2024, un cabinet qui utilise le FD 312 doit disposer d'au moins une personne titulaire du Certibiocide."
+      }
     }
   ]
 }
@@ -194,6 +224,10 @@ La couleur verte du système d'hygiène 4 couleurs Dürr Dental.
 
 Oui : les FD 350 green wipes sont des lingettes éco-conçues en fibres naturelles renouvelables, sans plastique et neutres en carbone.
 
+### Le FD 312 est-il soumis au Certibiocide ?
+
+Oui. Le FD 312 a un double statut : dispositif médical (MDR 2017/745) et produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211). Le TP2 relevant du Certibiocide « désinfectants » (TP2/3/4) depuis le 1er janvier 2024, un cabinet qui utilise le FD 312 doit disposer d'au moins une personne titulaire du Certibiocide.
+
 ## Sources publiques
 
 | Document | URL publique |
@@ -201,6 +235,9 @@ Oui : les FD 350 green wipes sont des lingettes éco-conçues en fibres naturell
 | Page produit FD 350 lingettes de désinfection | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/disinfection-wipes/fd-350-disinfection-wipes/> |
 | Page Hub Hygiène Dürr Dental | <https://www.duerrdental.com/en/products/hygiene/> |
 | Article Dynamique Dentaire — Système d'hygiène 4 couleurs | <https://www.dynamiquedentaire.com/systeme-dhygiene-a-4-couleurs-de-durr-dental-la-securite-et-lefficacite-au-service-de-votre-cabinet/> |
+| Page produit FD 312 (double statut DM MDR + biocide BPR) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/concentrates-and-ready-to-use-solutions/fd-312-surface-disinfection/> |
+| Ministère de la Transition écologique — Produits biocides / Certibiocide | <https://www.ecologie.gouv.fr/politiques-publiques/produits-biocides> |
+| Arrêté du 9 octobre 2013 modifié (Certibiocide) — Légifrance | <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028214219> |
 
 ## Pour aller plus loin
 
@@ -213,4 +250,4 @@ Oui : les FD 350 green wipes sont des lingettes éco-conçues en fibres naturell
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*

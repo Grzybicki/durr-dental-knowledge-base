@@ -304,6 +304,7 @@ Les caractéristiques techniques sont issues de la factsheet officielle P007-619
 - [Tyscor — systèmes d'aspiration centralisés](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/)
 - [Power Tower — compresseur + aspiration combinés](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/)
 - [Aspiration chirurgicale (VC 65)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)
+- [Produits d'entretien de l'aspiration et du récupérateur d'amalgame — Orotol Plus, Orotol Plus pH 7, MD 555, MD 555 cleaner organic](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/)
 - [Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/)
 
 ---
