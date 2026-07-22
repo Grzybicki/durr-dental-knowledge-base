@@ -4,6 +4,25 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.8.1] — 2026-07-22
+
+### Ajouté / corrigé — filtres compresseurs (`filtres-hepa-ulpa-compresseurs`)
+
+- **Vue d'ensemble des filtres compresseurs** (flyer public `P007100174L03`) : table par modèle
+  (Primo → Quattro P 20, Tornado 1-4, PTS 120/200) × types de filtres — admission Silver
+  **`0832-982-00`** / Tornado **`5180-982-00`**, coalescence, fin **`1610-121-00`**, viro-bactérien
+  ULPA U16 **`1650100172`**.
+- **Filtre à coalescence `1650200323`** (0,01 µm) documenté : **remplace** l'ancien **filtre conique
+  `1650-101-00`** (35 µm) dans le dessiccateur à membranes depuis l'été 2022 (kit chambre de collecte
+  `1650100147`).
+- **Correction admission Tornado** : **`5180-982-00`** (le `5430-982-00` reste un filtre d'admission
+  valide pour d'**autres générations**) — **vérifié au Filter Finder officiel Dürr Dental**.
+- **Mapping compresseur → kits vérifié au Filter Finder** (**204 REF**) : table complétée avec
+  **Quattro P 20** (×4 kits) et **PTS 120** (kit Tornado 1/2) ; note Tandem/P 20 affinée (nb de kits =
+  nb de groupes compresseurs).
+- **Admission Silver `0832-982-00` confirmée courante** par le Filter Finder ; un changement figurant
+  dans un document **« Internal Sales News » écarté** (règle d'or — pas de source publique).
+
 ## [0.8.0] — 2026-07-22
 
 ### Ajouté — écosystème aspiration (fiches VC 45, Variosuc, VSA)

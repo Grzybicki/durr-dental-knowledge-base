@@ -37,7 +37,12 @@ source_documents:
     url: "https://www.iso.org/standard/74647.html"
     type: "norme officielle"
     language: "en"
-last_factual_review: 2026-07-19
+  - title: "Flyer Filtre contre les bactéries et les virus (FR)"
+    ref: "P007100174L03"
+    type: "flyer officiel Dürr Dental France"
+    language: "fr"
+    note: "Vue d'ensemble des filtres compresseurs (admission 0832-982-00 / Tornado 5180-982-00, conique 1650-101-00, fin 1610-121-00, viro-bactérien ULPA U16 1650100172) et filtres de refoulement aspiration HEPA H14 (7120100000 / 0705-991-50)."
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -208,9 +213,17 @@ membrane se change en **jeu complet** (avec sa chambre collectrice).
 
 | Génération | Compresseurs concernés | Référence intake filter |
 |---|---|---|
-| Silver Airline 1ʳᵉ gen / classique | Primo, Duo, Trio, Quattro | **`0832-982-00`** |
-| Tornado 2ᵉ gen | Tornado 1, Tornado 2, Tornado 2+ | **`5430-982-00`** |
-| NEW Tornado | Tornado 1, 2, 4 (gen 2024-2026) | À identifier via Filter Finder |
+| Silver Airline (Primo, Duo, Trio, Quattro, Duo/Quattro Tandem, Quattro P 20) + **PTS 200** | Compresseurs à pistons | **`0832-982-00`** |
+| Tornado (1, 2/2+, 4) + **PTS 120** | Compresseurs Tornado | **`5180-982-00`** |
+
+> ⚠️ **Précision (2026-07-22, vérifiée au Filter Finder officiel Dürr Dental)** : pour le
+> **Tornado 1 / 2 / 2+ / 4 courant** (préfixes REF 5180 / 5280 / 4280) **et le PTS 120**, le
+> filtre d'admission est **`5180-982-00`**. La référence **`5430-982-00`** est **elle aussi** un
+> filtre d'admission valide, mais pour **d'autres générations de compresseurs** (le Tornado en est
+> à sa **3ᵉ génération** ; les références d'admission varient selon la génération et le type de
+> dessiccateur — colonne à **membranes** vs à **silicate**). Pour un compresseur précis,
+> **saisir son REF dans le Filter Finder** — l'outil renvoie l'admission et les kits fin /
+> bactériologique correspondants.
 
 ### Kits de filtres par compresseur (catalogue Dürr Dental France 2026)
 
@@ -225,9 +238,11 @@ que les **filtres fins** ; le kit « **-61** » est le kit **bactériologique**
 | Silver Airline **Duo** (2 cyl.) | `5250-980-60` | `5250-980-61` |
 | Silver Airline **Trio** (3 cyl.) | `5350-980-60` | `5350-980-61` |
 | Silver Airline **Quattro** (4 cyl.) | `5450-980-60` | `5450-980-61` |
-| Silver Airline **Duo Tandem** (2×2 cyl.) | `5250-980-60` | `5250-980-61` — **1 seul kit** |
-| Silver Airline **Quattro Tandem** (2×4 cyl.) | `5450-980-60` | `5450-980-61` — **2 kits** |
-| **Tornado 1 & 2** | `5180-980-60` | `5180-980-61` |
+| Silver Airline **Duo Tandem** (1 groupe) | `5250-980-60` | `5250-980-61` — **1 kit** |
+| Silver Airline **Quattro Tandem** (1 groupe) | `5450-980-60` | `5450-980-61` — **1 kit** |
+| Silver Airline **Quattro Tandem** (2 groupes) | `5450-980-60` | `5450-980-61` — **2 kits** |
+| Silver Airline **Quattro P 20** | `5450-980-60` | `5450-980-61` — **4 kits** |
+| **Tornado 1 / 2 / 2+** (+ **PTS 120**) | `5180-980-60` | `5180-980-61` |
 | **Tornado 4** | `4280-980-60` | `4280-980-61` |
 
 > ⚠️ Les compresseurs **Tornado** ont leur **propre famille de kits**
@@ -235,9 +250,52 @@ que les **filtres fins** ; le kit « **-61** » est le kit **bactériologique**
 > les confondre avec les kits Silver Airline (`5150 / 5250 / 5350 / 5450`) sur
 > le seul critère du nombre de cylindres.
 >
-> ⚠️ **Tandem** : le **Duo Tandem n'exige qu'un seul kit** (le moteur ne porte
-> qu'un groupe de filtration) ; le **Quattro Tandem en exige deux**. Confirmé
-> terrain (Dürr Dental France, 2026-06-12).
+> ⚠️ **Tandem / P 20** : le nombre de kits suit le **nombre de groupes
+> compresseurs** — Duo/Quattro Tandem **1 groupe = 1 kit**, Quattro Tandem
+> **2 groupes = 2 kits**, **Quattro P 20 = 4 kits**.
+>
+> ✅ **Mapping compresseur → kits vérifié au Filter Finder officiel Dürr Dental**
+> (dataset public, sur les **204 références** de compresseurs, 2026-07-22).
+
+### Vue d'ensemble des filtres compresseurs (dessiccateur à membranes)
+
+Source : flyer public `P007100174L03`. Pour chaque compresseur, on installe **soit le filtre
+fin, soit le filtre viro-bactérien** (montée en gamme). **Renouvellement annuel.**
+
+| Filtre | Référence | Filtration |
+|---|---|---|
+| Filtre d'admission Silver Airline | **`0832-982-00`** | 5 µm |
+| Filtre d'admission Tornado / PTS 120 | **`5180-982-00`** | 5 µm |
+| Filtre à **coalescence** *(remplace le filtre conique — dessiccateur à membranes)* | **`1650200323`** | **0,01 µm** |
+| Filtre fin (dessiccation) | **`1610-121-00`** | 0,22 µm |
+| **Filtre viro-bactérien ULPA U16** | **`1650100172`** | **0,01 µm — ULPA U16** (EN 1822-1:2019-10 / ISO 65U) |
+
+> Le **`1650100172`** : 60 g, 70 × Ø28,5 mm ; testé **SGS Fresenius** — rétention **> 99,99995 %**
+> des particules (toutes tailles) et **> 99,994 %** du virus de test PhiX174 (25-30 nm).
+>
+> **Filtre à coalescence (depuis l'été 2022)** : le filtre à coalescence **`1650200323`**
+> (finesse **0,01 µm**) **remplace l'ancien filtre conique `1650-101-00`** (35 µm) dans la
+> partie basse du dessiccateur à membranes — filtration plus fine des particules d'eau,
+> durée de vie du dessiccateur prolongée. Remplacé à la **maintenance annuelle**. Kit
+> chambre de collecte + vanne de vidange : **`1650100147`**.
+
+| Compresseur | Admission | Filtre conique | Fin **ou** bactério |
+|---|---|---|---|
+| Primo | 1× (`0832`) | 1× | 1× |
+| Duo | 2× (`0832`) | 1× | 1× |
+| Trio | 3× (`0832`) | 1× | 1× |
+| Quattro | 4× (`0832`) | 1× | 1× |
+| Duo Tandem (1 groupe) | 2× (`0832`) | 1× | 1× |
+| Duo Tandem (2 groupes) | 4× (`0832`) | 1× | 1× |
+| Quattro Tandem (1 groupe) | 4× (`0832`) | 1× | 1× |
+| Quattro Tandem (2 groupes) | 8× (`0832`) | 2× | 2× |
+| Quattro P 20 | 16× (`0832`) | 4× | 4× |
+| Tornado 1 | 1× (`5180`) | 1× | 1× |
+| Tornado 2 / 2+ | 1× (`5180`) | 1× | 1× |
+| Tornado 4 | 2× (`5180`) | 1× | 1× |
+| PTS 120 | 1× (`5180`) | 1× | 1× |
+| PTS 200 (1 groupe) | 2× (`0832`) | 1× | 1× |
+| PTS 200 (2 groupes) | 4× (`0832`) | 1× | 1× |
 
 ## Filtres d'aspiration — gamme complète
 
@@ -481,4 +539,4 @@ Pour répondre aux exigences de la norme ISO 22052 relative à la qualité de l'
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et les normes EN / ISO publiquement référencées. Mainteneur : salarié de
 Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle. Dernière
-revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
