@@ -46,7 +46,12 @@ source_documents:
     date: "2022-09-20"
     language: "en"
     note: "Document public signé Dr J. Gramann (Director BU Equipment R&D). Source de la classe de pureté [2:4:2] (ISO 22052:2020 / ISO 8573-1:2010), du point de rosée ≤ +3 °C, de l'huile ≤ 0,1 mg/m³ et de la classification type 2 (non lubrifié à l'huile). Récupérable via le Centre de téléchargements Dürr Dental."
-last_factual_review: 2026-07-19
+  - title: "Notice d'installation et d'utilisation Silver Airline (Primo / Duo / Trio / Quattro)"
+    ref: "5152100003L02/2411V005"
+    type: "notice officielle"
+    language: "en"
+    note: "Source des temps de mise sous pression (0→7,5 bar), volumes aspirés, pressions d'enclenchement 6 bar / arrêt 7,8 bar (réglable 9,5), point de rosée ≤ +5 °C à 7 bar, dimensions et poids. Récupérable via le Centre de téléchargements (qr.duerrdental.com/5152100003)."
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -187,10 +192,24 @@ Quattro Tandem, cf. tableaux) ; valeurs sonores moyennes **à 5 bar et
 | Modèle | Tension | Praticiens | Cuve (L) | Débit @ 5 bar (l/min) | Pression (bar) | **dB(A) nu** | **dB(A) armoire** | Dimensions H × L × P (cm) | Poids (kg) |
 |---|---|---|---|---|---|---|---|---|---|
 | **Primo** | 230 V (1∼) | **1** | **20** | **61 / 71** | 6 – 7,8 | **65 / 66** | **49 / 50** | **69 × 49 × 47** | **45** |
-| **Duo** (230 V) | 230 V (1∼) | 2 | 20 | 125 / 145 | 6 – 7,8 | 68 | 51 | 64 × 49 × 46 | 50 |
-| **Duo** (400 V) | **400 V (3∼)** | 2 | 20 | 125 / 145 | 6 – 7,8 | 68 | 51 | 64 × 49 × 46 | 50 |
+| **Duo** (230 V) | 230 V (1∼) | 2 | 20 | 125 / 145 | 6 – 7,8 | **66 / 68** | 51 | **69 × 49 × 47** | 50 |
+| **Duo** (400 V) | **400 V (3∼)** | 2 | 20 | 125 / 145 | 6 – 7,8 | **66 / 68** | 51 | **69 × 49 × 47** | 50 |
 | **Trio** | 230 V (1∼) | **3** | **50** | **181** | 6 – 7,8 | **67** | **49** | 76 × 74 × 52 | **80** |
-| **Quattro** | **400 V (3∼)** | **4** | **50** | **258 / 293** | 6 – 7,8 | **70** | **54** | 76 × 74 × 52 | **85** |
+| **Quattro** | **400 V (3∼)** | **4** | **50** | **258 / 293** | 6 – 7,8 | **69 / 70** | **53 / 54** | 76 × 74 × 52 | **85** |
+
+#### Temps de mise sous pression et volume aspiré (notice `5152100003L02`)
+
+| Modèle | Volume aspiré (l/min) | Temps de mise sous pression 0 → 7,5 bar |
+|---|---|---|
+| **Primo** (`5152-01`) | 105 / 125 | **≈ 155 / 130 s** |
+| **Duo** (`5252-01` / `5252-51`) | 210 / 255 | **≈ 70 / 60 s** |
+| **Trio** (`5352-01`) | 315 *(50 Hz)* | **≈ 140 s** |
+| **Quattro** (`5452-51`) | 420 / 505 | **≈ 95 / 80 s** |
+
+> Le **temps de mise sous pression** (cuve vide → pression d'arrêt) est une valeur nominale
+> de mise en service ; le **volume aspiré** (*suction power*) est l'air aspiré **en amont** du
+> séchage — le « débit @ 5 bar » ci-dessus est l'air **délivré**. Valeurs à **50 / 60 Hz**.
+> *(Point de rosée à 7 bar : ≤ +5 °C ; enclenchement 6 bar / arrêt 7,8 bar, réglable jusqu'à 9,5 bar.)*
 
 ### Compresseurs Tandem évolutifs (4 à 16 praticiens)
 
@@ -376,4 +395,4 @@ Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Les tarifs ne sont pas reproduits (susceptibles d'évoluer). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*

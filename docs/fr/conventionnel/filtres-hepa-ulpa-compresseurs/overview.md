@@ -264,11 +264,17 @@ fin, soit le filtre viro-bactérien** (montée en gamme). **Renouvellement annue
 
 | Filtre | Référence | Filtration |
 |---|---|---|
-| Filtre d'admission Silver Airline | **`0832-982-00`** | 5 µm |
-| Filtre d'admission Tornado / PTS 120 | **`5180-982-00`** | 5 µm |
+| Filtre d'admission Silver Airline | **`0832-982-00`** | **3 µm** ¹ |
+| Filtre d'admission Tornado / PTS 120 | **`5180-982-00`** | **3 µm** ¹ |
 | Filtre à **coalescence** *(remplace le filtre conique — dessiccateur à membranes)* | **`1650200323`** | **0,01 µm** |
-| Filtre fin (dessiccation) | **`1610-121-00`** | 0,22 µm |
+| Filtre fin (dessiccation) | **`1610-121-00`** | *(finesse non précisée publiquement)* ¹ |
 | **Filtre viro-bactérien ULPA U16** | **`1650100172`** | **0,01 µm — ULPA U16** (EN 1822-1:2019-10 / ISO 65U) |
+
+> ¹ **Finesse d'admission = 3 µm** d'après les **notices officielles** des compresseurs
+> (`5152100003L02`, `5180300004L03`, `9000-610-60` / `9000-610-77`) — le flyer et le Filter Finder
+> donnent les **références**, pas la finesse. La finesse du **filtre fin `1610-121-00`** n'est
+> **pas publiée** par une source publique (la ligne « fine filter 3 µm » des notices ne mappe pas
+> clairement sur cette référence) → non affichée ici.
 
 > Le **`1650100172`** : 60 g, 70 × Ø28,5 mm ; testé **SGS Fresenius** — rétention **> 99,99995 %**
 > des particules (toutes tailles) et **> 99,994 %** du virus de test PhiX174 (25-30 nm).

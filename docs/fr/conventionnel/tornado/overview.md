@@ -38,7 +38,22 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques complètes (dimensions, débits, niveaux sonores, poids)"
-last_factual_review: 2026-07-19
+  - title: "Notice d'installation et d'utilisation Tornado 1 / 2 / 4 (modèle actuel, 3ᵉ gen)"
+    ref: "5180300004L03/2508V001"
+    type: "notice officielle"
+    language: "fr"
+    note: "Modèle actuel (réfs 5180/5280/4280…). Source des débits à 7 bar, volumes aspirés, temps de mise sous pression (0→7,5 bar, sans/avec sécheur), pressions 6/7,8 bar (max 8), ISO 22052 [2:4:2], MDR IIa. Récupérable via qr.duerrdental.com/5180300004."
+  - title: "Notice d'installation et d'utilisation Tornado 1 / 2 (génération précédente)"
+    ref: "9000-610-60/02/2504V012"
+    type: "notice officielle"
+    language: "en"
+    note: "Génération précédente Tornado 1 / 2 (réfs 5180-01 / 5182-01 / 5280-01 / 5282-01…). Débits 5 bar et temps de mise sous pression légèrement distincts du modèle actuel."
+  - title: "Notice d'installation et d'utilisation Tornado 4 (génération précédente)"
+    ref: "9000-610-77/02/2411V009"
+    type: "notice officielle"
+    language: "en"
+    note: "Génération précédente Tornado 4 (réfs 4280-01 / 4282-01…). Débit 5 bar 235/270 (sans sécheur) / 205/230 (avec) ; temps de mise sous pression ≈ 77 s / ≈ 103 s."
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -143,7 +158,12 @@ forme **x / y** correspondent à un fonctionnement **50 Hz / 60 Hz**.
 | **Praticiens** | 1 | 2 | 4 |
 | Tension / fréquence | 230 V (1∼) / 50–60 Hz | 230 V (1∼) / 50–60 Hz | 230 V (1∼) / 50–60 Hz |
 | **Débit à 5 bar — sans sécheur** (l/min) | **68 / 78** | **134 / 153** | **260 / 296** |
-| **Débit à 5 bar — avec sécheur à membrane** (l/min) | 62 / 70 | 118 / 137 | 229 / 261 |
+| **Débit à 5 bar — avec sécheur à membrane** (l/min) | 62 / 70 | 118 / 137 | **214 / 251** |
+| **Débit à 7 bar — sans sécheur** (l/min) | 55 / 59 | 117 / 136 | 229 / 261 |
+| **Débit à 7 bar — avec sécheur** (l/min) | 53 / 61 | 102 / 119 | 188 / 219 |
+| **Volume aspiré** (l/min) | 130 / 155 | 260 / 315 | 525 / 630 |
+| **Temps de mise sous pression** 0 → 7,5 bar, sans sécheur (s) | ≈ 104 / 90 | ≈ 57 / 49 | ≈ 75 / 65 |
+| **Temps de mise sous pression** 0 → 7,5 bar, avec sécheur (s) | ≈ 130 / 113 | ≈ 74 / 64 | ≈ 100 / 86 |
 | **Cuve** (l) | **20** | **20** | **50** |
 | **Plage de pression** (bar) | **6–7,8** | 6–7,8 | 6–7,8 |
 | **Niveau sonore à 5 bar** dB(A) | 64 / 68 | 68 / 71 | 73 / 75 |
@@ -160,6 +180,20 @@ forme **x / y** correspondent à un fonctionnement **50 Hz / 60 Hz**.
 > admissible reste **8 bar**. Un **réducteur de pression** est disponible en
 > option. Le **sécheur à membrane** (option) fournit un air sec en continu sans
 > régénération, au prix d'un léger abattement du débit (colonne « avec sécheur »).
+
+> 🕰️ **Génération précédente** (notices `9000-610-60` pour T1/T2 et `9000-610-77` pour T4 ;
+> réfs `5180-01` / `5280-01` / `4280-01`…) — valeurs légèrement distinctes du modèle actuel,
+> **débits à 5 bar** (sans / avec sécheur) et **temps de mise sous pression** (sans / avec) :
+> **Tornado 1** — 67/77 · 60/70 l/min ; **≈ 100 s** · **≈ 133 s**. **Tornado 2** — 124/140 ·
+> 110/126 l/min ; **≈ 53 s** · **≈ 73 s**. **Tornado 4** — 235/270 · 205/230 l/min ;
+> **≈ 77 s** · **≈ 103 s**. Identifier la génération par le **REF de la plaque signalétique**
+> (série `…300001` = génération actuelle).
+
+> 🏛️ **1ʳᵉ génération historique — Tornado 70 / 130** (notice `61037`, 1998 ; réfs `5430` /
+> `5530` / `5231`, mono ou triphasé) : **Tornado 70** (1 cyl.) débit 5 bar **70 / 80** l/min, temps de
+> mise sous pression **≈ 150 / 135 s** ; **Tornado 130** (2 cyl.) **130 / 150** l/min, **≈ 80 / 70 s**.
+> Cuve **25 L**, pression max **8 bar**, 66 / 69 dB(A). **Modèle en fin de vie** — conservé pour
+> l'identification du parc installé (son filtre d'admission `5430-982-00` diffère du Tornado actuel).
 
 ## Bénéfices
 
@@ -224,7 +258,13 @@ Deux entretiens **distincts** :
   majeure de durabilité, au cœur du positionnement « conçus pour durer ».
   L'échéance peut aussi être déterminée **selon l'état**, en mesurant le
   **temps de montée en pression** du compresseur (s'il s'allonge, le
-  remplacement des manchettes est planifié).
+  remplacement des manchettes est planifié). La **valeur nominale** de ce
+  temps — de la **cuve vide** jusqu'à la **pression d'arrêt** — est **publiée
+  dans la notice du Tornado** et sert de **référence de comparaison**. Exemple
+  (notice `5180300004L03`, à 50 / 60 Hz) : **Tornado 1 ≈ 104 / 90 s** (0 → 7,5 bar,
+  sans sécheur), **≈ 130 / 113 s** avec sécheur à membrane.
+  *(Les manchettes sont une pièce d'usure **propre à la gamme Tornado** — les
+  compresseurs Silver Airline n'en comportent pas.)*
 
 ### Connexion VistaSoft Monitor
 
@@ -416,4 +456,4 @@ Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*

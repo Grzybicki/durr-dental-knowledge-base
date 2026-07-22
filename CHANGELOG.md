@@ -4,6 +4,25 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.8.2] — 2026-07-22
+
+### Enrichi / corrigé — caractéristiques techniques compresseurs (notices officielles)
+
+- **Fiches Silver Airline, CAD/CAM, Tornado** enrichies depuis les **notices officielles publiques**
+  (`5152100003L02` Silver Primo/Duo/Trio/Quattro, `4252100034L03` Duo/Quattro Tandem, `5180300004L03`
+  Tornado 1/2/4 actuel, `9000-610-60` + `9000-610-77` Tornado génération précédente) :
+  - **Temps de mise sous pression** (0→7,5 bar, cuve vide) par modèle — valeur de référence du
+    diagnostic d'usure des **manchettes** (piston), **propre à la gamme Tornado** ; les Silver Airline
+    n'ont pas de manchettes (leur temps de mise sous pression reste une spec de mise en service).
+  - **Volume aspiré** ; **débit à 7 bar** (Tornado) et **débit à 9 bar** (CAD/CAM, flyer `P007100024L01`).
+  - Corrections d'après notices : Duo 400 V (69×49×47 cm, 66/68 dB), Quattro (69/70 · 53/54 dB),
+    Tornado 4 avec sécheur à 5 bar (**214/251**). Tornado documenté sur **3 générations** (actuelle
+    série `…300001` + précédente `5180-01` + **historique Tornado 70/130** de 1998).
+- **Correction filtre (règle d'or)** : la **finesse d'admission** passe à **3 µm** (4 notices officielles
+  concordantes), remplaçant le « 5 µm » qui provenait d'un **document interne** (Excel de synthèse). La
+  finesse du **filtre fin `1610-121-00`** (0,22 µm, interne) est **retirée** faute de source publique.
+- **Prix exclus** partout ; documents **« Internal Sales News / Information » écartés**.
+
 ## [0.8.1] — 2026-07-22
 
 ### Ajouté / corrigé — filtres compresseurs (`filtres-hepa-ulpa-compresseurs`)

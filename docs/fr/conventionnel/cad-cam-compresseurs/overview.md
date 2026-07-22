@@ -38,7 +38,17 @@ source_documents:
     type: "factsheet officielle Dürr Dental SE"
     language: "en"
     note: "Brochure officielle Dürr Dental SE — disponible via le Centre de téléchargements. Source des 4 références produits (4152-54, 4642-54, 4252-54, 4682-54), des caractéristiques techniques (cuve 50/90 L, débits 125-586 l/min, dB(A) 66-72) et de la table de compatibilité par plage de pression CAM"
-last_factual_review: 2026-07-19
+  - title: "Flyer Compresseurs pour systèmes CAD/CAM (FR)"
+    ref: "P007100024L01"
+    type: "flyer officiel Dürr Dental France"
+    language: "fr"
+    note: "Source des débits à 9 bar (Duo 72, Quattro 144, Duo Tandem 1 gr 68, Duo Tandem 2 gr 148, Quattro Tandem 2 gr 288 l/min à 50 Hz) et du réservoir tampon 90 L (réf. 4252100080)."
+  - title: "Notice d'installation et d'utilisation compresseurs (Duo/Quattro Tandem)"
+    ref: "4252100034L03/2501V005"
+    type: "notice officielle"
+    language: "fr"
+    note: "Temps de mise sous pression (0 → pression d'arrêt), volume aspiré, courant à 8 bar, point de rosée, pressions d'enclenchement/arrêt (standard 5,5/7,5 bar vs CAD/CAM 7/9 bar), classe MDR IIa."
+last_factual_review: 2026-07-22
 license: CC-BY-4.0
 ---
 
@@ -106,6 +116,43 @@ sont disponibles avec **insonorisation optionnelle**.
 | **Quattro Tandem — 1 agrégat** | **`4642-54`** | **90 L** | **258 / 293** | **70** | 400 V (3∼) |
 | **Duo Tandem — 2 agrégats** | **`4252-54`** | **50 L** | **253 / 292** | **69** | 400 V (3∼) |
 | **Quattro Tandem — 2 agrégats** | **`4682-54`** | **90 L** | **516 / 586** | **72** | 400 V (3∼) |
+
+### Débit à 9 bar (pression de travail CAD/CAM)
+
+Le débit délivré **baisse quand la pression monte** : à **~9 bar** (plage CAD/CAM), il vaut
+**environ la moitié** du débit à 5 bar. Valeurs publiées (flyer `P007100024L01`, à **50 Hz**) :
+
+| Compresseur | Cuve | **Débit @ 9 bar** (l/min) | Réf. |
+|---|---|---|---|
+| Duo | 20 L | **72** | `5252-01` (230 V) |
+| Quattro | 50 L | **144** | `5452-51` (400 V) |
+| Duo Tandem — 1 groupe | 50 L | **68** | `5152-54` (400 V) |
+| **Duo Tandem — 2 groupes** | 50 L | **148** | `4252-54` (400 V) / `4252100004` (230 V) |
+| **Quattro Tandem — 2 groupes** | 90 L | **288** | `4682-54` (400 V) |
+
+> Le **réservoir tampon de 90 L** (réf. `4252100080`) ajoute un volume supplémentaire pour
+> absorber les pics de prélèvement de l'usineuse — utile en cas de petits diamètres de tuyaux
+> ou de longue distance compresseur ↔ fraiseuse.
+
+### Temps de mise sous pression
+
+Le **temps de mise sous pression depuis une cuve vide** (0 → pression d'arrêt) est une
+**valeur nominale de mise en service**, utile pour dimensionner l'installation et **vérifier
+le bon fonctionnement** du compresseur. Valeurs (notice `4252100034L03`, à 50 / 60 Hz) :
+
+| Modèle | Temps de mise sous pression | Volume aspiré (l/min) |
+|---|---|---|
+| **Duo Tandem — 1 groupe** (`4152-54` / `4152100008`) | 0 → 7,5 bar : **≈ 190 / 170 s** | 210 / 255 |
+| **Duo Tandem — 2 groupes** (`4252-54` / `4252100027`) | 0 → 7,5 bar : **≈ 95 / 85 s** | 420 / 505 |
+| **Duo Tandem CAD/CAM — 230 V** (`4252200027`) | 0 → **9 bar** : **≈ 115 / 100 s** | 420 / 505 |
+| **Duo Tandem CAD/CAM — 400 V** (`4252200054`) | 0 → 7,5 bar : **≈ 105 / 90 s** | 420 / 505 |
+| **Quattro Tandem — 1 groupe** (`4642-54`) | 0 → 7,5 bar : **≈ 180 / 160 s** | 420 / 505 |
+| **Quattro Tandem — 2 groupes** (`4682-54`) | 0 → 7,5 bar : **≈ 90 / 80 s** | 845 / 1010 |
+| **Quattro Tandem CAD/CAM — 400 V** (`4682200054`) | 0 → **9 bar** : **≈ 90 / 80 s** | 845 / 1010 |
+
+> Les versions **CAD/CAM** ont une **pression d'enclenchement 7 bar / arrêt 9 bar** (max.
+> réglable **9,5 bar**) et un **point de rosée ≤ +3 °C à 8 bar** — contre **5,5 / 7,5 bar** et
+> **≤ +5 °C à 7 bar** sur les versions standard. Source : notice `4252100034L03`.
 
 > 📌 **Lecture des valeurs sonores** : mesurées **à 5 bar**, compresseur **nu**.
 > Ce sont les **versions CAD/CAM à commande électronique**, environ **1 dB(A) plus
@@ -287,4 +334,4 @@ Oui : tous les modèles jusqu'au Duo Tandem sont disponibles avec insonorisation
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
