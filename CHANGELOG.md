@@ -4,6 +4,24 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.11.3] — 2026-07-23
+
+### Ajouté — certificats QMS maîtres (DQS + DEKRA) + stations air comprimé cliniques résolues
+
+- **Certificat QMS maître DQS** (Dürr Dental SE) intégré à `certificates.md` : `518373 MDR2017Q`
+  (Certificate ID **1000275872**, → 2027-03-10, NB **0297**). Son annexe couvre, par catégorie
+  MDA/MDN/EMDN — toutes en **IIa** : compresseurs, machines d'aspiration, **stations de pression
+  cliniques (P 6000-12000)**, stations d'aspiration cliniques, aspiration mobile (Variosuc), **système
+  compresseur + aspiration** (Power Tower), canules, Hygosuc, jets de poudre (Lunos), ultrasons (Vector),
+  capteurs intra-oraux (VistaRay), écrans (VistaScan IQ), VistaSoft AID ; en **IIb** : VistaSoft 4.0 +
+  radiologie 3D extra-orale (VistaVox).
+- **Stations d'air comprimé cliniques P 6000 / P 9000 / P 12000 = IIa confirmé** (catégorie « Clinic
+  pressure stations » de l'annexe DQS) → **gap résolu** ; nouvelle ligne dans `certificates.md`.
+- **Certificat QMS maître DEKRA** (orochemie) : `50090-60-02-03` (→ 2026-12-14, NB **0124**).
+  ⚠️ **Correction de classe** : **FD 333 forte**, **ID 220** et **B 33** = **classe IIb** (endpoint de
+  retraitement / sporicide), pas IIa — à propager aux fiches chimie.
+- `validate.py` 0/0.
+
 ## [0.11.2] — 2026-07-23
 
 ### Ajouté — DoC officiel Power Tower (classe IIa confirmée + Basic UDI-DI EUDAMED)

@@ -4,7 +4,7 @@ title: "Sources — Certificats et conformité réglementaire (matrice MDR compl
 description: "Matrice MDR complète des produits Dürr Dental : classe de dispositif médical (I, IIa, IIb), Notified Body, références de certificats, sources publiques."
 lang: fr
 permalink: /sources/certificates/
-last_factual_review: 2026-07-19
+last_factual_review: 2026-07-23
 license: CC-BY-4.0
 ---
 
@@ -27,12 +27,17 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 
 - **DQS Medizinprodukte GmbH** — code Notified Body **0297** — certifie sous
   MDR EU 2017/745 (Annexe IX ch. I+III), via le **certificat QMS unique
-  518373 MDR2017Q** (valide jusqu'au **2027-03-10**) : les **logiciels d'imagerie**
-  (VistaSoft 4.0 IIb, VistaSoft AID IIa…), le **matériel d'imagerie** (écrans à mémoire
-  VistaScan IQ IIa, VistaVox S IIb, VistaRay 7 IIa) **et la ligne équipement air comprimé**
-  (compresseurs Silver Airline, Tornado…). Les **scanners** VistaScan (Nano, Mini,
-  Combi View…) et les **caméras** VistaCam iX HD sont eux en **classe I** (auto-déclaration,
-  sans organisme notifié).
+  518373 MDR2017Q** (Certificate ID **1000275872**, valide jusqu'au **2027-03-10**),
+  fabricant **Dürr Dental SE** (SRN DE-MF-000006032). L'**annexe du certificat** couvre —
+  toutes en **classe IIa** — : **compresseurs**, **machines d'aspiration**, **stations de
+  pression cliniques** (P 6000-12000), **stations d'aspiration cliniques**, **aspiration
+  mobile** (Variosuc), **système compresseur + aspiration** (Power Tower), **canules** (soin
+  et chirurgicales usage unique), **appareils de désinfection** (Hygosuc), **jets de poudre**
+  (Lunos), **appareils à ultrasons** (Vector), **capteurs intra-oraux** (VistaRay), **écrans
+  à mémoire** (VistaScan IQ) et le **logiciel VistaSoft AID** ; en **classe IIb** : le
+  **logiciel VistaSoft 4.0** et les **appareils de radiologie 3D extra-orale** (VistaVox).
+  Les **scanners** VistaScan (Nano, Mini, Combi View…) et les **caméras** VistaCam iX HD
+  restent en **classe I** (auto-déclaration, sans organisme notifié).
 - **DNV Product Assurance AS** — code Notified Body **2460** — certifie
   la gamme panoramique VistaPano S 2.0 sous MDD 93/42/EEC.
 - **IMQ** — code Notified Body **0051** — certifie les stérilisateurs vapeur
@@ -40,8 +45,13 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
   93/42/EEC (Annexe IX Règle 15, classe IIb).
 - **DEKRA Certification GmbH** — code Notified Body **0124** — certifie la
   **chimie de désinfection et de nettoyage** (fabricant **orochemie GmbH + Co KG**,
-  SRN DE-MF-000006461) sous MDR EU 2017/745 : familles FD, ID, MD, Orotol,
-  Vector/RinsEndo, lingettes et chimies radiographiques.
+  SRN DE-MF-000006461) sous MDR EU 2017/745 (Annexe IX ch. I+III), **certificat
+  `50090-60-02-03`** (valide **2025-02-20 → 2026-12-14**). La majorité des produits
+  (Orotol plus / pH 7 / ultra, ID 212 / 213, FD 300 / 312 / 322 / 333 / 350 / 366,
+  MD 550, lingettes) sont en **classe IIa** ; sont en **classe IIb** (endpoint de
+  retraitement / sporicides) : **FD 333 forte**, **ID 220** et **B 33** (+ leurs lingettes).
+  NB : **HD** (mains) relève du **règlement biocides** (hors ce certificat DM) ; **FD 312**
+  a un **double statut** DM IIa + biocide TP2 (cf. lignes chimie).
 
 ## Matrice MDR — Logiciels d'imagerie (gamme VistaSoft)
 
@@ -86,6 +96,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Compresseurs CAD/CAM** | **IIa** | MDR EU 2017/745 | **DQS 0297** — **même certification que Silver Airline** (déclinaison « Silver Airline X CAD CAM » ; DoC compresseurs réf `9501-20-100`, Annexe II). Confirmé par le **certificat cabinet** « compresseur installé = DM classe IIa (EU 2017/745) ». | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/) |
 | **Tyscor** (gamme aspiration humide + sèche, poste unique et centralisé) | **IIa** | MDR EU 2017/745 | Poste unique : à confirmer ; **clinique Tyscor V 20 / V 30 confirmés DQS 0297** (cert. 518373 MDR2017Q). **V 40 / V 50 / V 60 = assemblages de modules V 20/V 30** (V 40 = 2×V 20, V 50 = V 20+V 30, V 60 = 2×V 30) → **même classe IIa** (mêmes unités RV 10 certifiées, même certificat). | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) |
 | **Systèmes d'aspiration cliniques** (V 6000, V 9000, V 12000, V 15000, V 18000 ; Tyscor V 20, Tyscor V 30) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) + RoHS 2011/65/EU | **DQS 0297** — cert. 518373 MDR2017Q (valide 2027-03-10 ; DoC Dürr Dental SE 2025-07-22, dossiers CE-130-B / CE-130-C ; Basic UDI-DI ++E2471042Y4 ; SRN DE-MF-000006032) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/) |
+| **Systèmes d'air comprimé cliniques** (P 6000, P 9000, P 12000) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | **DQS 0297** — cert. 518373 MDR2017Q (catégorie « Clinic pressure stations for dental applications » de l'annexe QMS ; valide 2027-03-10 ; SRN DE-MF-000006032) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/air-clinic/overview/) |
 | **Récupérateurs d'amalgame** (CA 1, CA 2, CA 4, Sepamatic CS 1, CAS 1) | **I** (auto-déclaration MDR, sans organisme notifié) | MDR EU 2017/745 + Règlement (UE) 2017/852 (mercure) | **Aucun (classe I)** — DoC Dürr Dental SE 2026-03-25 (CA, dossier CE-110-M/L) et 2025-05-03 (CAS 1 Combi) ; + agrément **DIBt Z-64.1** | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
 | **VC 65** (aspiration chirurgicale) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | **DQS 0297** — cert. 518373 MDR2017Q (valide 2027-03-10, DoC 2026-04-15, dossier CE-110-P) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
 | **DürrConnect** (système de raccordement) | Composant accessoire | MDR EU 2017/745 | — | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/) |
