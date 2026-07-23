@@ -30,6 +30,7 @@ solutions de désinfection des instruments, surfaces, systèmes d'aspiration et 
 | **[Hygobox, Hygopac et Hygofol](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)** | Transport instruments + soudeuses emballage stérile **Hygopac** (550 W, soudure 9 mm, 5,3 m/min) et **Hygopac View** (900 W, **soudure 13 mm**, 3 vitesses 5/7/9 m/min, écran tactile, SD/réseau) + Hygofol + Hygoprint | DIN EN ISO 11607-2 |
 | **[Hygosonic](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/)** | Bac à ultrasons (réf. `6035-50`, 280 W, IP 20). Fonctions **Boost** (+25 %) / **Sweep** / **Degas**. Fabricant légal **Sonoswiss AG** depuis 2021 (MDR), Dürr Dental SE distributeur. | DM |
 | **[Hygowater](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygowater-traitement-eau/overview/)** | ⚠️ **Vente arrêtée 01/01/2024**. Décontamination eau fauteuils (filtration + électrolyse). Consommables + pièces détachées maintenus au catalogue pour parc installé. | EOL |
+| **[Hygosuc](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosuc/overview/)** | Désinfection **automatisée du circuit d'aspiration** : dose et fournit la solution (Orotol plus) prête à l'emploi, journalisation logicielle. Modèles **basis** / **CDS 1** (poste unique) / **CDS 60** (centralisé). | DM **IIa** (DQS 0297, cert 518373, CE-110-H) |
 
 ### Désinfection — Système 4 couleurs
 

@@ -4,6 +4,19 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.12.0] — 2026-07-23
+
+### Ajouté — fiche Hygosuc (dernier « produit sans fiche » comblé)
+
+- **Nouvelle fiche `hygosuc`** (désinfection automatisée du circuit d'aspiration), sur **DoC officielle**
+  (D.No 4233875, 2026-04-15) + page produit publique : DM **classe IIa** (MDR EU 2017/745 Annexe IX
+  ch. I+III), NB **DQS 0297**, cert **518373 MDR2017Q**, dossier **CE-110-H**, Basic UDI-DI
+  **`++E2471013XV`**, valide **2027-03-10** ; catégorie MDA 0317.
+- Modèles : **basis** `6005100150`, **CDS 1** `6005-100-50` (poste unique), **CDS 60** `6005100600`
+  (alimentation Orotol centralisée). Le Hygosuc **automatise** le protocole Orotol plus (renvoi vers
+  `desinfection-aspiration`), avec **journalisation logicielle** (VistaSoft Monitor).
+- Ajoutée à `certificates.md` (matrice hygiène) + index `hygiene-chimie`. `validate.py` 0/0 (95 fichiers).
+
 ## [0.11.4] — 2026-07-23
 
 ### Corrigé — propagation des classes MDR issues des certificats maîtres

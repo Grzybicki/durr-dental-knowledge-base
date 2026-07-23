@@ -118,6 +118,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Hygobox** (transport instruments) | I | MDR EU 2017/745 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/) |
 | **Hygopac / Hygopac Plus / Hygopac View** (soudeuses emballage) | I | MDR EU 2017/745 + DIN EN ISO 11607-2 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/) |
 | **Hygosonic** (bac à ultrasons) | **IIa** | MDR EU 2017/745 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/) |
+| **Hygosuc** (basis, CDS 1, CDS 60 — désinfection automatisée du circuit d'aspiration) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) — NB **DQS 0297**, cert 518373 MDR2017Q, dossier **CE-110-H**, Basic UDI-DI `++E2471013XV`, DoC 2026-04-15 → 2027-03-10 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosuc/overview/) |
 ### Chimie de désinfection et de nettoyage (fabricant orochemie, NB DEKRA 0124)
 
 > **Point clé** : la quasi-totalité de la chimie professionnelle Dürr Dental est
