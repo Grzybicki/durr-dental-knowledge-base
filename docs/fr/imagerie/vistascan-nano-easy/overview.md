@@ -207,6 +207,7 @@ Non : le Nano Easy n'accepte qu'une seule taille de plaque à la fois, détermin
 
 ## Pour aller plus loin
 
+- [Guide de choix — imagerie intra-orale (capteur ou plaque, puis quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)
 - [Gamme VistaScan complète (vue d'ensemble)](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
 - [VistaScan Mini Easy 2.0 — variante tailles 0 à 4](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/)
 - [Écrans VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)

@@ -4,6 +4,141 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.9.5] — 2026-07-23
+
+### Ajouté — réglementaire Tyscor clinique (DoC V 20/V 30) + gamme complète V 20-V 60 (Planning Info)
+
+- **Fiche `tyscor-aspiration`** : section « Statut réglementaire » enrichie — **Tyscor V 20
+  (`1802100510`) et V 30 (`1803100510`) confirmés DM classe IIa** par la **DoC Clinic Suction Systems**
+  (2025-07-22, NB DQS 0297, cert 518373 MDR2017Q → 2027-03-10, Basic UDI-DI `++E2471042Y4`, dossiers
+  CE-130-B/C). **Gamme radiale clinique complète** (Planning Information `1802100026L02`) : REF
+  V 20 `1802100510` / V 30 `1803100510` / V 40 `1808000040` / V 50 `1808000050` / V 60 `1808000060`,
+  postes desservis (V 20 → 30, V 30 → 50, V 60 → 100). ⚠️ **La DoC ne certifie que V 20/V 30** ; les
+  REF V 40-60 viennent de la Planning Info (classe non reportée sur le DoC fourni). Comble le **gap #3**
+  (specs/REF Tyscor V 40-60).
+- **Fiche `systemes-cliniques`** : mention Tyscor complétée (REF V 20-V 60) + Planning Information
+  ajoutée aux sources.
+- **Architecture modulaire de la gamme clinique** (Planning Information `1802100026L02` § 10.1,
+  sourcé) : unités d'aspiration (module RV 10) en tours de **3 unités max**, **2 tours** couplées par
+  bus CAN (principale + auxiliaires). Composition : **V 20** = 1 tour de 2 unités · **V 30** = 1 tour
+  de 3 · **V 40 = 2 × V 20** · **V 50 = V 20 + V 30** · **V 60 = 2 × V 30** (= « niveaux d'aspiration »
+  2 à 6). Tableau + Q/R FAQ + FAQPage dans la fiche `tyscor-aspiration`.
+- Dates de revue 2026-07-23 (frontmatter + footer Tyscor synchronisés). Prix exclus.
+
+## [0.9.4] — 2026-07-23
+
+### Ajouté — maintenance stations cliniques (notices actuelles V 6000-18000 + P 6000-12000) + upgrade Tyscor
+
+- **Fiche `systemes-cliniques`** : nouvelle section **« Maintenance des stations cliniques »** sourcée
+  sur les **notices officielles actuelles** :
+  - **Aspiration V 6000-V 18000** (`1806100009L02`, systèmes **secs ET semi-secs**) : plan 12 mois
+    (contrôle fonctionnel + **débit grande canule 250-350 l/min** + séparateur de condensat) / 24 mois
+    ou 3500 h (**cartouche filtre de refoulement**) / 24 mois (silencieux, clapets, soupape d'air
+    auxiliaire).
+  - **Compresseurs P 6000-P 12000** (`5922100049L02`) : plan mensuel (condensat cyclone, **grilles du
+    sécheur frigorifique**) / 3500 h (**élément filtre bactérien**) / 12 mois / 24 mois (**kit**) ;
+    **pièces d'usure + réfs** (kit P 6000 `5922980050`, P 9000-12000 `5932980050`, cartouche
+    `0705-991-05`, amortisseurs `5931617001`/`5942980003`, unité cyclone `5922980003`) ; **cut-off
+    réglable jusqu'à 9,5 bar**.
+  - **Mise à niveau Tyscor V 20 → V 30** (`1800100032L40`) : ajout d'un **étage RV 10** (`1800100100`)
+    + clapet DN75 (`1802100060`) + 3ᵉ afficheur, liaison **CAN** — évolutif sans remplacer l'installation.
+- Comble les **gaps #1 (notice V clinique actuelle) et #2 (notice P clinique actuelle)** identifiés
+  précédemment. Q/R FAQ + FAQPage (maintenance) ; sources complétées (4 notices/DoC). Prix exclus.
+
+## [0.9.3] — 2026-07-23
+
+### Ajouté — statut réglementaire aspiration clinique (DoC) + parc installé 2006
+
+- **Fiche `systemes-cliniques`** : nouvelle section **« Statut réglementaire — aspiration clinique »**
+  sourcée sur la **Déclaration de Conformité « Clinic Suction Systems »** (Dürr Dental SE, 2025-07-22) —
+  **V 6000 / 9000 / 12000 / 15000 / 18000 + Tyscor V 20 / V 30 = DM classe IIa** (MDR + RoHS), **NB
+  DQS 0297**, cert **518373 MDR2017Q** (→ 2027-03-10), **REF par modèle**, Basic UDI-DI `++E2471042Y4`,
+  SRN `DE-MF-000006032`, dossiers `CE-130-B / CE-130-C`. Précision : **les cuves CS 20/60 ne figurent
+  pas dans cette DoC** (pas de classe MDR déclarée).
+- **`sources/certificates.md`** : nouvelle ligne « Systèmes d'aspiration cliniques » + ligne **Tyscor**
+  mise à jour (« À confirmer » → **clinique V 20/V 30 confirmés DQS 0297**).
+- **Parc installé (génération 2006)** : note sur la notice `9000-606-15` (V 3000 / 6000 / 9000 =
+  10 / 20 / 30 praticiens), filtre bactérien de refoulement `0705-991-50` (inserts `0705-991-05`),
+  plan de maintenance `9000-606-36`.
+- Q/R FAQ + FAQPage (DM clinique), sources complétées. **DoC scannée lue via rendu image** (texte PDF
+  vide).
+
+## [0.9.2] — 2026-07-23
+
+### Enrichi — specs V 2400 + cuve de séparation centralisée CS 20 / CS 60 (notices officielles)
+
+- **Fiche `systemes-cliniques`** enrichie depuis deux **notices officielles** :
+  - **V 2400** (notice `9000-606-97`) : nouvelle sous-section avec tableau technique complet —
+    aspiration **sèche** EN ISO 10637 **Type 1**, **400 V 3~**, **8 postes max**, 2,9/4 kW,
+    115 × 80 × 48 cm, 68 kg, 70 dB(A), **DM IIa**, séparateur de condensat + soupape d'air auxiliaire ;
+    entretien (Orotol plus `CDS110P6150` ; **filtre bactérien de refoulement `0705-991-50` tous les
+    1-2 ans** ; soupape d'air auxiliaire tous les 2 ans).
+  - **Cuve CS 20 / CS 60** (notice `A704100035L02`) : nouvelle sous-section — séparation continue
+    air/liquide en **système semi-sec** après collecteur, **20 / 60 postes**, **230 V 1~**, dépression
+    **−200 mbar**, **prise réseau LAN** (supervision), raccords, dimensions 108×Ø65 / 145×Ø65 cm,
+    55 / 95 kg, raccordement **pompe eaux usées + 2 séparateurs CA 4**, variantes rinçage **eau**
+    (`A704200068`/`A704400068`) ou **eau + Orotol plus**, **kit maintenance `A704980050`**.
+    **La notice n'indique aucune classe MDR pour la cuve** → non affirmée (règle d'or).
+- **Anti-duplication** : blockquote CS 60 et ligne « V/VS 2400 » du tableau **redirigées** vers les
+  nouvelles sous-sections ; **pointeur** ajouté depuis `guide-choix-aspiration` (séparation
+  centralisée) vers les specs détaillées. 2 Q/R FAQ + FAQPage ; sources + date de revue 2026-07-23
+  (frontmatter + footer). Consistance vérifiée (filtre `0705-991-50`, CA 4, 300 l/min, 400 V / 230 V).
+
+## [0.9.1] — 2026-07-23
+
+### Ajouté / corrigé — plan de maintenance complet Tornado + terminologie « joint de piston »
+
+- **Fiche `tornado`** : nouvelle section **« Plan de maintenance et pièces d'usure »** sourcée sur la
+  **notice officielle `5180300004L03` (§ 13)** — deux plans (avec / sans dessiccateur à membranes),
+  **intervalles** (condensat à intervalles réguliers ; filtres tous les ans / 6 mois si forte
+  concentration ; **amortisseur de vibrations tous les 5 ans** ; **joint de piston tous les 10 ans** ;
+  soupape de sécurité + contrôles périodiques selon directives nationales) et **tableau des références
+  de pièces d'usure** (filtre d'admission `5180-982-00`, filtre fin `1610-121-00`, bactéries/virus
+  `1650100172`, coalescence `1650200323`, non tissé `4280-982-00`, amortisseurs
+  `5180100165`/`5280100033`/`4280100045`, **kit joint de piston `5180100157`**).
+- **Correction de terminologie (règle d'or)** : la **« manchette »** (terme de terrain) = **« joint de
+  piston »** dans la notice officielle. Harmonisé partout — l'ancien « segments de piston » /
+  « manchon du piston » est remplacé par **joint de piston** (terme sourcé), « manchette » conservé
+  comme **synonyme de terrain** explicitement non issu de la notice.
+- **Diagnostic sourcé (§ 15)** : lien **temps de mise sous pression ↔ usure du joint de piston** —
+  chaîne de causes (filtre d'admission encrassé → **ne jamais nettoyer, remplacer** ; dessiccateur
+  défectueux ; joint de piston usé → remplacer le joint ou le piston entier).
+- **Anti-duplication** : sous-section « Maintenance » de la FAQ web **condensée** en pointeur vers le
+  plan complet (pas de double section). Q/R FAQ + FAQPage ajoutée ; note de source `5180300004L03`
+  complétée ; date de revue 2026-07-23 (frontmatter + footer synchronisés).
+
+## [0.9.0] — 2026-07-23
+
+### Ajouté — guide de choix imagerie intra-orale (capteur vs plaque, puis quel VistaScan)
+
+- **Nouvelle fiche `guide-choix-imagerie-intraorale`** (type guide de décision, comme les guides
+  aspiration / compresseur) : arbitrage en **deux étapes** — (1) **capteur filaire VistaRay 7** vs
+  **plaque ERLM VistaScan IQ** (image immédiate vs différée, tailles 1-2 rigides vs S0-S4 souples,
+  câble vs sans fil, résolution, mutualisation, complémentarité) ; (2) **choix du scanner VistaScan**
+  (Nano Easy / Mini Easy 2.0 / Mini View 2.0 / Ultra View / Combi View), discriminant premier = les
+  **formats requis** (Nano Easy plafonne à S2).
+- **Point résolution honnête** : Mini/Mini View/Ultra = **22 LP/mm** effective (> capteur 20), mais
+  **Nano Easy = 12,5 LP/mm** (**sous** le capteur) — noté explicitement pour ne pas laisser croire
+  que « la plaque gagne toujours ».
+- **Encombrement vs surface utile (demande utilisateur)** : dimensions **sourcées brochure officielle
+  `P007-670-L02`** — capteur **taille 1 « Universal »** = **39 × 27,4 × 6,3 mm hors tout** pour
+  **30 × 20 mm actifs** ; taille 2 « Bitewing » = 43 × 33,1 × 6,3 / 36 × 26 mm. Le **repère T2/T0**
+  (film argentique) est présenté comme **repère de terrain approximatif** (`≈`), **explicitement non
+  issu de la brochure** — les formats de film ne sont pas des cotes officielles et varient selon les
+  référentiels (règle d'or : ne pas attribuer à une source ce qu'elle ne contient pas). Argument de
+  fond en faveur de la plaque quand le confort prime.
+- **Contraintes du filaire (demande utilisateur, sourcé `P007-670-L02` + fiche)** : liaison **USB au
+  PC**, rallonge **1 m** + **hub actif** au-delà → câblage qui **complique l'installation** ; **câble
+  = pièce d'usure** (remplaçable à prix fixe) ; **risque de chute** (couche absorbeur de choc). Ligne
+  tableau + sous-section + Q/R FAQ dédiées.
+- **Dé-hedge sourcé** : positionnement du capteur comme **complément des plaques en endodontie /
+  implantologie / contrôle de piliers** et **usage sur plusieurs postes** — désormais ancrés sur la
+  brochure `P007-670-L02` (et non plus formulés comme inférence).
+- **Intégration** : section **Guides de choix** ajoutée à l'index imagerie ; **liens réciproques**
+  (« Pour aller plus loin ») sur `vistaray-7`, `vistascan-gamme`, `vistascan-iq-ecrans`,
+  `vistascan-nano-easy`, `vistascan-mini-easy-2-0`. Liens internes en **baseurl absolu**. Prix exclus ;
+  aucune donnée nouvelle non sourcée (chiffres déjà consignés dans les fiches produit + brochure).
+
 ## [0.8.3] — 2026-07-22
 
 ### Ajouté — conditions ambiantes (fiche local technique)

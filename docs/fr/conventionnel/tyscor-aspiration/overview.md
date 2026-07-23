@@ -33,7 +33,17 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/devices/clinic-systems/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-07-22
+  - title: "Déclaration de Conformité — Clinic Suction Systems"
+    ref: "DoC Dürr Dental SE, 2025-07-22 (D.No 4233864 rév. C)"
+    type: "Déclaration de Conformité MDR"
+    language: "en/de"
+    note: "Confirme les Tyscor V 20 (REF 1802100510) et V 30 (REF 1803100510) en classe IIa (MDR EU 2017/745 + RoHS), NB DQS 0297, cert 518373 MDR2017Q (valide 2027-03-10), Basic UDI-DI ++E2471042Y4, dossiers CE-130-B / CE-130-C. Les V 40/50/60 n'y figurent pas."
+  - title: "Planning Information — Clinic suction system Tyscor V 20 – V 60"
+    ref: "1802100026L02/2512V002"
+    type: "notice de planification officielle"
+    language: "en"
+    note: "Source des REF de la gamme radiale clinique complète : Tyscor V 20 (1802100510, jusqu'à 30 postes), V 30 (1803100510, 50 postes), V 40 (1808000040), V 50 (1808000050), V 60 (1808000060, 100 postes) ; mise à niveau par ajout d'étage RV 10 ; combinaisons avec séparateur de condensat intégré ou cuves CS 20 / CS 60 ; conditions ambiantes +10/+40 °C, conduites d'aspiration dimensionnées pour ≥ −250 mbar, cuve de séparation centrale au point le plus bas."
+last_factual_review: 2026-07-23
 license: CC-BY-4.0
 ---
 
@@ -72,6 +82,50 @@ jusqu'à 50 %** par rapport aux systèmes traditionnels.
 
 Les systèmes d'aspiration Tyscor sont des **dispositifs médicaux de classe
 IIa** selon le règlement **MDR EU 2017/745**.
+
+Pour les modèles **cliniques Tyscor V 20 et Tyscor V 30**, ce statut est confirmé par la
+**Déclaration de Conformité « Clinic Suction Systems »** (Dürr Dental SE, **2025-07-22**) :
+
+| Modèle | Référence | Classe |
+|---|---|---|
+| **Tyscor V 20** | `1802100510` | **IIa** |
+| **Tyscor V 30** | `1803100510` | **IIa** |
+
+- Organisme notifié : **DQS Medizinprodukte GmbH** (n° **0297**)
+- Certificat MDR : **518373 MDR2017Q** (valide jusqu'au **2027-03-10**)
+- SRN fabricant : **DE-MF-000006032** ; Basic UDI-DI **++E2471042Y4** ; dossiers **CE-130-B / CE-130-C**
+
+Les Tyscor V 20 / V 30 figurent sur la **même DoC** que les stations d'aspiration
+[cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/) V 6000 –
+V 18000. Un **Tyscor V 20 se met à niveau en V 30** sur site (ajout d'un étage d'aspiration **RV 10**,
+réf `1800100100`).
+
+La **gamme radiale clinique complète** (Planning Information `1802100026L02`) couvre cinq modèles —
+**Tyscor V 20** (`1802100510`, jusqu'à **30 postes**), **V 30** (`1803100510`, **50 postes**),
+**V 40** (`1808000040`), **V 50** (`1808000050`), **V 60** (`1808000060`, **100 postes**). ⚠️ Le DoC
+fourni ne **certifie explicitement que les V 20 et V 30** ; les **REF des V 40 / V 50 / V 60**
+proviennent de la Planning Information (leur classe MDR n'est pas reportée sur ce DoC). Les modèles
+**poste unique** (V/VS 1, 2, 4) ne sont pas couverts par ce DoC clinique.
+
+## Gamme clinique — architecture modulaire (V 20 – V 60)
+
+Chaque station Tyscor clinique est composée d'**unités d'aspiration** (étages, module **RV 10**)
+regroupées en **tours** : une tour compte **au maximum 3 unités**, et **deux tours** peuvent être
+couplées — une tour « **principale** » pilote les tours « **auxiliaires** » via le **bus CAN**. D'où
+la composition des cinq modèles (Planning Information `1802100026L02`, § 10.1) :
+
+| Modèle | Composition | Unités d'aspiration |
+|---|---|---|
+| **Tyscor V 20** | 1 tour de **2 unités** | 2 |
+| **Tyscor V 30** | 1 tour de **3 unités** | 3 |
+| **Tyscor V 40** | **2 × V 20** (2 tours de 2 unités) | 4 |
+| **Tyscor V 50** | **V 20 + V 30** (1 tour de 2 + 1 tour de 3 unités) | 5 |
+| **Tyscor V 60** | **2 × V 30** (2 tours de 3 unités) | 6 |
+
+Autrement dit : **un V 60 = deux V 30**, un **V 50 = un V 30 + un V 20**, un **V 40 = deux V 20**. Le
+nombre d'unités d'aspiration (2 à 6) correspond aux « **niveaux d'aspiration** » de la gamme clinique.
+La montée en capacité se fait en **ajoutant une unité RV 10** (`1800100100`) dans une tour (ex.
+**V 20 → V 30**) ou en **couplant une seconde tour**.
 
 ## Technologies clés
 
@@ -463,6 +517,14 @@ etc.) et la facilité de maintenance.
         "@type": "Answer",
         "text": "Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit nativement sur les générations récentes, soit via la Connect Box pour les générations antérieures sans interface réseau native."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment sont composés les Tyscor cliniques V 40, V 50 et V 60 ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Selon la Planning Information Dürr Dental 1802100026L02, chaque station Tyscor clinique est faite d'unités d'aspiration (module RV 10) regroupées en tours de 3 unités maximum, deux tours pouvant être couplées via bus CAN (une tour principale pilote les auxiliaires). Le Tyscor V 20 = 1 tour de 2 unités, le V 30 = 1 tour de 3 unités. Les grands modèles sont des combinaisons : le V 40 = deux V 20 (2 × 2 unités), le V 50 = un V 20 + un V 30 (2 + 3 unités), et le V 60 = deux V 30 (2 × 3 unités)."
+      }
     }
   ]
 }
@@ -502,6 +564,10 @@ L'aspiration humide (VS, VSA) sépare les liquides dans un cycle intégré et re
 
 Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit nativement sur les générations récentes, soit via la Connect Box pour les générations antérieures sans interface réseau native.
 
+### Comment sont composés les Tyscor cliniques V 40, V 50 et V 60 ?
+
+Selon la Planning Information Dürr Dental `1802100026L02`, chaque station Tyscor clinique est faite d'**unités d'aspiration** (module **RV 10**) regroupées en **tours de 3 unités maximum**, deux tours pouvant être **couplées via bus CAN** (une tour principale pilote les auxiliaires). Le **Tyscor V 20 = 1 tour de 2 unités**, le **V 30 = 1 tour de 3 unités**. Les grands modèles sont des **combinaisons** : le **V 40 = deux V 20** (2 × 2 unités), le **V 50 = un V 20 + un V 30** (2 + 3 unités), et le **V 60 = deux V 30** (2 × 3 unités).
+
 ## Sources publiques
 
 | Document | URL publique |
@@ -510,6 +576,8 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 | Page hub aspiration | <https://www.duerrdental.com/en/products/suction/> |
 | Page console sol/mur (FR) | <https://www.duerrdental.com/fr/produits/aspiration/systemes-vs-humides/console-pour-le-sol-ou-le-mur/> |
 | Page systèmes cliniques | <https://www.duerrdental.com/en/products/suction/devices/clinic-systems/> |
+| Planning Information Tyscor V 20 – V 60 (clinique) | réf. `1802100026L02` (centre de téléchargements Dürr Dental) |
+| Déclaration de Conformité — Clinic Suction Systems | DoC Dürr Dental SE 2025-07-22 (Basic UDI-DI `++E2471042Y4`) |
 | Page récupérateurs d'amalgame | <https://www.duerrdental.com/en/products/suction/devices/amalgam-separator/> |
 | Page composants d'intégration | <https://www.duerrdental.com/en/products/suction/system-integration/components/> |
 
@@ -526,4 +594,4 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-23. Licence : CC-BY 4.0.*

@@ -284,6 +284,7 @@ Oui, ils sont utilisables avec les scanners VistaScan de la série 1.0, mais san
 
 ## Pour aller plus loin
 
+- [Guide de choix — imagerie intra-orale (capteur ou plaque, puis quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)
 - [Gamme VistaScan — scanners de plaques au phosphore](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
 - [VistaPosition — positionneur et angulateurs](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
 - [VistaSoft AI — fonctions IA inclusives (rotation, qualité)](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)

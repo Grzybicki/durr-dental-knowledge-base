@@ -157,6 +157,7 @@ Pour une utilisation chairside (au fauteuil), tout en couvrant l'ensemble des fo
 
 ## Pour aller plus loin
 
+- [Guide de choix — imagerie intra-orale (capteur ou plaque, puis quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)
 - [Gamme VistaScan complète (vue d'ensemble)](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) — pour comparer Mini Easy 2.0 / Mini View 2.0 / Nano Easy / Combi View / Ultra View
 - [Écrans VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)
 - [Smart Reader (lecteur RFID USB)](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)

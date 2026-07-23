@@ -252,6 +252,7 @@ téléchargements Dürr Dental France ou la base européenne **Eudamed**).
 
 ## Pour aller plus loin
 
+- [Guide de choix — imagerie intra-orale (capteur ou plaque, puis quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)
 - [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
 - [VistaIntra DC — générateur intra-oral compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)
 - [Gamme VistaScan — scanners de plaques au phosphore](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)

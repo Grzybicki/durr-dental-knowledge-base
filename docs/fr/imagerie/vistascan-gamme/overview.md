@@ -313,6 +313,7 @@ Elles sont réutilisables des centaines de fois, s'effacent automatiquement apr�
 
 ## Pour aller plus loin
 
+- [Guide de choix — imagerie intra-orale (capteur ou plaque, puis quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)
 - [VistaIntra DC — générateur compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)
 - [VistaRay 7 — capteur intraoral alternatif aux plaques](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
 - [VistaSoft 4.0 — logiciel d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)

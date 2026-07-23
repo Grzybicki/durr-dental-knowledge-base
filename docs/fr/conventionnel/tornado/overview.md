@@ -42,7 +42,7 @@ source_documents:
     ref: "5180300004L03/2508V001"
     type: "notice officielle"
     language: "fr"
-    note: "Modèle actuel (réfs 5180/5280/4280…). Source des débits à 7 bar, volumes aspirés, temps de mise sous pression (0→7,5 bar, sans/avec sécheur), pressions 6/7,8 bar (max 8), ISO 22052 [2:4:2], MDR IIa. Récupérable via qr.duerrdental.com/5180300004."
+    note: "Modèle actuel (réfs 5180/5280/4280…). Source des débits à 7 bar, volumes aspirés, temps de mise sous pression (0→7,5 bar, sans/avec sécheur), pressions 6/7,8 bar (max 8), ISO 22052 [2:4:2], MDR IIa, et du plan de maintenance § 13 (intervalles, pièces d'usure et références : filtre d'admission 5180-982-00, filtre fin 1610-121-00, filtre bactéries/virus 1650100172, filtre à coalescence 1650200323, filtre non tissé 4280-982-00, amortisseurs de vibrations 5180100165/5280100033/4280100045, kit joint de piston 5180100157) + diagnostic § 15 (temps de mise sous pression ↔ usure du joint de piston). Récupérable via qr.duerrdental.com/5180300004."
   - title: "Notice d'installation et d'utilisation Tornado 1 / 2 (génération précédente)"
     ref: "9000-610-60/02/2504V012"
     type: "notice officielle"
@@ -53,7 +53,7 @@ source_documents:
     type: "notice officielle"
     language: "en"
     note: "Génération précédente Tornado 4 (réfs 4280-01 / 4282-01…). Débit 5 bar 235/270 (sans sécheur) / 205/230 (avec) ; temps de mise sous pression ≈ 77 s / ≈ 103 s."
-last_factual_review: 2026-07-22
+last_factual_review: 2026-07-23
 license: CC-BY-4.0
 ---
 
@@ -195,6 +195,76 @@ forme **x / y** correspondent à un fonctionnement **50 Hz / 60 Hz**.
 > Cuve **25 L**, pression max **8 bar**, 66 / 69 dB(A). **Modèle en fin de vie** — conservé pour
 > l'identification du parc installé (son filtre d'admission `5430-982-00` diffère du Tornado actuel).
 
+## Plan de maintenance et pièces d'usure (notice `5180300004L03`)
+
+La notice officielle du NEW Tornado (`5180300004L03`, § 13 « Maintenance ») détaille un **plan de
+maintenance complet**, décliné selon que l'appareil est équipé ou non d'un **dessiccateur à
+membranes**. Règle générale : à **chaque intervention**, vérifier visuellement l'absence de dommages
+— un appareil endommagé ne doit plus être mis en service. Le **filtre d'admission ne se nettoie
+jamais**, il se **remplace**.
+
+### Appareil sans dessiccateur à membranes
+
+| Intervalle | Opération |
+|---|---|
+| **À intervalles réguliers\*** | Vidanger le condensat ; vider le bac collecteur sous le dessiccateur |
+| **Tous les ans** | Remplacer le **filtre d'admission** (tous les **6 mois** si forte concentration de particules) ; remplacer le **filtre non tissé** du collecteur d'eau de condensation |
+| **Tous les 5 ans** | Remplacer l'**amortisseur de vibrations** |
+| **Tous les 10 ans** | Remplacer le **joint de piston** (« manchette ») — voir plus bas |
+| **Selon directives nationales** | Contrôler la **soupape de sécurité** ; réaliser les **contrôles techniques de sécurité périodiques** (cuve de pression, sécurité électrique) |
+
+### Appareil avec dessiccateur à membranes
+
+| Intervalle | Opération |
+|---|---|
+| **À intervalles réguliers\*** | Vider le bac collecteur d'eau sous **chaque** dessiccateur à membranes |
+| **Tous les ans** | Remplacer le **filtre d'admission** (6 mois si forte concentration) ; remplacer le **filtre bactériologique et virucide** resp. le **filtre fin** ; remplacer le **filtre à coalescence** ; vérifier la **vanne de purge des condensats** du dessiccateur |
+| **Tous les 5 ans** | Remplacer l'**amortisseur de vibrations** |
+| **Tous les 10 ans** | Remplacer le **joint de piston** (« manchette ») |
+| **Selon directives nationales** | Soupape de sécurité + contrôles techniques périodiques |
+
+\* L'intervalle dépend des conditions ambiantes et du mode de travail — **quotidien** en cas
+d'hygrométrie élevée.
+
+### Pièces d'usure et de rechange (§ 13.2)
+
+| Pièce | Référence |
+|---|---|
+| Filtre d'admission | `5180-982-00` |
+| Filtre fin | `1610-121-00` |
+| Filtre contre les bactéries et les virus | `1650100172` |
+| Filtre à coalescence | `1650200323` |
+| Filtre non tissé | `4280-982-00` |
+| Set d'amortisseur de vibrations — Tornado 1 | `5180100165` |
+| Set d'amortisseur de vibrations — Tornado 2 | `5280100033` |
+| Set d'amortisseur de vibrations — Tornado 4 | `4280100045` |
+| **Kit de réparation « Joint de piston » (manchette)** | `5180100157` |
+
+Les réparations plus complexes que la maintenance courante sont réservées à un **technicien
+qualifié** ou au **SAV Dürr Dental**. Configurateur de filtres officiel :
+`www.duerrdental.com/filterkonfigurator`.
+
+### Le « joint de piston » (manchette) — pièce d'usure clé
+
+Le **joint de piston** — la pièce d'étanchéité du piston, couramment appelée **« manchette »** (ou
+« manchon de piston ») en clientèle — est la **pièce d'usure caractéristique** du compresseur à
+**piston sans huile** Tornado (les compresseurs
+[Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/) n'en
+comportent pas). La notice fixe son remplacement **tous les 10 ans** (kit `5180100157`).
+
+**Diagnostic par le temps de mise sous pression** (§ 15 « Recherche des défauts ») : si le **volume
+débité chute** et que le compresseur **met plus de temps à remplir la cuve** — à comparer au **temps
+de mise sous pression** publié au § 4 « Caractéristiques techniques » — les causes possibles sont,
+dans l'ordre :
+
+1. **Filtre d'admission encrassé** → le remplacer (au moins 1×/an) ; **ne jamais le nettoyer** ;
+2. **Dessiccateur à membranes défectueux** → le remplacer ;
+3. **Joint de piston usé ou défectueux** → remplacer le **joint de piston** (ou le **piston entier**).
+
+C'est ce lien entre **temps de montée en pression** et **usure du joint de piston** qui fait de la
+valeur nominale publiée (cuve vide → pression d'arrêt, cf. tableau des données techniques) une
+**référence de comparaison** exploitable sur le terrain.
+
 ## Bénéfices
 
 Selon la documentation officielle Dürr Dental :
@@ -246,25 +316,17 @@ certains systèmes CAD/CAM qui exigent **plus de 8 bar**.
 
 ### Maintenance
 
-Deux entretiens **distincts** :
+Résumé de la FAQ web officielle — le **plan complet, les références et le diagnostic** sont dans la
+section **« Plan de maintenance et pièces d'usure »** ci-dessus. Deux entretiens **distincts** :
 
-- **Filtre** — *« The filter in the compressor should be changed 1× per
-  year. »* → changement **annuel** du filtre fin (commun à tous les
-  compresseurs), condition de maintien des **performances** et de la
-  **valeur** du système d'air comprimé.
-- **Manchettes (segments de piston)** — pièce d'usure propre aux
-  compresseurs à **piston sans huile** Tornado. Sur la **NEW Tornado**,
-  l'intervalle de remplacement est porté **jusqu'à 10 ans** — amélioration
-  majeure de durabilité, au cœur du positionnement « conçus pour durer ».
-  L'échéance peut aussi être déterminée **selon l'état**, en mesurant le
-  **temps de montée en pression** du compresseur (s'il s'allonge, le
-  remplacement des manchettes est planifié). La **valeur nominale** de ce
-  temps — de la **cuve vide** jusqu'à la **pression d'arrêt** — est **publiée
-  dans la notice du Tornado** et sert de **référence de comparaison**. Exemple
-  (notice `5180300004L03`, à 50 / 60 Hz) : **Tornado 1 ≈ 104 / 90 s** (0 → 7,5 bar,
-  sans sécheur), **≈ 130 / 113 s** avec sécheur à membrane.
-  *(Les manchettes sont une pièce d'usure **propre à la gamme Tornado** — les
-  compresseurs Silver Airline n'en comportent pas.)*
+- **Filtres** — *« The filter in the compressor should be changed 1× per year. »* → changement
+  **annuel**, condition de maintien des **performances** et de la **valeur** du système d'air comprimé.
+- **Joint de piston (« manchette »)** — pièce d'usure propre aux compresseurs à **piston sans huile**
+  Tornado, remplacée **tous les 10 ans** (kit `5180100157`), au cœur du positionnement « conçus pour
+  durer ». L'échéance peut aussi se déterminer **selon l'état**, via l'allongement du **temps de mise
+  sous pression** (cuve vide → pression d'arrêt) publié au § 4 de la notice `5180300004L03` — par ex.
+  **Tornado 1 ≈ 104 / 90 s** (0 → 7,5 bar, sans sécheur) à 50 / 60 Hz. Les compresseurs **Silver
+  Airline** n'ont pas ce type de joint de piston.
 
 ### Connexion VistaSoft Monitor
 
@@ -358,7 +420,8 @@ acoustique **directement dans la conception** du compresseur.
 > **Maintenance** : remplacement de l'ensemble des filtres **1× par an**.
 > Le dessiccateur à membranes ne nécessite **pas de régénération** (à la
 > différence des dessiccateurs par adsorption qui doivent être
-> régénérés). Le **manchon du piston** se remplace tous les **10 ans**.
+> régénérés). Le **joint de piston** (« manchette ») se remplace tous les **10 ans**
+> (kit `5180100157`) — voir la section « Plan de maintenance et pièces d'usure ».
 
 <script type="application/ld+json">
 {
@@ -404,6 +467,14 @@ acoustique **directement dans la conception** du compresseur.
         "@type": "Answer",
         "text": "Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2025. Données techniques issues de la factsheet P007100308L03."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le plan de maintenance du compresseur Tornado, et tous les combien remplacer la manchette (joint de piston) ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "D'après la notice officielle 5180300004L03 : à intervalles réguliers, vidanger le condensat et vider le bac collecteur ; tous les ans, remplacer le filtre d'admission (tous les 6 mois si forte concentration de particules) et, sur les appareils avec dessiccateur à membranes, le filtre à coalescence et le filtre bactériologique/virucide (ou filtre fin) ; tous les 5 ans, remplacer l'amortisseur de vibrations ; tous les 10 ans, remplacer le joint de piston (couramment appelé « manchette », kit de réparation 5180100157). Le filtre d'admission ne se nettoie jamais, il se remplace. Un allongement du temps de mise sous pression (cuve vide vers pression d'arrêt) peut signaler l'usure du joint de piston."
+      }
     }
   ]
 }
@@ -435,6 +506,17 @@ Non. La documentation officielle précise que le NEW Tornado n'est pas compatibl
 
 Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2025. Données techniques issues de la factsheet P007100308L03.
 
+### Quel est le plan de maintenance du compresseur Tornado, et tous les combien remplacer la manchette (joint de piston) ?
+
+D'après la notice officielle `5180300004L03` : à intervalles réguliers, **vidanger le condensat** et
+vider le bac collecteur ; **tous les ans**, remplacer le **filtre d'admission** (tous les 6 mois si
+forte concentration de particules) et, sur les appareils avec dessiccateur à membranes, le **filtre à
+coalescence** et le **filtre bactériologique/virucide** (ou filtre fin) ; **tous les 5 ans**,
+remplacer l'**amortisseur de vibrations** ; **tous les 10 ans**, remplacer le **joint de piston**
+(couramment appelé **« manchette »**, kit de réparation `5180100157`). Le **filtre d'admission ne se
+nettoie jamais**, il se remplace. Un **allongement du temps de mise sous pression** (cuve vide →
+pression d'arrêt) peut signaler l'usure du joint de piston.
+
 ## Sources publiques
 
 | Document | URL publique |
@@ -456,4 +538,4 @@ Oui : German Design Award 2026 et 1ʳᵉ place de l'Innovations-Champion Award 2
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-07-23. Licence : CC-BY 4.0.*

@@ -14,6 +14,12 @@ Documentation publique de la ligne **imagerie dentaire** Dürr Dental :
 logiciel d'imagerie, panoramiques numériques, CBCT, capteurs intraoraux, scanners de plaques
 au phosphore, caméras intraorales.
 
+## Guides de choix
+
+| Guide | Objet |
+|---|---|
+| **[Choisir son imagerie intra-orale](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)** | Capteur filaire (VistaRay 7) ou plaque ERLM (VistaScan IQ), puis quel scanner VistaScan (Nano Easy, Mini Easy 2.0, Mini View 2.0, Ultra View, Combi View). |
+
 ## Logiciel d'imagerie — VistaSoft (gamme complète)
 
 | Module | Statut réglementaire | Fiche |

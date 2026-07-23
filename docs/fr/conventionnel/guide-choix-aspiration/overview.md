@@ -338,6 +338,10 @@ d'aspiration et évacue les sécrétions, la **séparation d'amalgame** se faisa
 - **CS 60** (volume **300 L**) — raccorde les Tyscor V 20 à V 60. Au-delà de **30 praticiens
   simultanés**, une **seconde entrée de sécrétions** est ajoutée.
 
+> Caractéristiques techniques détaillées des cuves **CS 20 / CS 60** (230 V, dépression, raccords,
+> rinçage eau/Orotol) et de l'unité **V 2400** : voir la fiche
+> [Systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/).
+
 ## FAQPage
 
 <script type="application/ld+json">
