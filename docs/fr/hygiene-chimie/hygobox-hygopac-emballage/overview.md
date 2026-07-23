@@ -258,6 +258,7 @@ Codes article **Dürr Dental** pour le stockage (**Hygobox**), le scellage
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
 | `6030-050-00` | **Hygobox** — cuve de désinfection avec élément filtrant (couvercle anthracite, tamis bleu) | max. 3 l |
+| `6030-060-00` | Hygobox — couvercle anthracite, tamis jaune | max. 3 l |
 | `6030-051-00` | Hygobox — couvercle bleu, tamis blanc | max. 3 l |
 | `6030-061-00` | Hygobox — couvercle jaune, tamis blanc | max. 3 l |
 | `6030-071-00` | Hygobox — couvercle anthracite, tamis blanc | max. 3 l |
@@ -279,6 +280,7 @@ Codes article **Dürr Dental** pour le stockage (**Hygobox**), le scellage
 | `6020-055-50` | Rouleau Hygofol 25,0 cm × 100 m | — |
 | `6020-080-50/03` | **Hygoprint** — système d'étiquetage des sachets de stérilisation | avec 2 rouleaux |
 | `6020-090-50/03` | Rouleaux de recharge Hygoprint | 5 rouleaux de 1 000 étiquettes |
+| `6020-090-51/03` | Rouleaux de recharge Hygoprint (double encollage) | 8 rouleaux de 500 étiquettes |
 | `6020-080-60` | Recharge d'encre de couleur Hygoprint | — |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel

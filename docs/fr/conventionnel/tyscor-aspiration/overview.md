@@ -598,12 +598,26 @@ aucun tarif. La gamme **Tyscor** est une famille : une **référence par unité 
 | `7186100200` | Kit tandem (2 Tyscor V/VS 2 sur une conduite) | évolutivité |
 | `7188100302` | Kit adaptateur Tyscor Tandem Flex | couplage Dürr ou tiers |
 | `7186100030` | Capot d'insonorisation Tyscor V/VS 1 et V/VS 2 | option, a posteriori |
-| `0705-991-50` | Filtre bactériologique (Tyscor V/VS + V/VS 600/900/1200, V 2400) | air de refoulement |
+| `0705-991-50` | Filtre bactériologique (Tyscor V/VS + V/VS 600/900/1200, V 2400) | corps de filtre, air de refoulement |
+| `0705-991-05` | **Cartouche** pour filtre bactério `0705-991-50` | consommable — remplacement **3 500 h / 2 ans** |
 | `7186100400` | Unité de rinçage pour système Tyscor (unité de rinçage Vario) | option |
+| `7186985999` | **Kit de maintenance annuelle — Tyscor VS 1 Plus / VS 2** | clapet de vidange + filtre d'aspiration + Orotol Expert cleaner 120 ml |
+| `7188985999` | **Kit de maintenance annuelle — Tyscor VS 2 Plus / VS 4** | idem + kit clapet anti-retour |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris). La classe MDR IIa n'est certifiée sur DoC
 que pour les cliniques **V 20 / V 30** (cf. section Statut réglementaire).
+
+**Maintenance annuelle (campagne « Save your suction system »).** L'aspiration étant un
+**dispositif médical**, la réglementation impose un **entretien annuel**, à réaliser par un
+**technicien agréé**. Le **kit d'entretien annuel** se choisit par modèle : **`7186985999`**
+pour Tyscor **VS 1+ / VS 2**, **`7188985999`** pour Tyscor **VS 2+ / VS 4**. Chaque kit
+contient : le **filtre d'aspiration** du moteur concerné, le **raccord de vidange anti-retour**,
+une solution de **120 ml d'Orotol Expert cleaner**, la **fiche procédure** d'utilisation de
+l'Orotol Expert cleaner et la **fiche de suivi du dispositif médical**. Le filtre bactério de
+refoulement se recharge séparément via la **cartouche `0705-991-05`** (3 500 h / 2 ans,
+distincte du corps de filtre `0705-991-50`). La sélection par modèle est aussi disponible sur
+le **Kit Finder** officiel Dürr.
 
 ## Sources publiques
 

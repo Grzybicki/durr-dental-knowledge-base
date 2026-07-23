@@ -4,6 +4,31 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.11.0] — 2026-07-23
+
+### Ajouté — conditionnements exhaustifs (hygiène/paro) + kits de maintenance Tyscor
+
+- **Passe « tous conditionnements » sur les gammes restantes** (suite de v0.10.0) :
+  - **HD (mains)** (`desinfection-mains`) : +7 réfs distributeurs/accessoires (L 400 `6000-049-25`,
+    L 1000 `6000-049-26`, RX 5 T `6000049050`, pompes usage unique `6000100007/008`, antivol
+    `6000100018`, support bac `6000-049-29`).
+  - **Lunos** (`lunos-system`) : +15 réfs — réservoirs de poudre **7 coloris**, poudres Gentle Clean
+    **4 senteurs**, pâtes Two in One ×3 + Super Soft ×2, serviette bien-être, canules de réassort.
+  - **Vector** (`vector-paro`) : +14 réfs — **tous les inserts individuels** (Paro, maintenance CFK,
+    péri-implantite, **Scaler P1-P4** + clé dynamométrique).
+  - **Hygobox** (`hygobox-hygopac-emballage`) : +2 réfs (Hygobox `6030-060-00`, Hygoprint double
+    encollage `6020-090-51/03`) → 7 coloris Hygobox complets.
+- **Kits de maintenance Tyscor** (`tyscor-aspiration`) — mapping kit ↔ modèle ajouté sur le **flyer
+  officiel « Save your suction system »** : **`7186985999`** (Tyscor VS 1+ / VS 2), **`7188985999`**
+  (VS 2+ / VS 4) ; **cartouche de refoulement `0705-991-05`** (3 500 h / 2 ans) distinguée du corps
+  de filtre `0705-991-50` ; contenu du kit précisé (filtre aspiration + raccord vidange anti-retour +
+  Orotol Expert cleaner 120 ml + fiche procédure + fiche de suivi DM) ; entretien **annuel obligatoire**
+  (DM) par technicien agréé.
+- **Questionnaire GEO** (`Eval set v1`, vault) : **catégorie G « Maintenance / réf à commander »** (8 Q,
+  dont G8 kit Tyscor), discriminants G2 (filtre admission = 3 µm) / G5 (MD 550 ≠ MD 555) ; A7 signalé à
+  réviser (FD 312 = Certibiocide) ; gap G marqué **résolu**.
+- **Validation** : `validate.py --warn-as-error` **0/0** ; contrôle anti-prix négatif.
+
 ## [0.10.0] — 2026-07-23
 
 ### Ajouté — références article (codes produit Dürr) sur l'ensemble des fiches matériel + chimie

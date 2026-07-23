@@ -315,18 +315,32 @@ Codes article **Dürr Dental** du système **Vector Paro** et de ses inserts / c
 
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
-| `2031-50` | **Vector Paro** — appareil à ultrasons (complet, pièce à main Paro) | appareil |
+| `2031-50` | **Vector Paro** — appareil à ultrasons (pièce à main Paro) | appareil |
 | `2031-51` | **Vector Paro Pro** — appareil à ultrasons (pièces à main Paro + Scaler) | appareil |
+| `SERVC15001` | Extension de garantie à 5 ans Vector Paro | service |
 | `2031-700-00` | Pièce à main Vector (Vector Paro / Paro Pro) | — |
 | `2032-200-00` | Pièce à main Scaler (Vector Paro / Paro Pro / Scaler) | — |
-| `2031-450-00` | Kit d'inserts Paro (traitement des parodontites) | boîte de 5 inserts |
-| `2031-460-00` | Kit d'inserts de maintenance (Recall / implants) | boîte de 4 inserts |
-| `2032-411-00` | Kit d'inserts Scaler P1 (sous-gingival, poches profondes) | — |
+| `2031-450-00` | **Kit d'inserts Paro** (traitement des parodontites) | boîte de 5 inserts |
+| `2031-400-06E` | Insert Sonde Paro Plus (surfaces proximales/linguales/vestibulaires) | 3 pièces |
+| `2030-151-01E` | Insert Sonde Paro droite (vestibulaires / linguales) | 3 pièces |
+| `2030-151-02E` | Insert Flamme Paro (linguales / vestibulaires) | 3 pièces |
+| `2030-151-03E` | Insert Sonde Paro courbe (espaces inter-radiculaires, type Naber) | 3 pièces |
+| `2030-151-04E` | Insert Curette Paro (surfaces proximales) | 3 pièces |
+| `2030-150-06E` | Couvercle du kit d'inserts + clé dynamométrique | — |
+| `2031-460-00` | **Kit d'inserts de maintenance** (Recall / implants) | boîte de 4 inserts |
+| `2030-153-02E` | Insert Sonde de maintenance droite CFK | 3 pièces |
+| `2030-153-05E` | Insert Curette de maintenance CFK (surfaces proximales) | 3 pièces |
+| `2030-152-01E` | Insert Sonde Supra souple (rinçage / polissage) | 3 pièces |
+| `2031-474-01E` | Insert péri-implantite légère (flamme CFK, surfaces d'implants) | 3 pièces |
+| `2032-411-00` | **Kit d'inserts Scaler P1** (sous-gingival, poches profondes) | — |
+| `2032-412-00` | Kit d'inserts Scaler P2 (sous-gingival, incurvé droite) | — |
+| `2032-413-00` | Kit d'inserts Scaler P3 (sous-gingival, incurvé gauche) | — |
+| `2032-414-00` | Kit d'inserts Scaler P4 (supra-gingival, surfaces lisses) | — |
+| `2032100004` | Clé dynamométrique (inserts Scaler) | — |
 | `2032100008` | Kit d'adaptateur de nettoyage Vector | Paro / Paro Pro / Scaler |
 | `CWZ510C2350` | Vector Fluid polish (hydroxylapatite, phosphate de calcium) | 5 × 200 ml |
 | `CCA531A6150` | Vector cleaner (solution acide — circuits internes) | 4 bidons de 2,5 l |
 | `CDZ501C6150` | Vector Désinfection (canal de transport de liquide) | 4 flacons de 2,5 l |
-| `SERVC15001` | Extension de garantie à 5 ans Vector Paro | service |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris).

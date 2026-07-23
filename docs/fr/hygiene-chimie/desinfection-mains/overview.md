@@ -180,6 +180,13 @@ catalogue matériel Dürr Dental France 2026). Le catalogue matériel 2026 réf�
 | `6000-049-24` | Distributeur universel S 400 (levier court, sans contact) | mural |
 | `6000049040` | Distributeur universel RX 5 M (manuel, flacon 500 ml) | mural |
 | `6000049041` | Distributeur universel RX 10 M (manuel, flacon 1 l) | mural |
+| `6000-049-25` | Distributeur universel L 400 (levier long, flacon 500 ml) | mural |
+| `6000-049-26` | Distributeur universel L 1000 (levier long, flacon 1 l) | mural |
+| `6000049050` | Distributeur universel RX 5 T (capteur à pile, flacon 500 ml) | mural / sur pied |
+| `6000100007` | Pompe à usage unique (S 400 / L 400 / Touchless 400) | — |
+| `6000100008` | Pompe à usage unique (L 1000 / Touchless 1000) | — |
+| `6000100018` | Douille d'obturation antivol (Touchless 1000) | — |
+| `6000-049-29` | Support pour bac (Touchless 400 / 1000) | — |
 | `CEH4XXA9750` | Pompe de dosage pour bidon de 1 l (HD 420 plus) | — |
 | `CEH200C9700` | Pompe de dosage pour bidon de 500 ml (HD 420 plus / HD 435) | — |
 

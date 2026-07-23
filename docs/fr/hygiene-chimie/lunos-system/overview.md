@@ -267,19 +267,35 @@ poudres, pâtes, fluor, accessoires), d'après le catalogue matériel Dürr Dent
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
 | `2034900050` à `2034900054` | **MyLunos** — pièce à main d'aéropolisseur Set Supra | 5 variantes selon le raccord rapide de la turbine |
-| `2034910050` à `2034910054` | **MyLunos** — pièce à main d'aéropolisseur Set pro (supra + sous-gingival) | 5 variantes selon le raccord rapide de la turbine |
+| `2034910050` à `2034910054` | **MyLunos** — pièce à main Set pro (supra + sous-gingival) | 5 variantes selon le raccord rapide de la turbine |
 | `2034440000` | Buse Supra (application supra-gingivale) | pour MyLunos / MyLunos Duo |
-| `2034430000` | Buse Perio (nettoyage sous-gingival, poches / implants) | pour MyLunos / MyLunos Duo |
-| `2034100196` | Réservoir de poudre (bleu) | système de compartiment interchangeable |
+| `2034430000` | Buse Perio (sous-gingival, poches / implants) | pour MyLunos / MyLunos Duo |
+| `2034900200` | Buse Perio (variante) | pour MyLunos / MyLunos Duo |
 | `2034100020` | Pointes Lunos Perio (usage unique, stériles) | 40 pièces |
-| `CPZ610A2250` | **Lunos** Poudre prophylactique Gentle Clean neutre (supra-gingival) | 4 flacons de 180 g |
-| `CPZ640A1950` | **Lunos** Poudre prophylactique Perio Combi (sous- et supra-gingival) | 4 flacons de 100 g |
-| `CPZ710A1901` | Lunos Pâte de polissage Two in One neutre (RDA < 28, hydroxylapatite) | 10 tubes de 100 g |
-| `CPZ740A0901` | Lunos Pâte de polissage Super Soft neutre (RDA < 5) | 10 tubes de 50 g |
-| `CPZ01PA9700` | Lunos Anneau Prophy (application ergonomique) | 8 pièces |
+| `2034100196` | Réservoir de poudre **bleu** | 1 pièce |
+| `2034100104` | Réservoir de poudre bleu | 2 pièces |
+| `2034100197` | Réservoir de poudre **orange** | 1 pièce |
+| `2034100105` | Réservoir de poudre orange | 2 pièces |
+| `2034100245` | Réservoir de poudre **vert menthe** | 1 pièce |
+| `2034100261` | Réservoir de poudre **rouge cerise** | 1 pièce |
+| `2034100289` | Réservoir de poudre **violet** | 1 pièce |
+| `2034100147` | Socle pour réservoir de poudre | — |
+| `CPZ640A1950` | **Poudre Perio Combi** (sous- et supra-gingival) | 4 flacons de 100 g |
+| `CPZ610A2250` | **Poudre Gentle Clean** neutre (supra-gingival) | 4 flacons de 180 g |
+| `CPZ620A2250` | Poudre Gentle Clean orange | 4 flacons de 180 g |
+| `CPZ630A2250` | Poudre Gentle Clean menthe verte | 4 flacons de 180 g |
+| `CPZ650A2250` | Poudre Gentle Clean baies sauvages | 4 flacons de 180 g |
+| `CPZ710A1901` | **Pâte Two in One** neutre (RDA < 28, hydroxylapatite) | 10 tubes de 100 g |
+| `CPZ720A1901` | Pâte Two in One orange | 10 tubes de 100 g |
+| `CPZ730A1901` | Pâte Two in One menthe (1500 ppm fluor) | 10 tubes de 100 g |
+| `CPZ740A0901` | **Pâte Super Soft** neutre (RDA < 5, implants / ortho / prothèses) | 10 tubes de 50 g |
+| `CPZ750A0901` | Pâte Super Soft orange | 10 tubes de 50 g |
+| `CPZ01PA9700` | Anneau Prophy (application ergonomique) | 8 pièces |
 | `CPZ010A2240` | **Gel fluoré Lunos** (fluorure de sodium 12 300 ppm) | 12 flacons de 250 ml |
-| `CPZ021A0050` | Lunos Scellement de fissures Opaque (photopolymérisable, fluoré) | kit 2 seringues 1,5 g + 10 canules |
-| `CPZ00PA9700` | Lunos Coussin Prophy (repose-tête viscoélastique) | 180 × 180 × 100 mm |
+| `CPZ021A0050` | Scellement de fissures Opaque (photopolymérisable, fluoré) | kit 2 seringues 1,5 g + 10 canules |
+| `CPZ07PA9700` | Pack de réassort — canules d'application (Ø 0,9 mm, L 10 mm) | 10 sets de 30 |
+| `CPZ00PA9700` | Coussin Prophy (repose-tête viscoélastique) | 180 × 180 × 100 mm |
+| `CPZ05PA9700` | Serviette bien-être Prophy (lingette imprégnée, chaud/froid) | 50 lingettes |
 | `2044900800` | Chariot Lunos (dispositif médical mobile, 3 tablettes) | mobile |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
