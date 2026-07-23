@@ -91,10 +91,20 @@ La gamme a reçu le **German Design Award 2022** dans la catégorie
 
 ## Statut réglementaire
 
-Les compresseurs Dürr Dental sont des **dispositifs médicaux de classe
-IIa** selon le règlement européen **MDR EU 2017/745**. Cette
-classification reflète leur rôle dans la fourniture d'air médical au
-cabinet dentaire.
+Les compresseurs Dürr Dental **Silver Airline** sont des **dispositifs
+médicaux de classe IIa** selon le règlement européen **MDR EU 2017/745**
+(procédure d'évaluation **Annexe II**, organisme notifié **DQS
+Medizinprodukte GmbH n° 0297**). La **déclaration de conformité
+compresseurs** (réf `9501-20-100`) couvre les modèles **Duo, Trio,
+Quattro, Duo-Tandem, Quattro-Tandem et Quattro P 20** (tous **IIa**).
+
+Un **certificat destiné au cabinet** (« le compresseur installé est
+certifié dispositif médical de classe IIa, MDR EU 2017/745 ») atteste
+cette conformité et souligne que les compresseurs **à dessiccateur à
+membranes + filtre bactériologique ULPA U16** satisfont la norme **ISO
+22052** (air comprimé dentaire hygiénique). Les **compresseurs CAD/CAM**
+(déclinaison « Silver Airline X CAD CAM ») relèvent de la **même
+certification** — voir la [fiche CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/).
 
 ## Qualité d'air ISO 22052
 

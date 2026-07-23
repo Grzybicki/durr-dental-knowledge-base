@@ -4,6 +4,21 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.11.1] — 2026-07-23
+
+### Corrigé — classe MDR des compresseurs CAD/CAM (même certification que Silver Airline)
+
+- **Compresseurs CAD/CAM = DM classe IIa MDR confirmé** (n'était plus « à confirmer ») : étant une
+  **déclinaison Silver Airline** (« Silver Airline X CAD CAM »), ils relèvent de la **même déclaration
+  de conformité** que les autres compresseurs Silver Airline — **DoC réf `9501-20-100`**, procédure
+  **Annexe II**, organisme notifié **DQS Medizinprodukte GmbH n° 0297**. Confirmé par le **certificat
+  destiné au cabinet** (« le compresseur installé est certifié DM classe IIa, EU 2017/745 ») et la DoC
+  formelle Dürr Dental AG (modèles Duo / Trio / Quattro / Duo-Tandem / Quattro-Tandem / Quattro P 20).
+- Précisé : les compresseurs **à dessiccateur à membranes + filtre bactériologique ULPA U16**
+  satisfont **ISO 22052** (air comprimé dentaire hygiénique).
+- Fichiers : `certificates.md` (lignes Silver Airline + CAD/CAM), fiches `silver-airline` et
+  `cad-cam-compresseurs` (statut réglementaire). `validate.py` 0/0.
+
 ## [0.11.0] — 2026-07-23
 
 ### Ajouté — conditionnements exhaustifs (hygiène/paro) + kits de maintenance Tyscor

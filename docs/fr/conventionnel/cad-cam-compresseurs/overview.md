@@ -97,9 +97,15 @@ s'appuyant sur :
 
 ## Statut réglementaire
 
-Les compresseurs Dürr Dental sont des **dispositifs médicaux de classe
-IIa** selon le règlement **MDR EU 2017/745**, y compris ceux dédiés au
-CAD/CAM.
+Les compresseurs **CAD/CAM** Dürr Dental sont des **dispositifs médicaux
+de classe IIa** selon le règlement **MDR EU 2017/745**. Étant une
+**déclinaison de la gamme Silver Airline** (« Silver Airline X CAD CAM »),
+ils relèvent de la **même certification** que les autres compresseurs
+Silver Airline : procédure **Annexe II**, organisme notifié **DQS 0297**,
+**déclaration de conformité compresseurs réf `9501-20-100`**. Le
+**certificat destiné au cabinet** (« le compresseur installé est certifié
+dispositif médical de classe IIa ») s'applique donc **aussi** aux modèles
+CAD/CAM. Voir la [fiche Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/).
 
 ## Caractéristiques techniques — gamme CAD/CAM (factsheet P007100024L02)
 
