@@ -129,8 +129,17 @@ Points importants (verbatim documentation officielle) :
 
 ## Statut réglementaire
 
-Dispositifs médicaux de **classe IIa** selon le règlement **MDR EU
-2017/745**.
+Le **Power Tower** (gammes **Silence 120** et **View**) est un **dispositif
+médical de classe IIa** selon le règlement **MDR EU 2017/745** (Annexe IX
+chapitres I + III), déclaré par **Dürr Dental SE** (SRN `DE-MF-000006032`).
+La déclaration de conformité UE (du **2025-07-22**, valide **jusqu'au
+2027-03-10**) mentionne l'organisme notifié **DQS Medizinprodukte GmbH n° 0297**,
+certificat **518373 MDR2017Q**, dossiers techniques **CE-120-A / CE-120-B**.
+Elle couvre aussi les directives **RoHS 2011/65/UE**, récipients sous pression
+simples **2014/29/UE** et équipements sous pression **2014/68/UE** (Art. 4 §3).
+
+**Basic UDI-DI** (identifiants EUDAMED) : **Power Tower Silence 120** =
+`++E2471056YF` ; **Power Tower View** = `++E2471057YH`.
 
 ## Bénéfices clés
 

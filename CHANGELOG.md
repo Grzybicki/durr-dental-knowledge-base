@@ -4,6 +4,20 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.11.2] — 2026-07-23
+
+### Ajouté — DoC officiel Power Tower (classe IIa confirmée + Basic UDI-DI EUDAMED)
+
+- **Power Tower Silence 120 et Power Tower View = DM classe IIa MDR confirmé** sur la **déclaration de
+  conformité officielle Dürr Dental SE** (`DoC_PowerTower` du 2025-07-22, valide jusqu'au 2027-03-10) :
+  **MDR (UE) 2017/745 Annexe IX ch. I + III**, NB **DQS Medizinprodukte 0297**, cert **518373 MDR2017Q**,
+  dossiers techniques **CE-120-A / CE-120-B**, SRN **DE-MF-000006032** (+ RoHS 2011/65/UE, récipients/
+  équipements sous pression 2014/29/UE & 2014/68/UE).
+- **Basic UDI-DI (EUDAMED)** : Power Tower Silence 120 = **`++E2471056YF`**, Power Tower View =
+  **`++E2471057YH`**. Réfs Silence `0950-52/53/56`, réfs View `A949…000` (déjà en fiche, confirmées).
+- Résout la ligne Power Tower « à confirmer » de `certificates.md`. Fiche `power-tower` (statut
+  réglementaire) + `certificates.md` alignés. `validate.py` 0/0.
+
 ## [0.11.1] — 2026-07-23
 
 ### Corrigé — classe MDR des compresseurs CAD/CAM (même certification que Silver Airline)
