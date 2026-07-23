@@ -102,10 +102,15 @@ réf `1800100100`).
 
 La **gamme radiale clinique complète** (Planning Information `1802100026L02`) couvre cinq modèles —
 **Tyscor V 20** (`1802100510`, jusqu'à **30 postes**), **V 30** (`1803100510`, **50 postes**),
-**V 40** (`1808000040`), **V 50** (`1808000050`), **V 60** (`1808000060`, **100 postes**). ⚠️ Le DoC
-fourni ne **certifie explicitement que les V 20 et V 30** ; les **REF des V 40 / V 50 / V 60**
-proviennent de la Planning Information (leur classe MDR n'est pas reportée sur ce DoC). Les modèles
-**poste unique** (V/VS 1, 2, 4) ne sont pas couverts par ce DoC clinique.
+**V 40** (`1808000040`), **V 50** (`1808000050`), **V 60** (`1808000060`, **100 postes**).
+
+Le DoC « Clinic Suction Systems » **liste explicitement les V 20 et V 30**. Les **V 40 / V 50 / V 60**
+sont des **assemblages de ces mêmes modules** (V 40 = 2× V 20, V 50 = V 20 + V 30, V 60 = 2× V 30 —
+cf. architecture modulaire ci-dessous) : constitués des **mêmes unités d'aspiration RV 10 déjà
+certifiées DM IIa**, ils relèvent de la **même classe IIa** (même système qualité / certificat
+**518373 MDR2017Q**, NB DQS **0297**). Les REF `1808000040 / 1808000050 / 1808000060` proviennent de
+la Planning Information `1802100026L02`. Les modèles **poste unique** (V/VS 1, 2, 4) ne sont pas
+couverts par ce DoC clinique.
 
 ## Gamme clinique — architecture modulaire (V 20 – V 60)
 
