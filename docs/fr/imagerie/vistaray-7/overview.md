@@ -243,6 +243,36 @@ VistaRay 7 est un **dispositif médical de classe IIa** selon le règlement
 Source : Déclaration de Conformité VistaRay 7 (récupérable via le Centre de
 téléchargements Dürr Dental France ou la base européenne **Eudamed**).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. VistaRay 7 existe en **deux tailles de capteur** (SKU distincts) : tableau
+de références sans code produit unique.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2121-100-70` | Capteur de rayons X **VistaRay 7 taille 1** | capteur 7.1 + kit système |
+| `2121-100-71` | Capteur de rayons X **VistaRay 7 taille 2** | capteur 7.2 |
+| `2121-100-80` | Accessoires pour poste de travail supplémentaire | support capteur + module VistaSoft |
+| `2121-981-70` | Kit d'angulateurs pour système VistaRay | taille 1 |
+| `2121-981-71` | Porte-film antérieur | capteur T1, 4 pièces |
+| `2121-981-72` | Porte-film postérieur | capteur T1, 4 pièces |
+| `2121-981-74` | Porte-film kit endo (gauche + droit) | capteur T1, 2 pièces |
+| `2121-981-73` | Porte-film bite-wing | capteur T1, 4 pièces |
+| `2130100017` | Tige-guide universelle (postérieur/antérieur) | 1 pièce |
+| `2130100019` | Tige-guide endo | 1 pièce |
+| `2130100018` | Tige-guide bite-wing | 1 pièce |
+| `2121-981-22` | Anneau de visée Duo (antérieur/postérieur/endo) | 1 pièce |
+| `2121-981-23` | Anneau de visée bite-wing | 1 pièce |
+| `2121-981-31` | Porte-câble (clip de fixation du câble capteur) | 4 pièces |
+| `2121-060-54` | Mire de résolution numérique Intra / Extra | DIN 6868-51 / 6868-5 |
+| `2121-010-50` | Sachets de protection hygiénique | 100 pièces |
+| `2121-010-51` | Sachets de protection hygiénique | 500 pièces |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

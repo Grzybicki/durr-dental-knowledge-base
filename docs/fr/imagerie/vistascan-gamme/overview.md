@@ -302,6 +302,24 @@ La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lé
 
 Elles sont réutilisables des centaines de fois, s'effacent automatiquement après le scan et existent en plusieurs formats intra-oraux (0, 1, 2, 3, 4).
 
+## Références produit et accessoires (gamme)
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur les pages produit
+officielles et les distributeurs agréés). **Prix exclus.** Les réfs des **écrans à
+mémoire** (IQ et Plus), **sachets**, **packs** et **supports d'écran** sont détaillées
+sur la fiche [Écrans VistaScan IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/).
+
+| Scanner | Réf appareil | Support mural | Autres réfs |
+|---|---|---|---|
+| **VistaScan Nano Easy** | `2160110001` | `2160100210` | garantie 5 ans `SERVC23004` |
+| **VistaScan Mini Easy 2.0** | `2144110001` | `2144100021` | housse `2144100195`, rack guides `2144100079`, garantie `SERVC23003` |
+| **VistaScan Mini View 2.0** | `2144110101` | `2144100021` | [Smart Reader](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/) `2162100005` (2 inclus), housse `2144100196`, rack `2144100079`, garantie `SERVC23003` |
+| **VistaScan Ultra View** | `2170110001` | `2170100100` | housse `2170100302`, rack guides `2170103000`, garantie `SERVC23006` |
+| **VistaScan Combi View** | `2151-01` | `2151-001-00` | garantie `SERVC23001` |
+
+Source : codes article Dürr Dental (pages produit officielles + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

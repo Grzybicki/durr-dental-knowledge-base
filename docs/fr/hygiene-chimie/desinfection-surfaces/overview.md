@@ -228,6 +228,75 @@ Oui : les FD 350 green wipes sont des lingettes éco-conçues en fibres naturell
 
 Oui. Le FD 312 a un double statut : dispositif médical (MDR 2017/745) et produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211). Le TP2 relevant du Certibiocide « désinfectants » (TP2/3/4) depuis le 1er janvier 2024, un cabinet qui utilise le FD 312 doit disposer d'au moins une personne titulaire du Certibiocide.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** de la famille **FD** (désinfection des surfaces). La chimie
+Dürr est fabriquée par **orochemie** en marque privée, mais les codes ci-dessous sont les
+identifiants Dürr Dental publics (page produit officielle + catalogue matériel Dürr Dental
+France 2026). Chaque produit dispose d'un code **par format / conditionnement**.
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / conditionnement |
+|---|---|---|
+| `CDF300C6150` | **FD 300** — surfaces, concentré virucide (1 %/15 min) | 4 bidons de 2,5 l |
+| `CDF312C6150` | **FD 312** — surfaces, concentré (biocide TP2 N-21211 ; 1 %/15 min) | 4 bidons de 2,5 l |
+| `CDF312B1501` | FD 312 **wet wipes** — lingettes sans alcool (220 × 420 mm ; biocide N-21523) | 10 paquets de 15 |
+| `CDF322C6150` | **FD 322** — désinfection rapide alcool (1 min) | 4 bidons de 2,5 l |
+| `CDF322A5550` | FD 322 — pulvérisation | 6 bidons de 1 l |
+| `CDF322H4550` | FD 322 — pour Hygowipe Plus | 6 bidons de 750 ml |
+| `CDF322C9150` | FD 322 | bidon de 10 l |
+| `CDF322A6151` | **FD 322 perfume free** — sans parfum | 4 bidons de 2,5 l |
+| `CDF322A9151` | FD 322 perfume free | bidon de 10 l |
+| `CDF322A0152` | FD 322 **premium wipes** (140 × 190 mm) | 12 boîtes de 80 |
+| `CDF322A1252` | FD 322 premium wipes (recharge) | 12 × 80 |
+| `CDF322F0450` | FD 322 **top wipes** (175 × 250 mm) | 6 paquets de 50 |
+| `CDF322W0150` | FD 322 **wipes** sans odeur (200 × 300 mm) | distributeur de 100 |
+| `CDF322W0450` | FD 322 wipes sans odeur (recharge) | 4 × 100 |
+| `CDF333C6150` | **FD 333** — désinfection rapide, odeur citron (1 min) | 4 bidons de 2,5 l |
+| `CDF333A5550` | FD 333 — pulvérisation | 6 bidons de 1 l |
+| `CDF333H4550` | FD 333 — pour Hygowipe Plus | 6 bidons de 750 ml |
+| `CDF333C9150` | FD 333 | bidon de 10 l |
+| `CDF333A0140` | FD 333 **wipes** (140 × 220 mm) | 12 boîtes de 110 |
+| `CDF333A1240` | FD 333 wipes (recharge) | 12 × 110 |
+| `CDF333F0450` | FD 333 **top wipes** (175 × 250 mm) | 6 paquets de 50 |
+| `CDF33FA6150` | **FD 333 forte** — totalement virucide (1 min) | 4 bidons de 2,5 l |
+| `CDF33FA5550` | FD 333 forte — pulvérisation | 6 bidons de 1 l |
+| `CDF33FA9150` | FD 333 forte | bidon de 10 l |
+| `CDF33FA0140` | FD 333 forte **premium wipes** (140 × 190 mm) | 12 boîtes de 80 |
+| `CDF33FA1240` | FD 333 forte premium wipes (recharge) | 12 × 80 |
+| `CDF33FW0150` | FD 333 forte **wipes** sans odeur (200 × 300 mm) | distributeur de 100 |
+| `CDF33FW0450` | FD 333 forte wipes (recharge) | 4 × 100 |
+| `CDF35GA0152` | **FD 350 green** — lingettes fibres naturelles sans plastique (140 × 190 mm) | 12 boîtes de 50 |
+| `CDF35GA1252` | FD 350 green (recharge) | 12 × 50 |
+| `CDF35CA0140` | **FD 350 Classic** — lingettes (140 × 220 mm) | 12 boîtes de 110 |
+| `CDF35CA1240` | FD 350 Classic (recharge) | 12 × 110 |
+| `CDF35FA0140` | FD 350 **Flower** — lingettes | 12 boîtes de 110 |
+| `CDF35FA1240` | FD 350 Flower (recharge) | 12 × 110 |
+| `CDF35LA0140` | FD 350 **Lemon** — lingettes | 12 boîtes de 110 |
+| `CDF35LA1240` | FD 350 Lemon (recharge) | 12 × 110 |
+| `CDF366C6150` | **FD 366 sensitive** — surfaces délicates, base alcool (1 min) | 4 bidons de 2,5 l |
+| `CDF366A5550` | FD 366 sensitive — pulvérisation | 6 bidons de 1 l |
+| `CDF366H4550` | FD 366 sensitive — pour Hygowipe Plus | 6 bidons de 750 ml |
+| `CDF366C9150` | FD 366 sensitive | bidon de 10 l |
+| `CDF366A0150` | FD 366 sensitive **wipes** (200 × 300 mm) | boîte de 100 |
+| `CDF366A0450` | FD 366 sensitive wipes (recharge) | 4 × 100 |
+| `CDF366F0450` | FD 366 sensitive **top wipes** (175 × 250 mm) | 6 paquets de 50 |
+| `CEF358C0150` | **FD multi wipes** — lingettes sèches à imprégner (tous désinfectants surfaces Dürr ; 200 × 300 mm) | boîte de 180 |
+| `CEF358C0450` | FD multi wipes (recharge) | 4 × 180 |
+| `CEF358K0150` | **FD multi wipes compact** (290 × 300 mm) | boîte |
+| `CEF358K0850` | FD multi wipes compact (recharge) | recharges |
+| `CCF360C2550` | **FD 360** — nettoyage/entretien simili-cuir (soin du fauteuil) | 250 ml + chiffon + 5 éponges |
+| `CEF360T1000` | Lingette de polissage FD (microfibres, 32 × 32 cm) | 10 lingettes |
+| `CEF320C9700` | Flacon vaporisateur (FD 322 / 333 / 333 forte / 366) | 500 ml |
+| `CEF3XXA9700` | Tête de vaporisateur (à visser sur bidon 1 l) | — |
+| `CED100A9700` | Robinet pour bidon de 10 l | — |
+| `6010-001-50` | Rouleaux Hygowipe Plus (cellulose 2 couches) | 6 rouleaux |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Note : les **FD multi wipes green**
+(`CEF359*`) sont **arrêtés** (PPO 12/2025) et ne sont pas repris. **FD 350** existe en
+quatre senteurs (green, Classic, Flower, Lemon) — lingettes uniquement.
+
 ## Sources publiques
 
 | Document | URL publique |

@@ -166,22 +166,88 @@ de **renouvellement futur du scanner** vers un modèle 2.0, le passage aux
 **plaques IQ** débloque automatiquement les fonctionnalités RFID +
 attribution automatique + suivi qualité IA.
 
-## Packs IQ disponibles (catalogue Dürr Dental France)
+## Références produit et accessoires (écrans à mémoire)
 
-Le catalogue 2026 référence cinq packs prêts à l'emploi (un par taille) qui
-combinent les écrans à mémoire IQ et les sachets de protection contre la lumière :
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Les écrans **IQ** équipent les scanners **série 2.0** (RFID) ; les écrans
+**Plus** équipent le **VistaScan Combi View** et le **parc série 1.0** (Mini Easy, Mini
+Plus, Mini View, Perio, Perio Net).
 
-| Référence | Pack | Composition |
+### Écrans à mémoire IQ (RFID) — scanners série 2.0
+
+| Réf (code Dürr) | Écran / pack | Format |
 |---|---|---|
-| `2130106051` | Pack Taille 0 VistaScan IQ | 2 écrans IQ Taille 0 + 1000 sachets de protection |
-| `2130106151` | Pack Taille 1 VistaScan IQ | 2 écrans IQ Taille 1 + 1000 sachets de protection |
-| `2130106251` | Pack Taille 2 VistaScan IQ | 2 écrans IQ Taille 2 + 1000 sachets de protection |
-| `2130106351` | Pack Taille 3 VistaScan IQ | 2 écrans IQ Taille 3 + 1000 sachets de protection |
-| `2130106451` | Pack Taille 4 VistaScan IQ | 1 écran IQ Taille 4 + 100 sachets de protection |
+| `2130104050` | Écran à mémoire IQ (2 pièces, à l'unité) | T0 (2×3) |
+| `2130104150` | Écran à mémoire IQ (2 pièces, à l'unité) | T1 (2×4) |
+| `2130104250` | Écran à mémoire IQ (4 pièces, à l'unité) | T2 (3×4) |
+| `2130104255` | Écran à mémoire IQ (12 pièces) | T2 (3×4) |
+| `2130104350` | Écran à mémoire IQ (2 pièces, à l'unité) | T3 (2,7×5,4) |
+| `2130104450` | Écran à mémoire IQ (1 pièce, à l'unité) | T4 (5,7×7,6) |
+| `2130106051` | Pack IQ — 2 écrans + 1000 sachets de protection | T0 |
+| `2130106151` | Pack IQ — 2 écrans + 1000 sachets de protection | T1 |
+| `2130106251` | Pack IQ — 2 écrans + 1000 sachets de protection | T2 |
+| `2130106351` | Pack IQ — 2 écrans + 1000 sachets de protection | T3 |
+| `2130106451` | Pack IQ — 1 écran + 100 sachets de protection | T4 |
 
-Les références exactes et tarifs sont consultables auprès du service
-commercial Dürr Dental France (les tarifs ne sont pas reproduits ici,
-susceptibles d'évoluer).
+### Écrans à mémoire Plus (sans RFID) — Combi View + parc série 1.0 (Mini Easy / Plus / View, Perio, Perio Net)
+
+| Réf (code Dürr) | Écran | Format |
+|---|---|---|
+| `2130-040-50` | Écran à mémoire Plus (2 pièces) | T0 (2×3) |
+| `2130-041-50` | Écran à mémoire Plus (2 pièces) | T1 (2×4) |
+| `2130-042-50` | Écran à mémoire Plus (4 pièces) | T2 (3×4) |
+| `2130-042-55` | Écran à mémoire Plus (12 pièces) | T2 (3×4) |
+| `2130-043-50` | Écran à mémoire Plus (2 pièces) | T3 (2,7×5,4) |
+| `2130-044-50` | Écran à mémoire Plus (1 pièce) | T4 (5,7×7,6) |
+| `2130-040-60` | Écran à mémoire Plus **ID** (repère cuivre) (2 pièces) | T0 (2×3) |
+| `2130-042-60` | Écran à mémoire Plus **ID** (repère cuivre) (4 pièces) | T2 (3×4) |
+
+### Écrans à mémoire extra-oraux (Combi View, Pano / Omni View)
+
+| Réf (code Dürr) | Écran (livré avec support) | Format |
+|---|---|---|
+| `2130-050-00` | Écran à mémoire Pano | 12,7×30,5 |
+| `2130-051-00` | Écran à mémoire Pano | 15×30 |
+| `2130-052-00` | Écran à mémoire Céphalo | 18×24 |
+| `2130-054-00` | Écran à mémoire Céphalo | 20×24 |
+| `2130-053-00` | Écran à mémoire Céphalo | 24×30 |
+
+### Sachets de protection contre la lumière (communs IQ et Plus)
+
+| Réf (code Dürr) | Conditionnement | Format |
+|---|---|---|
+| `2130-080-00` | 100 pièces | T0 |
+| `2130-081-00` | 100 pièces | T1 |
+| `2130108251` | 100 pièces | T2 |
+| `2130-082-00` | 300 pièces | T2 |
+| `2130-082-55` | 1000 pièces | T2 |
+| `2130-083-00` | 100 pièces | T3 |
+| `2130-084-00` | 100 pièces | T4 |
+| `2130-074-03` | Protection de mordu occlusale (100) | T4 |
+
+### Supports d'écran (cassettes) et rangement
+
+| Réf (code Dürr) | Support d'écran | Format |
+|---|---|---|
+| `2130-030-00` | Rangement pour supports d'écran T0 à T4 | — |
+| `2130-010-00` | Support d'écran Plus | T0 |
+| `2130-011-00` | Support d'écran Plus | T1 |
+| `2130-012-00` | Support d'écran | T2 |
+| `2130-013-00` | Support d'écran | T3 |
+| `2130-014-00` | Support d'écran | T4 |
+| `2130-021-00` | Support d'écran Pano | 12,7×30,5 |
+| `2130-022-00` | Support d'écran Pano | 15×30 |
+| `2130-023-00` | Support d'écran Céphalo | 18×24 |
+| `2130-024-00` | Support d'écran Céphalo | 24×30 |
+| `2130-025-00` | Support d'écran Céphalo | 20×24 |
+| `2130-026-00` | Support d'écran | 13×18 |
+| `2141-002-00` | Boîte de rangement des écrans à mémoire intra-oraux | — |
+| `2130-006-00` | Repères en cuivre autocollants (10) — détection d'exposition inversée | — |
+| `CCB351B1001` | Lingettes de nettoyage écrans à mémoire (10) | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
 
 ## Intégration VistaSoft AI
 

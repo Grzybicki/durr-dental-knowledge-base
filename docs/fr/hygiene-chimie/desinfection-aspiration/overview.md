@@ -330,6 +330,34 @@ L'Orotol expert cleaner est un nettoyant hautement alcalin (pH > 13) **réservé
 
 La ligne durable comprend l'**Orotol plus pH 7** (désinfectant neutre, > 95 % d'ingrédients biodégradables OECD) et le **MD 555 cleaner organic** (nettoyant à base d'**acide citrique**, sans parfum ni colorant, particulièrement adapté aux **eaux dures** et aux **poudres de prophylaxie**). Le MD 555 cleaner organic s'utilise à **5 % au moins deux fois par semaine** (temps d'action ≥ 30 min), ou à **10 % en alternance** avec un Orotol pour les biofilms marqués.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** pour la désinfection/entretien des systèmes d'aspiration
+(gamme **Orotol / MD 555**). La chimie Dürr est fabriquée par **orochemie** en marque
+privée ; les codes ci-dessous sont les identifiants Dürr Dental publics (catalogue matériel
+Dürr Dental France 2026). **Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / conditionnement |
+|---|---|---|
+| `CDS110P6150` | **Orotol plus** — désinfection quotidienne des systèmes d'aspiration (DM IIa) | bidon 2,5 l |
+| `CDS110P5550` | Orotol plus | bidon 1 l |
+| `CDS110P9599` | Orotol plus | bidon 30 l |
+| `CDS117A6150` | **Orotol plus pH 7** — variante à pH neutre (matériaux sensibles) | bidon 2,5 l |
+| `CCS555C6150` | **MD 555 cleaner** — nettoyage spécial aspiration (DM classe I) | bidon 2,5 l |
+| `CCS555C5550` | MD 555 cleaner | bidon 1 l |
+| `CCS556A6150` | **MD 555 cleaner organic** — variante à base d'acide citrique naturel | bidon 2,5 l |
+| `CDS110A9950` | **Combi-set** — kit d'entretien aspiration (désinfection + nettoyage) | 2 × 2,5 l Orotol plus + 2 × 2,5 l MD 555 cleaner |
+| `CDS110P9950` | **Kit de démarrage Orotol** | 2,5 l Orotol plus + 2,5 l MD 555 cleaner + 750 ml MD 550 + OroCup |
+| `CCH010A2001` | **Orotol Expert Cleaner** — nettoyage technicien en profondeur (ex-« Expert Cleaner ») | par 9 unités |
+| `0780-350-00` | **OroCup** — système d'entretien fermé (adaptateur tuyaux d'aspiration) | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Note : les formats **1 l** d'**Orotol plus
+pH 7** (`CDS117A5550`) et de **MD 555 cleaner organic** (`CCS556A5550`) sont **arrêtés**
+(restent en 2,5 l). Le nettoyant crachoir **MD 550** (750 ml) figure ici dans le kit de
+démarrage ; son code article individuel relève de la
+[désinfection des instruments/empreintes](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/).
+
 ## Sources publiques
 
 | Document | URL publique |

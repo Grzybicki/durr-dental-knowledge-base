@@ -568,6 +568,43 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 
 Selon la Planning Information Dürr Dental `1802100026L02`, chaque station Tyscor clinique est faite d'**unités d'aspiration** (module **RV 10**) regroupées en **tours de 3 unités maximum**, deux tours pouvant être **couplées via bus CAN** (une tour principale pilote les auxiliaires). Le **Tyscor V 20 = 1 tour de 2 unités**, le **V 30 = 1 tour de 3 unités**. Les grands modèles sont des **combinaisons** : le **V 40 = deux V 20** (2 × 2 unités), le **V 50 = un V 20 + un V 30** (2 + 3 unités), et le **V 60 = deux V 30** (2 × 3 unités).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. La gamme **Tyscor** est une famille : une **référence par unité d'aspiration**
+(cabinet) ou par **station clinique**, plus les kits d'évolution (licence, tandem, filtre).
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `7182100200` | Moteur d'aspiration Tyscor V 1 Plus (sec) | poste unique, 1 praticien |
+| `7182100100` | Unité d'aspiration Tyscor VS 1 Plus (humide) | poste unique, 1 praticien |
+| `7182500001` | Unité d'aspiration Tyscor VSA 1 Plus (humide + amalgame) | poste unique, 1 praticien |
+| `7177-01` | Moteur d'aspiration Tyscor V 2 (sec) | centralisé, 2 praticiens |
+| `7186-01` | Unité d'aspiration Tyscor VS 2 (humide) | centralisé, 2 praticiens |
+| `7188200200` | Moteur d'aspiration Tyscor V 2 Plus (sec) | centralisé, évolutif V 4 |
+| `7188200100` | Unité d'aspiration Tyscor VS 2 Plus (humide) | centralisé, évolutif VS 4 |
+| `7186500001` | Unité d'aspiration Tyscor VSA 2 (humide + amalgame) | centralisé, 2 praticiens |
+| `7188100200` | Moteur d'aspiration Tyscor V 4 (sec) | centralisé, 4 praticiens |
+| `7188100100` | Unité d'aspiration Tyscor VS 4 (humide) | centralisé, 4 praticiens |
+| `7188500001` | Unité d'aspiration Tyscor VSA 4 (humide + amalgame) | centralisé, 4 praticiens |
+| `1802100510` | Tyscor V 20 (clinique, radial) | jusqu'à 30 postes |
+| `1803100510` | Tyscor V 30 (clinique, radial) | jusqu'à 50 postes |
+| `1808000040` | Tyscor V 40 (clinique, radial) | jusqu'à 60 postes |
+| `1808000050` | Tyscor V 50 (clinique, radial) | jusqu'à 80 postes |
+| `1808000060` | Tyscor V 60 (clinique, radial) | jusqu'à 100 postes |
+| `7182100012` | Kit de mise à niveau Tyscor V/VS 1 → V/VS 2 (carte SD licence) | évolution |
+| `7188100075` | Kit de mise à niveau Tyscor V/VS 2 Plus → V/VS 4 (carte SD licence) | évolution |
+| `7186100200` | Kit tandem (2 Tyscor V/VS 2 sur une conduite) | évolutivité |
+| `7188100302` | Kit adaptateur Tyscor Tandem Flex | couplage Dürr ou tiers |
+| `7186100030` | Capot d'insonorisation Tyscor V/VS 1 et V/VS 2 | option, a posteriori |
+| `0705-991-50` | Filtre bactériologique (Tyscor V/VS + V/VS 600/900/1200, V 2400) | air de refoulement |
+| `7186100400` | Unité de rinçage pour système Tyscor (unité de rinçage Vario) | option |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). La classe MDR IIa n'est certifiée sur DoC
+que pour les cliniques **V 20 / V 30** (cf. section Statut réglementaire).
+
 ## Sources publiques
 
 | Document | URL publique |

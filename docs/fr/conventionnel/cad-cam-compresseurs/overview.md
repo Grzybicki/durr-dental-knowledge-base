@@ -314,6 +314,30 @@ Oui, dispositifs médicaux de classe IIa selon MDR EU 2017/745, y compris les mo
 
 Oui : tous les modèles jusqu'au Duo Tandem sont disponibles avec insonorisation optionnelle. Source : factsheet P007100024L02.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Les compresseurs **CAD/CAM** forment une **famille** (déclinaisons Tandem
+à commande électronique) : les références sont listées **par modèle**.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `4252200027` | Duo Tandem CAD/CAM (2 groupes, dessiccateur à membranes) | 230 V, commande électronique |
+| `4252200054` | Duo Tandem CAD/CAM (2 groupes, dessiccateur à membranes) | 400 V, commande électronique |
+| `4682200054` | Quattro Tandem CAD/CAM (2 groupes, 2 dessiccateurs) | 400 V, commande électronique |
+| `4852200054` | Quattro P 20 CAD/CAM (dessiccateur à membranes) | 400 V, commande électronique |
+| `4252100080` | Réservoir tampon (volume supplémentaire) | 90 L, installation sol ou murale |
+| `1650100347` | Kit de buses d'air de rinçage CAD/CAM | optimisation plage de pression > 7 bar (4 buses) |
+| `5450-980-60` / `5450-980-61` | Kit filtres fins / kit filtres bactériologiques (ULPA U16) | compresseur 4 cyl. |
+| `6040-992-00` | Détendeur réglable avec raccord rapide | option |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Le réglage de la pression maximale
+(jusqu'à 9,5 bar) s'obtient par la pièce « Jet Set » sur la colonne de dessiccation
+(cf. section « Compatibilité par plage de pression CAD/CAM » ci-dessus), distincte du
+réservoir tampon.
+
 ## Sources publiques
 
 | Document | URL publique |

@@ -42,6 +42,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "VistaScan Smart Reader",
+  "mpn": "2162100005",
   "alternateName": ["Dürr Dental Smart Reader", "VistaScan IQ Smart Reader"],
   "category": "USB RFID reader for VistaScan IQ phosphor plates",
   "description": "Lecteur RFID USB Dürr Dental permettant d'associer une plaque VistaScan IQ à un patient dans VistaSoft avant l'acquisition. Workflow automatisé, scan multi-patients dans n'importe quel ordre, attribution automatique des images au bon dossier.",
@@ -209,6 +210,19 @@ Uniquement les écrans VistaScan IQ équipés de la puce RFID. Les écrans Vista
 ### Quel est l'intérêt d'identifier la plaque avant l'acquisition ?
 
 L'attribution du patient à l'image est fiabilisée dès le départ, ce qui sécurise le flux de travail et réduit les risques d'erreur d'affectation.
+
+## Références produit et accessoires
+
+Code article **Dürr Dental** (identifiant public, résolvable sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2162100005` | VistaScan **Smart Reader** (lecteur RFID USB) | appareil |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
 
 ## Sources publiques
 

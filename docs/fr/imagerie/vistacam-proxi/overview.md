@@ -50,6 +50,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": ["MedicalDevice", "Product"],
   "name": "VistaCam Proxi",
+  "mpn": "2109130052",
   "alternateName": ["Dürr Dental VistaCam iX Proxi", "VistaCam Proxi interchangeable head"],
   "category": "Near-infrared (NIR) intraoral camera head for approximal caries detection",
   "description": "Tête interchangeable VistaCam iX HD dédiée à la détection des caries approximales par lumière proche infrarouge (NIR) à 850 nm. Technologie : near-infrared reflection (NIRR). Capteur CMOS avec autofocus, monté entre deux LED infrarouges 850 nm.",
@@ -203,6 +204,23 @@ La détection des caries approximales se fait sans irradiation, c'est-à-dire sa
 ### Comment fonctionne la détection par proche infrarouge ?
 
 Selon le principe de near-infrared reflection : l'émail sain est transparent à 850 nm tandis que les lésions cariées apparaissent opaques, ce qui les rend visibles.
+
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. VistaCam Proxi est la **tête interchangeable** dédiée du corps de caméra
+[VistaCam iX HD Smart](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-ix-hd-smart/overview/).
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2109130052` | Tête interchangeable **Proxi** pour VistaCam iX HD Smart | + 5 embouts focalisateur |
+| `2108-130-56` | Tête interchangeable **Proxi** pour VistaCam iX (génération précédente) | + 3 bagues de positionnement |
+| `2109100003` | VistaCam iX HD Smart — pack **Cam + Proxi** (caméra + tête) | corps + tête Proxi |
+| `2109132050` | Embout focalisateur (têtes Proof et Proxi) | 5 pièces |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
 
 ## Sources publiques
 

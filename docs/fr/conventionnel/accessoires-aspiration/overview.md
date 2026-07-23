@@ -161,6 +161,35 @@ Les canules d'aspiration sont détaillées dans la fiche dédiée (Canule Univer
 
 Oui, c'est le support modulaire d'aspiration au fauteuil de la gamme ; il accueille de cinq à six composants (tuyaux, seringue, caméra).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Sélection représentative par famille (supports, vannes de sélection, unités
+de rinçage, tuyaux, composants) — voir les fiches dédiées pour le détail
+[canules](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/)
+et [support de tuyaux Comfort](/durr-dental-knowledge-base/docs/fr/conventionnel/support-tuyaux-comfort/overview/).
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `7130-190-00` | Support mural (300 S / 600 / 900 S / 1200 S / Tyscor V/VS 1-2) | fixation |
+| `7188100015` | Support mural (Tyscor V/VS 4 ou 2× Tyscor V/VS 2) | fixation |
+| `7130-191-00` | Console pour installation au sol (600 / 900 S / 1200 S / Tyscor 1-2) | fixation |
+| `7560700052` | Vanne de sélection de crachoir 24 V (montage fauteuil, sans module de touches) | vanne |
+| `7560700051` | Vanne de sélection de crachoir 24 V (avec module de touches) | vanne |
+| `7560-500-60` | Vanne de sélection de poste 24 V (aspiration sèche ou humide) | vanne |
+| `7100-250-50` | Unité de rinçage II (avec commande de trop-plein) | rinçage |
+| `7100-260-51` | Unité de rinçage Vario (aspiration sèche, à associer CAS 1 / CS 1) | rinçage |
+| `7560-992-00` | Accélérateur de flux (nettoyage automatique de la tuyauterie) | conduites > 3 m |
+| `0730-991-00` | Silencieux pour l'air de refoulement (600 / 900 S / 1200 S / Tyscor V/VS) | acoustique |
+| `0700-060-51` | Débitmètre (mesure du débit d'aspiration) | contrôle |
+| `7600A010-50` | Gros tuyau d'aspiration Ø 19 mm, gris | longueur 160 cm |
+| `7600A020-50` | Petit tuyau d'aspiration Ø 10 mm, gris | longueur 160 cm |
+| `7560-565-50` | Boîtier de relais (pilotage vanne de poste / unité de rinçage) | électrique |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

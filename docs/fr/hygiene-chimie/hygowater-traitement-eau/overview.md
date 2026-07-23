@@ -182,6 +182,27 @@ Un niveau cible inférieur à 100 UFC/ml (Unités Formant Colonies par millilitr
 
 Oui, une validation a été publiée par la Faculté dentaire de Strasbourg.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** pour les **consommables et kits de maintenance Hygowater**
+figurant au catalogue matériel Dürr Dental France 2026. Les **unités principales**
+Hygowater / Hygowater Compact (produit en fin de vie / EOL) **ne figurent pas** au catalogue
+matériel 2026 ; seuls les filtres et kits d'entretien y sont référencés.
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `8500200001` | **Hygowater Préfiltre** (particules, chlore, carbonate de calcium) | pour Hygowater / Compact |
+| `8500200002` | **Hygowater Ultrafiltre** (membrane, ultrafiltration) | pour Hygowater / Compact |
+| `8500200005` | Hygowater Booster Ultrafiltre | set de 2 cartouches |
+| `8500200003` | Hygowater — kit de maintenance annuelle | ultrafiltre + pile + filtre + joint + test chlore + capteur de fuite |
+| `8500200004` | Hygowater Compact — kit de maintenance annuelle | idem, version Compact |
+| `8500200097` | Hygowater+ — kit d'entretien Booster (installation centralisée) | 2 ultrafiltres Booster + accessoires |
+| `8500200000` | Hygowater — bandelettes de test du chlore libre | pochette de 50 bandelettes |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

@@ -302,6 +302,42 @@ déminéralisée** issue de [Hygopure 90](/durr-dental-knowledge-base/docs/fr/hy
 puis un **emballage stérile** via
 [Hygopac / Hygopac View](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** des familles **ID** (désinfection des instruments), **MD**
+(empreintes et prothèses) et de l'appareil **Hygojet**. La chimie Dürr est fabriquée par
+**orochemie** en marque privée ; les codes ci-dessous sont les identifiants Dürr Dental
+publics (page produit officielle + catalogue matériel Dürr Dental France 2026).
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / conditionnement |
+|---|---|---|
+| `CDI212C6150` | **ID 212** — désinfection des instruments (concentré sans aldéhyde) | 4 bidons de 2,5 l |
+| `CDI21FP6150` | **ID 212 forte plus** — désinfection des instruments (spectre étendu) | 4 bidons de 2,5 l |
+| `CDI21FP5550` | ID 212 forte plus | 6 bidons de 1 l |
+| `CDI213C6150` | **ID 213** — désinfection des instruments (totalement virucide) | 4 bidons de 2,5 l |
+| `CDI213A5550` | ID 213 | 6 bidons de 1 l |
+| `CDI215A6150` | **ID 215** — nettoyant enzymatique des instruments | 4 bidons de 2,5 l |
+| `CDI220C6150` | **ID 220** — désinfection des fines structures (prêt à l'emploi, virucide) | 4 bidons de 2,5 l |
+| `CDI220A5550` | ID 220 | 6 bidons de 1 l |
+| `CDA520C6150` | **MD 520** — désinfection des empreintes (prêt à l'emploi, virucide) | 4 bidons de 2,5 l |
+| `CDA520C9150` | MD 520 — désinfection des empreintes | bidon de 10 l |
+| `CCA530C6150` | **MD 530** — dissolvant des ciments / nettoyant prothèses | 4 bidons de 2,5 l |
+| `CCA535C6150` | **MD 535** — dissolvant de plâtre / nettoyant pour plateau | 4 bidons de 2,5 l |
+| `CCS550C4550` | **MD 550** — nettoyant crachoirs (prêt à l'emploi, sans aldéhyde) | 6 bidons de 750 ml |
+| `CEA520C9700` | Boîte de désinfection MD 520 (bain d'immersion, 2 porte-empreintes max.) | max. 1 l |
+| `6040-000-00` | **Hygojet** — sas de désinfection clos pour empreintes (avec MD 520) | appareil |
+| `6040-016-00` | Fermeture pour bidon MD 520 de 2,5 l (Hygojet) | — |
+| `9000-500-10` | Gants nitrile bleus (DM classe I, jusqu'aux coudes) | 50 pièces |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Les nettoyants d'aspiration/crachoirs
+**MD 550** et **MD 555 cleaner** relèvent de la
+[désinfection des systèmes d'aspiration](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/),
+où **MD 555 cleaner** (`CCS555C6150` 2,5 l / `CCS555C5550` 1 l) et **MD 555 cleaner organic**
+(`CCS556A6150`) sont référencés. **MD 550** (nettoyant crachoirs) est référencé ci-dessus
+sous `CCS550C4550` (6 bidons de 750 ml).
+
 ## Sources publiques
 
 | Document | URL publique |

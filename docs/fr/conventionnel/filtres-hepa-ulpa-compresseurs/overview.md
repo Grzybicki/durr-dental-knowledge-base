@@ -521,6 +521,50 @@ Oui : la classe U16 (EN 1822) correspond à la classe ISO 65 U de la norme ISO 2
 
 Pour répondre aux exigences de la norme ISO 22052 relative à la qualité de l'air comprimé dentaire.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables au **Filter Finder**
+officiel et chez les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. **Table de commande consolidée** des filtres compresseurs (voir plus haut
+pour le mapping compresseur → nombre de filtres).
+
+### Filtres unitaires
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `0832-982-00` | Filtre d'admission | Primo, Duo, Trio, Quattro, PTS 200 — annuel |
+| `5180-982-00` | Filtre d'admission | Tornado 1 / 2 / 4, PTS 120 — annuel |
+| `0852-001-00` | Filtre d'admission métal (complet) | générations anciennes (Bulle, Tandem, Tornado 70/130) |
+| `5430-982-00` | Cartouche pour filtre d'admission | générations anciennes (cf. Filter Finder) |
+| `1610-121-00` | Filtre fin (dessiccateur à air) | dessiccateur à membranes — annuel |
+| `1650100172` | Filtre bactériologique et virucide (ULPA U16 / ISO 65U) | système de dessiccation — annuel |
+| `1650200323` | Filtre à coalescence (0,01 µm) | remplace le filtre conique — annuel |
+| `1650100147` | Filtre à coalescence avec collecteur d'eau | chambre de collecte + vanne de vidange |
+
+### Kits de filtres (fins « -60 » / bactériologiques ULPA U16 « -61 »)
+
+| Réf fins | Réf bactériologique | Compresseur |
+|---|---|---|
+| `5150100015` | `5150100016` | 1 cylindre (Primo) |
+| `5250-980-60` | `5250-980-61` | 2 cylindres (Duo) |
+| `5350-980-60` | `5350-980-61` | 3 cylindres (Trio) |
+| `5450-980-60` | `5450-980-61` | 4 cylindres (Quattro / Tandem / P 20) |
+| `5180-980-60` | `5180-980-61` | Tornado 1 et 2 (+ PTS 120) |
+| `4280-980-60` | `4280-980-61` | Tornado 4 |
+
+### Filtres d'aspiration (refoulement)
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `0705-991-05` | Cartouche pour filtre bactériologique `0705-991-50` | remplacement 3 500 h ou 2 ans |
+| `7119100010` | Filtre bactériologique de refoulement | V/VS/VSA 300 S, Variosuc — annuel |
+| `7120-143-00` | Kit filtre bactériologique avec équerre | V/VS/VSA 300 S — annuel |
+| `7120100000` | Boîtier complet avec filtre bactériologique | V/VS/VSA 300 S — annuel |
+
+Source : codes article Dürr Dental (Filter Finder officiel + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Pour la référence **exacte** d'un
+compresseur donné, **toujours saisir son REF au Filter Finder officiel**.
+
 ## Sources publiques
 
 | Document | URL publique |

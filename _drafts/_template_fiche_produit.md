@@ -55,11 +55,15 @@ license: CC-BY-4.0
 
 <!-- JSON-LD : MedicalDevice (à adapter par produit). OBLIGATOIRE sur chaque fiche. -->
 <!-- @type = MedicalDevice / SoftwareApplication / Product selon le cas. -->
+<!-- mpn = code article Dürr (Manufacturer Part Number). À AJOUTER uniquement sur une fiche
+     MONO-produit (un seul SKU représentatif). Fiche FAMILLE (plusieurs modèles) : OMETTRE mpn,
+     lister les réfs dans la section "## Références produit et accessoires". -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "MedicalDevice",
   "name": "NOM PRODUIT",
+  "mpn": "REF-ARTICLE-DURR",
   "alternateName": ["alias 1", "alias 2"],
   "category": "Catégorie technique en anglais (pour Schema)",
   "description": "Description courte du dispositif.",
@@ -89,8 +93,9 @@ SQUELETTE CANONIQUE (ordre des sections, aligné sur la pratique réelle du dép
   3. ## Caractéristiques techniques         (tableau sourcé ; réf. factsheet)
   4. [sections produit-spécifiques]         (adapter les titres au produit — voir liste ci-dessous)
   5. <script ... FAQPage> + ## Questions fréquentes   (4-6 Q/R sourcées)
-  6. ## Sources publiques                   (tableau Document | URL publique)
-  7. ## Pour aller plus loin                 (liens internes)
+  6. ## Références produit et accessoires    (codes article Dürr — voir modèle ci-dessous ; PRIX EXCLUS)
+  7. ## Sources publiques                   (tableau Document | URL publique)
+  8. ## Pour aller plus loin                 (liens internes)
 
 Sections produit-spécifiques courantes (en choisir/adapter selon le cas, ne pas toutes forcer) :
   ## Technologies clés · ## Fonctions / Programmes · ## Modèles de la gamme ·
@@ -155,6 +160,26 @@ Réponse en 2-3 phrases concises et factuelles (mêmes faits que le bloc FAQPage
 
 Réponse en 2-3 phrases concises et factuelles.
 
+## Références produit et accessoires
+
+<!-- Section pour toute fiche décrivant un produit MATÉRIEL ou CHIMIE ayant un code article
+     Dürr public. À OMETTRE sur les fiches logiciel, guides de décision et fiches concept.
+     RÈGLES : (1) réf + désignation + format UNIQUEMENT — JAMAIS de prix ni de nombre à
+     virgule décimale façon tarif. (2) N'utiliser que des réfs vérifiables (identifiant public
+     Dürr, résolvable page produit / distributeurs). (3) mpn (JSON-LD) = fiche mono-produit ;
+     fiche famille = tableau seul. -->
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit officielle
+et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `REF-APPAREIL` | NOM PRODUIT (appareil) | appareil |
+| `REF-ACCESSOIRE` | Accessoire / consommable | format |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel Dürr Dental
+France, tarifs non repris).
+
 ## Sources publiques
 
 Toutes les sources ci-dessous sont **publiques, accessibles sans authentification**.
@@ -198,6 +223,7 @@ CHECKLIST AVANT COMMIT :
 - [ ] Frontmatter complet (title, description, keywords, canonical_url, permalink, schema_type, breadcrumbs, source_documents, last_factual_review, license)
 - [ ] JSON-LD MedicalDevice (ou autre type pertinent) présent en haut de page
 - [ ] Section "## Questions fréquentes" (4-6 Q/R) + bloc JSON-LD FAQPage présents
+- [ ] Section "## Références produit et accessoires" si produit matériel/chimie (réfs publiques, PRIX EXCLUS ; mpn JSON-LD si mono-produit)
 - [ ] Squelette canonique respecté (Description courte → Statut réglementaire → specs → FAQ → Sources → Pour aller plus loin)
 - [ ] Liens internes vers index parents fonctionnels
 - [ ] CHANGELOG mis à jour

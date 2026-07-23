@@ -4,6 +4,69 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.10.0] — 2026-07-23
+
+### Ajouté — références article (codes produit Dürr) sur l'ensemble des fiches matériel + chimie
+
+- **Convention de référencement produit** appliquée à ~35 fiches : `mpn` (Manufacturer Part
+  Number, schema.org) dans le JSON-LD des fiches **mono-produit** + section
+  **`## Références produit et accessoires`** (tableau *Réf | Désignation | Format*, **prix exclus**)
+  sur toute fiche décrivant un produit matériel/chimie avec un **code article Dürr public**.
+- **Sourcing (règle d'or)** : la réf est citée comme **identifiant public** (résolvable page produit
+  officielle + distributeurs), **jamais** le catalogue tarifé (mention « réservé au commerce
+  dentaire ») ; **aucun prix repris**. Réfs vérifiées résolvables publiquement (`2144110001`,
+  `2144100188` = guide plaque S1…) — double contrôle OCR.
+- **Imagerie** : scanners VistaScan (`mini-easy-2-0` `mpn 2144110001` et `nano-easy` `mpn 2160110001`
+  avec packs écran+pochettes, tablette murale, liaison **VistaPosition** `2130100500` ; `vistascan-gamme`
+  = 5 appareils), **écrans** (`vistascan-iq-ecrans` : IQ unités+packs + **Plus** + Plus ID + extra-oraux +
+  supports/cassettes — écrans **Plus** rattachés au **Combi View** et au **parc série 1.0 / Perio /
+  Perio Net**), `smart-reader` (`mpn 2162100005`), `vistavox-s`, `vistapano-2-0`, `vistaintra-dc`,
+  `vistacam-ix-hd-smart`, `vistacam-proxi` (`mpn 2109130052`), `vistaray-7`, `vistaposition`,
+  `accessoires-imagerie`.
+- **Conventionnel** : `silver-airline`, `tornado`, `cad-cam-compresseurs`, `power-tower`,
+  `filtres-hepa-ulpa-compresseurs`, `air-clinic` ; `tyscor-aspiration`, `vsa`, `aspiration-chirurgicale`
+  (VC 65, `mpn 0672500000`), `variosuc`, `recuperateurs-amalgame`, `canules-universelles`, `durrconnect`,
+  `support-tuyaux-comfort`, `accessoires-aspiration`, `systemes-cliniques`.
+- **Hygiène-chimie** : familles FD/HD/ID/MD, Orotol, `hygoclave-hygopure`, `hygobox-hygopac-emballage`,
+  `hygowater-traitement-eau`, `lunos-system`, `vector-paro` (`mpn 2031-50`).
+- **Accessoires VistaVox — portfolio mentonnières** (doc Dürr 09/01/2026) : correction des libellés
+  (`2210201151` = **Sinus**, `2210201152` = **ATM**, `2210201150` = **Édenté**, `2210201157` =
+  **Universelle** — l'OCR catalogue les disait « tige de positionnement »), mapping ancienne→nouvelle
+  réf (`2207-05x-50`), **nouvelle Mentonnière Universelle** (nouveau matériau thermodésinfectable +
+  **FOV optimisé** : ferme l'espace d'air sous le menton, élargit le FOV en zone sinus), produits de
+  nettoyage **FD 366** (`CDF366F0450`) / **ID 212** (`CDI212C6150`). **Prix 70,80 € exclu.**
+- **Gabarit** `_drafts/_template_fiche_produit.md` : convention `mpn` + section Références intégrée au
+  squelette canonique et à la checklist.
+
+### Non fait (aucune réf inventée — règle d'or)
+
+- Sautés faute de réf produit propre : guides de décision, fiches concept (`qualite-air-comprime-dentaire`,
+  `local-technique-compresseur`, `dessiccateur-membrane`).
+- Introuvables au catalogue matériel (signalés, non inventés) : `hygosonic`, **VC 45**
+  (`aspiration-chirurgicale-vc-45`), Expert cleaner `CDS010A2050`, HD 410/430/440, Hygoclave 50/90,
+  unités Hygowater (EOL), plusieurs formats Orotol (colonne réf perdue à l'OCR).
+
+### Corrigé (mêmes travaux, corrections sourcées catalogue)
+
+- **Canules** (`canules-universelles`) alignées sur le **catalogue** : `0700-059-xx` = **Universelle
+  Protect** (et non « Petito ») ; **Petito** = `A700056xxx` (Ø 16 mm) + `0700-057-xx` (Ø 11 mm) ;
+  suppression des lignes `0700-056-5x` « 2ᵉ série » (absentes du catalogue). Prophylactique `0700-058-50`,
+  chirurgicale usage unique `0700-007-50/51` confirmées.
+- **Chimie — conditionnements Orotol/MD complétés** : Orotol plus `CDS110P6150` (2,5 l) / `CDS110P5550`
+  (1 l) / `CDS110P9599` (30 l), Orotol plus pH 7 `CDS117A6150`, MD 555 cleaner `CCS555C6150`/`CCS555C5550`,
+  MD 555 organic `CCS556A6150`, Combi-set `CDS110A9950`, Expert Cleaner `CCH010A2001`, **MD 550**
+  `CCS550C4550` (6×750 ml). Formats 1 l pH 7/organic notés **arrêtés**.
+- **Mentonnières VistaVox répliquées sur `vistapano-2-0`** (accessoires partagés VistaVox/VistaPano) :
+  mêmes corrections de libellés (Sinus/ATM/Édenté/Universelle) + mapping ancienne→nouvelle réf + renvoi
+  détail vers la fiche VistaVox S.
+- **VC 45** (`aspiration-chirurgicale-vc-45`) : précisé **génération antérieure de la VC 65** (absente
+  du catalogue 2026, pas de code article courant ; mêmes canules chirurgicales `0700-007-50/51`).
+
+### Validation
+
+- `validate.py --warn-as-error` **0/0** (94 fichiers) ; contrôle anti-prix (grep `€` / décimales
+  tarifaires) **négatif** sur les fiches éditées.
+
 ## [0.9.5] — 2026-07-23
 
 ### Ajouté — réglementaire Tyscor clinique (DoC V 20/V 30) + gamme complète V 20-V 60 (Planning Info)

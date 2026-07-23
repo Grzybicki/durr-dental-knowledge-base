@@ -491,6 +491,41 @@ de l'**élément du filtre bactérien à 3500 h**, contrôle général à **12 m
 kit dédié à 24 mois**. La maintenance est réalisée par un **technicien qualifié** ou le **SAV Dürr
 Dental**.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Sélection des stations cliniques (une **référence par modèle**) et des
+cuves de séparation centralisée. Références des stations **50 Hz**.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `5922200053` | Station d'air comprimé P 6000 (2 groupes compresseurs) | air comprimé |
+| `5922200050` | Station d'air comprimé P 6000 évolutive (cadre 2 étages) | air comprimé |
+| `5932200050` | Station d'air comprimé P 9000 | air comprimé |
+| `5942200050` | Station d'air comprimé P 12000 | air comprimé |
+| `1802-51` | Système d'aspiration V 6000 (2 moteurs) | jusqu'à 30 postes |
+| `1803-51` | Système d'aspiration V 9000 (3 moteurs) | jusqu'à 50 postes |
+| `1804-51` | Système d'aspiration V 12000 (4 moteurs) | jusqu'à 70 postes |
+| `1805-51` | Système d'aspiration V 15000 (5 moteurs) | jusqu'à 80 postes |
+| `1806-51` | Système d'aspiration V 18000 (6 moteurs) | jusqu'à 100 postes |
+| `1802100510` | Tyscor V 20 (radial, clinique) | jusqu'à 30 postes |
+| `1803100510` | Tyscor V 30 (radial, clinique) | jusqu'à 50 postes |
+| `1808000040` | Tyscor V 40 (radial, clinique) | jusqu'à 60 postes |
+| `1808000050` | Tyscor V 50 (radial, clinique) | jusqu'à 80 postes |
+| `1808000060` | Tyscor V 60 (radial, clinique) | jusqu'à 100 postes |
+| `A704200068` | Cuve de séparation centralisée CS 20 (rinçage à l'eau) | jusqu'à 20 postes |
+| `A704200067` | Cuve de séparation centralisée CS 20 (rinçage eau + Orotol plus) | jusqu'à 20 postes |
+| `A704400068` | Cuve de séparation centralisée CS 60 (rinçage à l'eau) | jusqu'à 60 postes |
+| `0704-400-67` | Cuve de séparation centralisée CS 60 (rinçage eau + Orotol plus) | jusqu'à 60 postes |
+| `1803-490-51` | Module d'extension pour systèmes d'aspiration (V 6000 → V 15000) | évolutivité |
+| `0704-05` | Kit récupérateur d'amalgame 50 Hz (2× CA 4 + supports + raccords) | clinique |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Récupérateurs d'amalgame et pièces
+d'usure détaillés dans les fiches [récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
+et [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/).
+
 ## Sources publiques
 
 | Document | URL publique |

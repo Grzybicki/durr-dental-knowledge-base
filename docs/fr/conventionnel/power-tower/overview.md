@@ -299,6 +299,38 @@ Oui, dispositif médical de classe IIa selon MDR EU 2017/745.
 
 Oui : avertissements précoces et rappels de maintenance automatiques, exposés à VistaSoft Monitor en natif (générations récentes) ou via la Connect Box.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. **Power Tower** est une **famille** (Silence + View, secs « V » et
+humides « VS ») : les références sont listées **par modèle**.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `0950-120/02` | Power Tower Silence 120/02 (aspiration combinée VS 300 S) | 230 V, humide |
+| `0950-120/04` | Power Tower Silence 120/04 (aspiration + récupérateur amalgame VSA 300 S) | 230 V, humide |
+| `0950-120/12` | Power Tower Silence 120/12 (aspiration V 300 S) | 230 V, sec |
+| `A949444000` | Power Tower View VS 1200 S | 400 V, humide, 4 praticiens |
+| `A949443000` | Power Tower View VS 900 S | 400 V, humide, 3 praticiens |
+| `A949454000` | Power Tower View V 1200 S | 400 V, sec, 4 praticiens |
+| `A949453000` | Power Tower View V 900 S | 400 V, sec, 3 praticiens |
+| `A949242000` | Power Tower View VS 600 | 230 V, humide, 2 praticiens |
+| `A949243000` | Power Tower View VS 900 S | 230 V, humide, 3 praticiens |
+| `A949252000` | Power Tower View V 600 | 230 V, sec, 2 praticiens |
+| `0950-500-51` | Module d'extension CA 1 (récupérateur amalgame) | pour PTS 120 |
+| `A949300059` | 2ᵉ groupe compresseur Duo (extension 4 praticiens) | version 400 V |
+| `A949100098` | 2ᵉ groupe compresseur Duo (avec bloc d'électrovannes) | version 230 V |
+| `7805-100-50` | Récupérateur d'amalgame CA 4 (kit raccords + pupitre) | compatible réseau |
+| `7136-02` / `7138-02` | Moteur d'aspiration V / VS 1200 S (adaptation 4 praticiens) | extension |
+| `5250-980-60` / `5250-980-61` | Kit filtres fins / bactériologiques (ULPA U16) | groupe compresseur 2 cyl. |
+| `5180-980-60` / `5180-980-61` | Kit filtres fins / bactériologiques (ULPA U16) | Power Tower Silence (Tornado 1/2) |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Les désignations **600 / 900 / 1200**
+correspondent à la classe de capacité d'aspiration ; le compresseur intégré est un
+groupe **Duo** (2ᵉ groupe en option pour doubler la capacité).
+
 ## Sources publiques
 
 | Document | URL publique |

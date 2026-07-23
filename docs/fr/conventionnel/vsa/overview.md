@@ -225,6 +225,35 @@ Parce que le récupérateur d'amalgame CA 4 nécessite un réservoir d'équilibr
 
 De 1 fauteuil (VSA 300 S) jusqu'à 6 fauteuils selon le modèle. Source : factsheet P007100068L03.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. La gamme **VSA** est une famille : une **référence par modèle** (monobloc
+VSA 300 S ou configuration packagée VS + récupérateur CA + support), plus les cassettes
+de récupération d'amalgame associées.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `7125-01/002` | Unité d'aspiration combinée VSA 300 S | monobloc, 1 praticien |
+| `7125-03/002` | Unité d'aspiration combinée VSA 300 S avec unité de rinçage | monobloc, compatible réseau |
+| `7128500001` | Unité d'aspiration centralisée VSA 600 (avec CA + console) | jusqu'à 3 postes |
+| `7134500001` | Unité d'aspiration centralisée VSA 900 | 230 V (1∼) |
+| `7134500002` | Unité d'aspiration centralisée VSA 900 (CA 4 + console) | 400 V (3∼) |
+| `7138500001` | Unité d'aspiration centralisée VSA 1200 (CA 4 + console) | 400 V (3∼) |
+| `7182500001` | Unité d'aspiration Tyscor VSA 1 Plus (radial) | poste unique |
+| `7186500001` | Unité d'aspiration Tyscor VSA 2 (radial) | centralisé |
+| `7188500001` | Unité d'aspiration Tyscor VSA 4 (radial) | centralisé, 4 praticiens |
+| `7110-033-00` | Cassette de récupération d'amalgame à usage unique (VSA 300 / 300 S) | consommable |
+| `7117-037-00` | Cassette de récupération d'amalgame à usage unique (CA 2) | consommable |
+| `7805-033-00` | Cassette de récupération d'amalgame à usage unique (CA 4) | consommable |
+| `7131-991-00` | Capot d'insonorisation (VS/VSA 900 / 1200) | option |
+| `CDS110P9950` | Kit de démarrage Orotol (Orotol plus + MD 555 cleaner + MD 550 + OroCup) | entretien |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Récupérateurs d'amalgame CA 2 / CA 4 :
+voir la [fiche récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/).
+
 ## Sources publiques
 
 | Document | Référence |

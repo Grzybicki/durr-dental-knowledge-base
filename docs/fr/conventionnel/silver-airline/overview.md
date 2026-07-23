@@ -372,6 +372,41 @@ Oui, grâce au principe Tandem des groupes compresseurs (Primo, Duo, Trio, Quatt
 
 Oui : toute la gamme est connectable à VistaSoft Monitor, nativement ou via la Connect Box. La pression de service est de 6 à 7,8 bar (5,5 à 7,5 bar sur les Quattro Tandem) ; le 9,5 bar est réservé aux versions CAD/CAM (réglage par la pièce Jet Set réf. 1650-981-00 sur la colonne de dessiccation).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. La gamme **Silver Airline** étant une **famille** (Primo, Duo, Trio,
+Quattro, variantes Tandem), les références sont listées **par modèle**.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `5152-01` | Silver Airline Primo (compresseur) | 1 cyl., 230 V |
+| `5252-01` | Silver Airline Duo (compresseur) | 2 cyl., 230 V |
+| `5252-51` | Silver Airline Duo (compresseur) | 2 cyl., 400 V |
+| `5352-01` | Silver Airline Trio (compresseur) | 3 cyl., 230 V |
+| `5452-51` | Silver Airline Quattro (compresseur) | 4 cyl., 400 V |
+| `4152100008` | Silver Airline Duo Tandem, 1 groupe (compresseur) | 230 V |
+| `4252100027` | Silver Airline Duo Tandem, 2 groupes (compresseur) | 230 V |
+| `4252-54` | Silver Airline Duo Tandem, 2 groupes (compresseur) | 400 V |
+| `4642-54` | Silver Airline Quattro Tandem, 1 groupe (compresseur) | 400 V |
+| `4682-54` | Silver Airline Quattro Tandem, 2 groupes (compresseur) | 400 V |
+| `4852-54` | Silver Airline Quattro P 20 (compresseur) | 400 V |
+| `4252100037` | Module d'extension de groupe Duo Tandem | 4152100008 → 4252100027 |
+| `4682600054` | Module d'extension de groupe Quattro Tandem | ajout d'1 groupe + dessiccateur |
+| `6040-992-00` | Détendeur réglable avec raccord rapide | toute la gamme (option) |
+| `4852100014` | Détendeur réglable | Quattro P 20 (option) |
+| `5150-500-00` | Armoire d'insonorisation en bois (ventilée) | Primo, Duo |
+| `4251-500-00` | Armoire d'insonorisation en bois (2 ventilateurs) | Duo Tandem, Trio, Quattro |
+| `5150100015` / `5150100016` | Kit filtres fins / kit filtres bactériologiques (ULPA U16) | compresseur 1 cyl. (Primo) |
+| `5250-980-60` / `5250-980-61` | Kit filtres fins / kit filtres bactériologiques (ULPA U16) | compresseur 2 cyl. (Duo) |
+| `5350-980-60` / `5350-980-61` | Kit filtres fins / kit filtres bactériologiques (ULPA U16) | compresseur 3 cyl. (Trio) |
+| `5450-980-60` / `5450-980-61` | Kit filtres fins / kit filtres bactériologiques (ULPA U16) | compresseur 4 cyl. (Quattro / Tandem) |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Le nombre de kits de filtres suit le
+**nombre de groupes compresseurs** (cf. [fiche filtres HEPA / ULPA](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/)).
+
 ## Sources publiques
 
 | Document | URL publique |

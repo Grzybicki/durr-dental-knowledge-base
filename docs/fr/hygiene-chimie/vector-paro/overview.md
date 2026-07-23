@@ -42,6 +42,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": ["MedicalDevice", "Product"],
   "name": "Vector Paro",
+  "mpn": "2031-50",
   "alternateName": ["Vector Paro Pro", "Vector System"],
   "category": "Periodontal ultrasonic treatment device",
   "description": "Système Dürr Dental Vector Paro de thérapie parodontale ultrasonique atraumatique. Anneau de résonance Vector propriétaire redirige les oscillations ultrasoniques en mouvement linéaire parallèle à la surface radiculaire. Traitement minimalement invasif des parodontites et péri-implantites.",
@@ -305,6 +306,30 @@ Parodontite (légère à sévère), péri-implantite, maintenance parodontale (r
 ### Existe-t-il des preuves scientifiques de l'efficacité ?
 
 Oui : une étude prospective (PMC 11830227) sur 50 patients atteints de gingivite, parodontite ou péri-implantite a mesuré l'évolution des indices parodontaux (PI, GI, PBI, PD).
+
+## Références produit et accessoires
+
+Codes article **Dürr Dental** du système **Vector Paro** et de ses inserts / consommables
+(page produit et shop officiels + catalogue matériel Dürr Dental France 2026).
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2031-50` | **Vector Paro** — appareil à ultrasons (complet, pièce à main Paro) | appareil |
+| `2031-51` | **Vector Paro Pro** — appareil à ultrasons (pièces à main Paro + Scaler) | appareil |
+| `2031-700-00` | Pièce à main Vector (Vector Paro / Paro Pro) | — |
+| `2032-200-00` | Pièce à main Scaler (Vector Paro / Paro Pro / Scaler) | — |
+| `2031-450-00` | Kit d'inserts Paro (traitement des parodontites) | boîte de 5 inserts |
+| `2031-460-00` | Kit d'inserts de maintenance (Recall / implants) | boîte de 4 inserts |
+| `2032-411-00` | Kit d'inserts Scaler P1 (sous-gingival, poches profondes) | — |
+| `2032100008` | Kit d'adaptateur de nettoyage Vector | Paro / Paro Pro / Scaler |
+| `CWZ510C2350` | Vector Fluid polish (hydroxylapatite, phosphate de calcium) | 5 × 200 ml |
+| `CCA531A6150` | Vector cleaner (solution acide — circuits internes) | 4 bidons de 2,5 l |
+| `CDZ501C6150` | Vector Désinfection (canal de transport de liquide) | 4 flacons de 2,5 l |
+| `SERVC15001` | Extension de garantie à 5 ans Vector Paro | service |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
 
 ## Sources publiques
 

@@ -62,6 +62,14 @@ avec **réglage continu** — précisément ce qu'exige l'élimination de sang,
 de résidus de dentine et d'os pendant l'opération. Une **enceinte
 d'insonorisation** de la pompe la maintient à **48 dB(A)**.
 
+> **Génération précédente.** Le **VC 45** est la **version antérieure** de l'unité
+> d'aspiration chirurgicale Dürr Dental, **remplacée par la
+> [VC 65](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/)**
+> (modèle actuel du catalogue). Le VC 45 **ne figure plus au catalogue matériel Dürr Dental
+> France 2026** (pas de code article courant) ; les cabinets équipés d'un VC 45 restent pris
+> en charge pour le service, et il utilise les **mêmes canules chirurgicales à usage unique**
+> (`0700-007-50` / `0700-007-51`) que la VC 65.
+
 ## Usage clinique
 
 L'aspiration chirurgicale répond à des exigences différentes de

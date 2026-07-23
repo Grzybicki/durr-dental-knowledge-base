@@ -243,6 +243,30 @@ Le courant continu offre une dose hautement reproductible d'un cliché à l'autr
 
 Avec les plaques au phosphore et les capteurs Dürr Dental, les doses pré-programmées y étant adaptées.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. L'émetteur VistaIntra DC existe en **trois longueurs de bras** (SKU
+distincts) : tableau de références sans code produit unique.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2202-01` | Émetteur VistaIntra DC — **bras court** | longueur de travail ≤ 1 670 mm |
+| `2202-02` | Émetteur VistaIntra DC — **bras moyen** | longueur de travail ≤ 1 820 mm |
+| `2202-03` | Émetteur VistaIntra DC — **bras long** | longueur de travail ≤ 2 120 mm |
+| `2202-101-50` | Limiteur du champ de rayonnement | 2 × 3 cm |
+| `2202-101-51` | Limiteur du champ de rayonnement | 3 × 4 cm |
+| `2202-102-50` | Rallonge du tube 300 mm | tube 200 → 300 mm |
+| `2202100012` | Cache pour VistaIntra DC | fixation du panneau de contrôle à l'extérieur |
+| `2202-303-50` | Plaque de montage murale pour VistaIntra DC | parois instables |
+
+> Des **plaques d'adaptation** existent pour l'installation en remplacement d'appareils
+> tiers ; leurs références sont disponibles auprès du service commercial Dürr Dental.
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 ### Pages officielles Dürr Dental

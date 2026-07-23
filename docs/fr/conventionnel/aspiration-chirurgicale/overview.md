@@ -35,6 +35,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": ["MedicalDevice", "Product"],
   "name": "VC 65 — Unité d'aspiration chirurgicale",
+  "mpn": "0672500000",
   "alternateName": ["Dürr Dental VC 65"],
   "category": "Dental surgical suction unit",
   "description": "Unité d'aspiration chirurgicale dentaire Dürr Dental VC 65. Pompe à pistons silencieuse 44 dB(A), débit 65/75 l/min, dépression 910 mbar, bocal 2 L usage unique avec gélifiant.",
@@ -204,6 +205,30 @@ Oui, c'est un dispositif médical de classe IIa selon le règlement MDR EU 2017/
 ### Quelles sont les dimensions du VC 65 ?
 
 Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100188L03.
+
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. L'unité **VC 65** est livrée avec son bocal 2 L à usage unique ; le
+**cart** multifonctionnel, les tuyaux et canules à usage unique se commandent séparément.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `0672500000` | Aspiration VC 65 (unité chirurgicale) | appareil |
+| `0672300000` | Cart VC 65 | chariot mobile (option) |
+| `0672987000` | Kit bocal 2 L (22 poches jetables, 25 tuyaux jetables + fixations) | — |
+| `0672987020` | Kit fonctionnement en parallèle de 2 bocaux | uniquement avec cart |
+| `0672987010` | Kit d'adaptation du bac au cart | — |
+| `0670-980-09E` | Sachets jetables 2 L avec agent gélifiant | 22 pièces |
+| `0670-980-05E` | Réservoir 2 L pour sachets jetables | — |
+| `0670-981-04E` | Tuyau d'aspiration à usage unique avec canule, longueur 2,1 m | 50 pièces, Ø canule 2,5 mm |
+| `0670-981-05E` | Tuyau d'aspiration à usage unique, longueur 2,1 m | 50 pièces |
+| `0700-007-50` | Canule à usage unique aspiration chirurgicale Ø 2,5 mm (évents Protect) | 20 unités, stérile |
+| `0700-007-51` | Canule à usage unique aspiration chirurgicale Ø 2,5 mm | 100 unités, stérile |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
 
 ## Sources publiques
 

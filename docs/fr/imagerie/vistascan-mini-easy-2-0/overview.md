@@ -30,6 +30,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": ["MedicalDevice", "Product"],
   "name": "VistaScan Mini Easy 2.0",
+  "mpn": "2144110001",
   "description": "VistaScan Mini Easy 2.0 est le scanner de plaques au phosphore compact Dürr Dental successeur du Mini Easy. Technologie PCS pour détection fiable des lésions D1. Installable au fauteuil. Compatible plaques VistaScan Image Plates IQ tailles 0 à 4.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/",
   "inLanguage": "fr",
@@ -155,11 +156,48 @@ Les plaques VistaScan Image Plates IQ (avec RFID et code QR).
 
 Pour une utilisation chairside (au fauteuil), tout en couvrant l'ensemble des formats intra-oraux 0 à 4.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Le scanner **VistaScan Mini Easy 2.0** est livré avec les **guides de
+plaque T0 et T2** ; les guides T1, T3 et T4 se commandent séparément (le kit d'écrans
+livré de série est **2 écrans T0 + 4 écrans T2** avec 100 + 300 sachets de protection).
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2144110001` | VistaScan Mini Easy 2.0 (scanner) | appareil |
+| `2144100188` | Guide de plaque (en option) | T1 |
+| `2144100193` | Guide de plaque (en option) | T3 |
+| `2144100194` | Guide de plaque (en option) | T4 |
+| `2144100079` | Rack de rangement des guides de plaque | — |
+| `2144100195` | Housse de protection VistaScan Mini Easy 2.0 | — |
+| `2144100021` | Support mural (tablette murale) VistaScan Mini 2.0 | — |
+| `2130106051` | Pack écran IQ — 2 écrans + 1000 sachets de protection | T0 |
+| `2130106151` | Pack écran IQ — 2 écrans + 1000 sachets de protection | T1 |
+| `2130106251` | Pack écran IQ — 2 écrans + 1000 sachets de protection | T2 |
+| `2130106351` | Pack écran IQ — 2 écrans + 1000 sachets de protection | T3 |
+| `2130106451` | Pack écran IQ — 1 écran + 100 sachets de protection | T4 |
+| `2130104050` | Écran à mémoire VistaScan IQ (2 pièces, à l'unité) | T0 (2×3) |
+| `2130104250` | Écran à mémoire VistaScan IQ (4 pièces, à l'unité) | T2 (3×4) |
+| `2130-080-00` | Sachets de protection contre la lumière Plus (100) | T0 |
+| `2130-082-00` | Sachets de protection contre la lumière Plus (300) | T2 |
+| `2130100500` | Kit de positionnement [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/) PSP antérieur/postérieur (titane) | — |
+| `CCB351B1001` | Lingettes de nettoyage écrans à mémoire (10) | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Les **packs** `2130106xxx` associent
+**2 écrans à mémoire IQ + les sachets de protection** correspondants (T4 : 1 écran).
+Le système de positionnement [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
+(`2130100500`) se monte sur les écrans à mémoire intra-oraux VistaScan pour un
+repositionnement reproductible.
+
 ## Pour aller plus loin
 
 - [Guide de choix — imagerie intra-orale (capteur ou plaque, puis quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)
 - [Gamme VistaScan complète (vue d'ensemble)](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) — pour comparer Mini Easy 2.0 / Mini View 2.0 / Nano Easy / Combi View / Ultra View
 - [Écrans VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)
+- [VistaPosition — système de positionnement des écrans à mémoire](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
 - [Smart Reader (lecteur RFID USB)](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)
 - [VistaSoft 4.0 — logiciel d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
 - [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)

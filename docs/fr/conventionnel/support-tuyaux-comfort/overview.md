@@ -300,6 +300,33 @@ Oui : les canules autoclavables doivent être stérilisées à 134 °C selon le 
 
 Les raccords pivotants sur le boîtier de filtre offrent une plus longue portée et sollicitent moins les tuyaux ; la rotule optionnelle réduit le bras de levier et augmente la durée de vie du tuyau.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Le **Support de tuyaux Comfort** existe en plusieurs configurations de
+modules — **G** = gros tuyau d'aspiration, **K** = pompe à salive, **F** = module
+filtrant, **S** = module seringue.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `7602G01` | Support de tuyaux Comfort à 2 modules (F G), gris | configuration F G |
+| `7603G01` | Support de tuyaux Comfort à 3 modules (G F K), gris | configuration G F K |
+| `7603G02` | Support de tuyaux Comfort à 3 modules (G F G), gris | configuration G F G |
+| `7604G01` | Support de tuyaux Comfort à 4 modules (S G F K), gris | configuration S G F K |
+| `7604G02` | Support de tuyaux Comfort à 4 modules (G F G K), gris | configuration G F G K |
+| `7604G03` | Support de tuyaux Comfort à 4 modules (K G F G), gris | configuration K G F G |
+| `7605G51` | Support de tuyaux Comfort à 5 modules (S G F K K), gris | configuration S G F K K |
+| `7600G980-50` | Module seringue (compléter les supports standard) | option |
+| `7600G150-00` | Bras coulissant (montage mural ou sous plan de travail) | option |
+| `7600A010-50` | Gros tuyau d'aspiration Ø 19 mm, gris | longueur 160 cm |
+| `7600A020-50` | Petit tuyau d'aspiration Ø 10 mm, gris | longueur 160 cm |
+| `7068-003-05` | Entonnoir (pièce à main d'aspiration `7600A010-00`) | autoclavable 134 °C |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Canules d'aspiration : voir la
+[fiche canules universelles](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/).
+
 ## Sources publiques
 
 | Document | Référence |

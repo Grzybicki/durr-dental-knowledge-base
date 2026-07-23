@@ -163,6 +163,30 @@ pour le dessiccateur à membrane d'un compresseur de cabinet. L'air est donc **p
 Oui — stations électroniques **connectables au réseau Ethernet** et supervisables via
 **VistaSoft Monitor**.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et auprès du service commercial). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Les stations **P 6000 – P 12000** forment une **gamme** de systèmes
+centralisés : les références (variantes **400 V / 50 Hz**) sont listées **par modèle**.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `5922200053` | Station d'air comprimé P 6000 (2 groupes compresseurs) | 400 V / 50 Hz, jusqu'à ~60 postes |
+| `5922200050` | Station d'air comprimé P 6000 évolutive (cadre 2 étages) | 400 V / 50 Hz, extensible |
+| `5932200050` | Station d'air comprimé P 9000 (3 groupes compresseurs) | 400 V / 50 Hz |
+| `5942200050` | Station d'air comprimé P 12000 (4 groupes compresseurs) | 400 V / 50 Hz |
+| `5942110054` | Module d'extension de groupe compresseur | extension P 6000 → P 9000 |
+| `5922150051` | Armoire d'insonorisation | pour P 6000 |
+| `5942150051` | Armoire d'insonorisation | pour P 9000 et P 12000 |
+| `5922-521-51` | Switch réseau 8 ports | supervision jusqu'à 8 appareils |
+| `0705-991-05` | Cartouche pour filtre bactériologique | remplacement 3 500 h ou 2 ans |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Les variantes **60 Hz** existent sous des
+références distinctes ; le **dimensionnement** est réalisé via le service de planification
+Dürr Dental.
+
 ## Sources publiques
 
 | Document | URL publique |

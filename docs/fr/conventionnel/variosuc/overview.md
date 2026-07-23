@@ -214,6 +214,30 @@ Oui. Le Variosuc est une aspiration de soin (technologie VS/VSA), il se désinfe
 
 Oui : un filtre viro-bactérien de qualité HEPA H13 (EN 1822-1:2019-10) est intégré de série, avec une rétention vérifiée supérieure à 99,999 % (Staphylococcus aureus) et 99,99 % (virus PhiX174).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Le **Variosuc** est une famille : variante **VS** (sans récupération
+d'amalgame) ou **VSA** (avec), chacune au choix avec support de tuyaux Comfort **GFK**
+ou **GFGK** (avec crachoir + entonnoir).
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `0624-100-55` | Variosuc VS mobile (unité VS 300 S, support Comfort GFK, bac de sécrétions) | VS |
+| `0624-100-56` | Variosuc VS mobile (unité VS 300 S, support Comfort GFGK, bac + entonnoir) | VS |
+| `0624-100-50` | Variosuc VSA mobile (unité VSA 300 S, support Comfort GFK, bac de sécrétions) | VSA |
+| `0624-100-51` | Variosuc VSA mobile (unité VSA 300 S, support Comfort GFGK, bac + entonnoir) | VSA |
+| `7119100010` | Filtre bactériologique (V/VS/VSA 300 S et Variosuc) | remplacement annuel |
+| `7110-033-00` | Cassette de récupération d'amalgame à usage unique (VSA 300 / 300 S) | VSA |
+| `9000-476-33E` | Bac de sécrétions | volume utile 3 L |
+| `7068-003-05` | Entonnoir (pièce à main d'aspiration `7600A010-00`) | autoclavable 134 °C |
+| `0725-041-00` | Filtre jaune jetable (supports de tuyaux Comfort / Eco / sélectif) | 12 pièces |
+| `CDS110P9950` | Kit de démarrage Orotol (Orotol plus + MD 555 cleaner + MD 550 + OroCup) | entretien |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL / référence |

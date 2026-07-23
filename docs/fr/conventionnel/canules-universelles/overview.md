@@ -185,16 +185,32 @@ marché »* — label *« Certificated quiet — Best test results »*.
 | Par 5 | Rose | `0700-055-53` |
 | Par 5 | Bleue | `0700-055-54` |
 | Par 5 | Turquoise | `0700-055-55` |
-| Par 5 (2ᵉ série) | Grise | `0700-056-50` |
-| Par 5 (2ᵉ série) | Jaune | `0700-056-51` |
-| Par 5 (2ᵉ série) | Rose | `0700-056-53` |
-| Par 5 (2ᵉ série) | Bleue | `0700-056-54` |
-| Par 5 (2ᵉ série) | Turquoise | `0700-056-55` |
 
 ### Canule universelle Petito — enfants
 
 Aussi silencieuse que la III mais nettement plus petite, **aucun angle**
-ni point de pression — adaptée à la **pédodontie**.
+ni point de pression — adaptée à la **pédodontie**. Munie des **entrées
+d'air secondaires Protect** (anti-reflux). Existe en **Ø 16 mm** et **Ø 11 mm**.
+
+| Conditionnement | Coloris | Référence |
+|---|---|---|
+| Ø 16 mm, par 5 | Grise | `A700056050` |
+| Ø 16 mm, par 5 | Jaune | `A700056051` |
+| Ø 16 mm, par 5 | Rose | `A700056053` |
+| Ø 16 mm, par 5 | Bleue | `A700056054` |
+| Ø 16 mm, par 5 | Turquoise | `A700056055` |
+| Ø 11 mm, par 5 | Grise | `0700-057-50` |
+| Ø 11 mm, par 5 | Jaune | `0700-057-51` |
+| Ø 11 mm, par 5 | Bleue | `0700-057-54` |
+
+### Canule universelle Protect — anti-reflux
+
+Évents intégrés : empêchent que des **sécrétions contaminées** ne
+refluent du système d'aspiration. Particularité : même munies d'évents,
+les canules Protect restent **particulièrement silencieuses**. **Ø 16 mm.**
+
+> *« Les évents empêchent que des sécrétions contaminées ne refluent du
+> système d'aspiration lorsque la canule "aspire". »* (brochure P007-173-03)
 
 | Conditionnement | Coloris | Référence |
 |---|---|---|
@@ -202,15 +218,7 @@ ni point de pression — adaptée à la **pédodontie**.
 | Par 5 | Grise | `0700-059-50` |
 | Par 5 | Jaune | `0700-059-51` |
 | Par 5 | Bleue | `0700-059-54` |
-
-### Canule universelle Protect — anti-reflux
-
-Évents intégrés : empêchent que des **sécrétions contaminées** ne
-refluent du système d'aspiration. Particularité : même munies d'évents,
-les canules Protect restent **particulièrement silencieuses**.
-
-> *« Les évents empêchent que des sécrétions contaminées ne refluent du
-> système d'aspiration lorsque la canule "aspire". »* (brochure P007-173-03)
+| Par 5 | Turquoise | `A700100286` |
 
 ### Canule d'aspiration chirurgicale à usage unique
 
@@ -306,6 +314,29 @@ Les canules autoclavables doivent être stérilisées à 134 °C selon le protoc
 ### Les canules s'intègrent-elles au Support de tuyaux Comfort ?
 
 Oui, les canules d'aspiration s'intègrent au Support de tuyaux Comfort, support modulaire au fauteuil.
+
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Une **référence représentative par famille** est donnée ; les variantes de
+coloris (identification visuelle) partagent la même racine de code, avec le
+conditionnement précisé.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `0700-054-00` | Canule universelle Ø 16 mm, grise | 20 unités |
+| `0700-055-50` | Canule universelle Ø 16 mm | 5 unités (grise ; jaune `-51`, rose `-53`, bleue `-54`, turquoise `-55`) |
+| `0700-059-00` | Canule universelle Protect Ø 16 mm, grise (évents anti-reflux) | 20 unités |
+| `0700-059-50` | Canule universelle Protect Ø 16 mm | 5 unités (grise ; jaune `-51`, bleue `-54`, turquoise `A700100286`) |
+| `A700056050` | Canule universelle Petito Ø 16 mm, grise (pédodontie) | 5 unités (+ jaune/rose/bleue/turquoise `A700056051/053/054/055`) |
+| `0700-057-50` | Canule universelle Petito Ø 11 mm, grise | 5 unités (jaune `-51`, bleue `-54`) |
+| `0700-058-50` | Canule prophylactique Ø 16 mm, grise (embout rotatif, aéropolissage) | 4 unités |
+| `0700-007-50` | Canule à usage unique aspiration chirurgicale Ø 2,5 mm (évents Protect, stérile) | 20 unités |
+| `0700-007-51` | Canule à usage unique aspiration chirurgicale Ø 2,5 mm | 100 unités |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
 
 ## Sources publiques
 

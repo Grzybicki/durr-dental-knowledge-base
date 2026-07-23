@@ -258,6 +258,34 @@ C'est l'appareil de table qui permet un nettoyage complet avec un seul appareil,
 
 Lunos couvre la prophylaxie générale (aéropolissage, pâtes, fluor) tandis que Vector assure la thérapie parodontale ultrasonique atraumatique ; ensemble ils couvrent la chaîne préventive et thérapeutique.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** du système **Lunos** (pièce à main d'aéropolisseur MyLunos,
+poudres, pâtes, fluor, accessoires), d'après le catalogue matériel Dürr Dental France 2026.
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2034900050` à `2034900054` | **MyLunos** — pièce à main d'aéropolisseur Set Supra | 5 variantes selon le raccord rapide de la turbine |
+| `2034910050` à `2034910054` | **MyLunos** — pièce à main d'aéropolisseur Set pro (supra + sous-gingival) | 5 variantes selon le raccord rapide de la turbine |
+| `2034440000` | Buse Supra (application supra-gingivale) | pour MyLunos / MyLunos Duo |
+| `2034430000` | Buse Perio (nettoyage sous-gingival, poches / implants) | pour MyLunos / MyLunos Duo |
+| `2034100196` | Réservoir de poudre (bleu) | système de compartiment interchangeable |
+| `2034100020` | Pointes Lunos Perio (usage unique, stériles) | 40 pièces |
+| `CPZ610A2250` | **Lunos** Poudre prophylactique Gentle Clean neutre (supra-gingival) | 4 flacons de 180 g |
+| `CPZ640A1950` | **Lunos** Poudre prophylactique Perio Combi (sous- et supra-gingival) | 4 flacons de 100 g |
+| `CPZ710A1901` | Lunos Pâte de polissage Two in One neutre (RDA < 28, hydroxylapatite) | 10 tubes de 100 g |
+| `CPZ740A0901` | Lunos Pâte de polissage Super Soft neutre (RDA < 5) | 10 tubes de 50 g |
+| `CPZ01PA9700` | Lunos Anneau Prophy (application ergonomique) | 8 pièces |
+| `CPZ010A2240` | **Gel fluoré Lunos** (fluorure de sodium 12 300 ppm) | 12 flacons de 250 ml |
+| `CPZ021A0050` | Lunos Scellement de fissures Opaque (photopolymérisable, fluoré) | kit 2 seringues 1,5 g + 10 canules |
+| `CPZ00PA9700` | Lunos Coussin Prophy (repose-tête viscoélastique) | 180 × 180 × 100 mm |
+| `2044900800` | Chariot Lunos (dispositif médical mobile, 3 tablettes) | mobile |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Les sets MyLunos existent en 5 variantes
+correspondant chacune à un type de raccord rapide de turbine (mêmes contenu et prix).
+
 ## Sources publiques
 
 | Document | URL publique |

@@ -198,6 +198,51 @@ Oui : le système est compatible avec l'immersion, la thermo-désinfection et la
 
 Une meilleure reproductibilité géométrique des clichés (utile au suivi longitudinal des lésions) et une réduction des erreurs de positionnement entre praticiens.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. VistaPosition est une **gamme de kits** (par indication et par matériau,
+**titane** ou **acier**), chaque composant étant aussi disponible à l'unité — d'où un
+tableau de références sans code produit unique.
+
+### Kits VistaPosition PSP
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2130100500` | Kit antérieur/postérieur, en **titane** | anté + posté |
+| `2130100600` | Kit Bite-wing, en **titane** | interproximal |
+| `2130100700` | Kit endo, en **titane** | endodontie |
+| `2130101500` | Kit de démarrage antérieur/postérieur, en **acier** | anté + posté |
+| `2130101600` | Kit Bite-wing, en **acier** | interproximal |
+| `2130101700` | Kit endo, en **acier** | endodontie |
+| `2130101800` | Kit **universel** | anté + posté + bite-wing |
+
+### Composants à l'unité (extrait)
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2130100351` | Tige-guide antérieure, en titane | — |
+| `2130100350` | Tige-guide postérieure, en titane | — |
+| `2130100344` | Tige-guide bite-wing, en titane | — |
+| `2130100341` | Tige-guide endo, en titane | — |
+| `2130100427` | Tige-guide antérieure (acier) | — |
+| `2130100426` | Tige-guide postérieure (acier) | — |
+| `2130100352` | Support écran à mémoire, antérieur | 4 pièces |
+| `2130100353` | Support écran à mémoire, postérieur | 4 pièces |
+| `2130100345` | Support écran à mémoire bite-wing | T0/T1, 4 pièces |
+| `2130100347` | Support écran à mémoire bite-wing | T2 horizontal, 4 pièces |
+| `2130100348` | Support écran à mémoire bite-wing | T3, 4 pièces |
+| `2130100342` | Support écran à mémoire endo | Q2/Q4, 2 pièces |
+| `2130100386` | Support écran à mémoire endo | Q1/Q3, 2 pièces |
+| `2130100354` | Anneau de visée, antérieur | — |
+| `2130100355` | Anneau de visée, postérieur | — |
+| `2130100349` | Anneau de visée, bite-wing | — |
+| `2130100343` | Anneau de visée, endo | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

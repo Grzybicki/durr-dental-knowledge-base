@@ -305,6 +305,35 @@ Trois options : remplissage manuel du récipient d'eau fraîche de 5,2 L ; racco
 
 Oui. Les stérilisateurs Hygoclave sont des dispositifs médicaux réglementés selon MDR EU 2017/745 et conformes à la norme EN 13060 relative aux petits stérilisateurs vapeur (classes N, S et B).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** pour les produits de cette gamme figurant au catalogue
+matériel Dürr Dental France 2026. Le catalogue référence l'**Hygoclave 40 Plus** et les
+systèmes de traitement d'eau **Hygodem 90 / Hygopure 90** ; les **Hygoclave 50 et 90**
+n'y disposent pas d'un code article distinct (à commander via les canaux Dürr Dental).
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `6048100002` | Stérilisateur à vapeur **Hygoclave 40 Plus** (classe B, EN 13060) | chambre 22 L |
+| `6048100167` | Hygoprint Easy — étiqueteuse pour sachets de stérilisation | 1 rouleau (2 500 étiquettes) |
+| `6048100168` | Kit de remplacement d'étiquettes Hygoprint Easy | 2 rouleaux de 2 500 |
+| `6048100169` | Jeu de rouleaux de papier Hygoprint Easy | 2 rouleaux |
+| `6048100019` | Filtre bactériologique (filtre Bio-X) | 3 pièces (remplacement 500 cycles / 3 mois) |
+| `6048100018` | Joint de porte Hygoclave 40 Plus | remplacement 1 000 cycles / 1 an |
+| `6050-600-03` | Hygotest — test Hélix (PCD) EN 867-5 / EN-ISO 11140-1 | 250 bandelettes |
+| `6046100114` | **Hygodem 90** — échangeur d'ions (3 cartouches) | traitement d'eau DI |
+| `6046100113` | Lot de 3 cartouches à échange d'ions Hygodem 90 | — |
+| `6046100017` | **Hygopure 90** — osmoseur inverse | réservoir de stockage 12 l |
+| `6046100116` | Lot de cartouches Hygopure 90 | charbon actif + anti-sédiments + échange d'ions |
+| `6046100117` | Membrane DF50 pour Hygopure 90 | longévité ~4 ans |
+| `6046100118` | Robinet de prélèvement en acier inoxydable Hygopure 90 | — |
+| `6046100119` | Conductimètre HMEC1 (contrôle de conductivité) | manuel |
+| `6046100151` | Valve d'arrêt d'eau LD1 | sécurité anti-fuite |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

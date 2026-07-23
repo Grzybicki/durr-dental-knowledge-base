@@ -156,6 +156,32 @@ Il garantit la compatibilité technique entre tous les éléments de la gamme as
 
 Oui, il assure la modularité et la compatibilité entre tous les composants d'aspiration Dürr Dental.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Les **coffrets DürrConnect** rassemblent les pièces de raccordement ; les
+adaptateurs, réducteurs et filtres se commandent aussi à l'unité.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `0700-700-50` | Kit système DürrConnect20 (valise de raccordement) | plus de 120 pièces |
+| `0700-800-50` | Kit spécial DürrConnect32 (valise de raccordement) | plus de 160 pièces |
+| `7600010040` | Kit adaptateur Y Ø 11 mm (canule prophylactique + bouchons inclus) | — |
+| `7600010041` | Adaptateur Y Ø 11 mm (sans canule ni bouchon) | 5 pièces |
+| `7600010060` | Kit adaptateur Y Ø 16 mm (canule prophylactique incluse) | — |
+| `7600010065` | Adaptateur Y Ø 16 mm (sans canule) | 5 pièces |
+| `A700060024` | Adaptateur 16-11 (Ø 11 mm → Ø 16 mm) | sur demande |
+| `0700-000-16` | Réducteur de canule Ø 14,8 mm (sans évents), stérilisable | — |
+| `0700-000-17` | Réducteur de canule Ø 16 mm, stérilisable | — |
+| `0700-000-18` | Réducteur de canule avec mise à l'air Ø 16 mm, stérilisable | — |
+| `0725-041-00` | Filtre jaune jetable (supports de tuyaux Comfort / Eco / sélectif) | 12 pièces |
+| `0725-041-60` | Filtre jaune jetable | 36 pièces |
+| `0725-041-03` | Bouchon pour filtre jetable jaune | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

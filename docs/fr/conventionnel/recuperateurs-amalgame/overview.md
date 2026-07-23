@@ -321,6 +321,35 @@ Oui, dispositifs médicaux de classe I (auto-déclaration MDR, sans organisme no
 
 Les caractéristiques techniques sont issues de la factsheet officielle P007-619-03.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Chaque modèle existe en plusieurs variantes de configuration ; une
+**référence représentative** est donnée par modèle, complétée par les **cassettes de
+récupération d'amalgame** et le **kit de contrôle réglementaire**.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `7117-70` | CS 1 Combi-Sepamatic (vanne de sélection + raccords + unité de rinçage) | séparation, sans amalgame |
+| `7117-20` | CAS 1 Combi-séparateur (vanne + unité de rinçage + raccords + cassette) | séparation + amalgame |
+| `7117-80` | Récupérateur d'amalgame CA 1 (raccords + cassette de rechange) | poste unique |
+| `7117-95` | Récupérateur d'amalgame CA 2 (raccords + cassette de rechange) | 2 postes |
+| `7805-100-50` | Récupérateur d'amalgame CA 4 (raccords standard + pupitre + cassette) | multi-postes |
+| `7117-033-00` | Cassette de récupération d'amalgame à usage unique (CAS 1 et CA 1) | consommable |
+| `7117-037-00` | Cassette de récupération d'amalgame à usage unique (CA 2) | consommable |
+| `7805-033-00` | Cassette de récupération d'amalgame à usage unique (CA 4) | consommable |
+| `7110-033-00` | Cassette de récupération d'amalgame à usage unique (VSA 300 / 300 S) | consommable |
+| `7805-064-00` | Kit de contrôle (CAS 1, CA 1 / CA 2 / CA 4, VSA 300 / 300 S) | contrôle réglementaire |
+| `7805065001` | Cassette de contrôle seule (CA 4) | contrôle |
+| `7117-064-00` | Cassette de contrôle seule (CAS 1, CA 1 / CA 2) | contrôle |
+| `7117-800-51` | Boîtier pour CA / CS / CAS 1 (installation près de l'équipement) | accessoire |
+| `9000-150-46` | Transformateur pour CA / CS / CAS 1 (230 V → 24 V, 100 VA) | accessoire |
+| `7805-116-00E` | Pupitre de contrôle (broche femelle RNIS + câble de liaison) | accessoire |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

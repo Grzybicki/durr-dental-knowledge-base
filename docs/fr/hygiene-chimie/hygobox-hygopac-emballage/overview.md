@@ -248,6 +248,42 @@ Hygofol est la gaine pelable d'emballage stérile compatible avec les soudeuses 
 
 La norme DIN EN ISO 11607-2 (formage, scellage et assemblage des emballages de dispositifs médicaux stérilisés). Puissance électrique : 550 W pour l'Hygopac, plus de 900 W pour l'Hygopac View (factsheet P007100138L03).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** pour le stockage (**Hygobox**), le scellage
+(**Hygopac / Hygopac View**), l'emballage stérile (**Hygofol**) et la documentation
+(**Hygoprint**), d'après le catalogue matériel Dürr Dental France 2026.
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `6030-050-00` | **Hygobox** — cuve de désinfection avec élément filtrant (couvercle anthracite, tamis bleu) | max. 3 l |
+| `6030-051-00` | Hygobox — couvercle bleu, tamis blanc | max. 3 l |
+| `6030-061-00` | Hygobox — couvercle jaune, tamis blanc | max. 3 l |
+| `6030-071-00` | Hygobox — couvercle anthracite, tamis blanc | max. 3 l |
+| `6030-081-00` | Hygobox — couvercle rose, tamis blanc | max. 3 l |
+| `6030-091-00` | Hygobox — couvercle turquoise, tamis blanc | max. 3 l |
+| `6024100001` | **Hygopac View** — soudeuse à défilement (EN ISO 11607-2) | appareil |
+| `6020-02` | **Hygopac** — soudeuse à défilement mécanique (EN ISO 11607-1) | appareil |
+| `6022-700-00` | Table à instruments pour Hygopac / Hygopac View | — |
+| `6022-600-00` | Station Hygofol (support de rouleaux) | mural ou plan de travail |
+| `6022100027` | Hygopac Sealcheck — test du scellage (EN ISO 11607-2) | 250 pièces |
+| `0000-500` | Test de soudure (validation annuelle) | EN ISO 11607-2 |
+| `6020-061-00` | Sachets de stérilisation transparents **Hygofol** 7,5 × 30 cm | 500 pièces |
+| `6020-062-00` | Sachets Hygofol 10,0 × 30 cm | 500 pièces |
+| `6020-063-00` | Sachets Hygofol 15,0 × 30 cm | 500 pièces |
+| `6020-050-50` | Rouleau Hygofol 5,0 cm × 100 m | — |
+| `6020-051-50` | Rouleau Hygofol 7,5 cm × 100 m | — |
+| `6020-052-50` | Rouleau Hygofol 10,0 cm × 100 m | — |
+| `6020-053-50` | Rouleau Hygofol 15,0 cm × 100 m | — |
+| `6020-055-50` | Rouleau Hygofol 25,0 cm × 100 m | — |
+| `6020-080-50/03` | **Hygoprint** — système d'étiquetage des sachets de stérilisation | avec 2 rouleaux |
+| `6020-090-50/03` | Rouleaux de recharge Hygoprint | 5 rouleaux de 1 000 étiquettes |
+| `6020-080-60` | Recharge d'encre de couleur Hygoprint | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

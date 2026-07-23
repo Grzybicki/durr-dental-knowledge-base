@@ -555,6 +555,58 @@ Dispositif médical de **classe IIb**, marquage CE 2460, conforme à la Directiv
 Au logiciel d'imagerie **VistaSoft** de Dürr Dental. Voir la
 [fiche VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. La fiche couvre **deux appareils** (VistaPano S 2.0 et VistaPano S Ceph 2.0) :
+tableau de références sans code produit unique.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2208100004` | **VistaPano S 2.0** (panoramique 2D) | appareil |
+| `2208100005` | **VistaPano S Ceph 2.0** (panoramique + céphalométrique) | appareil |
+| `2207-100-50` | Pied pour VistaPano | montage sur pied |
+| `2207100055` | Set de plaques de support pour VistaPano | montage mural / appareil |
+| `2207100057` | Set de plaques de support pour VistaPano | montage mural / appareil |
+| `2210200700` | Kit appuie-tête Plus pour VistaVox et VistaPano | — |
+| `2210200701` | Coussinets pour appuie-tête Plus (droite/gauche) | — |
+| `2210200918` | Support mordu (avec mordu confort + mousse confort) | autoclavable |
+| `2210201074` | Mordus standard pour VistaVox et VistaPano | 3 pièces |
+| `2210201075` | Mordus confort | 3 pièces |
+| `2210201067` | Mousse pour support confort (à usage unique) | 100 pièces |
+| `2210201151` | Mentonnière **Sinus** (ancienne réf `2207-054-50`) | autoclavable/désinfectable |
+| `2210201152` | Mentonnière **ATM** (ancienne réf `2207-053-50`) | autoclavable/désinfectable |
+| `2210201150` | Mentonnière **Édenté** (ancienne réf `2207-052-50`) | autoclavable/désinfectable |
+| `2210201157` | Mentonnière **Universelle** — nouveau matériau | autoclavable/désinfectable |
+| `2207-010-50` | Sachets de protection hygiénique pour mordus | 100 unités |
+| `2207100042` | Kit hygiène silicone (Ceph) — embouts auriculaires et nasion | 10 pièces |
+| `2207-020-50` | Outil de contrôle du laser | — |
+| `2207-021-50` | Fantôme sphérique | — |
+| `2207-900-50` | Support de la mire de résolution Pano | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
+### Portfolio mentonnières (VistaVox / VistaPano)
+
+Les **mentonnières** (chin supports) sont **partagées entre VistaVox et VistaPano** : le
+**Support mordu** (`2210200918`) et quatre mentonnières anatomiques **autoclavables/
+désinfectables**, fabriquées en Allemagne, en **matériau compatible radiographie** et
+**identifiables par lettrage** — **Sinus** (`2210201151`), **ATM** (`2210201152`), **Édenté**
+(`2210201150`) et **Universelle** (`2210201157`). Chaque ancienne mentonnière (`2207-05x-50`)
+a une **réf de remplacement actuelle** (`2210201150/151/152`). La **Mentonnière Universelle**
+(`2210201157`) est la génération la plus récente : **nouveau matériau** thermodésinfectable et
+autoclavable, **plus résistant aux désinfectants** et plus durable. Détail complet et bénéfices
+sur la fiche [VistaVox S](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/).
+
+**Nettoyage et décontamination des mentonnières** : lingettes **FD 366 sensitive** pour
+surfaces délicates (`CDF366F0450` — cf. [désinfection des surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)) ;
+désinfection des instruments **ID 212** (`CDI212C6150` — cf. [familles ID/MD/HD/FD](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/)).
+
+Source : portfolio des mentonnières VistaVox / VistaPano — Dürr Dental (mise à jour
+09/01/2026 ; codes article publics, tarifs non repris).
+
 ## Sources publiques
 
 Toutes les sources ci-dessous sont **publiques, accessibles sans authentification**.

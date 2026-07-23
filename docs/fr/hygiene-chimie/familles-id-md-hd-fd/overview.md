@@ -370,6 +370,26 @@ Le FD 312 (désinfection des surfaces) est soumis au Certibiocide « désinfecta
 
 Oui : Orotol Plus pH 7 (> 95 % d'ingrédients biodégradables OECD), MD 555 cleaner organic et les lingettes FD 350 green wipes (sans plastique, neutres en carbone).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** — **référence représentative par famille** (une entrée type
+par gamme). La chimie Dürr est fabriquée par **orochemie** en marque privée ; les codes
+ci-dessous sont les identifiants Dürr Dental publics (catalogue matériel Dürr Dental France
+2026). Le détail par format/conditionnement figure sur la fiche dédiée de chaque famille.
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Famille — fiche détaillée |
+|---|---|---|
+| `CDI212C6150` | **ID 212** — désinfection des instruments (4 × 2,5 l) | Famille **ID** (instruments) — voir [désinfection des empreintes/instruments](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
+| `CDA520C6150` | **MD 520** — désinfection des empreintes (4 × 2,5 l) | Famille **MD** (empreintes/prothèses) — voir [désinfection des empreintes](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) |
+| `CDH420P6150` | **HD 420 plus** — désinfection des mains (4 × 2,5 l) | Famille **HD** (mains) — voir [désinfection des mains](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/) |
+| `CDF322C6150` | **FD 322** — désinfection rapide des surfaces (4 × 2,5 l) | Famille **FD** (surfaces) — voir [désinfection des surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
+| `CDS110P9950` | **Kit de démarrage Orotol** (Orotol plus + MD 555 cleaner + MD 550) | Aspiration — voir [désinfection des systèmes d'aspiration](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Le détail complet des codes de la famille
+**ID** figure sur la fiche [désinfection des empreintes/instruments](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/).
+
 ## Sources publiques
 
 | Document | URL publique |

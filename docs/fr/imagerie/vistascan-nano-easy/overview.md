@@ -30,6 +30,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": ["MedicalDevice", "Product"],
   "name": "VistaScan Nano Easy",
+  "mpn": "2160110001",
   "description": "VistaScan Nano Easy est le scanner de plaques au phosphore le plus compact de la gamme Dürr Dental. Tailles intraorales 0, 1, 2. Conçu pour installation au fauteuil. Scan + effacement en une seule étape pour préparation de l'acquisition suivante.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-nano-easy/overview/",
   "inLanguage": "fr",
@@ -205,9 +206,41 @@ Dans un cabinet exigu (nouveau cabinet, poste itinérant, second poste) où les 
 
 Non : le Nano Easy n'accepte qu'une seule taille de plaque à la fois, déterminée par l'**élément (cassette)** inséré. Changer de format impose de **remplacer physiquement cet élément** par celui du format voulu. Un cabinet qui alterne fréquemment les formats (par exemple **S0 en pédodontie** puis **S2 chez l'adulte**) doit manipuler l'élément à chaque changement, ce qui constitue une **contrainte d'exploitation à anticiper**.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. Le **VistaScan Nano Easy** fonctionne par **élément** (et non « guide de
+plaque ») : il est livré avec l'**élément T2 + 4 écrans T2 + 300 sachets** ; les éléments
+T0 et T1 se commandent en option (**pas de T3 / T4** sur ce modèle).
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2160110001` | VistaScan Nano Easy (scanner) | appareil |
+| `2160100248` | Élément pour écran à mémoire (livré) | T2 (3×4) |
+| `2160100246` | Élément pour écran à mémoire (en option) | T0 (2×3) |
+| `2160100247` | Élément pour écran à mémoire (en option) | T1 (2×4) |
+| `2160100210` | Support mural (tablette murale) VistaScan Nano Easy | — |
+| `2160100700` | Kit d'extension d'écrans à mémoire | sur demande |
+| `2130106051` | Pack écran IQ — 2 écrans + 1000 sachets de protection | T0 |
+| `2130106151` | Pack écran IQ — 2 écrans + 1000 sachets de protection | T1 |
+| `2130106251` | Pack écran IQ — 2 écrans + 1000 sachets de protection | T2 |
+| `2130104250` | Écran à mémoire VistaScan IQ (4 pièces, à l'unité) | T2 (3×4) |
+| `2130-082-00` | Sachets de protection contre la lumière Plus (300) | T2 |
+| `2141-002-00` | Boîte de rangement des écrans à mémoire | — |
+| `2130100500` | Kit de positionnement [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/) PSP antérieur/postérieur (titane) | — |
+| `CCB351B1001` | Lingettes de nettoyage écrans à mémoire (10) | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris). Les **packs** `2130106xxx` associent
+**2 écrans à mémoire IQ + les sachets de protection** correspondants. Le système de
+positionnement [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
+(`2130100500`) se monte sur les écrans à mémoire intra-oraux VistaScan.
+
 ## Pour aller plus loin
 
 - [Guide de choix — imagerie intra-orale (capteur ou plaque, puis quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)
+- [VistaPosition — système de positionnement des écrans à mémoire](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
 - [Gamme VistaScan complète (vue d'ensemble)](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
 - [VistaScan Mini Easy 2.0 — variante tailles 0 à 4](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/)
 - [Écrans VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)

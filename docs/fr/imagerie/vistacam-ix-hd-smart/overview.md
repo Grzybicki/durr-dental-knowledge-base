@@ -291,6 +291,34 @@ Une lumière infrarouge à 850 nm traverse l'émail : l'émail sain est transpar
 
 Raccordement USB 2.0 (compatible USB 3.0), utilisation multiposte plug & play, poids de 70 g, déclenchement par touche (en haut et en bas) avec vibration de confirmation (factsheet P007100020L03).
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. La VistaCam iX HD Smart se commande en **plusieurs packs** selon les têtes
+interchangeables incluses (SKU distincts) : tableau de références sans code produit
+unique.
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `2109100001` | VistaCam iX HD Smart — **pack Cam + Proof + Proxi** | caméra complète |
+| `2109100002` | VistaCam iX HD Smart — **pack Cam + Proof** | — |
+| `2109100003` | VistaCam iX HD Smart — **pack Cam + Proxi** | — |
+| `2109100004` | VistaCam iX HD Smart — **pack Cam** seul | — |
+| `2109130051` | Tête interchangeable **Proof** (iX HD Smart) | + 5 embouts focalisateur |
+| `2109130052` | Tête interchangeable **Proxi** (iX HD Smart) | + 5 embouts focalisateur |
+| `2109105051` | Support actif / HUB USB (rallonge + support) | montage mural possible |
+| `2109105050` | Support pour pièce à main | arrêt automatique |
+| `2109132050` | Embout focalisateur (têtes Proof et Proxi) | 5 pièces |
+| `2109135050` | Boîte de rangement pour têtes interchangeables | — |
+| `2109010052` | Sachets de protection hygiéniques | 100 pièces |
+| `2109010050` | Sachets de protection hygiéniques | 500 pièces |
+| `2101-025-50` | Kit de nettoyage pour optique VistaCam | — |
+| `2106-155-63` | Répétiteur USB (rallonge) | 4,8 m |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 ### Pages officielles Dürr Dental

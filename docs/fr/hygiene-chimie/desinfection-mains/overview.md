@@ -157,6 +157,35 @@ Le HD 420 plus, des produits de nettoyage et d'entretien des mains pour usage qu
 
 Non : les désinfectants pour les mains (HD 410, HD 420 plus) sont des produits TP1 (hygiène humaine), exemptés par l'arrêté du 9 octobre 2013 modifié.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** de la famille **HD** (désinfection et soin des mains) et de
+leurs distributeurs. La chimie Dürr est fabriquée par **orochemie** en marque privée ; les
+codes ci-dessous sont les identifiants Dürr Dental publics (page produit officielle +
+catalogue matériel Dürr Dental France 2026). Le catalogue matériel 2026 référence
+**HD 420 plus** et **HD 435** ; les déclinaisons HD 410 / HD 430 / HD 440 n'y figurent pas.
+**Prix exclus** — cette fiche ne reproduit aucun tarif.
+
+| Réf (code Dürr) | Désignation | Format / conditionnement |
+|---|---|---|
+| `CDH420P6150` | **HD 420 plus** — désinfection hygiénique et chirurgicale des mains (biocide N-80763) | 4 flacons de 2,5 l |
+| `CDH420P5550` | HD 420 plus | 6 flacons de 1 l |
+| `CDH420P3551` | HD 420 plus | 12 flacons de 500 ml |
+| `CDH420P9150` | HD 420 plus | bidon de 10 l |
+| `CCH435C6150` | **HD 435** — lotion nettoyante douce (lavage hygiénique des mains) | 4 bidons de 2,5 l |
+| `CCH435C5550` | HD 435 — lotion nettoyante | 6 bidons de 1 l |
+| `CCH435C3550` | HD 435 — lotion nettoyante | 12 bidons de 500 ml |
+| `6000049030` | Distributeur universel Touchless XT 400 (capteur, flacon 500 ml) | mural |
+| `6000049031` | Distributeur universel Touchless XT 1000 (capteur, flacon 1 l) | mural |
+| `6000-049-24` | Distributeur universel S 400 (levier court, sans contact) | mural |
+| `6000049040` | Distributeur universel RX 5 M (manuel, flacon 500 ml) | mural |
+| `6000049041` | Distributeur universel RX 10 M (manuel, flacon 1 l) | mural |
+| `CEH4XXA9750` | Pompe de dosage pour bidon de 1 l (HD 420 plus) | — |
+| `CEH200C9700` | Pompe de dosage pour bidon de 500 ml (HD 420 plus / HD 435) | — |
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |

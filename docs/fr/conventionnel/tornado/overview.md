@@ -517,6 +517,35 @@ remplacer l'**amortisseur de vibrations** ; **tous les 10 ans**, remplacer le **
 nettoie jamais**, il se remplace. Un **allongement du temps de mise sous pression** (cuve vide →
 pression d'arrêt) peut signaler l'usure du joint de piston.
 
+## Références produit et accessoires
+
+Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
+officielle et les distributeurs agréés). **Prix exclus** — cette fiche ne reproduit
+aucun tarif. La gamme **Tornado** étant une **famille** (Tornado 1, 2, 4), les
+références du compresseur sont listées **par modèle** (génération actuelle).
+
+| Réf (code Dürr) | Désignation | Format / note |
+|---|---|---|
+| `5182300001` | Tornado 1 (compresseur avec dessiccateur à membranes) | 1 praticien, 230 V |
+| `5186300001` | Tornado 1 avec capot d'insonorisation monté en usine | 1 praticien, 230 V |
+| `5282300001` | Tornado 2 (compresseur avec dessiccateur à membranes) | 2 praticiens, 230 V |
+| `5286300001` | Tornado 2 avec capot d'insonorisation monté en usine | 2 praticiens, 230 V |
+| `4282300001` | Tornado 4 (compresseur avec dessiccateur à membranes) | 4 praticiens, 230 V |
+| `5180-982-00` | Filtre d'admission | Tornado 1 / 2, remplacement annuel |
+| `5180-980-60` / `5180-980-61` | Kit filtres fins / kit filtres bactériologiques (ULPA U16) | Tornado 1 et 2 |
+| `4280-980-60` / `4280-980-61` | Kit filtres fins / kit filtres bactériologiques (ULPA U16) | Tornado 4 |
+| `5182-600-50` | Module d'extension d'un dessiccateur à membranes | Tornado 1 et 2 |
+| `5180-983-00` | Kit purge des condensats (rétrofit) | appareil sans dessiccateur à membranes |
+| `6040-992-00` | Détendeur réglable avec raccord rapide | Tornado + Silver Airline (option) |
+| `5150-500-00` | Armoire d'insonorisation en bois (ventilée) | Tornado 1 et 2 |
+
+> Pièces d'usure détaillées (filtre fin `1610-121-00`, filtre bactéries/virus `1650100172`,
+> filtre à coalescence `1650200323`, amortisseurs de vibrations, kit joint de piston `5180100157`) :
+> voir la section « Plan de maintenance et pièces d'usure » ci-dessus.
+
+Source : codes article Dürr Dental (page produit officielle + catalogue matériel
+Dürr Dental France 2026, tarifs non repris).
+
 ## Sources publiques
 
 | Document | URL publique |
