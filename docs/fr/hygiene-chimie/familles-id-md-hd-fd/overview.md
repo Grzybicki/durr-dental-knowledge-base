@@ -207,9 +207,9 @@ une **désinfection et un nettoyage efficaces et combinés**.
 |---|---|
 | Orotol (désinfection aspiration) | **MDR EU 2017/745** (DM classe IIa) |
 | MD (empreintes, crachoirs, nettoyants) | **MDR EU 2017/745** (DM — MD 530/535/555 classe I, MD 550 classe IIa, MD 520 dispositif médical) |
-| ID (instruments) | **MDR EU 2017/745** (DM — ID 215 classe I, ID 212/213/220 classe IIa) |
+| ID (instruments) | **MDR EU 2017/745** (DM — ID 215 classe I, ID 212/213 classe IIa, **ID 220 classe IIb** — endpoint de retraitement) |
 | HD (mains) | **BPR — Règlement (UE) 528/2012** (TP1, hygiène humaine) |
-| FD (surfaces) | **MDR EU 2017/745** (DM classe IIa, règle 16) — le **FD 312** cumule en outre un statut **biocide TP2** (BPR 528/2012) |
+| FD (surfaces) | **MDR EU 2017/745** (DM classe IIa, règle 16 ; **FD 333 forte = classe IIb**, sporicide/endpoint) — le **FD 312** cumule en outre un statut **biocide TP2** (BPR 528/2012) |
 
 Voir la [matrice MDR complète](/durr-dental-knowledge-base/sources/certificates/) pour les
 classifications spécifiques.
@@ -247,8 +247,8 @@ sont **hors périmètre**, et sont par ailleurs vendus au **grand public**.
 | Produit | Statut | Pourquoi exempté |
 |---|---|---|
 | **HD 410 / HD 420 plus** (mains) | **Biocide TP1** (BPR 528/2012) | **TP1 hors périmètre** — le Certibiocide « désinfectants » ne couvre que les TP2/3/4 (produits par ailleurs vendus au grand public) |
-| **FD** surfaces (300/322/333/350/366) | **DM MDR** classe IIa (règle 16) | Dispositif médical → hors champ des biocides (**le FD 312 fait exception** : voir ci-dessus) |
-| **ID** instruments (215, 212, 213, 220) | **DM MDR** (classe I à IIa) | Dispositif médical → hors champ des biocides |
+| **FD** surfaces (300/322/333/350/366) | **DM MDR** classe IIa (règle 16) — **FD 333 forte = IIb** (sporicide/endpoint) | Dispositif médical → hors champ des biocides (**le FD 312 fait exception** : voir ci-dessus) |
+| **ID** instruments (215 = I ; 212 / 213 = IIa ; **220 = IIb**) | **DM MDR** | Dispositif médical → hors champ des biocides |
 | **MD** (530/535/555 nettoyants, 550 crachoirs, 520 empreintes) | **DM MDR** (classe I à IIa) | Dispositif médical → hors champ des biocides |
 | **Orotol** (Plus, pH 7, ultra, expert cleaner) | **DM MDR** (classe I à IIa) | Dispositif médical → hors champ des biocides |
 | **Vector Fluid / Vector cleaner / RinsEndo** | **DM MDR** (classe I à IIa) | Dispositif médical → hors champ des biocides |

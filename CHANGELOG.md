@@ -4,6 +4,19 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.11.4] — 2026-07-23
+
+### Corrigé — propagation des classes MDR issues des certificats maîtres
+
+- **Chimie : FD 333 forte et ID 220 = classe IIb** (étaient IIa) — propagé dans `certificates.md`
+  (2 lignes dédiées avec Basic UDI-DI DEKRA `+EORO0003FDNN` / `++EORO0003IDNX`) et dans la fiche
+  `familles-id-md-hd-fd` (récap classes). Motif : **endpoint de retraitement / sporicide** (cert DEKRA
+  `50090-60-02-03`).
+- **Tyscor poste unique (V/VS/VSA 1-4) = IIa confirmé** (catégorie « Suction machines for dental
+  applications » de l'annexe du certificat QMS DQS `518373 MDR2017Q`) — **dernière ligne « à confirmer »
+  de `certificates.md` levée**.
+- `validate.py` 0/0.
+
 ## [0.11.3] — 2026-07-23
 
 ### Ajouté — certificats QMS maîtres (DQS + DEKRA) + stations air comprimé cliniques résolues
