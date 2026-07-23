@@ -249,10 +249,22 @@ de récupération d'amalgame associées.
 | `7805-033-00` | Cassette de récupération d'amalgame à usage unique (CA 4) | consommable |
 | `7131-991-00` | Capot d'insonorisation (VS/VSA 900 / 1200) | option |
 | `CDS110P9950` | Kit de démarrage Orotol (Orotol plus + MD 555 cleaner + MD 550 + OroCup) | entretien |
+| `7125985999` | **Kit de maintenance annuelle — VS 300 S / VSA 300 S** | filtre + raccord vidange + Orotol Expert cleaner 120 ml |
+| `7128985999` | **Kit de maintenance annuelle — VS 600** (avant 2021) | idem |
+| `7133985999` | **Kit de maintenance annuelle — VS 600** (après 2021) **/ VS 900 S** | idem |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris). Récupérateurs d'amalgame CA 2 / CA 4 :
 voir la [fiche récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/).
+
+**Maintenance annuelle (campagne « Save your suction system »).** L'aspiration étant un
+**dispositif médical**, la réglementation impose un **entretien annuel** par un **technicien
+agréé**. Le **kit d'entretien annuel** se choisit par modèle : **`7125985999`** (VS 300 S /
+VSA 300 S), **`7128985999`** (VS 600 avant 2021), **`7133985999`** (VS 600 après 2021 / VS 900 S).
+Chaque kit contient : le **filtre d'aspiration** du moteur concerné, le **raccord de vidange
+anti-retour**, une solution de **120 ml d'Orotol Expert cleaner**, la **fiche procédure** et la
+**fiche de suivi du dispositif médical**. *(Kits Tyscor : voir la
+[fiche Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/).)*
 
 ## Sources publiques
 

@@ -24,6 +24,8 @@ Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
   de filtre `0705-991-50` ; contenu du kit précisé (filtre aspiration + raccord vidange anti-retour +
   Orotol Expert cleaner 120 ml + fiche procédure + fiche de suivi DM) ; entretien **annuel obligatoire**
   (DM) par technicien agréé.
+- **Kits de maintenance VS classiques** (`vsa`) — même flyer : **`7125985999`** (VS 300 S / VSA 300 S),
+  **`7128985999`** (VS 600 avant 2021), **`7133985999`** (VS 600 après 2021 / VS 900 S).
 - **Questionnaire GEO** (`Eval set v1`, vault) : **catégorie G « Maintenance / réf à commander »** (8 Q,
   dont G8 kit Tyscor), discriminants G2 (filtre admission = 3 µm) / G5 (MD 550 ≠ MD 555) ; A7 signalé à
   réviser (FD 312 = Certibiocide) ; gap G marqué **résolu**.
