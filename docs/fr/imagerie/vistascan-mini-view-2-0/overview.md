@@ -74,7 +74,7 @@ classe **IIa** (NB DQS 0297) — voir la
 | Paramètre | Valeur |
 |---|---|
 | Technologie | **PCS** (Plate Carrier Scanning) |
-| Écran | **Écran en verre haute résolution** — ScanManager + informations patient |
+| Écran | **Écran en verre haute résolution** — **ScanManager** (sélection du dossier patient sur l'appareil) + informations patient |
 | Fonctionnement autonome | **Oui** (travail sans ordinateur, transfert différé des images) |
 | Formats de plaques | **S0, S1, S2, S3, S4** (tous les guides de plaque livrés) |
 | Plaques compatibles | **VistaScan Image Plates IQ** (RFID + QR) — voir [fiche écrans IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |

@@ -72,7 +72,7 @@ phosphore sans fonction de mesure), un **dispositif médical de classe I** —
 | Technologie | **PCS** (Plate Carrier Scanning) |
 | Formats | **Intra-oral S0 à S4** + **extra-oral** (panoramique, céphalométrique 18×24) |
 | Débit intra-oral | **Jusqu'à 4 plaques** lues simultanément |
-| Écran | **Écran tactile couleur 4,3"** (800 × 480, 16,7 M couleurs) + **fenêtre de prévisualisation** |
+| Écran | **Écran tactile couleur 4,3"** (800 × 480, 16,7 M couleurs) — **ScanManager** (sélection du dossier patient sur l'appareil), données patient et **fenêtre de prévisualisation** |
 | Fonctionnement autonome | **Oui** (mémoire interne + transfert différé des images) |
 | Plaques compatibles | **VistaScan Plus** (sans RFID) — voir [section écrans Plus](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
 | Résolution | **40 LP/mm** (théorique) / **22 LP/mm** effective ; **16 bits** (65 536 niveaux) |
