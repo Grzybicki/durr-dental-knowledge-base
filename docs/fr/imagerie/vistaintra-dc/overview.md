@@ -258,8 +258,7 @@ distincts) : tableau de références sans code produit unique.
 | `2202-03` | Émetteur VistaIntra DC — **bras horizontal 90 cm** | portée de travail ≤ 2 120 mm |
 | `2202-101-50` | Limiteur du champ de rayonnement (**réducteur de champ**) | 2 × 3 cm |
 | `2202-101-51` | Limiteur du champ de rayonnement (**réducteur de champ**) | 3 × 4 cm |
-| `2202-102-50` | Rallonge de tube — **cône long** 300 mm | tube 200 → 300 mm |
-| `2207-070-51` | Adaptateur pour **intégrer un déclencheur déjà installé** au cabinet | **2 pôles** ; *(le raccord d'un bouton poussoir externe est **inclus de série**)* |
+| `2202-102-50` | Rallonge de tube — **cône long** 300 mm | tube 200 → 300 mm ; **montage par un technicien** (resserrage du frein du générateur) |
 | `2202100012` | Kit **panneau / pupitre de commande déporté** (fixation externe) | avec faisceau `2202-300-05` ; connexion **LAN Cat 5** ou **câble 9 pôles** |
 | `2202-300-05` | Faisceau (harness) pour **panneau de commande externe** | complète le kit `2202100012` |
 | `2202100030` | Bloc de fixation murale (2 entretoises) | montage mural |
@@ -267,10 +266,13 @@ distincts) : tableau de références sans code produit unique.
 | `2202100035` | **Plaque d'adaptation** VistaIntra DC (générique) | remplacement d'un appareil intra-oral tiers |
 
 > **Options d'installation déportées** : le **raccord d'un bouton de déclenchement (poussoir) externe
-> est inclus de série** — le bouton peut donc être **déporté sans accessoire**. L'adaptateur
-> `2207-070-51` (2 pôles) sert uniquement à **intégrer un déclencheur déjà installé** au cabinet.
-> Le **pupitre de commande** peut lui aussi être **déporté** via un kit de fixation externe
-> (`2202100012`, connexion LAN Cat 5 ou câble 9 pôles).
+> est inclus de série** — le bouton peut donc être **déporté sans accessoire**. Le **pupitre de
+> commande** peut lui aussi être **déporté** via un kit de fixation externe (`2202100012` + faisceau
+> `2202-300-05`, connexion LAN Cat 5 ou câble 9 pôles).
+>
+> **Cône long** : le montage de la rallonge de tube 300 mm (`2202-102-50`) modifie l'équilibre du bras
+> et **nécessite le resserrage du frein du générateur** → opération réservée à un **technicien agréé
+> Dürr Dental**.
 >
 > **Plaques d'adaptation (remplacement d'un générateur intra-oral existant)** — permettent de monter
 > la VistaIntra DC **sur la fixation murale déjà en place**, sans re-perçage. Références (codes Dürr) :
