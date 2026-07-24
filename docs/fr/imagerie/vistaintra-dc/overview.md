@@ -252,17 +252,28 @@ distincts) : tableau de références sans code produit unique.
 
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
-| `2202-01` | Émetteur VistaIntra DC — **bras court** | longueur de travail ≤ 1 670 mm |
-| `2202-02` | Émetteur VistaIntra DC — **bras moyen** | longueur de travail ≤ 1 820 mm |
-| `2202-03` | Émetteur VistaIntra DC — **bras long** | longueur de travail ≤ 2 120 mm |
-| `2202-101-50` | Limiteur du champ de rayonnement | 2 × 3 cm |
-| `2202-101-51` | Limiteur du champ de rayonnement | 3 × 4 cm |
-| `2202-102-50` | Rallonge du tube 300 mm | tube 200 → 300 mm |
-| `2202100012` | Cache pour VistaIntra DC | fixation du panneau de contrôle à l'extérieur |
-| `2202-303-50` | Plaque de montage murale pour VistaIntra DC | parois instables |
+| `2202-01` | Émetteur VistaIntra DC — **bras horizontal 45 cm** | portée de travail ≤ 1 670 mm |
+| `2202-02` | Émetteur VistaIntra DC — **bras horizontal 60 cm** | portée de travail ≤ 1 820 mm |
+| `2202-03` | Émetteur VistaIntra DC — **bras horizontal 90 cm** | portée de travail ≤ 2 120 mm |
+| `2202-101-50` | Limiteur du champ de rayonnement (**réducteur de champ**) | 2 × 3 cm |
+| `2202-101-51` | Limiteur du champ de rayonnement (**réducteur de champ**) | 3 × 4 cm |
+| `2202-102-50` | Rallonge de tube — **cône long** 300 mm | tube 200 → 300 mm |
+| `2207-070-51` | Adaptateur pour **intégrer un déclencheur déjà installé** au cabinet | **2 pôles** ; *(le raccord d'un bouton poussoir externe est **inclus de série**)* |
+| `2202100012` | Kit **panneau / pupitre de commande déporté** (fixation externe) | connexion **LAN Cat 5** ou **câble 9 pôles** |
+| `2202-303-50` | Plaque de montage murale **universelle** (8 points d'ancrage) | parois instables |
+| `2202100035` | **Plaque d'adaptation** VistaIntra DC (générique) | remplacement d'un appareil intra-oral tiers |
 
-> Des **plaques d'adaptation** existent pour l'installation en remplacement d'appareils
-> tiers ; leurs références sont disponibles auprès du service commercial Dürr Dental.
+> **Options d'installation déportées** : le **raccord d'un bouton de déclenchement (poussoir) externe
+> est inclus de série** — le bouton peut donc être **déporté sans accessoire**. L'adaptateur
+> `2207-070-51` (2 pôles) sert uniquement à **intégrer un déclencheur déjà installé** au cabinet.
+> Le **pupitre de commande** peut lui aussi être **déporté** via un kit de fixation externe
+> (`2202100012`, connexion LAN Cat 5 ou câble 9 pôles).
+>
+> **Plaques d'adaptation (remplacement)** : des plaques **spécifiques** permettent de remplacer un
+> générateur intra-oral **d'une autre marque** en **réutilisant les fixations murales en place**
+> (pas de re-perçage) — séries `2202-303-5x` et nouvelles réfs `2202100xx` (depuis 2025). Le **modèle
+> exact** de plaque selon l'appareil à remplacer est fourni par le **service commercial / technique
+> Dürr Dental**.
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris).
