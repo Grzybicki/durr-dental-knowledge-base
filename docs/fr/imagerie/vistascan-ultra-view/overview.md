@@ -91,6 +91,13 @@ ne se distingue donc **pas** par une meilleure image, mais par sa **vitesse** :
 ses **deux fentes** numérisent deux plaques en parallèle, ce qui le destine aux
 **structures à fort débit**.
 
+> **Précision — pas de SmartScan.** Malgré son positionnement haut de gamme, le
+> VistaScan Ultra View **ne gère pas** le workflow **SmartScan** : le
+> [VistaScan Smart Reader](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)
+> (attribution RFID patient/plaque avant acquisition) est **réservé au Mini Easy 2.0
+> et au Mini View 2.0**. Il n'est disponible **ni** sur l'Ultra View, **ni** sur le
+> Nano Easy, **ni** sur le Combi View.
+
 ## Contenu de livraison
 
 Le VistaScan Ultra View est livré avec : bloc d'alimentation, câbles (alimentation,
