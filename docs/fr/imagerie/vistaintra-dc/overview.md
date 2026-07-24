@@ -269,11 +269,12 @@ distincts) : tableau de références sans code produit unique.
 > Le **pupitre de commande** peut lui aussi être **déporté** via un kit de fixation externe
 > (`2202100012`, connexion LAN Cat 5 ou câble 9 pôles).
 >
-> **Plaques d'adaptation (remplacement)** : des plaques **spécifiques** permettent de remplacer un
-> générateur intra-oral **d'une autre marque** en **réutilisant les fixations murales en place**
-> (pas de re-perçage) — séries `2202-303-5x` et nouvelles réfs `2202100xx` (depuis 2025). Le **modèle
-> exact** de plaque selon l'appareil à remplacer est fourni par le **service commercial / technique
-> Dürr Dental**.
+> **Plaques d'adaptation (remplacement d'un générateur intra-oral existant)** — permettent de monter
+> la VistaIntra DC **sur la fixation murale déjà en place**, sans re-perçage. Références (codes Dürr) :
+> `2202-303-51`, `2202-303-52`, `2202-303-53`, `2202-303-54`, `2202-303-55` ; nouvelles réfs (depuis
+> 2025) : `2202100042`, `2202100043`. Chaque plaque correspond à la **fixation d'un appareil intra-oral
+> existant**. **Rapprochez-vous d'un revendeur Dürr Dental pour obtenir la référence exacte
+> correspondant à votre appareil en place.**
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris).
