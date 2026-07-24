@@ -114,11 +114,12 @@ patient.
 
 VistaIntra DC est conçu pour s'intégrer nativement avec :
 
-| Composant | Lien |
-|---|---|
-| Plaques au phosphore VistaScan IQ + scanners VistaScan | [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) |
-| Capteurs intraoraux VistaRay 7 | [Fiche VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/) |
-| Logiciel d'imagerie | [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
+| Composant | Rôle | Lien |
+|---|---|---|
+| **Récepteur — plaque au phosphore** | écrans à mémoire VistaScan IQ lus par un scanner VistaScan | [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) · [Écrans IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
+| **Récepteur — capteur filaire** | capteur intra-oral (image immédiate) | [VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/) |
+| **Positionnement du récepteur** | angulateurs / porte-écrans pour un cliché **reproductible** (source ⟂ récepteur) | [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/) |
+| **Logiciel d'imagerie** | pilotage, archivage, dose au récepteur | [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
 
 ## Caractéristiques techniques
 
@@ -259,7 +260,9 @@ distincts) : tableau de références sans code produit unique.
 | `2202-101-51` | Limiteur du champ de rayonnement (**réducteur de champ**) | 3 × 4 cm |
 | `2202-102-50` | Rallonge de tube — **cône long** 300 mm | tube 200 → 300 mm |
 | `2207-070-51` | Adaptateur pour **intégrer un déclencheur déjà installé** au cabinet | **2 pôles** ; *(le raccord d'un bouton poussoir externe est **inclus de série**)* |
-| `2202100012` | Kit **panneau / pupitre de commande déporté** (fixation externe) | connexion **LAN Cat 5** ou **câble 9 pôles** |
+| `2202100012` | Kit **panneau / pupitre de commande déporté** (fixation externe) | avec faisceau `2202-300-05` ; connexion **LAN Cat 5** ou **câble 9 pôles** |
+| `2202-300-05` | Faisceau (harness) pour **panneau de commande externe** | complète le kit `2202100012` |
+| `2202100030` | Bloc de fixation murale (2 entretoises) | montage mural |
 | `2202-303-50` | Plaque de montage murale **universelle** (8 points d'ancrage) | parois instables |
 | `2202100035` | **Plaque d'adaptation** VistaIntra DC (générique) | remplacement d'un appareil intra-oral tiers |
 
@@ -297,8 +300,10 @@ Dürr Dental France 2026, tarifs non repris).
 
 ## Pour aller plus loin
 
-- [VistaRay 7 — capteur intraoral compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
+- [VistaRay 7 — capteur intra-oral compatible](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/)
 - [Gamme VistaScan — scanners de plaques au phosphore](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)
+- [Écrans VistaScan Image Plates IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)
+- [VistaPosition — positionnement des récepteurs intra-oraux](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
 - [VistaSoft 4.0 — logiciel d'imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
 - [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/)
 
