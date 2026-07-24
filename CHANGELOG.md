@@ -4,6 +4,25 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.13.0] — 2026-07-24
+
+### Ajouté — 3 fiches scanners dédiées (Mini View 2.0, Ultra View, Combi View)
+
+Ces trois scanners n'existaient que dans la fiche `gamme` — désormais **pages produit propres**
+(meilleure granularité GEO). Sourcées pages produit officielles + notices/brochure + catalogue :
+
+- **`vistascan-mini-view-2-0`** (`mpn 2144110101`) — écran en verre (ScanManager + informations
+  patient), **fonctionnement autonome**, Wi-Fi, **SmartScan Edition** (2 Smart Reader inclus), plaques IQ,
+  S0-S4. **Correction** : l'écran affiche ScanManager/infos patient (pas « aperçu image » — corrigé aussi
+  dans `gamme` et l'index).
+- **`vistascan-ultra-view`** (`mpn 2170110001`) — **2 fentes** (lecture simultanée, haut débit), écran
+  tactile 7" avec aperçu des images, autonome, plaques IQ. Résolution 22 LP/mm effective (= reste de la
+  gamme) : se distingue par la **vitesse**, pas la qualité.
+- **`vistascan-combi-view`** (`mpn 2151-01`) — **intra + extra-oral** (pano / céphalo 18×24), écran tactile
+  4,3" (800×480) avec fenêtre de prévisualisation, **plaques Plus** (sans RFID), jusqu'à 4 plaques simultanées.
+- **Classe I** pour les trois (scanner, auto-déclaration ; les écrans IQ/Plus restent IIa séparément).
+- Liens **index imagerie** + fiche **gamme** mis à jour vers les fiches dédiées. `validate.py` 0/0 (98 fichiers).
+
 ## [0.12.0] — 2026-07-23
 
 ### Ajouté — fiche Hygosuc (dernier « produit sans fiche » comblé)

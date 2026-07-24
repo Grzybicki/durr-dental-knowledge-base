@@ -81,10 +81,10 @@ plaques au phosphore intraoraux et combi :
 | Modèle | Type | Tailles plaques |
 |---|---|---|
 | **[VistaScan Mini Easy 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/)** | Chairside, **technologie PCS** | 0, 1, 2, 3, 4 |
-| **[VistaScan Mini View 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)** | Chairside avec écran d'aperçu | 0-4 |
+| **[VistaScan Mini View 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-view-2-0/overview/)** | Chairside **avec écran** (ScanManager + infos patient), Wi-Fi, 2 Smart Reader inclus | 0-4 |
 | **[VistaScan Nano Easy](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-nano-easy/overview/)** | Ultracompact, scan + effacement en 1 étape | 0, 1, 2 |
-| **[VistaScan Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)** | Combi intra + extra-oral | + pano / céphalo |
-| **[VistaScan Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/)** | Haut de gamme | tous formats |
+| **[VistaScan Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-combi-view/overview/)** | Combi intra + extra-oral (plaques Plus) | + pano / céphalo |
+| **[VistaScan Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-ultra-view/overview/)** | Haut de gamme, **2 fentes** (haut débit) | tous formats |
 
 Toutes les plaques utilisent les écrans **[VistaScan IQ](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/)** (RFID + QR code).
 

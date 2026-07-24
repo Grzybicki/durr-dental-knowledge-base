@@ -76,15 +76,15 @@ extra-oral reste sur les plaques **VistaScan Plus** (sans RFID).
 | Modèle | Particularité |
 |---|---|
 | **VistaScan Mini Easy 2.0** | Successeur du Mini Easy. Scanne les formats intra-oraux (S0/S2 de série, autres via guide de plaque en option). **Technologie PCS** (Plate Carrier Scanning) pour détection fiable des lésions D1 et des structures osseuses fines. Compact, installable au fauteuil. |
-| **VistaScan Mini View 2.0** | Variante Mini avec écran d'aperçu intégré. Permet la prévisualisation chairside avant transmission au logiciel. |
+| **[VistaScan Mini View 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-view-2-0/overview/)** | Variante Mini avec **écran en verre** (ScanManager + informations patient) et **fonctionnement autonome** ; Wi-Fi ; livrée en SmartScan Edition (2 Smart Reader inclus). |
 | **VistaScan Nano Easy** | Le plus compact de la gamme — tailles plaques 0, 1, 2. Conçu pour installation au fauteuil. Scan + effacement en une seule étape pour préparation de l'acquisition suivante. |
 
 ### Modèle combi et modèle intra-oral haut débit
 
 | Modèle | Particularité |
 |---|---|
-| **VistaScan Combi View** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). Écran d'aperçu intégré. Fonctionne sur **plaques Plus** (sans RFID). |
-| **VistaScan Ultra View** | Modèle **intra-oral** haut de gamme et haut débit : lit **tous les formats intra-oraux S0 à S4** en montant l'adaptateur correspondant. Plaques **IQ** (RFID actif). |
+| **[VistaScan Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-combi-view/overview/)** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). Écran tactile 4,3" avec **fenêtre de prévisualisation**. Fonctionne sur **plaques Plus** (sans RFID). |
+| **[VistaScan Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-ultra-view/overview/)** | Modèle **intra-oral** haut de gamme et haut débit (**2 fentes**, lecture simultanée de 2 plaques) : lit **tous les formats intra-oraux S0 à S4**. Plaques **IQ** (RFID actif). |
 
 ## Plaques au phosphore — VistaScan Image Plates IQ
 
