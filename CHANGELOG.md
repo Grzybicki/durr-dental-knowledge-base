@@ -4,6 +4,34 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.14.0] — 2026-07-24
+
+### Ajouté / Corrigé — VistaIntra DC enrichi + distinction ScanManager / Smart Reader
+
+- **VistaIntra DC** (`vistaintra-dc`) enrichi (infos expert + vault pièces détachées) :
+  - **Bras horizontal 45 / 60 / 90 cm** (`2202-01 / 02 / 03`).
+  - **Options déportées** : le **raccord d'un bouton poussoir externe est inclus de série** (déport sans
+    accessoire) ; **pupitre de commande déporté** via kit `2202100012` + faisceau `2202-300-05`
+    (connexion LAN Cat 5 ou câble 9 pôles).
+  - **Cône long** `2202-102-50` : montage réservé à un **technicien** (resserrage du frein du générateur).
+  - **Réducteur de champ** `2202-101-50/51`, **bloc de fixation murale** `2202100030`.
+  - **Plaques d'adaptation** (remplacement d'un générateur intra-oral existant) : réfs `2202-303-51..55`,
+    `2202100042/043`, universelle `2202-303-50`, générique `2202100035` — **codes article listés sans
+    citer les marques concurrentes** (règle d'or, *enforced* par `validate.py`) + renvoi **revendeur** pour
+    la réf exacte ; mapping réf↔marque gardé au vault (mémoire `accessoires-remplacement-concurrent`).
+  - **Écosystème maillé** (liens réciproques) : source (VistaIntra DC) ↔ récepteur (VistaScan + écrans IQ,
+    VistaRay 7) ↔ **positionnement (VistaPosition)** ↔ logiciel (VistaSoft), avec le rôle de chaque maillon.
+  - **NB réglementaire laissé « à confirmer »** : la seule DoC disponible est un document **OEM tiers
+    confidentiel** → écarté (règle d'or) ; classe **IIb** maintenue.
+  - **Correction** : réf `2207-070-51` retirée (= réf **VistaVox**, erronée sur VistaIntra DC).
+- **Scanners — distinction ScanManager ≠ Smart Reader** (correction) : l'**Ultra View** possède le
+  **ScanManager** (sélection du dossier patient **sur l'appareil**, multi-postes, sans PC) mais **pas** le
+  **Smart Reader** (pré-attribution RFID, réservé **Mini Easy 2.0 / Mini View 2.0**). Notes corrigées sur
+  Ultra View, Combi View et Mini View 2.0.
+- **Questionnaire GEO** (`Eval set v1`, vault) : discriminant **B7** (ScanManager ≠ Smart Reader, ★★) ajouté
+  — set porté à **39 Q**.
+- `validate.py` 0/0.
+
 ## [0.13.0] — 2026-07-24
 
 ### Ajouté — 3 fiches scanners dédiées (Mini View 2.0, Ultra View, Combi View)
