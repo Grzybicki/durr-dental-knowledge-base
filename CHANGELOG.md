@@ -4,6 +4,145 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.16.2] — 2026-08-06
+
+### Ajouté — stations d'air comprimé cliniques : principe modulaire (réservoir = composant distinct)
+
+Les fiches décrivaient encore les stations **P 6000 – P 12000** comme des ensembles assemblés d'un
+seul tenant. La page produit officielle Dürr Dental (versions **FR et EN**, consultées 2026-08-06)
+publie désormais le **principe modulaire évolutif**.
+
+- **`air-clinic`** — nouvelle section « **Architecture modulaire : le réservoir est un composant
+  distinct** » : réservoir présenté comme **composant distinct** (souplesse de configuration, gain
+  de temps et de simplicité à l'installation), **groupes compresseurs ajoutables a posteriori**,
+  **intégration de plusieurs systèmes**. **Page produit FR ajoutée aux `source_documents`** et aux
+  sources publiques. ⚠️ Contenu rapporté en **discours indirect** : la page a été lue via un outil
+  de récupération qui **résume/reformule**, donc **aucune citation verbatim** n'est attribuée au
+  fabricant (règle d'or n°1 — un verbatim non vérifié caractère par caractère serait une
+  fabrication attribuée à Dürr, d'autant plus dangereuse dans un bloc `FAQPage` conçu pour être
+  repris tel quel par les moteurs de réponse).
+- **Deux ordres de grandeur explicitement séparés** (anti-contradiction) : **jusqu'à
+  80 praticiens** = capacité de **gamme** (page produit) ≠ **P 6000 ≈ 60 postes** = **un modèle**
+  (notice de planification `5922100029L03`). Jamais fusionnés en un seul chiffre.
+- **Tableau de références annoté** (non supprimé, cf. règle Lunos) : les réfs `5922200053`,
+  `5922200050`, `5932200050`, `5942200050` restent celles du **catalogue matériel DDF 2026** ; note
+  ajoutée indiquant qu'une configuration réelle peut se commander en **plusieurs articles** et que
+  les **références des modules pris séparément ne sont pas publiées**.
+- **`systemes-cliniques`** — renvoi croisé posé au-dessus de sa propre table de réfs (même risque de
+  divergence inter-fiches).
+- **FAQ + FAQPage** : question « Le réservoir d'air comprimé des stations cliniques est-il un
+  composant séparé ? » ajoutée aux **deux** blocs.
+- **Volontairement non publié** : le **volume du réservoir en litres** et les **références des
+  modules** — absents des pages produit publiques (FR comme EN), connus uniquement par documents
+  internes. Idem pour toute évolution de statut réglementaire d'un module pris isolément.
+- `last_factual_review` + date de pied de page synchronisées (2026-08-06) ;
+  `validate.py --warn-as-error` **vert** (98 fichiers, 0 erreur, 0 avertissement).
+
+## [0.16.1] — 2026-08-05
+
+### Corrigé — audit des références produit contre le catalogue 2026
+
+Croisement des **262 références à tirets** publiées dans le dépôt avec les **3832 références**
+des tarifs Dürr Dental France 2026 (tarif Matériel + tarif Pièces détachées).
+
+- **234 références confirmées présentes telles quelles au catalogue 2026** → **aucune conversion
+  de nomenclature à effectuer**. Les deux formats (avec tirets et 10 chiffres) **coexistent** au
+  catalogue : tarif Matériel 346/284, tarif Pièces détachées 2089/270. Une référence à tirets
+  encore au tarif **est** la référence de commande valide.
+- Les `mpn` JSON-LD `2031-50` (Vector Paro) et `2151-01` (VistaScan Combi View) sont **vérifiés
+  corrects** contre le catalogue.
+- **Supprimé** : les 5 références `0700-056-50/51/53/54/55` de la fiche `support-tuyaux-comfort`
+  (section « Canule universelle III — variante ») — **absentes du catalogue 2026** et **doublon
+  exact** de la série `0700-055-5x` (mêmes cinq coloris grise/jaune/rose/bleue/turquoise). Ces
+  références fantômes avaient échappé au nettoyage des canules de la version 0.10.0.
+- `validate.py --warn-as-error` vert.
+
+## [0.16.0] — 2026-08-05
+
+### Ajouté — Vector Paro : nettoyage, désinfection et retraitement (notice IFU + fiche de retraitement)
+
+Intégration de deux documents officiels Dürr Dental dans la fiche `vector-paro` :
+notice d'installation et d'utilisation `2036100044L02` (chap. 12 Nettoyage,
+13 Retraitement, 14 Interruptions de traitement) et fiche **Information relative au
+retraitement** `2031100073L40`. Comble le principal trou de la fiche, qui ne citait
+les produits d'entretien que dans son tableau de références.
+
+- **Quatre chaînes d'entretien distinctes** explicitées (surfaces / circuits internes /
+  instruments et pièces à main / circuit après pause > 24 h), avec les **produits Dürr
+  validés** : **FD 322, FD 350, FD 366 sensitive** (surfaces), **Vector cleaner**
+  `CCA531A6150` (circuits), **ID 215** + **ID 213** (instruments, pré-nettoyage FD 350),
+  **Vector/RinsEndo Disinfection** `CDZ501C6150` (pause > 24 h).
+- **Cycle CLEAN + RINSE** paramétré : toutes les **4 semaines** ou après > 24 h ;
+  CLEAN = 2 bouchons ≈ **40 ml** de Vector cleaner non dilué, **~10 min** ; RINSE =
+  réservoir d'eau, **30 s** ; rinçage **impératif** (résidus = irritation patient) ;
+  **LED CLEAN bleue au démarrage = cycle jamais mené à terme** (repère de diagnostic).
+- **Retraitement** : classification **semi-critique B**, **EN ISO 17664-1** ;
+  pré-nettoyage ≤ **15 min** après usage, **3 × 20 ml** d'eau < 20 °C ; procédés validés
+  (EN ISO 15883 automatique, EN ISO 17665 vapeur).
+- **Précaution majeure ajoutée** : les pièces à main **ne doivent jamais être totalement
+  immergées** en bain à ultrasons (mécanisme d'entraînement hors liquide) ; **aucune
+  huile** ni système d'entretien huilé ; pas d'agent de rinçage ; sans aldéhyde ;
+  en ultrasons sans chlore/solvant/alcalin fort (pH > 11)/oxydant fort.
+- **Stérilisation** : **≥ 5 min à 134 °C** (ou ≥ 20 min à 121 °C), **max 138 °C** ;
+  EN 13060/EN 285, vide fractionné 3 étapes ; emballage **ISO 11607-1/2** + **EN 868**,
+  résistance 138 °C ; **ne pas remonter les composants avant emballage**.
+- **Pause > 24 h** : protocole Vector/RinsEndo complet ; la solution **reste dans le
+  système** jusqu'au traitement suivant ; rinçage à l'eau obligatoire à la remise en
+  service (goût résiduel = gêne patient).
+- **FAQ + FAQPage** : 4 questions ajoutées (produits par chaîne, fréquence du cycle,
+  paramètres de stérilisation, bain à ultrasons). Liens vers `familles-id-md-hd-fd`,
+  `desinfection-surfaces`, `hygosonic`, `hygobox-hygopac-emballage`, `hygoclave-hygopure`
+  (également en « Pour aller plus loin »).
+- **Règle d'or appliquée** : les **marques tierces** citées par la notice (adaptateurs de
+  laveur-désinfecteur, nettoyant machine, brosse de référence) sont **exclues** de la
+  publication — conservées hors dépôt. Contrôle `grep` : aucune occurrence dans la fiche.
+- `validate.py --warn-as-error` vert (98 fichiers, 0 erreur, 0 avertissement).
+
+## [0.15.0] — 2026-07-30
+
+### Ajouté / Corrigé — VistaPosition PSP enrichi (notice IFU + guide clinique + catalogue accessoires)
+
+Intégration de trois documents officiels Dürr Dental dans la fiche `vistaposition` :
+notice d'utilisation `2130100384L03` (RWT01…), guide de positionnement
+`DD_L03_Leitfaden_VistaPosition`, catalogue accessoires/consommables `P007100217L02`.
+
+- **Dénomination + réglementaire** : nom complet **VistaPosition PSP Angulateur**,
+  modèle **RWT01…** ; les **4 variantes** avec réfs propres (Anterior `RWT01.1D1`/`2130100329`,
+  Posterior `RWT01.4D1`/`2130100330`, Bitewing `RWT01.2D1`/`2130100333`, Endo `RWT01.3D1`/`2130100332`) ;
+  DoC **RWT01**, classe **I** confirmée par la notice. `certificates.md` complété (DoC + notice).
+- **Code couleur précisé** (verbatim catalogue `P007100217L02`, indépendant du code couleur
+  chimie ID/MD/HD/FD) : **antérieur = bleu, postérieur = jaune, bite-wing = rouge, endo = vert**.
+- **Matériaux du bras** : **titane** (premium, **−40 % de poids** — confirmé sur la page produit
+  live) vs **acier inoxydable** (« classic all-rounder »). Lauréat **reddot design award**.
+- **Technique des plans parallèles** documentée (workflow commun + repères par région maxillaire/
+  mandibule + cas particuliers **digue/endo**, **mâchoire édentée**, **dents de sagesse**), rôle de
+  l'**anneau de visée** (fixe la géométrie via l'alignement du cône). **Garde-fou** : le tableau
+  d'**angles verticaux par dent** relève de la **technique de la bissectrice** (sans support) → ajouté
+  en note « ne s'applique pas à VistaPosition », **pas** présenté comme paramètres du produit.
+- **Formats d'écrans S0–S4** (S4 occlusal **sans support**) + mapping supports bite-wing
+  (S0/S1, **S2 vertical**, S2 horizontal, S3) et endo (Q1/Q3, Q2/Q4). Compatibilité **VistaScan IQ**
+  + **Image Plate Plus**.
+- **Retraitement** : **sachet de protection contre la lumière obligatoire** ; classification
+  **semi-critique B** (tige-guide + support → stérilisation 134 °C) vs **non critique** (anneau →
+  désinfection), les deux matériellement autoclavables ; **paramètres de stérilisation** (132 °C
+  1,5 min demi-cycle / 121 °C ≥20 min / 134 °C ≥5 min, ne pas dépasser 138 °C) ; consommable validé
+  fabricant = **ID 212** (`CDI212C6150`) — lien recalé vers `familles-id-md-hd-fd` (documente ID 212).
+- **Références produit complétées** : tiges acier **bite-wing `2130100428`** et **endo `2130100429`
+  (IntraEndo)**, support **bite-wing S2 vertical `2130100346`** (manquants), **kit Universel `2130101800`**.
+- **Kit à capteurs VistaRay** (mode d'emploi `9000-618-140`) : nouvelle section — déclinaison **capteur
+  filaire** de la technique des plans parallèles, **porte-câble** `2121-981-31` (discriminant capteur),
+  **anneaux de visée à collimateur** intégré (collimation rectangulaire, désinfection par essuyage) vs
+  sans collimateur (stérilisables) ; tableau de réfs (tiges `2130-981-0x`, porte-films `2121-981-7x`).
+- **Générations précédentes « Set Color » + « kit bleu »** (`2130100050L40`/`2130100051L41`) documentées :
+  **arrêtées** → renvoi des réfs anciennes (série `2130100016…037`) vers la gamme **VistaPosition PSP**.
+  **Non rétro-compatibles** : fixation de tige **carrée** (VistaPosition) vs **ronde** (anciennes gén.) →
+  kit bleu ↔ Set Color compatibles entre eux, mais **aucun composant ancien ne s'emboîte sur VistaPosition**
+  (remplacer l'ensemble tige+support+anneau). Set Color = technique **angle droit + plans parallèles**,
+  code couleur **bite-wing orange** (≠ rouge actuel). **FAQ de remplacement de réf** ajoutée (GEO).
+- **OEM tiers non nommé** dans la fiche publique (cohérence pratique projet, cf. VistaIntra DC).
+- **Sources** : 6 documents + vidéo officielle (`youtu.be/w0BDn92Oa1A`) + page produit **FR** live.
+  `validate.py --warn-as-error` vert.
+
 ## [0.14.0] — 2026-07-24
 
 ### Ajouté / Corrigé — VistaIntra DC enrichi + distinction ScanManager / Smart Reader

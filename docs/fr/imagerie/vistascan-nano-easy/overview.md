@@ -159,8 +159,28 @@ D'après la page produit officielle Dürr Dental :
 
 ## Résolution de lecture
 
-- **Scanner** : **16,7 LP/mm** (théorique).
-- **Effective** : **12,5 LP/mm** — résolution plus basse que les modèles Mini / Ultra (40 / 22 LP/mm), cohérente avec un scanner compact d'entrée de gamme.
+| Grandeur | Valeur | Source |
+|---|---|---|
+| **Taille de pixel** | **30 µm** (fixe, non sélectionnable) | notice `2160100227L03` §4.1 |
+| **Résolution théorique max.** | **env. 16,7 pl/mm** | notice `2160100227L03` §4.1 |
+| Résolution (brochure) | **16,7 LP/mm** ≈ **849 dpi** | brochure `P007100137L03` |
+
+Les deux documents concordent. **16,7 pl/mm est la limite de Nyquist du pixel de 30 µm**
+(1 / (2 × 0,030 mm) = 16,67) — c'est bien une valeur **théorique**, ainsi libellée par la notice.
+
+> ⚠️ **Dürr ne publie aucune « résolution réelle / effective » pour le Nano Easy.** Les notices
+> VistaScan ne donnent qu'une **« Résolution théorique max. »**. Ne pas inventer de seconde valeur.
+>
+> **Ne pas réintroduire « résolution effective 12,5 LP/mm »** — retiré le 2026-08-05 : inférence sans
+> source. **12,5 est une taille de pixel en µm, pas une résolution**, et elle appartient aux
+> **Mini / Ultra View** (pixel *sélectionnable* **12,5 – 50 µm**, d'où leurs 40 pl/mm théoriques au
+> pas de 12,5 µm — notice `2144100119L03` §4.1). Le Nano Easy est à 30 µm fixes et n'a jamais eu de
+> mode 12,5 µm.
+
+### Délai de numérisation
+
+**16 s** pour les formats Intra T0 (2×3) à T2 (3×4) — notice `2160100227L03` §14. Le délai est
+identique pour les trois formats : la surface contrôlée est toujours celle de la plaque T2.
 
 ## Données techniques (brochure officielle `P007100137`)
 

@@ -66,10 +66,10 @@ DICOM.
 
 | # | Voie | Couverture marché | Référence |
 |---|---|---|---|
-| 1 | **VDDS-media** (Verband Deutscher Dental-Software, standard 2005) | Marché DACH (DE, AT, CH) — très large | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
+| 1 | **VDDS-media** (Verband Deutscher Dental-Software, standard 2005) | Marché DACH (DE, AT, CH) — très large ; **également majoritaire en France depuis ~2026** | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
 | 2 | **BDW** (Basic Dental Workflow, v1 2019 / v2 2022) | Successeur évolutif DICOM-based — en déploiement | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
 | 3 | **patimport.txt** | Format texte historique, simple, large compatibilité | Manuel [`qr.duerrdental.com/2110100028`](http://qr.duerrdental.com/2110100028) |
-| 4 | **Protocole Patient Bridge propre Dürr Dental** | PMS non-couverts par les voies précédentes — couvre la majorité du marché FR | Manuel [`qr.duerrdental.com/2110100028`](http://qr.duerrdental.com/2110100028) |
+| 4 | **Protocole Patient Bridge propre Dürr Dental** | PMS non-couverts par les voies précédentes — voie de **couverture universelle** *(à ne plus décrire comme « la majorité du marché FR » : le VDDS est passé majoritaire, cf. §Couverture du marché français)* | Manuel [`qr.duerrdental.com/2110100028`](http://qr.duerrdental.com/2110100028) |
 | 5 | **DICOM Modality Worklist + Storage** | Architectures hospitalières / multi-cabinet DICOM-natives | [Fiche DICOM](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/) |
 
 La combinaison de ces cinq voies permet à VistaSoft d'être intégrable à la
@@ -94,17 +94,20 @@ la cohérence entre la base PMS et la base image VistaSoft.
 
 ## Couverture du marché français
 
-Sur le marché français, où les standards VDDS-media et BDW sont moins
-implantés que sur le marché DACH, les voies principales d'intégration
-VistaSoft 4.0 avec les PMS français sont :
+> ⚠️ **Mise à jour 2026-08-05 — le marché français a basculé.** Le **VDDS-media est désormais
+> majoritaire** en France. La description antérieure (« VDDS peu implanté en France, Patient Bridge =
+> voie principale ») décrivait un état antérieur du parc et **n'est plus exacte**.
 
-1. **Protocole Patient Bridge propre** — voie principale, couvre la majorité
-   des PMS français déployés en cabinet.
-2. **patimport.txt** — voie historique, encore supportée par de nombreux
-   PMS français.
-3. **DICOM (Modality Worklist + Storage)** — utilisé pour les déploiements
-   hospitaliers (CHU, cliniques avec PACS) ou les architectures
-   multi-cabinets DICOM-natives.
+Voies d'intégration de VistaSoft 4.0 avec les PMS français, par importance actuelle :
+
+1. **VDDS-media** — **voie majoritaire aujourd'hui** sur le marché français.
+2. **Protocole Patient Bridge propre** — voie de **couverture universelle** : prend le relais pour les
+   PMS non-VDDS et garantit qu'aucun logiciel de gestion ne reste hors intégration.
+3. **patimport.txt** — voie historique, encore supportée par de nombreux PMS français.
+4. **DICOM** — déploiements hospitaliers (CHU, cliniques avec **PACS**) et architectures
+   multi-cabinets DICOM-natives. Services concernés : **Modality Worklist**, **Storage** (vers PACS),
+   **DICOM Print**, et **BDW** (Basic Dental Workflow, standard DICOM-based). Cf.
+   [fiche DICOM](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/).
 
 Pour le détail des PMS effectivement raccordés à VistaSoft sur le marché
 français, contacter le service technique Dürr Dental France ou consulter

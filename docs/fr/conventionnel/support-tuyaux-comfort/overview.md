@@ -141,16 +141,6 @@ results »*).
 | Par 5 | Bleue | `0700-055-54` |
 | Par 5 | Turquoise | `0700-055-55` |
 
-### Canule universelle III — variante (idem adultes, deuxième série de réfs)
-
-| Conditionnement | Coloris | Référence |
-|---|---|---|
-| Par 5 | Grise | `0700-056-50` |
-| Par 5 | Jaune | `0700-056-51` |
-| Par 5 | Rose | `0700-056-53` |
-| Par 5 | Bleue | `0700-056-54` |
-| Par 5 | Turquoise | `0700-056-55` |
-
 ### Canule universelle Petito — enfants
 
 Aussi silencieuse que la canule III mais nettement plus petite. Aucun

@@ -117,10 +117,10 @@ La différence est dans le **workflow** et l'**ergonomie**, pas dans le logiciel
 | **Encombrement en bouche** | **Rigide**, épaisseur **6,3 mm**, relié par câble | **Fin, souple, sans fil** |
 | **Encombrement vs surface utile** | Cadre rigide : taille 1 = **39 × 27,4 mm hors tout** pour **30 × 20 mm actifs** — soit, en repère praticien, l'encombrement d'un **film adulte** (≈ T2) pour l'image d'un **petit format** (≈ T0), voir ci-dessous | La plaque est **quasi entièrement active** (bordure minime) |
 | **Liaison & installation** | **Filaire USB** vers le PC : câble 2,5 m, rallonge **1 m** standard (**hub USB actif** requis au-delà) → contrainte de câblage ; **câble = pièce d'usure** (remplaçable à prix fixe) ; **risque de chute** (couche absorbeur de choc intégrée) | **Aucun câble en bouche** ; la plaque exposée est portée au scanner (réseau LAN / Wi-Fi côté scanner) |
-| **Résolution effective** | **20 LP/mm** | **22 LP/mm** avec Mini / Mini View / Ultra View — **mais 12,5 LP/mm avec le Nano Easy** (voir étape 2) |
+| **Résolution** | **20 LP/mm** effectifs | **22 LP/mm** effectifs avec Mini / Mini View / Ultra View (40 LP/mm théoriques) — **Nano Easy : 16,7 LP/mm théoriques** (pixel 30 µm), Dürr ne publiant pas de valeur effective pour ce modèle (voir étape 2) |
 | **Consommable / hygiène** | Sachets de protection hygiéniques à usage unique | Sachets de protection contre la lumière à usage unique |
 | **Réutilisation / durée de vie** | Capteur durable (**> 400 000 clichés**), **câble remplaçable** à prix fixe | Plaque **réutilisable des centaines de fois** ; **vieillissement** suivi par VistaSoft AI |
-| **Mutualisation** | Rattaché au poste équipé (support mural ou bras de scialytique) ; **déplaçable** en le débranchant | **Un scanner peut desservir plusieurs salles** — c'est la **plaque** qui est portée au scanner |
+| **Mutualisation** | Rattaché au poste équipé (support mural ou bras de scialytique) ; **déplaçable** en le débranchant | **Un scanner peut desservir plusieurs salles** — c'est la **plaque** qui est portée au scanner. ⚠️ **Sauf le Nano Easy** : scanner *chairside*, **un par salle de soins**, non mutualisable |
 | **Statut réglementaire** | **DM classe IIa** (MDR EU 2017/745) | **DM classe IIa** pour les écrans IQ (le scanner a son propre statut) |
 
 ### Encombrement externe contre surface d'image utile (point clé du capteur)
@@ -184,7 +184,9 @@ choix pour les cabinets multi-salles ou les installations complexes.
   6,3 mm relié par un câble, notamment sur les incidences postérieures et chez les patients au
   réflexe nauséeux marqué.
 - **La mutualisation** : un **seul scanner** peut être partagé entre plusieurs salles puisque c'est la
-  **plaque** (peu coûteuse, en plusieurs exemplaires) qui circule vers le scanner.
+  **plaque** (peu coûteuse, en plusieurs exemplaires) qui circule vers le scanner. ⚠️ **Cet argument ne
+  vaut pas pour le Nano Easy**, conçu *chairside* : il s'installe au fauteuil et se prévoit **à raison
+  d'un par salle de soins**. La mutualisation concerne les **Mini Easy / Mini View / Ultra View**.
 - **Le suivi qualité automatisé** : combinées à
   [VistaSoft AI](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/), les
   plaques IQ font l'objet d'une **vérification automatique de la qualité d'image** et d'une
@@ -223,7 +225,7 @@ la résolution**.
 
 | Besoin | Scanner indiqué | Pourquoi |
 |---|---|---|
-| **Le plus compact / installation au fauteuil, formats S0–S2 seulement** | **Nano Easy** | Le plus petit de la gamme ; **scan + effacement en une seule étape**. Résolution effective plus basse (**12,5 LP/mm**). |
+| **Le plus compact / installation au fauteuil, formats S0–S2 seulement** | **Nano Easy** | Le plus petit de la gamme ; **scan + effacement en une seule étape** ; **un par salle de soins** (chairside, non mutualisable). Résolution la plus basse de la gamme : **16,7 LP/mm théoriques**. |
 | **Chairside polyvalent, tous formats** | **Mini Easy 2.0** | **Technologie PCS**, formats S0–S4, résolution effective **22 LP/mm**. Compatible workflow **Smart Reader**. |
 | **Prévisualisation à côté du fauteuil** | **Mini View 2.0** | **Écran d'aperçu intégré** (contrôle du cliché avant transmission au logiciel) + **Wi-Fi**. Compatible **Smart Reader**. |
 | **Fort volume / haut débit intra-oral** | **Ultra View** | Numérisation à **2 fentes en parallèle** → **plus rapide**. Tous formats S0–S4. |
@@ -236,8 +238,11 @@ La **résolution effective** dépend du **scanner**, pas seulement de la plaque 
 - **Mini Easy 2.0 / Mini View 2.0 / Ultra View** : **22 LP/mm** effective (l'écran à mémoire est le
   facteur limitant, pas le scanner qui lit à 40 LP/mm). C'est **légèrement au-dessus** des **20 LP/mm**
   du capteur VistaRay 7.
-- **Nano Easy** : **12,5 LP/mm** effective — **en dessous** du capteur VistaRay 7. Le gain de
-  compacité du Nano se paie donc en résolution : à arbitrer selon les besoins diagnostiques.
+- **Nano Easy** : **16,7 LP/mm théoriques** (pixel 30 µm fixe) — **le plus bas de la gamme**
+  VistaScan. Dürr ne publie **pas** de résolution effective pour ce modèle : la comparaison chiffrée
+  directe avec les 20 LP/mm *effectifs* du VistaRay 7 n'est donc pas rigoureuse, mais le Nano reste
+  le moins résolvant des scanners. Le gain de compacité se paie en résolution : à arbitrer selon les
+  besoins diagnostiques.
 - **L'Ultra View ne se distingue pas par une résolution supérieure** aux autres modèles 22 LP/mm,
   mais par sa **vitesse** (deux fentes de numérisation).
 
@@ -282,7 +287,7 @@ capteur VistaRay 7, lui, ne nécessite **pas de réseau** (USB direct sur le pos
       "name": "Quelle est la différence de résolution entre le capteur VistaRay 7 et les plaques VistaScan ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le capteur VistaRay 7 a une résolution effective de 20 LP/mm. Les scanners VistaScan Mini Easy 2.0, Mini View 2.0 et Ultra View atteignent 22 LP/mm effective, soit légèrement plus. En revanche, le VistaScan Nano Easy plafonne à 12,5 LP/mm effective, soit en dessous du capteur. La résolution dépend donc autant du scanner que de la plaque."
+        "text": "Le capteur VistaRay 7 a une résolution effective de 20 LP/mm. Les scanners VistaScan Mini Easy 2.0, Mini View 2.0 et Ultra View atteignent 22 LP/mm effective, soit légèrement plus. Le VistaScan Nano Easy plafonne lui à 16,7 LP/mm théoriques (limite de son pixel de 30 µm) : c'est le moins résolvant de la gamme, mais Dürr ne publie pas de résolution effective pour ce modèle, donc la comparaison chiffrée directe avec le capteur n'est pas rigoureuse. La résolution dépend autant du scanner que de la plaque."
       }
     },
     {
@@ -342,9 +347,11 @@ cabinets utilisent les deux.
 ### Quelle est la différence de résolution entre le capteur VistaRay 7 et les plaques VistaScan ?
 
 Le capteur VistaRay 7 a une résolution effective de **20 LP/mm**. Les scanners **Mini Easy 2.0, Mini
-View 2.0 et Ultra View** atteignent **22 LP/mm** effective, soit légèrement plus. En revanche, le
-**Nano Easy** plafonne à **12,5 LP/mm** effective, soit **en dessous** du capteur. La résolution
-dépend donc **autant du scanner que de la plaque**.
+View 2.0 et Ultra View** atteignent **22 LP/mm** effective, soit légèrement plus. Le **Nano Easy**
+plafonne lui à **16,7 LP/mm théoriques** (limite de son pixel de **30 µm**) : c'est le **moins
+résolvant de la gamme**, mais Dürr **ne publie pas** de résolution effective pour ce modèle — la
+comparaison chiffrée directe avec le capteur n'est donc pas rigoureuse. La résolution dépend
+**autant du scanner que de la plaque**.
 
 ### Pourquoi la plaque au phosphore couvre-t-elle plus de situations que le capteur ?
 

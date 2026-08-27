@@ -202,15 +202,21 @@ Il faut distinguer la **résolution du scanner** (sa capacité de lecture) de la
 
 | Scanner | Résolution scanner (théorique) | Résolution effective (écran) |
 |---|---|---|
-| Mini (1.0 et 2.0) / Mini View / Ultra View | **40 LP/mm** | **22 LP/mm** |
-| Nano Easy | **16,7 LP/mm** | **12,5 LP/mm** |
+| Mini (1.0 et 2.0) / Mini View / Ultra View | **40 LP/mm** (pixel 12,5 µm) | **22 LP/mm** |
+| Nano Easy | **16,7 LP/mm** (pixel 30 µm) | *non publiée par Dürr* |
 
 Les scanners **VistaScan Mini (1.0 et 2.0) et Ultra View** lisent tous à
 **40 LP/mm** ; la résolution **effective de 22 LP/mm** est celle de l'**écran à
 mémoire**, qui constitue le facteur limitant. L'**Ultra View** ne se distingue
 donc **pas** par une résolution supérieure aux autres modèles 40 LP/mm, mais par
 sa **vitesse** (2 fentes de numérisation en parallèle). Le **Nano Easy**, plus
-compact, offre une résolution plus basse (**16,7 / 12,5 LP/mm**).
+compact, plafonne à **16,7 LP/mm** — c'est la limite de Nyquist de son pixel de
+**30 µm** (fixe), là où les Mini / Ultra descendent à 12,5 µm.
+
+> ⚠️ **Dürr ne publie aucune résolution effective pour le Nano Easy** : sa notice
+> (`2160100227L03` §4.1) ne donne qu'une **« Résolution théorique max. » de 16,7 pl/mm**.
+> Ne pas lui prêter de « 12,5 LP/mm effectifs » — **12,5 est une taille de pixel en µm**,
+> et c'est celle des **Mini / Ultra View**.
 
 La résolution est par ailleurs **sélectionnable** via la taille de pixel
 (12,5 à 50 µm selon le mode de numérisation).

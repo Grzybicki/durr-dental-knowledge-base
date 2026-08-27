@@ -33,7 +33,15 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/dental-care/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-07-19
+  - title: "Notice d'installation et d'utilisation Vector Paro / Vector Paro Pro, réf. 2036100044L02 (chap. 12 Nettoyage, 13 Retraitement, 14 Interruptions de traitement)"
+    url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
+    type: "notice officielle"
+    language: "en"
+  - title: "Information relative au retraitement (Information for Reprocessing) Vector, réf. 2031100073L40"
+    url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
+    type: "fiche de retraitement officielle"
+    language: "en"
+last_factual_review: 2026-08-05
 license: CC-BY-4.0
 ---
 
@@ -138,6 +146,175 @@ Vector Paro.
 ### Vector Consommables
 
 Vector Fluid de polissage + accessoires de maintenance.
+
+## Nettoyage, désinfection et retraitement du Vector Paro
+
+Le système **Vector Paro** met en œuvre **quatre chaînes d'entretien distinctes**,
+à ne pas confondre. Les produits et paramètres ci-dessous sont ceux de la notice
+d'installation et d'utilisation **Vector Paro / Vector Paro Pro** (réf.
+`2036100044L02`) et de la fiche **Information relative au retraitement** (réf.
+`2031100073L40`).
+
+| Ce qui est traité | Produits Dürr Dental validés | Repère |
+|---|---|---|
+| **Surfaces externes** (appareil, flexible, réservoir, capuchon de la poche) | **FD 322**, **FD 350** lingettes, **FD 366 sensitive** | ne jamais vaporiser l'appareil |
+| **Circuits internes** de l'appareil Vector Paro | **Vector cleaner** — `CCA531A6150` | cycle CLEAN + RINSE, toutes les 4 semaines |
+| **Instruments et pièces à main** du Vector Paro | **ID 215** (nettoyage enzymatique), **ID 213** (désinfection), **FD 350** (pré-nettoyage) | classification semi-critique B |
+| **Circuit de flexibles après une pause > 24 h** | **Vector/RinsEndo Disinfection** — `CDZ501C6150` | solution prête à l'emploi, sans aldéhyde |
+
+Sur le plan réglementaire, **Vector Fluid**, **Vector cleaner** et **RinsEndo**
+sont des **dispositifs médicaux MDR** (classe I à IIa) et non des biocides —
+ils sont donc **hors du champ du Certibiocide** (cf.
+[familles ID / MD / HD / FD](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/)).
+
+### Surfaces externes du Vector Paro
+
+Toutes les surfaces externes doivent être nettoyées et désinfectées lorsqu'elles
+sont contaminées ou souillées : surface de l'appareil, flexible de pièce à main,
+capuchon de protection de la poche de Fluid Polish, réservoir de liquide et tool kit
+Scaler sans instruments.
+
+Dürr Dental recommande un désinfectant compatible avec les matériaux et conforme
+aux standards d'hygiène dentaire, par exemple **FD 322**, les lingettes **FD 350**
+ou **FD 366 sensitive** (voir
+[désinfection des surfaces](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)).
+
+> **Ne pas vaporiser l'appareil Vector Paro** avec des produits de nettoyage ou de
+> désinfection, et éviter toute pénétration de liquide à l'intérieur : le liquide
+> endommage l'unité. Retirer d'abord les souillures organiques grossières au papier,
+> puis nettoyer avec un chiffon doux, humide et non pelucheux.
+
+### Cycle de nettoyage interne du Vector Paro (CLEAN + RINSE)
+
+Dürr Dental recommande de lancer le nettoyage **toutes les 4 semaines**, ou lorsque
+l'appareil est resté inutilisé **plus de 24 heures** ; le cycle peut être démarré à
+tout moment. En début de journée de travail, les circuits véhiculant l'eau sont
+rincés **au moins 2 minutes**.
+
+Le cycle comporte **deux étapes successives obligatoires** — il n'est terminé que
+lorsque les deux ont été menées à bien :
+
+| Étape | Opération | Durée |
+|---|---|---|
+| **CLEAN** | verser **2 bouchons (env. 40 ml) de Vector cleaner non dilué** dans le réservoir vide, puis appuyer **au moins 2 secondes** sur CLEAN | **environ 10 minutes**, arrêt automatique |
+| **RINSE** | remplir le réservoir d'eau jusqu'au repère supérieur, puis appuyer **au moins 2 secondes** sur RINSE | **30 secondes**, arrêt automatique |
+
+La poche de fluide doit être retirée avant de lancer CLEAN ou RINSE : si elle est
+encore en place, un signal sonore long et grave retentit et la fonction n'est pas
+exécutée.
+
+> Le rinçage est **impératif** : tout résidu de Vector cleaner subsistant dans le
+> système peut provoquer une **irritation chez le patient**. Un cycle complet se
+> termine par un triple signal sonore aigu et l'extinction de la LED CLEAN ; si le
+> nettoyage n'est pas mené à son terme ou est interrompu, la **LED CLEAN bleue se
+> rallume à chaque mise sous tension** de l'appareil.
+
+Le **réservoir de liquide** est nettoyé et **détartré** régulièrement — l'échéance
+dépend avant tout de la dureté de l'eau, et au plus tard dès les premières traces de
+calcaire (détartrant par exemple une solution d'acide citrique à 10 %, suivie d'un
+rinçage abondant et d'un séchage).
+
+### Retraitement des instruments et pièces à main du Vector Paro
+
+La recommandation de classification du Vector Paro au regard de son usage prévu est
+**semi-critique B**. Le retraitement est effectué **après chaque traitement**, selon
+la procédure définie par la norme **EN ISO 17664-1**. L'analyse de risque, la
+classification des dispositifs et la réalisation du retraitement relèvent de la
+responsabilité de l'exploitant du cabinet.
+
+Procédés validés par Dürr Dental pour le Vector Paro :
+
+| Étape | Procédé validé |
+|---|---|
+| Pré-nettoyage | lingettes de désinfection **FD 350** |
+| Nettoyage manuel | nettoyant enzymatique instruments **ID 215** + brosse de nettoyage |
+| Désinfection manuelle | désinfection instruments **ID 213** |
+| Nettoyage et désinfection automatiques | conformes à **EN ISO 15883**, efficacité vérifiée |
+| Stérilisation vapeur | conforme à **EN ISO 17665**, procédé à vide fractionné |
+
+Le **pré-nettoyage au poste de traitement** intervient au plus tard **15 minutes**
+après l'utilisation : rinçage de la pièce à main (réservoir rempli au tiers d'eau,
+appui d'au moins 2 secondes sur RINSE, environ 30 secondes), essuyage complet des
+surfaces avec deux lingettes en respectant le temps d'action et en répétant
+l'opération deux fois, puis rinçage de la lumière interne avec **3 × 20 ml d'eau
+froide** (moins de 20 °C).
+
+Après toute utilisation de **Vector Fluid Polish**, les zones difficiles d'accès —
+mandrin porte-instrument des pièces à main Vector et Scaler, filetages des
+instruments Scaler — sont rincées à la seringue air/eau jusqu'à disparition des
+résidus ; un pré-nettoyage complémentaire en **bain à ultrasons** est recommandé
+(voir [Hygosonic](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/)).
+
+> **Bain à ultrasons — précaution majeure** : les pièces à main du Vector Paro ne
+> doivent être nettoyées ou désinfectées que dans un **récipient adapté** placé dans
+> le bain, et **ne doivent jamais être totalement immergées**. Le mécanisme
+> d'entraînement de la pièce à main ne doit pas se trouver dans le liquide — un
+> repère de niveau maximal est propre à la pièce à main Vector et à la pièce à main
+> Scaler. Une immersion complète entraîne un dysfonctionnement.
+
+Règles générales imposées par Dürr Dental pour le retraitement du Vector Paro :
+
+- **Aucune huile** : la pièce à main ne doit jamais être entretenue à l'huile ni avec
+  un système d'entretien contenant de l'huile.
+- Nettoyants **non fixants et sans aldéhyde**, désinfectants **sans aldéhyde**, tous
+  compatibles avec les matériaux du produit.
+- En bain à ultrasons : produits **sans chlore, sans solvant**, sans solution
+  fortement alcaline (pH > 11) ni oxydant fort.
+- Efficacité **certifiée, virucide le cas échéant** (DVV/RKI, VAH ou normes
+  européennes).
+- **Aucun agent de rinçage** (risque de résidus toxiques sur les composants).
+- Solutions **fraîchement préparées** uniquement ; eau distillée ou déminéralisée
+  pauvre en germes ; air comprimé propre, sec, sans huile ni particules.
+- **Ne jamais dépasser 138 °C.**
+
+### Emballage et stérilisation du Vector Paro
+
+Les composants **ne doivent pas être remontés avant l'emballage** : la vapeur
+n'atteint pas les pièces assemblées, qui ne seraient donc pas stérilisées. Les
+systèmes de barrière stérile papier/film doivent résister à **138 °C** et être
+conformes aux normes **ISO 11607-1/2** et aux parties applicables de la série
+**EN 868**.
+
+Le stérilisateur doit être conforme à **EN 13060** ou **EN 285** (ou ANSI AAMI ST79),
+disposer d'un programme adapté aux corps creux à **vide fractionné en trois étapes**,
+assurer un séchage suffisant et reposer sur un procédé validé **ISO 17665**
+(qualifications IQ/OQ et performance produit PQ). Voir
+[Hygoclave et Hygopure](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/).
+
+**Paramètres de stérilisation des pièces du Vector Paro : au moins 5 minutes à
+134 °C** (ou au moins 20 minutes à 121 °C), **sans jamais dépasser 138 °C**. Le
+retraitement s'achève par le marquage du dispositif emballé et la **libération
+documentée** avant stockage à l'abri de la contamination, de la poussière, de
+l'humidité et des variations de température.
+
+### Interruption de traitement de plus de 24 heures
+
+Lorsque aucun traitement n'est réalisé pendant **24 heures ou plus**, le **circuit de
+flexibles** du Vector Paro doit être retraité. Il est désinfecté avec une solution
+**prête à l'emploi et sans aldéhyde** de **Vector/RinsEndo Disinfection** :
+
+1. Retirer la poche de fluide, débrancher le flexible de la pièce à main et le placer
+   dans un évier.
+2. **Rincer à l'eau** : réservoir rempli au tiers, appui d'au moins 2 secondes sur
+   RINSE (environ 30 secondes), puis vidanger le liquide restant.
+3. Verser **2 bouchons (env. 40 ml) de Vector/RinsEndo Disinfection** dans le
+   réservoir et appuyer au moins 2 secondes sur RINSE.
+4. **La solution désinfectante reste dans le système jusqu'au traitement suivant.**
+   Vider le reste du réservoir, le rincer soigneusement à l'eau et le sécher.
+
+À la **remise en service**, si le retraitement a été effectué avant la pause, le
+système est d'abord **rincé à l'eau** afin d'éliminer le désinfectant résiduel des
+flexibles — à défaut, le goût résiduel provoque une gêne pour le patient. Si le
+retraitement n'a pas été effectué avant la pause, le retraitement complet doit être
+réalisé avant toute remise en service.
+
+Produits de nettoyage et de décontamination applicables au Vector Paro :
+
+- [Familles de désinfection ID / MD / HD / FD — vue d'ensemble et statut réglementaire](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/)
+- [Désinfection des surfaces — gamme FD (boîtier et plans de travail)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)
+- [Hygosonic — bain à ultrasons (nettoyage des instruments Vector)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/)
+- [Hygobox et Hygopac — désinfection, transport et emballage des instruments](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
+- [Hygoclave et Hygopure — stérilisation vapeur et traitement de l'eau](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
 
 ## Indications cliniques
 
@@ -280,6 +457,38 @@ parodontale :
         "@type": "Answer",
         "text": "Oui : une étude prospective (PMC 11830227) sur 50 patients atteints de gingivite, parodontite ou péri-implantite a mesuré l'évolution des indices parodontaux (PI, GI, PBI, PD)."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels produits utiliser pour nettoyer et désinfecter le Vector Paro ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quatre chaînes distinctes : les surfaces externes avec FD 322, les lingettes FD 350 ou FD 366 sensitive ; les circuits internes avec Vector cleaner (cycle CLEAN + RINSE) ; les instruments et pièces à main avec ID 215 (nettoyage enzymatique) et ID 213 (désinfection), après pré-nettoyage aux lingettes FD 350 ; le circuit de flexibles après une pause de plus de 24 heures avec Vector/RinsEndo Disinfection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "À quelle fréquence lancer le cycle de nettoyage du Vector Paro ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dürr Dental recommande un nettoyage toutes les 4 semaines, ou après une immobilisation de plus de 24 heures. Le cycle comprend deux étapes obligatoires : CLEAN (2 bouchons, environ 40 ml de Vector cleaner non dilué, environ 10 minutes) puis RINSE (réservoir rempli d'eau, 30 secondes). Si le cycle n'est pas mené à son terme, la LED CLEAN bleue se rallume à chaque mise sous tension."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les paramètres de stérilisation des pièces du Vector Paro ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stérilisation vapeur à vide fractionné selon EN ISO 17665, avec au moins 5 minutes à 134 °C (ou au moins 20 minutes à 121 °C), sans jamais dépasser 138 °C. Les composants ne doivent pas être remontés avant l'emballage, sous peine de ne pas être atteints par la vapeur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on plonger les pièces à main du Vector Paro dans un bain à ultrasons ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, pas entièrement. Les pièces à main ne doivent être traitées que dans un récipient adapté placé dans le bain et ne jamais être totalement immergées : le mécanisme d'entraînement ne doit pas se trouver dans le liquide, sous peine de dysfonctionnement. Un repère de niveau maximal existe pour la pièce à main Vector et pour la pièce à main Scaler."
+      }
     }
   ]
 }
@@ -306,6 +515,22 @@ Parodontite (légère à sévère), péri-implantite, maintenance parodontale (r
 ### Existe-t-il des preuves scientifiques de l'efficacité ?
 
 Oui : une étude prospective (PMC 11830227) sur 50 patients atteints de gingivite, parodontite ou péri-implantite a mesuré l'évolution des indices parodontaux (PI, GI, PBI, PD).
+
+### Quels produits utiliser pour nettoyer et désinfecter le Vector Paro ?
+
+Quatre chaînes distinctes : les surfaces externes avec **FD 322**, les lingettes **FD 350** ou **FD 366 sensitive** ; les circuits internes avec **Vector cleaner** (cycle CLEAN + RINSE) ; les instruments et pièces à main avec **ID 215** (nettoyage enzymatique) et **ID 213** (désinfection), après pré-nettoyage aux lingettes FD 350 ; le circuit de flexibles après une pause de plus de 24 heures avec **Vector/RinsEndo Disinfection**.
+
+### À quelle fréquence lancer le cycle de nettoyage du Vector Paro ?
+
+Dürr Dental recommande un nettoyage **toutes les 4 semaines**, ou après une immobilisation de plus de 24 heures. Le cycle comprend deux étapes obligatoires : **CLEAN** (2 bouchons, environ 40 ml de Vector cleaner non dilué, environ 10 minutes) puis **RINSE** (réservoir rempli d'eau, 30 secondes). Si le cycle n'est pas mené à son terme, la LED CLEAN bleue se rallume à chaque mise sous tension.
+
+### Quels sont les paramètres de stérilisation des pièces du Vector Paro ?
+
+Stérilisation vapeur à vide fractionné selon **EN ISO 17665**, avec **au moins 5 minutes à 134 °C** (ou au moins 20 minutes à 121 °C), **sans jamais dépasser 138 °C**. Les composants ne doivent pas être remontés avant l'emballage, sous peine de ne pas être atteints par la vapeur.
+
+### Peut-on plonger les pièces à main du Vector Paro dans un bain à ultrasons ?
+
+Non, pas entièrement. Les pièces à main ne doivent être traitées que dans un **récipient adapté** placé dans le bain et **ne jamais être totalement immergées** : le mécanisme d'entraînement ne doit pas se trouver dans le liquide, sous peine de dysfonctionnement. Un repère de niveau maximal existe pour la pièce à main Vector et pour la pièce à main Scaler.
 
 ## Références produit et accessoires
 
@@ -358,6 +583,11 @@ Dürr Dental France 2026, tarifs non repris).
 ## Pour aller plus loin
 
 - [Système Lunos — prophylaxie complémentaire](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/)
+- [Produits de nettoyage et de décontamination — familles ID, MD, HD, FD (statut réglementaire)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/)
+- [Désinfection des surfaces — gamme FD](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/)
+- [Hygosonic — bain à ultrasons pour instruments](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosonic/overview/)
+- [Hygobox et Hygopac — désinfection, transport et emballage des instruments](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygobox-hygopac-emballage/overview/)
+- [Hygoclave et Hygopure — stérilisation vapeur et traitement de l'eau](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)
 - [Index hygiène et chimie de désinfection](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/)
 
 ---

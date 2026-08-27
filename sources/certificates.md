@@ -82,7 +82,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **VistaCam Proxi** (tête NIR 850 nm) | **I** (tête interchangeable de la VistaCam iX HD Smart — couverte par la même DoC) | MDR EU 2017/745 — **auto-déclaration** | — (aucun, classe I) | — | 2025-05-03 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistacam-proxi/overview/) |
 | **VistaIntra DC** | **IIb** (générateur RX) | MDR EU 2017/745 | À confirmer | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/) |
 | **VistaScan IQ — Écrans à mémoire (ERLM / plaques)** | **IIa** (dispositif de diagnostic non-actif non-implantable, MDN 1207) | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-13 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) |
-| **VistaPosition** | **I** (positionneur) | MDR EU 2017/745 | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/) |
+| **VistaPosition PSP** (RWT01…) | **I** (positionneur, technique des plans parallèles) | MDR EU 2017/745 — **auto-déclaration** | — (aucun, classe I) | DoC **RWT01** (Dürr Dental SE) ; notice `2130100384L03` | 2026-07-30 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/) |
 | **Connect Box** | Non-DM (passerelle IoT) | — | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/connect-box/overview/) |
 | **Smart Reader** (lecteur RFID USB) | **Non-DM** (CE au titre RED 2014/53/UE + RoHS 2011/65/UE) | — | — | — | 2023-11-06 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/) |
 

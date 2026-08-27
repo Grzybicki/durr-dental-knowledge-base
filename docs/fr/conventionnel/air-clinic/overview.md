@@ -2,7 +2,7 @@
 layout: default
 title: "Air comprimé clinique (clinic) Dürr Dental — qualité supérieure et point de rosée abaissé"
 description: "L'air comprimé clinique (clinic) Dürr Dental équipe les grandes installations centralisées (cliniques, hôpitaux, universités, centres multi-fauteuils). Qualité d'air supérieure avec un point de rosée abaissé grâce à un séchage par réfrigération (climatisation), pour un service continu intensif. Sans huile, filtre bactériologique, dispositif médical classe IIa."
-keywords: ["air comprimé clinique", "air clinic Dürr Dental", "station compresseur clinique", "sécheur frigorifique", "point de rosée abaissé", "compresseur hôpital", "installation centralisée air comprimé", "ISO 8573-1", "ISO 22052"]
+keywords: ["air comprimé clinique", "air clinic Dürr Dental", "station compresseur clinique", "sécheur frigorifique", "point de rosée abaissé", "compresseur hôpital", "installation centralisée air comprimé", "système modulaire air comprimé", "réservoir d'air comprimé séparé", "ISO 8573-1", "ISO 22052"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/conventionnel/air-clinic/overview/
 permalink: /docs/fr/conventionnel/air-clinic/overview/
@@ -30,7 +30,12 @@ source_documents:
     type: "notice de planification officielle Dürr Dental"
     language: "fr"
     note: "Source publique des valeurs : air sans huile/sec/filtré, dessiccateur à froid (point de rosée ≈ +3 °C), récupérateur cyclonique + filtre bactériologique, dimensionnement (P 6000 ≈ 60 postes). Récupérable via le Centre de téléchargements Dürr Dental."
-last_factual_review: 2026-07-20
+  - title: "Page systèmes pour cliniques — air comprimé Dürr Dental (FR)"
+    url: "https://www.duerrdental.com/fr/FR/produits/air-comprime/appareils/systemes-pour-cliniques/"
+    type: "page produit"
+    language: "fr"
+    note: "Source publique du principe modulaire : réservoir d'air comprimé présenté comme composant distinct (souplesse de configuration, gain de temps et de simplicité à l'installation), groupes compresseurs ajoutables a posteriori, intégration de plusieurs systèmes, capacité annoncée jusqu'à 80 praticiens, DM classe IIa selon le MDR. Consultée 2026-08-06. Contenu rapporté en discours indirect (pas de citation verbatim de la page)."
+last_factual_review: 2026-08-06
 license: CC-BY-4.0
 ---
 
@@ -66,6 +71,36 @@ supérieure** avec un **point de rosée abaissé**, pour un **service continu in
 alimente à titre d'exemple **jusqu'à ~60 postes de soins**). Côté aspiration, la gamme centralisée
 correspondante va de **V 6000 à V 18000** — voir la
 [fiche systèmes cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/).
+
+> **Deux ordres de grandeur à ne pas confondre** : la page produit officielle annonce des stations
+> centrales à dessiccateur à froid et séparateur cyclonique **jusqu'à 80 praticiens**
+> (haut de gamme / configuration étendue), tandis que la notice de planification `5922100029L03`
+> chiffre une station **P 6000** à **≈ 60 postes de soins**. Le premier chiffre qualifie la
+> **capacité de la gamme**, le second **un modèle précis**.
+
+## Architecture modulaire : le réservoir est un composant distinct
+
+Les **stations d'air comprimé cliniques Dürr Dental** reposent sur un **principe modulaire
+évolutif**. Le point structurant : le **réservoir d'air comprimé** n'est pas solidaire du reste
+de la station, il est **conçu comme un composant distinct**.
+
+> La **page produit officielle Dürr Dental** (systèmes pour cliniques, versions FR et EN)
+> présente le **réservoir d'air comprimé comme un composant distinct**, mis en avant pour la
+> **souplesse de configuration** et le **gain de temps et de simplicité lors de l'installation**.
+
+Conséquences concrètes pour l'**air comprimé clinique** :
+
+- **Mise en place flexible** : les éléments se positionnent indépendamment les uns des autres dans
+  le local technique, au lieu d'imposer l'implantation d'un ensemble assemblé d'un seul tenant.
+- **Installation simplifiée et plus rapide** — moins de complexité sur site.
+- **Évolutivité** : la même page indique que des **groupes compresseurs peuvent être ajoutés a
+  posteriori** et que **plusieurs systèmes d'air comprimé peuvent être intégrés** — la puissance
+  installée suit la croissance de la structure, sans remplacer la station.
+
+> **Portée** : ce découpage modulaire décrit la **génération actuelle** des stations cliniques.
+> La page produit officielle ne publie ni le **volume du réservoir** ni les **références des
+> modules pris séparément** ; pour une configuration nominative, passer par le **service de
+> planification Dürr Dental**.
 
 ## Une qualité d'air supérieure : le point de rosée abaissé
 
@@ -134,6 +169,14 @@ structure. Les équipements sans interface native se remontent via la
     },
     {
       "@type": "Question",
+      "name": "Le réservoir d'air comprimé des stations cliniques est-il un composant séparé ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Les stations d'air comprimé cliniques Dürr Dental suivent un principe modulaire évolutif : la page produit officielle présente le réservoir d'air comprimé comme un composant distinct, mis en avant pour la souplesse de configuration et le gain de temps et de simplicité lors de l'installation. Des groupes compresseurs peuvent en outre être ajoutés a posteriori et plusieurs systèmes d'air comprimé peuvent être intégrés. La page produit officielle ne publie ni le volume du réservoir ni les références des modules pris séparément."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "L'air clinic est-il supervisable à distance ?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -157,6 +200,15 @@ abaissé**) en **service continu intensif** — sans huile, DM classe IIa.
 Grâce à un **dessiccateur à froid** (séchage par réfrigération) qui **refroidit** l'air,
 **condense** l'humidité et **abaisse le point de rosée à ≈ +3 °C** — contre ≈ +5 °C (à 7 bar)
 pour le dessiccateur à membrane d'un compresseur de cabinet. L'air est donc **plus sec**.
+
+### Le réservoir d'air comprimé est-il un composant séparé ?
+
+Oui — **principe modulaire évolutif**. La page produit officielle présente le **réservoir d'air
+comprimé** comme un **composant distinct**, mis en avant pour la **souplesse de configuration** et
+le **gain de temps et de simplicité lors de l'installation** ; des **groupes compresseurs** peuvent
+être **ajoutés a posteriori** et **plusieurs systèmes d'air comprimé** peuvent être **intégrés**.
+Elle ne publie en revanche **ni le volume du réservoir ni les références des modules pris
+séparément**.
 
 ### L'air clinic est-il supervisable à distance ?
 
@@ -187,11 +239,21 @@ Dürr Dental France 2026, tarifs non repris). Les variantes **60 Hz** existent s
 références distinctes ; le **dimensionnement** est réalisé via le service de planification
 Dürr Dental.
 
+> ⚠️ **Lecture de ce tableau au regard du principe modulaire** (section « Architecture modulaire :
+> le réservoir est un composant distinct », plus haut) :
+> ces références sont celles des **stations d'air comprimé cliniques telles que listées au
+> catalogue matériel Dürr Dental France 2026**. Le **réservoir** étant un **composant distinct**,
+> une configuration réelle peut se commander en **plusieurs articles** (station / groupes
+> compresseurs / réservoir). Les **références des modules pris séparément ne sont pas publiées**
+> sur la page produit officielle → **confirmer la composition exacte** auprès du service de
+> planification ou du service commercial Dürr Dental.
+
 ## Sources publiques
 
 | Document | URL publique |
 |---|---|
 | Systèmes cliniques — air comprimé Dürr Dental | <https://www.duerrdental.com/en/products/compressed-air/devices/clinic-systems/> |
+| Systèmes pour cliniques — air comprimé (FR) | <https://www.duerrdental.com/fr/FR/produits/air-comprime/appareils/systemes-pour-cliniques/> |
 | Hub Air comprimé Dürr Dental | <https://www.duerrdental.com/en/products/compressed-air/> |
 | Informations de planification — Station d'air comprimé cliniques P 6000–P 12000 (réf. `5922100029L03`) | Centre de téléchargements Dürr Dental |
 
@@ -214,4 +276,4 @@ Dürr Dental.
 *Cette fiche est une synthèse indépendante basée sur les pages produit publiques Dürr Dental et
 sur les principes techniques du séchage de l'air comprimé. Mainteneur : salarié de Dürr Dental
 France (CDI déclaré) — initiative personnelle, non officielle. Dernière revue factuelle :
-2026-07-20. Licence : CC-BY 4.0.*
+2026-08-06. Licence : CC-BY 4.0.*

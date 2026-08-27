@@ -69,7 +69,7 @@ source_documents:
     type: "notice de planification officielle"
     language: "en"
     note: "Source des REF de la gamme radiale clinique : Tyscor V 20 (1802100510), V 30 (1803100510), V 40 (1808000040), V 50 (1808000050), V 60 (1808000060) ; postes desservis (V 20 → 30, V 30 → 50, V 60 → 100) ; combinaisons avec séparateur de condensat intégré ou cuves CS 20 / CS 60."
-last_factual_review: 2026-07-23
+last_factual_review: 2026-08-06
 license: CC-BY-4.0
 ---
 
@@ -521,6 +521,14 @@ cuves de séparation centralisée. Références des stations **50 Hz**.
 | `1803-490-51` | Module d'extension pour systèmes d'aspiration (V 6000 → V 15000) | évolutivité |
 | `0704-05` | Kit récupérateur d'amalgame 50 Hz (2× CA 4 + supports + raccords) | clinique |
 
+> ⚠️ **Stations d'air comprimé — principe modulaire** : la page produit officielle présente le
+> **réservoir d'air comprimé** des stations cliniques comme un **composant distinct** (souplesse de
+> configuration, gain de temps à l'installation ; groupes compresseurs ajoutables a posteriori).
+> Une configuration réelle peut
+> donc se commander en **plusieurs articles**, et les **références des modules pris séparément ne
+> sont pas publiées** sur la page produit officielle. Détail :
+> [air comprimé clinique — architecture modulaire](/durr-dental-knowledge-base/docs/fr/conventionnel/air-clinic/overview/).
+
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris). Récupérateurs d'amalgame et pièces
 d'usure détaillés dans les fiches [récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/)
@@ -556,4 +564,4 @@ et [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-23. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-08-06. Licence : CC-BY 4.0.*
