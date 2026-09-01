@@ -35,7 +35,12 @@ source_documents:
     type: "page produit"
     language: "fr"
     note: "Source publique du principe modulaire : réservoir d'air comprimé présenté comme composant distinct (souplesse de configuration, gain de temps et de simplicité à l'installation), groupes compresseurs ajoutables a posteriori, intégration de plusieurs systèmes, capacité annoncée jusqu'à 80 praticiens, DM classe IIa selon le MDR. Consultée 2026-08-06. Contenu rapporté en discours indirect (pas de citation verbatim de la page)."
-last_factual_review: 2026-08-06
+  - title: "Déclaration de Conformité — Clinic Pressure Systems (D.No 4233853, Rev. D)"
+    ref: "D.No 4233853, Rev. D, signée 2026-05-18"
+    type: "Déclaration de Conformité MDR — document réglementaire, téléchargeable via le portail partenaires Dürr Dental (DuerrDental.Net)"
+    language: "en"
+    note: "Source publique des références des modules pris séparément (Tank Module, Compressor Module, Air Receiver Tank) et de la classification DM IIa individuelle du réservoir 500 l, absentes de la page produit. Amendement communiqué en interne en août 2026 : le réservoir est désormais décliné séparément dans la DoC pour les besoins d'enregistrement/dédouanement, suite à la modularisation en 3 articles distincts (tank / compresseur / réservoir) depuis mars 2026."
+last_factual_review: 2026-08-31
 license: CC-BY-4.0
 ---
 
@@ -98,9 +103,40 @@ Conséquences concrètes pour l'**air comprimé clinique** :
   installée suit la croissance de la structure, sans remplacer la station.
 
 > **Portée** : ce découpage modulaire décrit la **génération actuelle** des stations cliniques.
-> La page produit officielle ne publie ni le **volume du réservoir** ni les **références des
-> modules pris séparément** ; pour une configuration nominative, passer par le **service de
-> planification Dürr Dental**.
+> La page produit officielle ne publie ni le volume du réservoir ni les références des modules
+> pris séparément — mais la **Déclaration de Conformité** MDR du produit (document réglementaire
+> distinct de la page produit) les détaille, cf. section suivante ; pour une configuration
+> nominative, passer par le **service de planification Dürr Dental**.
+
+## Confirmation réglementaire : trois articles distincts depuis mars 2026
+
+La **Déclaration de Conformité** *Clinic Pressure Systems* (Dürr Dental SE, Rev. D du
+**2026-05-18** ; certificat QMS **DQS 0297 — 518373 MDR2017Q**, valide jusqu'au 2027-03-10)
+confirme et chiffre ce que la page produit annonce sans le détailler : depuis **mars 2026**, les
+stations d'air comprimé cliniques modulaires ne sont plus couvertes par un numéro de commande
+global unique, mais se composent de **trois articles distincts** — module réservoir, module
+compresseur, réservoir d'air comprimé — chacun déclaré séparément au titre du MDR (nécessaire
+pour l'enregistrement et le dédouanement dans certains pays).
+
+| Composant | Réf (module seul) | Réf (système assemblé — module + réservoir) |
+|---|---|---|
+| Module réservoir (Tank Module) 50 Hz | `5942-300-52` / `5922300150` | `5922200050`, `5922200053`, `5932200050`, `5942200050` |
+| Module réservoir (Tank Module) 60 Hz | `5942-300-62` / `5922300160` | `5922200060`, `5922200063`, `5932200060`, `5942200060` |
+| Module réservoir CN | `5942300053` | `5922400053`, `5932400053`, `5942400053` |
+| Module compresseur P 6000 | `5922100052` | — |
+| Module compresseur P 6000 (évolutif) | `5922100054` | — |
+| Module compresseur P 9000 | `5932100052` | — |
+| Module compresseur P 12000 | `5942100052` | — |
+| **Réservoir d'air comprimé 500 l** (Air Receiver Tank) | `5922310050` (EU) / `5922310060` (CHN) / `5922310070` (SGP) / `5942490051` (KOR) | *(non rattaché à un n° de système)* |
+
+Tous classés **dispositif médical IIa** sous le même **Basic UDI-DI `++E2471009Y6`**. Le réservoir
+500 l n'est rattaché à aucun numéro de système dans la DoC — cohérent avec sa modularisation :
+il ne fait plus partie d'un ensemble assemblé unique à la commande.
+
+> ⚠️ La DoC ne précise pas la relation entre les deux références listées pour chaque « Tank
+> Module » (`5942-300-52` vs `5922300150`, etc.) — ne pas trancher de tête sur laquelle commander ;
+> passer par le service de planification ou commercial Dürr Dental pour une configuration
+> nominative.
 
 ## Une qualité d'air supérieure : le point de rosée abaissé
 
@@ -172,7 +208,7 @@ structure. Les équipements sans interface native se remontent via la
       "name": "Le réservoir d'air comprimé des stations cliniques est-il un composant séparé ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui. Les stations d'air comprimé cliniques Dürr Dental suivent un principe modulaire évolutif : la page produit officielle présente le réservoir d'air comprimé comme un composant distinct, mis en avant pour la souplesse de configuration et le gain de temps et de simplicité lors de l'installation. Des groupes compresseurs peuvent en outre être ajoutés a posteriori et plusieurs systèmes d'air comprimé peuvent être intégrés. La page produit officielle ne publie ni le volume du réservoir ni les références des modules pris séparément."
+        "text": "Oui. Les stations d'air comprimé cliniques Dürr Dental suivent un principe modulaire évolutif : depuis mars 2026, elles se composent de trois articles distincts (module réservoir, module compresseur, réservoir d'air comprimé 500 l), chacun avec sa propre référence et sa propre classification DM IIa selon la Déclaration de Conformité MDR du produit. Le réservoir 500 l porte les références 5922310050 (EU), 5922310060 (CHN), 5922310070 (SGP) et 5942490051 (KOR)."
       }
     },
     {
@@ -203,12 +239,12 @@ pour le dessiccateur à membrane d'un compresseur de cabinet. L'air est donc **p
 
 ### Le réservoir d'air comprimé est-il un composant séparé ?
 
-Oui — **principe modulaire évolutif**. La page produit officielle présente le **réservoir d'air
-comprimé** comme un **composant distinct**, mis en avant pour la **souplesse de configuration** et
-le **gain de temps et de simplicité lors de l'installation** ; des **groupes compresseurs** peuvent
-être **ajoutés a posteriori** et **plusieurs systèmes d'air comprimé** peuvent être **intégrés**.
-Elle ne publie en revanche **ni le volume du réservoir ni les références des modules pris
-séparément**.
+Oui — **principe modulaire évolutif**. Depuis **mars 2026**, la station se compose de **trois
+articles distincts** — module réservoir, module compresseur, réservoir d'air comprimé 500 l —
+chacun avec sa **propre référence** et sa **propre classification DM IIa**, confirmé par la
+**Déclaration de Conformité MDR** du produit (cf. « Confirmation réglementaire » plus haut). Le
+réservoir 500 l porte les références `5922310050` (EU) / `5922310060` (CHN) / `5922310070` (SGP)
+/ `5942490051` (KOR), sous le Basic UDI-DI `++E2471009Y6`.
 
 ### L'air clinic est-il supervisable à distance ?
 
@@ -244,9 +280,10 @@ Dürr Dental.
 > ces références sont celles des **stations d'air comprimé cliniques telles que listées au
 > catalogue matériel Dürr Dental France 2026**. Le **réservoir** étant un **composant distinct**,
 > une configuration réelle peut se commander en **plusieurs articles** (station / groupes
-> compresseurs / réservoir). Les **références des modules pris séparément ne sont pas publiées**
-> sur la page produit officielle → **confirmer la composition exacte** auprès du service de
-> planification ou du service commercial Dürr Dental.
+> compresseurs / réservoir) → voir la section **« Confirmation réglementaire »** ci-dessus pour
+> le détail des références par module, issu de la Déclaration de Conformité MDR. Pour une
+> configuration nominative, confirmer la composition exacte auprès du service de planification ou
+> du service commercial Dürr Dental.
 
 ## Sources publiques
 
@@ -256,6 +293,7 @@ Dürr Dental.
 | Systèmes pour cliniques — air comprimé (FR) | <https://www.duerrdental.com/fr/FR/produits/air-comprime/appareils/systemes-pour-cliniques/> |
 | Hub Air comprimé Dürr Dental | <https://www.duerrdental.com/en/products/compressed-air/> |
 | Informations de planification — Station d'air comprimé cliniques P 6000–P 12000 (réf. `5922100029L03`) | Centre de téléchargements Dürr Dental |
+| Déclaration de Conformité *Clinic Pressure Systems* (D.No 4233853, Rev. D, 2026-05-18) | Portail partenaires Dürr Dental (DuerrDental.Net) |
 
 > Les valeurs (air sans huile/sec/filtré, **dessiccateur à froid → point de rosée ≈ +3 °C**,
 > récupérateur cyclonique + filtre bactériologique, P 6000 ≈ 60 postes) proviennent de la
@@ -273,7 +311,7 @@ Dürr Dental.
 
 ---
 
-*Cette fiche est une synthèse indépendante basée sur les pages produit publiques Dürr Dental et
-sur les principes techniques du séchage de l'air comprimé. Mainteneur : salarié de Dürr Dental
-France (CDI déclaré) — initiative personnelle, non officielle. Dernière revue factuelle :
-2026-08-06. Licence : CC-BY 4.0.*
+*Cette fiche est une synthèse indépendante basée sur les pages produit publiques Dürr Dental, la
+Déclaration de Conformité MDR du produit et les principes techniques du séchage de l'air comprimé.
+Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
+Dernière revue factuelle : 2026-08-31. Licence : CC-BY 4.0.*

@@ -4,6 +4,33 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.16.3] — 2026-08-31
+
+### Ajouté — références des modules stations cliniques (réservoir, tank, compresseur)
+
+**Revient sur une exclusion volontaire posée en 0.16.2** : cette entrée-là excluait le volume du
+réservoir et les références des modules pris séparément, alors « connus uniquement par documents
+internes ». Le statut de la source a changé depuis — les références sont maintenant tirées de la
+**Déclaration de Conformité MDR** *Clinic Pressure Systems* (D.No 4233853, Rev. D, 2026-05-18,
+document réglementaire téléchargeable via le portail partenaires DuerrDental.Net), pas d'une
+simple information commerciale interne. Décision de publication validée explicitement par le
+mainteneur (2026-08-31).
+
+- **`air-clinic`** — nouvelle section « **Confirmation réglementaire : trois articles distincts
+  depuis mars 2026** » : détaille le découpage MDR en 3 articles (module réservoir / module
+  compresseur / réservoir d'air comprimé 500 l) avec leurs références respectives, sourcé sur la
+  DoC. Réservoir 500 l : REF `5922310050` (EU) / `5922310060` (CHN) / `5922310070` (SGP) /
+  `5942490051` (KOR), DM **IIa**, Basic UDI-DI `++E2471009Y6`.
+- **FAQ + FAQPage** mises à jour (les deux blocs) pour refléter les références désormais connues.
+- **`sources/certificates.md`** — nouvelle ligne dédiée « Réservoir d'air comprimé clinique 500 l »
+  dans la matrice MDR Conventionnel.
+- **Non publié** : l'info produit *VistaSoft Monitor — Maintenance Manager 2.0* (nouvelle
+  fonctionnalité), reçue la même semaine via un document explicitement marqué « Confidential
+  internal information — not for distribution to trade partners or customers » — catégorie
+  « Sales Information internes » explicitement exclue du périmètre de ce dépôt. À réintégrer
+  seulement si une source publique (page produit, communiqué officiel) devient disponible.
+- `last_factual_review` synchronisée (2026-08-31) sur `air-clinic` et `sources/certificates.md`.
+
 ## [0.16.2] — 2026-08-06
 
 ### Ajouté — stations d'air comprimé cliniques : principe modulaire (réservoir = composant distinct)

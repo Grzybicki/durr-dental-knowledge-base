@@ -4,7 +4,7 @@ title: "Sources — Certificats et conformité réglementaire (matrice MDR compl
 description: "Matrice MDR complète des produits Dürr Dental : classe de dispositif médical (I, IIa, IIb), Notified Body, références de certificats, sources publiques."
 lang: fr
 permalink: /sources/certificates/
-last_factual_review: 2026-07-23
+last_factual_review: 2026-08-31
 license: CC-BY-4.0
 ---
 
@@ -97,6 +97,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Tyscor** (gamme aspiration humide + sèche, poste unique et centralisé) | **IIa** | MDR EU 2017/745 | Poste unique (V/VS/VSA 1-4) : **IIa** — catégorie « Suction machines for dental applications » de l'annexe du certificat QMS **518373 MDR2017Q** (DQS 0297) ; **clinique Tyscor V 20 / V 30 confirmés DQS 0297** (cert. 518373 MDR2017Q). **V 40 / V 50 / V 60 = assemblages de modules V 20/V 30** (V 40 = 2×V 20, V 50 = V 20+V 30, V 60 = 2×V 30) → **même classe IIa** (mêmes unités RV 10 certifiées, même certificat). | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) |
 | **Systèmes d'aspiration cliniques** (V 6000, V 9000, V 12000, V 15000, V 18000 ; Tyscor V 20, Tyscor V 30) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) + RoHS 2011/65/EU | **DQS 0297** — cert. 518373 MDR2017Q (valide 2027-03-10 ; DoC Dürr Dental SE 2025-07-22, dossiers CE-130-B / CE-130-C ; Basic UDI-DI ++E2471042Y4 ; SRN DE-MF-000006032) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/) |
 | **Systèmes d'air comprimé cliniques** (P 6000, P 9000, P 12000) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | **DQS 0297** — cert. 518373 MDR2017Q (catégorie « Clinic pressure stations for dental applications » de l'annexe QMS ; valide 2027-03-10 ; SRN DE-MF-000006032) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/air-clinic/overview/) |
+| **Réservoir d'air comprimé clinique 500 l** (Air Receiver Tank — article distinct depuis mars 2026) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) — même DoC que les stations P 6000-12000 (*Clinic Pressure Systems*, Rev. D, 2026-05-18), réservoir désormais décliné séparément (amendement communiqué août 2026 pour les besoins d'enregistrement/dédouanement) | **DQS 0297** — cert. 518373 MDR2017Q (SRN DE-MF-000006032), Basic UDI-DI `++E2471009Y6` ; REF `5922310050` (EU) / `5922310060` (CHN) / `5922310070` (SGP) / `5942490051` (KOR) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/air-clinic/overview/) |
 | **Récupérateurs d'amalgame** (CA 1, CA 2, CA 4, Sepamatic CS 1, CAS 1) | **I** (auto-déclaration MDR, sans organisme notifié) | MDR EU 2017/745 + Règlement (UE) 2017/852 (mercure) | **Aucun (classe I)** — DoC Dürr Dental SE 2026-03-25 (CA, dossier CE-110-M/L) et 2025-05-03 (CAS 1 Combi) ; + agrément **DIBt Z-64.1** | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) |
 | **VC 65** (aspiration chirurgicale) | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | **DQS 0297** — cert. 518373 MDR2017Q (valide 2027-03-10, DoC 2026-04-15, dossier CE-110-P) | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) |
 | **DürrConnect** (système de raccordement) | Composant accessoire | MDR EU 2017/745 | — | [Fiche](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/) |
@@ -194,5 +195,5 @@ Dürr Dental publiés dans la base européenne.
 Dürr Dental, Eudamed et les normes EN / ISO publiquement référencées. Les classes et
 références marquées « À confirmer » nécessitent vérification dans la DoC publique
 spécifique du produit. Mainteneur : salarié de Dürr Dental France (CDI déclaré) —
-initiative personnelle, non officielle. Dernière revue factuelle : 2026-07-19.
+initiative personnelle, non officielle. Dernière revue factuelle : 2026-08-31.
 Licence : CC-BY 4.0.*
