@@ -4,6 +4,32 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.17.0] — 2026-09-13
+
+### Corrigé — exemption santé Certibiocide (arrêté du 5 septembre 2025)
+
+**Révise la correction du 2026-07-22** (`0.7.1`, FD 312 = concerné par le Certibiocide) : un
+**arrêté du 5 septembre 2025** (JO du 9/09/2025, modifiant l'arrêté du 9 octobre 2013) **exempte
+les professionnels de santé** — dont les chirurgiens-dentistes inscrits au tableau de l'Ordre —
+de l'obligation Certibiocide « désinfectants », y compris pour les produits à statut biocide
+TP2/3/4. Condition : justifier une formation à la DGPR avant le **1er juillet 2027**, réputée
+acquise du fait de l'inscription ordinale (aucune démarche active pour un praticien déjà inscrit).
+
+- Le **FD 312** reste bien un double statut **DM MDR IIa + biocide TP2** (classification
+  inchangée), mais la conséquence pratique « donc soumis au Certibiocide » ne tient plus pour un
+  cabinet dentaire.
+- **`sources/certificates.md`** : callout et ligne FD 312 mis à jour, nouvelle ligne dans la table
+  des normes/règlements pour l'arrêté du 5 septembre 2025.
+- **`familles-id-md-hd-fd`** : section réécrite (« statut biocide vs dispositif médical » +
+  exemption santé), table Certibiocide et FAQ/FAQPage mises à jour, sources ajoutées (Légifrance +
+  Ordre National des Chirurgiens-Dentistes).
+- **`desinfection-surfaces`** : paragraphe FD 312 et FAQ/FAQPage alignés, `source_documents`
+  enrichi.
+- Découvert lors d'une éval GEO croisée (5 moteurs IA testés sur 24 questions) où 3 moteurs
+  donnaient 3 versions contradictoires de la réforme Certibiocide — vérifié sur la page officielle
+  de l'Ordre National des Chirurgiens-Dentistes.
+- `validate.py --warn-as-error` : 0 erreur, 0 avertissement.
+
 ## [0.16.3] — 2026-08-31
 
 ### Ajouté — références des modules stations cliniques (réservoir, tank, compresseur)

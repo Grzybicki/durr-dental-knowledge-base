@@ -129,13 +129,19 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 > (BPR 528/2012) : les désinfectants pour les **mains (HD)** sont des biocides **TP1**
 > (hygiène humaine, vendus grand public — **hors périmètre Certibiocide**, qui ne couvre
 > que TP2/3/4) ; et le **FD 312** (surfaces) présente un **double statut** — **DM MDR
-> classe IIa** *et* **biocide TP2** (n° d'enregistrement **N-21211**) — qui, au titre du
-> TP2 à usage professionnel, le rend **soumis au Certibiocide « désinfectants » (TP2/3/4)**
-> depuis le **1er janvier 2024** (arrêté du 9 octobre 2013 modifié le 23 janvier 2023).
+> classe IIa** *et* **biocide TP2** (n° d'enregistrement **N-21211**). Ce statut biocide
+> TP2 relevait en principe du **Certibiocide « désinfectants » (TP2/3/4)** depuis le
+> **1er janvier 2024** (arrêté du 9 octobre 2013 modifié le 23 janvier 2023) — **mais
+> l'arrêté du 5 septembre 2025** (JO du 9 septembre 2025), modifiant à nouveau l'arrêté
+> de 2013, **exclut les professionnels de santé** — dont les chirurgiens-dentistes
+> inscrits au tableau de l'Ordre — **de cette obligation**, sous réserve de justifier une
+> formation auprès de la DGPR avant le **1er juillet 2027** (formation réputée acquise du
+> fait de l'inscription ordinale). **En pratique, un cabinet dentaire n'a donc plus besoin
+> du Certibiocide pour le FD 312**, ni pour aucun autre produit de la gamme Dürr Dental.
 
 | Produit | Classe | Réglementation | Fiche |
 |---|---|---|---|
-| **FD 312** (surfaces) | **DM IIa** (règle 16) **+ biocide TP2** (N-21211) — **soumis au Certibiocide** « désinfectants » | MDR 2017/745 — NB DEKRA 0124 ; BPR 528/2012 ; arrêté 9 oct. 2013 mod. | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
+| **FD 312** (surfaces) | **DM IIa** (règle 16) **+ biocide TP2** (N-21211) — cabinet dentaire **exempté du Certibiocide** depuis l'arrêté santé du 5 sept. 2025 | MDR 2017/745 — NB DEKRA 0124 ; BPR 528/2012 ; arrêté 9 oct. 2013 mod. par arrêté 5 sept. 2025 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
 | **FD — surfaces** (300, 322, 333, 350, 366 + variantes/wipes) | **DM IIa** (règle 16) | MDR 2017/745 — NB DEKRA 0124 (cert `50090-60-02-03`) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
 | **FD 333 forte** (surfaces, totalement virucide/sporicide — endpoint de retraitement) | **DM IIb** | MDR 2017/745 — NB DEKRA 0124 (cert `50090-60-02-03`, Basic UDI-DI `+EORO0003FDNN` / `++EORO0003DTPG`) | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
 | **FD 360 / FD multi wipes** (entretien/nettoyage) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) |
@@ -172,6 +178,7 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Règlement (UE) 2017/852** | Réglementation européenne sur le mercure (récupération amalgame dentaire) |
 | **BPR — Règlement (UE) 528/2012** | Mise à disposition et utilisation des produits biocides |
 | **Arrêté du 9 octobre 2013** (modifié 23 janvier 2023) | Certibiocide (FR) — certificat individuel « désinfectants » requis pour les biocides TP2/3/4 à usage professionnel, depuis le 1er janvier 2024 |
+| **Arrêté du 5 septembre 2025** (modifie l'arrêté du 9 oct. 2013, JO 9/09/2025) | Exempte les **professionnels de santé** (dont chirurgiens-dentistes inscrits au tableau de l'Ordre) du Certibiocide « désinfectants », sous réserve de formation justifiée à la DGPR avant le 1er juillet 2027 |
 | **Règlement (UE) 2016/679 (RGPD)** | Protection des données personnelles (Cloud Exchange, Cloud Drive) |
 
 ## Récupération de la Déclaration de Conformité publique
@@ -195,5 +202,5 @@ Dürr Dental publiés dans la base européenne.
 Dürr Dental, Eudamed et les normes EN / ISO publiquement référencées. Les classes et
 références marquées « À confirmer » nécessitent vérification dans la DoC publique
 spécifique du produit. Mainteneur : salarié de Dürr Dental France (CDI déclaré) —
-initiative personnelle, non officielle. Dernière revue factuelle : 2026-08-31.
+initiative personnelle, non officielle. Dernière revue factuelle : 2026-09-13.
 Licence : CC-BY 4.0.*

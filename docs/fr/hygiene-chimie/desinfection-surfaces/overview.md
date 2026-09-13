@@ -41,7 +41,15 @@ source_documents:
     url: "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028214219"
     type: "texte réglementaire"
     language: "fr"
-last_factual_review: 2026-07-22
+  - title: "Arrêté du 5 septembre 2025 (exemption santé Certibiocide) — Légifrance"
+    url: "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052213013"
+    type: "texte réglementaire"
+    language: "fr"
+  - title: "« Fini le certibiocide ! » — Ordre National des Chirurgiens-Dentistes"
+    url: "https://www.ordre-chirurgiens-dentistes.fr/actualites/fini-le-certibiocide/"
+    type: "source réglementaire officielle (ordre professionnel)"
+    language: "fr"
+last_factual_review: 2026-09-13
 license: CC-BY-4.0
 ---
 
@@ -94,10 +102,13 @@ Le **FD 312** présente un **double statut réglementaire** : outre son statut d
 **dispositif médical** (MDR UE 2017/745, pour la désinfection des surfaces de dispositifs
 médicaux non invasifs), il est aussi un **produit biocide de type TP2** (règlement biocide
 **BPR UE 528/2012**, n° d'enregistrement **N-21211**) pour la désinfection des **sols et
-surfaces**. À ce titre biocide **TP2** et pour un **usage professionnel**, le FD 312 relève
-en **France** du **Certibiocide « désinfectants » (TP2/3/4)**, obligatoire depuis le
-**1er janvier 2024** (arrêté du 9 octobre 2013 modifié le 23 janvier 2023) : un cabinet qui
-l'utilise doit disposer d'au moins une personne titulaire de ce certificat. Détails :
+surfaces**. Ce statut biocide **TP2** relevait en principe, pour un usage professionnel, du
+**Certibiocide « désinfectants » (TP2/3/4)** en **France** depuis le **1er janvier 2024**
+(arrêté du 9 octobre 2013 modifié le 23 janvier 2023) — mais l'**arrêté du 5 septembre 2025**
+(JO du 9 septembre 2025) **exempte les professionnels de santé**, dont les chirurgiens-dentistes
+inscrits au tableau de l'Ordre, de cette obligation (sous réserve de justifier une formation à
+la DGPR avant le **1er juillet 2027**, réputée acquise par l'inscription ordinale). **En
+pratique, un cabinet dentaire n'a donc plus besoin du Certibiocide pour le FD 312.** Détails :
 [fiche familles ID/MD/HD/FD — section Certibiocide](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/).
 
 ## Système d'hygiène 4 couleurs
@@ -199,7 +210,7 @@ désinfection rapide des surfaces.
       "name": "Le FD 312 est-il soumis au Certibiocide ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui. Le FD 312 a un double statut : dispositif médical (MDR 2017/745) et produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211). Le TP2 relevant du Certibiocide « désinfectants » (TP2/3/4) depuis le 1er janvier 2024, un cabinet qui utilise le FD 312 doit disposer d'au moins une personne titulaire du Certibiocide."
+        "text": "Non, plus depuis le 5 septembre 2025. Le FD 312 a un double statut : dispositif médical (MDR 2017/745) et produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211), un statut qui relevait en principe du Certibiocide « désinfectants » (TP2/3/4) depuis le 1er janvier 2024. Mais l'arrêté du 5 septembre 2025 (JO 9/09/2025) exempte les professionnels de santé, dont les chirurgiens-dentistes inscrits à l'Ordre, de cette obligation, sous réserve de justifier une formation à la DGPR avant le 1er juillet 2027 (réputée acquise par l'inscription ordinale)."
       }
     }
   ]
@@ -226,7 +237,7 @@ Oui : les FD 350 green wipes sont des lingettes éco-conçues en fibres naturell
 
 ### Le FD 312 est-il soumis au Certibiocide ?
 
-Oui. Le FD 312 a un double statut : dispositif médical (MDR 2017/745) et produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211). Le TP2 relevant du Certibiocide « désinfectants » (TP2/3/4) depuis le 1er janvier 2024, un cabinet qui utilise le FD 312 doit disposer d'au moins une personne titulaire du Certibiocide.
+Non, plus depuis le 5 septembre 2025. Le FD 312 a un double statut : dispositif médical (MDR 2017/745) et produit biocide de type TP2 (BPR 528/2012, n° d'enregistrement N-21211), un statut qui relevait en principe du Certibiocide « désinfectants » (TP2/3/4) depuis le 1er janvier 2024. Mais l'arrêté du 5 septembre 2025 (JO 9/09/2025) exempte les professionnels de santé, dont les chirurgiens-dentistes inscrits à l'Ordre, de cette obligation, sous réserve de justifier une formation à la DGPR avant le 1er juillet 2027 (réputée acquise par l'inscription ordinale).
 
 ## Références produit et accessoires
 
@@ -307,6 +318,8 @@ quatre senteurs (green, Classic, Flower, Lemon) — lingettes uniquement.
 | Page produit FD 312 (double statut DM MDR + biocide BPR) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/concentrates-and-ready-to-use-solutions/fd-312-surface-disinfection/> |
 | Ministère de la Transition écologique — Produits biocides / Certibiocide | <https://www.ecologie.gouv.fr/politiques-publiques/produits-biocides> |
 | Arrêté du 9 octobre 2013 modifié (Certibiocide) — Légifrance | <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028214219> |
+| Arrêté du 5 septembre 2025 (exemption santé Certibiocide) — Légifrance | <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052213013> |
+| « Fini le certibiocide ! » — Ordre National des Chirurgiens-Dentistes | <https://www.ordre-chirurgiens-dentistes.fr/actualites/fini-le-certibiocide/> |
 
 ## Pour aller plus loin
 
