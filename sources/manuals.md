@@ -23,7 +23,7 @@ Cette page sert d'index canonique des URLs publiques utilisées comme sources da
 |---|---|---|
 | Manuel utilisateur VistaSoft 4.0 (FR / EN / DE) | <http://qr.duerrdental.com/2110100001> | `2110100001` |
 | Manuel VistaSoft Cloud View | <http://qr.duerrdental.com/2110100051> | `2110100051` |
-| Manuel Patient Bridge | <http://qr.duerrdental.com/2110100028> | `2110100028` |
+| Manuel VistaSoft PatientBridge | via le [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/) (raccourci `qr.duerrdental.com/2110100028` hors service, vérifié 2026-09-14) | `2110100028` |
 | Configurations système requises | <http://qr.duerrdental.com/9000-618-148> | `9000-618-148` |
 | Livre blanc cybersécurité VistaSoft | <http://qr.duerrdental.com/2110100055> | `2110100055` |
 | Passage de DBSWin vers VistaSoft (changement de serveur) | <http://qr.duerrdental.com/2110100011> | `2110100011` |

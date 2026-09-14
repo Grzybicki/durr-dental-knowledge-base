@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "VDDS-media et BDW — Standards d'interface dentaire allemands"
-description: "VDDS-media et BDW (Basic Dental Workflow) sont les standards d'interface logicielle dentaire publiés par le VDDS (Verband Deutscher Dental-Software Unternehmen). Implémentés par VistaSoft via Patient Bridge."
+description: "VDDS-media et BDW (Basic Dental Workflow) sont les standards d'interface logicielle dentaire publiés par le VDDS (Verband Deutscher Dental-Software Unternehmen). Implémentés nativement dans VistaSoft (menu Interfaces), indépendamment du module Patient Bridge."
 keywords: ["VDDS", "VDDS-media", "BDW", "Basic Dental Workflow", "Verband Deutscher Dental-Software", "standard interface dentaire", "VistaSoft Patient Bridge"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/
@@ -50,7 +50,7 @@ source_documents:
     type: "manuel utilisateur"
     reference: "2110100001"
     language: "multi"
-last_factual_review: 2026-05-28
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -59,7 +59,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "name": "VDDS-media et BDW — Standards d'interface dentaire allemands",
-  "description": "Synthèse des standards d'interface logicielle dentaire VDDS-media et Basic Dental Workflow (BDW) publiés par le VDDS e.V., et implémentés par VistaSoft via Patient Bridge.",
+  "description": "Synthèse des standards d'interface logicielle dentaire VDDS-media et Basic Dental Workflow (BDW) publiés par le VDDS e.V., et implémentés nativement par VistaSoft (menu Interfaces), indépendamment du module Patient Bridge.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/",
   "inLanguage": "fr",
   "about": [
@@ -82,9 +82,11 @@ accessibles à ses membres et en partie au public.
 Site officiel : [vdds.de](https://www.vdds.de/en/)
 Page des interfaces : [vdds.de/en/interfaces/](https://www.vdds.de/en/interfaces/)
 
-Dürr Dental est membre du VDDS, et **VistaSoft 4.0 implémente les standards
-VDDS-media et BDW** via le module
-[Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/).
+Dürr Dental est membre du VDDS, et **VistaSoft 4.0 implémente nativement les
+standards VDDS-media et BDW** : ils se configurent directement dans le menu
+*Interfaces* du logiciel, sans module complémentaire. Cela les distingue du
+module [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/), qui répond à un besoin différent (reprise de
+données depuis un logiciel tiers non standardisé).
 
 ## VDDS-media — l'interface historique
 
@@ -99,7 +101,7 @@ déployée est la **version 1.3** publiée en 2005.
 | Spécification PDF publique | <https://www.vdds.de/wp-content/uploads/vddsm13.pdf> |
 | Périmètre | Échange patient + images (extra/intra-oral, panoramique) entre PMS et logiciel d'imagerie |
 | Langue | Allemand |
-| Implémentation côté VistaSoft | Via Patient Bridge |
+| Implémentation côté VistaSoft | Native (menu *Interfaces* de VistaSoft) |
 
 VDDS-media définit notamment :
 
@@ -133,27 +135,22 @@ le monde dentaire allemand des standards internationaux.
 
 ## Implémentation par VistaSoft 4.0
 
-VistaSoft 4.0 implémente les standards VDDS-media et BDW via le module
-[Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/). Conjugués au protocole Patient
-Bridge propre et à `patimport.txt`, ils constituent **quatre voies
-d'intégration** complémentaires avec les logiciels de gestion de cabinet
-(PMS) :
+VistaSoft 4.0 implémente **nativement** les standards VDDS-media et BDW,
+configurés directement dans le menu *Interfaces* du logiciel — sans module
+complémentaire. Avec `patimport.txt`, également natif, ils constituent
+**trois voies natives** d'intégration avec les logiciels de gestion de
+cabinet (PMS) ; le module [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) répond séparément aux cas non
+couverts par ces standards. Voir la fiche
+[Intégration PMS](/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/) pour la vue d'ensemble des voies.
 
-| Voie | Couverture marché |
-|---|---|
-| **VDDS-media** | Très large en Allemagne, Autriche, Suisse |
-| **BDW** | Successeur évolutif DICOM-based, en déploiement progressif |
-| **patimport.txt** | Format texte historique, simple, compatibilité large |
-| **Protocole Patient Bridge propre** | PMS non-couverts par les trois standards précédents |
-
-Cette couverture quadruple permet à VistaSoft d'être intégrable à la
-quasi-totalité des PMS du marché européen.
+| Voie | Implémentation | Couverture marché |
+|---|---|---|
+| **VDDS-media** | Native (menu *Interfaces*) | Très large en Allemagne, Autriche, Suisse |
+| **BDW** | Native (menu *Interfaces*) | Successeur évolutif DICOM-based, en déploiement progressif |
+| **patimport.txt** | Native (menu *Interfaces*) | Format texte historique, simple, compatibilité large |
 
 ## Limites et précisions
 
-- VDDS-media et BDW sont **principalement déployés sur le marché DACH**
-  (Allemagne, Autriche, Suisse). Le marché français utilise plus largement
-  les autres voies (patimport.txt, protocole Patient Bridge propre).
 - Le BDW est en **déploiement progressif** ; tous les PMS ne supportent pas
   encore la version 2.
 - Les spécifications complètes des interfaces VDDS sont publiquement
@@ -186,7 +183,7 @@ quasi-totalité des PMS du marché européen.
       "name": "VistaSoft 4.0 implémente-t-il VDDS-media et BDW ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui. VistaSoft 4.0 implémente les standards VDDS-media et BDW via le module Patient Bridge. Ils constituent deux des quatre voies d'intégration avec les logiciels de gestion de cabinet (PMS), aux côtés de patimport.txt et du protocole Patient Bridge propre."
+        "text": "Oui, nativement. VDDS-media et BDW se configurent directement dans le menu Interfaces de VistaSoft, sans module complémentaire, au même titre que patimport.txt. Ils sont indépendants du module Patient Bridge, qui répond à un besoin différent (reprise de données depuis un logiciel tiers non standardisé)."
       }
     }
   ]
@@ -207,7 +204,8 @@ VDDS-media = standard historique (v1.3 / 2005). BDW = successeur évolutif
 
 ### Implémentés par VistaSoft 4.0 ?
 
-Oui — via [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/).
+Oui, **nativement** (menu *Interfaces*), indépendamment du module
+[Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/).
 
 ## Sources publiques
 
@@ -248,4 +246,4 @@ Oui — via [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patien
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 du VDDS e.V. et de Dürr Dental. Mainteneur : salarié de Dürr Dental France
 (CDI déclaré) — initiative personnelle, non officielle. Dernière revue factuelle :
-2026-05-28. Licence : CC-BY 4.0.*
+2026-09-14. Licence : CC-BY 4.0.*

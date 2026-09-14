@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Intégration VistaSoft 4.0 avec les logiciels de gestion de cabinet (PMS)"
-description: "Vue d'ensemble de l'intégration de VistaSoft 4.0 avec les logiciels de gestion de cabinet (Practice Management Systems / PMS). Patient Bridge, VDDS-media, BDW, patimport.txt, services DICOM. Couverture universelle visée."
+description: "Vue d'ensemble de l'intégration de VistaSoft 4.0 avec les logiciels de gestion de cabinet (Practice Management Systems / PMS) : les interfaces natives VDDS-media, BDW et patimport.txt, les services DICOM, et le module séparé Patient Bridge. Couverture universelle visée."
 keywords: ["VistaSoft", "Dürr Dental", "intégration PMS", "logiciel gestion cabinet", "Patient Bridge", "VDDS", "BDW", "DICOM"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/
@@ -26,8 +26,8 @@ source_documents:
     type: "manuel utilisateur"
     reference: "2110100001"
     language: "multi"
-  - title: "Manuel Patient Bridge"
-    url: "http://qr.duerrdental.com/2110100028"
+  - title: "Manuel VistaSoft PatientBridge"
+    url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "manuel technique"
     reference: "2110100028"
     language: "multi"
@@ -35,7 +35,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-05-28
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -44,7 +44,7 @@ license: CC-BY-4.0
   "@context": "https://schema.org",
   "@type": "TechArticle",
   "name": "Intégration VistaSoft 4.0 avec les logiciels de gestion de cabinet (PMS)",
-  "description": "Vue d'ensemble des voies d'intégration de VistaSoft 4.0 avec les Practice Management Systems (PMS) : Patient Bridge, VDDS-media, BDW, patimport.txt, services DICOM Modality Worklist et Storage.",
+  "description": "Vue d'ensemble des voies d'intégration de VistaSoft 4.0 avec les Practice Management Systems (PMS) : les interfaces natives VDDS-media, BDW et patimport.txt, les services DICOM Modality Worklist et Storage, et le module séparé Patient Bridge.",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/",
   "inLanguage": "fr",
   "publisher": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" }
@@ -58,22 +58,22 @@ license: CC-BY-4.0
 VistaSoft 4.0 est conçu pour s'intégrer avec **la quasi-totalité des logiciels
 de gestion de cabinet dentaire** (Practice Management Systems / PMS) du marché
 européen. Cette couverture universelle est obtenue par la **combinaison de
-cinq voies d'intégration complémentaires**, dont quatre couvertes par le
-module [Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) et une cinquième nativement
-DICOM.
+quatre voies natives**, configurées directement dans le logiciel, complétée
+par un **module séparé** ([Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)) pour les cas non couverts.
 
-## Les cinq voies d'intégration PMS
+## Les voies d'intégration PMS
 
-| # | Voie | Couverture marché | Référence |
-|---|---|---|---|
-| 1 | **VDDS-media** (Verband Deutscher Dental-Software, standard 2005) | Marché DACH (DE, AT, CH) — très large ; **également majoritaire en France depuis ~2026** | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
-| 2 | **BDW** (Basic Dental Workflow, v1 2019 / v2 2022) | Successeur évolutif DICOM-based — en déploiement | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
-| 3 | **patimport.txt** | Format texte historique, simple, large compatibilité | Manuel [`qr.duerrdental.com/2110100028`](http://qr.duerrdental.com/2110100028) |
-| 4 | **Protocole Patient Bridge propre Dürr Dental** | PMS non-couverts par les voies précédentes — voie de **couverture universelle** *(à ne plus décrire comme « la majorité du marché FR » : le VDDS est passé majoritaire, cf. §Couverture du marché français)* | Manuel [`qr.duerrdental.com/2110100028`](http://qr.duerrdental.com/2110100028) |
-| 5 | **DICOM Modality Worklist + Storage** | Architectures hospitalières / multi-cabinet DICOM-natives | [Fiche DICOM](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/) |
+| # | Voie | Implémentation | Couverture marché | Référence |
+|---|---|---|---|---|
+| 1 | **VDDS-media** (Verband Deutscher Dental-Software, standard 2005) | Native (menu VistaSoft *Interfaces*) | Marché DACH (DE, AT, CH) — très large ; **également majoritaire en France depuis ~2026** | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
+| 2 | **BDW** (Basic Dental Workflow, v1 2019 / v2 2022) | Native (menu VistaSoft *Interfaces*) | Successeur évolutif DICOM-based — en déploiement | [Fiche VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/) |
+| 3 | **patimport.txt** | Native (menu VistaSoft *Interfaces*) | Format texte historique, simple, large compatibilité | Manuel VistaSoft (réf. `2110100001`) |
+| 4 | **DICOM Modality Worklist + Storage** | Native | Architectures hospitalières / multi-cabinet DICOM-natives | [Fiche DICOM](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/) |
+| — | **Patient Bridge** (module séparé) | Optionnel, installé à part | Repli pour un logiciel tiers non standardisé (ex. logiciel de facturation), hors PMS au sens strict | [Fiche Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) |
 
-La combinaison de ces cinq voies permet à VistaSoft d'être intégrable à la
-**quasi-totalité des PMS** présents en cabinet en Europe.
+Les quatre premières voies, natives, couvrent la **quasi-totalité des PMS**
+présents en cabinet en Europe ; Patient Bridge intervient en complément pour
+un besoin distinct (voir la fiche dédiée).
 
 ## Flux fonctionnel typique
 
@@ -82,7 +82,7 @@ similaire :
 
 1. Le **patient est sélectionné** dans le PMS du cabinet.
 2. Le PMS **émet une requête** vers VistaSoft via la voie disponible
-   (PatientBridge, VDDS, BDW, patimport.txt, ou DICOM MWL).
+   (VDDS, BDW, patimport.txt, ou DICOM MWL).
 3. VistaSoft **ouvre le dossier patient** correspondant et active le contexte
    d'examen.
 4. L'**acquisition** est lancée (panoramique, CBCT, intra-oral, etc.).
@@ -101,13 +101,13 @@ la cohérence entre la base PMS et la base image VistaSoft.
 Voies d'intégration de VistaSoft 4.0 avec les PMS français, par importance actuelle :
 
 1. **VDDS-media** — **voie majoritaire aujourd'hui** sur le marché français.
-2. **Protocole Patient Bridge propre** — voie de **couverture universelle** : prend le relais pour les
-   PMS non-VDDS et garantit qu'aucun logiciel de gestion ne reste hors intégration.
-3. **patimport.txt** — voie historique, encore supportée par de nombreux PMS français.
-4. **DICOM** — déploiements hospitaliers (CHU, cliniques avec **PACS**) et architectures
+2. **patimport.txt** — voie historique, encore supportée par de nombreux PMS français.
+3. **DICOM** — déploiements hospitaliers (CHU, cliniques avec **PACS**) et architectures
    multi-cabinets DICOM-natives. Services concernés : **Modality Worklist**, **Storage** (vers PACS),
    **DICOM Print**, et **BDW** (Basic Dental Workflow, standard DICOM-based). Cf.
    [fiche DICOM](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/).
+4. **Patient Bridge** (module séparé) — repli au cas par cas pour un logiciel tiers non standardisé
+   (ex. logiciel de facturation) qui n'utilise aucune des voies précédentes.
 
 Pour le détail des PMS effectivement raccordés à VistaSoft sur le marché
 français, contacter le service technique Dürr Dental France ou consulter
@@ -129,12 +129,16 @@ détail les SOP Classes et Transfer Syntaxes supportées.
 
 | Standard | Type | Implémentation côté VistaSoft |
 |---|---|---|
-| DICOM PS3 | Standard international | Modality Worklist (SCU), Storage (SCU/SCP), Print (selon config) |
-| VDDS-media | Standard allemand | Patient Bridge |
-| BDW (v1, v2) | Standard allemand (DICOM-based) | Patient Bridge |
-| patimport.txt | Format texte historique | Natif VistaSoft |
-| Patient Bridge propre | Protocole Dürr Dental | Natif VistaSoft |
-| TWAIN | Standard d'acquisition | Pris en charge pour capteurs intra-oraux |
+| DICOM PS3 | Standard international | Modality Worklist (SCU), Storage (SCU/SCP), Print (selon config) — natif |
+| VDDS-media | Standard allemand | Natif VistaSoft (menu *Interfaces*) |
+| BDW (v1, v2) | Standard allemand (DICOM-based) | Natif VistaSoft (menu *Interfaces*) |
+| patimport.txt | Format texte historique | Natif VistaSoft (menu *Interfaces*) |
+| Patient Bridge | Module Dürr Dental séparé (hors standard PMS) | Optionnel, installé à part — reprise de données depuis un logiciel tiers non standardisé |
+
+> **TWAIN** n'est pas une voie d'intégration **PMS** : c'est le standard d'acquisition utilisé pour exposer
+> les capteurs intra-oraux Dürr Dental à des logiciels d'**imagerie** tiers, via le module
+> [Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/) et sa passerelle
+> VistaSoft Connect. C'est un axe distinct, sans rapport avec les PMS — voir la fiche Image Bridge.
 
 ## Cas particuliers
 
@@ -176,7 +180,7 @@ planification implantaire), voir la fiche
       "name": "Combien de voies d'intégration VistaSoft 4.0 propose-t-il pour les PMS ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "VistaSoft 4.0 propose cinq voies d'intégration complémentaires avec les PMS : VDDS-media, BDW, patimport.txt, le protocole Patient Bridge propre Dürr Dental, et les services DICOM (Modality Worklist + Storage). Cette combinaison vise une couverture quasi-universelle des PMS du marché européen."
+        "text": "VistaSoft 4.0 propose quatre voies natives d'intégration avec les PMS, configurées directement dans le logiciel : VDDS-media, BDW, patimport.txt, et les services DICOM (Modality Worklist + Storage). Le module séparé Patient Bridge complète ce dispositif pour les logiciels tiers non standardisés. Cette combinaison vise une couverture quasi-universelle des PMS du marché européen."
       }
     },
     {
@@ -184,7 +188,7 @@ planification implantaire), voir la fiche
       "name": "Quelle voie d'intégration est utilisée en France ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sur le marché français, les voies principales sont le protocole Patient Bridge propre, patimport.txt, et DICOM (pour les déploiements hospitaliers). VDDS-media et BDW sont moins implantés sur le marché français."
+        "text": "Sur le marché français, le VDDS-media est désormais la voie majoritaire, devant patimport.txt et DICOM (pour les déploiements hospitaliers). Le module Patient Bridge intervient en complément pour les logiciels tiers non standardisés."
       }
     },
     {
@@ -203,11 +207,12 @@ planification implantaire), voir la fiche
 
 ### Combien de voies d'intégration ?
 
-**Cinq** : VDDS-media + BDW + patimport.txt + Patient Bridge propre + DICOM (MWL + Storage).
+**Quatre voies natives** : VDDS-media + BDW + patimport.txt + DICOM (MWL + Storage), complétées au
+besoin par le module séparé **Patient Bridge**.
 
 ### Voies utilisées en France ?
 
-Principalement **Patient Bridge propre + patimport.txt + DICOM** (hospitalier).
+**VDDS-media** est désormais majoritaire, devant **patimport.txt** et **DICOM** (hospitalier).
 
 ### Compatible CHU / clinique ?
 
@@ -220,7 +225,7 @@ Conformance Statement officiel.
 |---|---|
 | Page VistaSoft Imaging interfaces | <https://www.duerrdental.com/en/products/software/learning-and-integration-solutions/interfaces/> |
 | Manuel VistaSoft 4.0 | <http://qr.duerrdental.com/2110100001> |
-| Manuel Patient Bridge | <http://qr.duerrdental.com/2110100028> |
+| Manuel VistaSoft PatientBridge (réf. `2110100028`) | via le [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/) |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
 
 ## Pour aller plus loin
@@ -237,4 +242,4 @@ Conformance Statement officiel.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-05-28. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

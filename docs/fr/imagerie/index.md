@@ -50,11 +50,11 @@ au phosphore, caméras intraorales.
 
 | Sujet | Fiche |
 |---|---|
-| **[Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)** | Interface VistaSoft ↔ PMS (4 voies : VDDS-media, BDW, patimport.txt, protocole propre) |
+| **[Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)** | Module séparé de reprise de données patient depuis un logiciel tiers non standardisé (WinForms/WPF) |
 | **[Image Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/)** | Pilotage des appareils Dürr depuis un logiciel d'imagerie tiers (cohabitation technique) |
 | **[DICOM dans VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/)** | Conformance Statement, Modality Worklist, Storage, Print, modalités supportées |
-| **[VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/)** | Standards d'interface dentaire allemands (VDDS e.V.) |
-| **[Intégration PMS](/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/)** | Vue d'ensemble des 5 voies d'intégration logiciels de gestion |
+| **[VDDS-media et BDW](/durr-dental-knowledge-base/docs/fr/imagerie/vdds-bdw/overview/)** | Standards d'interface dentaire allemands, natifs VistaSoft (VDDS e.V.) |
+| **[Intégration PMS](/durr-dental-knowledge-base/docs/fr/imagerie/integration-pms/overview/)** | Vue d'ensemble des voies natives d'intégration + module Patient Bridge |
 | **[Intégration 3Shape](/durr-dental-knowledge-base/docs/fr/imagerie/integration-3shape/overview/)** | Partenariat officiel — Trios, Unite, format PLY |
 | **[Migration vers VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/migration-bases-donnees/overview/)** | Migration officielle DBSWin ≥ 5.9 + politique conversion bases existantes |
 | **[VistaSoft Inspect](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-inspect/overview/)** | Contrôle qualité radiographique selon DIN 6868-157 |

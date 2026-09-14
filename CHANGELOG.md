@@ -4,6 +4,46 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.0] — 2026-09-14
+
+### Corrigé — Patient Bridge n'implémente pas VDDS-media/BDW/patimport.txt
+
+Erreur factuelle de fond, présente depuis la création des fiches (2026-05-28) dans 3 fiches
+cohérentes entre elles mais non sourcées publiquement : `patient-bridge`, `vdds-bdw` et
+`integration-pms` affirmaient que le module Patient Bridge « couvre quatre voies d'intégration »
+(VDDS-media, BDW, patimport.txt, protocole propre). **Faux** — vérifié par extraction intégrale
+(PyMuPDF) du manuel officiel public *VistaSoft PatientBridge EN Manual* (réf. `2110100028L02`,
+mirroir public specialcare.cz) et par l'aide locale VistaSoft 4.0.13 installée
+(`C:\Program Files\Duerr\VistaSoft\Documents\Help\fr.html`) :
+
+- **VDDS-media, BDW et patimport.txt sont natifs VistaSoft**, configurés directement dans le menu
+  *Interfaces* du logiciel — aucun module complémentaire requis. Confirmé par le manuel officiel
+  (VDDS Media niveaux 5/6) et par l'aide locale (« Les interfaces disponibles pour le programme de
+  gestion de cabinet sont BDW et média VDDS » ; prérequis patimport.txt = seul le répertoire
+  d'import configuré dans *Interfaces*, aucune mention de Patient Bridge).
+- **Patient Bridge est un module séparé**, installé à part (`Tools\PatientBridge\*.msi`, comme
+  Image Bridge), qui **capture les champs affichés à l'écran** d'un logiciel tiers **WinForms ou
+  WPF non standardisé** (typiquement un logiciel de facturation) pour les reporter dans VistaSoft.
+  Sans rapport avec VDDS/BDW/patimport.txt ni avec DICOM.
+- Les deux sources citées pour l'ancienne affirmation ne la soutenaient pas : la page « interfaces »
+  officielle ne mentionne ni Patient Bridge ni VDDS/BDW, et le raccourci `qr.duerrdental.com/2110100028`
+  était **hors service** (redirige vers une page générique du prestataire de QR codes).
+
+Fiches réécrites : `patient-bridge` (nouvelle description du mécanisme, sources corrigées),
+`vdds-bdw` (implémentation native), `integration-pms` (tableau des voies + synthèse standards +
+contradiction FAQ résiduelle sur le marché français corrigée dans le même passage). Propagé à
+`docs/fr/imagerie/index.md`, `sources/manuals.md`, `llms.txt`, `llms-full.txt`.
+
+### Corrigé — ligne TWAIN hors périmètre dans le tableau de synthèse `integration-pms`
+
+TWAIN n'est pas une voie d'intégration PMS (c'est l'axe imagerie tiers via Image Bridge /
+VistaSoft Connect, déjà documenté ailleurs) — retiré du tableau « Standards supportés en synthèse »,
+remplacé par une note de clarification.
+
+Découvert lors d'une question utilisateur sur le tableau `integration-pms`, confirmé par
+recoupement documentation officielle + terrain (mainteneur, salarié Dürr Dental France).
+`validate.py --warn-as-error` vert (98 fichiers, 0 erreur, 0 avertissement).
+
 ## [0.17.0] — 2026-09-13
 
 ### Corrigé — exemption santé Certibiocide (arrêté du 5 septembre 2025)
