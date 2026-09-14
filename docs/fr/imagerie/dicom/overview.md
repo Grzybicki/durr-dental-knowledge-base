@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "DICOM dans VistaSoft 4.0 — Conformance Statement, Modality Worklist, Storage, Print"
-description: "Vue d'ensemble des services DICOM supportés par VistaSoft 4.0 de Dürr Dental : DICOM Conformance Statement, Modality Worklist (MWL), DICOM Storage, DICOM Print. Conforme au standard DICOM PS3."
+description: "Vue d'ensemble des services DICOM supportés par VistaSoft 4.0 de Dürr Dental : DICOM Conformance Statement, Modality Worklist (MWL), DICOM Storage, DICOM Print. Stockage interne systématique au format DICOM, quelle que soit la modalité. Conforme au standard DICOM PS3."
 keywords: ["DICOM Conformance Statement", "VistaSoft 4.0", "Dürr Dental", "DICOM Modality Worklist", "DICOM Storage", "DICOM Print", "imagerie médicale standard", "SOP Class"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/
@@ -37,7 +37,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-05-28
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -68,6 +68,13 @@ d'imagerie médicale. Le logiciel supporte plusieurs services DICOM clés :
 **Modality Worklist (MWL)** pour la réception des ordres d'examen, **DICOM
 Storage** pour la transmission des images, et **DICOM Print** dans certaines
 configurations.
+
+Au-delà de l'interopérabilité réseau, **VistaSoft stocke en interne toutes
+les images acquises au format DICOM**, quelle que soit la **modalité
+source** — rétro-alvéolaire, panoramique, céphalométrique, CBCT, photo/vidéo
+intra-orale — et non uniquement au moment d'un export vers un PACS. Voir le
+détail du mapping par type d'image dans la section
+[Modalités supportées](#modalités-supportées) ci-dessous.
 
 Le document technique de référence est le **DICOM Conformance Statement
 VistaSoft** publié par Dürr Dental, récupérable via le [Centre de
@@ -127,8 +134,11 @@ DICOM Conformance Statement officiel**.
 
 ## Modalités supportées
 
-VistaSoft 4.0 gère les modalités d'imagerie dentaire suivantes au format
-DICOM :
+**Toute image acquise par VistaSoft 4.0 est stockée en base au format DICOM**,
+quelle que soit la modalité d'origine — y compris les types d'images qui ne
+sont pas nativement des modalités DICOM standard (photo, vidéo intra-orale),
+mappées vers une SOP Class DICOM générique (*Secondary Capture*). VistaSoft
+4.0 gère les modalités d'imagerie dentaire suivantes au format DICOM :
 
 | Modalité DICOM | Périmètre |
 |---|---|
@@ -153,9 +163,10 @@ accepte un **large éventail** de SOP Classes :
 | CT / Enhanced CT Image Storage | `…1.1.2` / `…1.1.2.1` |
 | Secondary Capture Image Storage | `1.2.840.10008.5.1.4.1.1.7` |
 
-**En gestion interne et à l'envoi vers un PACS** (rôle *Storage SCU*), VistaSoft
-**mappe** ses images vers un jeu **restreint** (table « Mapping of VistaSoft image
-types to SOP Classes ») :
+**En gestion interne** (stockage en base VistaSoft, **systématique**, pour
+toute image quelle que soit la modalité source) **et à l'envoi vers un PACS**
+(rôle *Storage SCU*), VistaSoft **mappe** ses images vers un jeu **restreint**
+(table « Mapping of VistaSoft image types to SOP Classes ») :
 
 | Type d'image VistaSoft | SOP Class émise |
 |---|---|
@@ -220,6 +231,14 @@ récupération directe.
     },
     {
       "@type": "Question",
+      "name": "VistaSoft stocke-t-il toutes les images au format DICOM, quelle que soit la modalité ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. VistaSoft 4.0 stocke en interne toutes les images acquises au format DICOM, quelle que soit la modalité source (rétro-alvéolaire, panoramique, céphalométrique, CBCT, photo ou vidéo intra-orale). Les types d'images non nativement DICOM comme les photos et vidéos sont mappés vers la SOP Class Secondary Capture Image Storage. Ce stockage DICOM systématique est indépendant de tout export réseau vers un PACS."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Quels services DICOM VistaSoft 4.0 supporte-t-il ?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -253,6 +272,12 @@ récupération directe.
 Document technique normalisé décrivant les **SOP Classes**, **Transfer
 Syntaxes**, **services réseau** et **rôles SCP/SCU** d'un logiciel ou
 dispositif DICOM.
+
+### Toutes les images sont-elles stockées en DICOM ?
+
+**Oui**, quelle que soit la modalité — y compris photo/vidéo (mappées vers
+**Secondary Capture**). Ce stockage interne est **systématique**, indépendant
+de tout export vers un PACS.
 
 ### Quels services DICOM VistaSoft 4.0 supporte-t-il ?
 
@@ -298,4 +323,4 @@ Transfer Syntaxes croisées.
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et le standard DICOM. Mainteneur : salarié de Dürr Dental France
 (CDI déclaré) — initiative personnelle, non officielle. Dernière revue factuelle :
-2026-05-28. Licence : CC-BY 4.0.*
+2026-09-14. Licence : CC-BY 4.0.*

@@ -106,7 +106,7 @@ source_documents:
     type: "communication officielle"
     language: "en"
     note: "Source primaire confirmant le filtre UHD VistaSoft 4.0 — présenté IDS 2025"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -433,7 +433,9 @@ spécifiques à un type donné).
 - **Archivage** : base de données patient/clichés intégrée.
 - **Visualisation 3D** : licence d'imagerie 3D fournie avec chaque nouvel appareil
   Dürr Dental — permet le traitement de données 3D sans CBCT propre.
-- **Export DICOM** : conformité DICOM (acquisition, stockage, modality worklist).
+- **Stockage DICOM natif** : toute image acquise, quelle que soit la modalité, est stockée en
+  interne au format DICOM (pas seulement à l'export) ; conformité DICOM également pour
+  l'acquisition et la Modality Worklist — voir la [fiche DICOM dédiée](/durr-dental-knowledge-base/docs/fr/imagerie/dicom/overview/).
 - **Interfaces tierces** : VDDS, BDW, Patient Bridge, `patimport.txt` (voir
   [fiche dédiée Patient Bridge](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/)).
 - **Annotations** : liste des annotations par couche, accès direct à la couche
@@ -661,4 +663,4 @@ Non — verbatim manuel utilisateur : *« le logiciel ne convient pas aux mammog
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

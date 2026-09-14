@@ -4,6 +4,27 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.7] — 2026-09-14
+
+### Complété — DICOM VistaSoft : stockage interne systématique, quelle que soit la modalité
+
+La fiche `dicom` (et la fiche `vistasoft-4-0`) présentaient le format DICOM presque uniquement
+sous l'angle interopérabilité réseau (Modality Worklist, export vers PACS, Print). Le point que
+**VistaSoft stocke en interne toute image acquise au format DICOM, quelle que soit la modalité
+source** — y compris les types non nativement DICOM (photo, vidéo, mappés vers *Secondary
+Capture*) — était techniquement déjà présent dans une phrase (« en gestion interne… ») mais noyé,
+pas mis en avant. Élevé en tête de fiche (Description courte + intro « Modalités supportées »)
+et ajouté aux FAQ (JSON-LD + Questions fréquentes) des deux fiches.
+
+`vistasoft-4-0` : reformulé le bullet « Export DICOM » en « Stockage DICOM natif » avec renvoi
+vers la fiche dédiée, pour ne plus laisser penser qu'il s'agit d'une fonction d'export seulement.
+
+`llms-full.txt` : la section `dicom` avait dérivé au-delà de mes seules modifications (tableaux
+SOP Classes import/export et 2 questions FAQ absents de la version synchronisée) — resynchronisée
+intégralement depuis le `.md` actuel à cette occasion.
+
+`validate.py --warn-as-error` vert.
+
 ## [0.18.6] — 2026-09-14
 
 ### Corrigé/complété — VistaSoft Trace : VistaVox S Ceph manquant + bibliothèque de méthodes d'analyse
