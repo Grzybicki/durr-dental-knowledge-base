@@ -4,6 +4,19 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.19.1] — 2026-09-14
+
+### Corrigé — table « Ancienne génération » vistascan-iq-ecrans : plaque native manquante
+
+La table « Ancienne génération (série 1.0) — Compatibilité plaques IQ sans RFID » ne listait que
+la compatibilité IQ (colonne unique), donnant l'impression trompeuse que ces scanners étaient des
+appareils « IQ » alors que leur plaque **native** est la **Plus** (déjà documentée ailleurs dans
+la même fiche, section « Écrans à mémoire Plus »). Ajouté une colonne « Plaque native » (Plus,
+sur les 6 lignes) et une phrase de clarification : ces scanners fonctionnent nativement sur Plus,
+les plaques IQ n'étant qu'une compatibilité descendante sans RFID.
+
+`validate.py --warn-as-error` vert. Propagé à `llms-full.txt`.
+
 ## [0.19.0] — 2026-09-14
 
 ### Corrigé — relecture complète des 7 fiches VistaScan

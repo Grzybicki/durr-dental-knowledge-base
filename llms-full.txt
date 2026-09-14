@@ -8245,20 +8245,23 @@ Les écrans à mémoire VistaScan IQ sont également **compatibles avec les
 scanners VistaScan de la série 1.0**, **mais sans exploitation des
 fonctionnalités RFID**. Les modèles concernés :
 
-| Scanner historique | Compatibilité IQ |
-|---|---|
-| VistaScan Mini Easy (1.0) | Plaques IQ utilisables, sans RFID |
-| VistaScan Mini Plus | Plaques IQ utilisables, sans RFID |
-| VistaScan Mini View (1.0) | Plaques IQ utilisables, sans RFID |
-| VistaScan Combi (sans View) | Plaques IQ utilisables, sans RFID |
-| VistaScan Perio | Plaques IQ utilisables, sans RFID |
-| VistaScan Perio Net | Plaques IQ utilisables, sans RFID |
+| Scanner historique | Plaque native | Compatibilité IQ |
+|---|---|---|
+| VistaScan Mini Easy (1.0) | **Plus** | Plaques IQ utilisables, sans RFID |
+| VistaScan Mini Plus | **Plus** | Plaques IQ utilisables, sans RFID |
+| VistaScan Mini View (1.0) | **Plus** | Plaques IQ utilisables, sans RFID |
+| VistaScan Combi (sans View) | **Plus** | Plaques IQ utilisables, sans RFID |
+| VistaScan Perio | **Plus** | Plaques IQ utilisables, sans RFID |
+| VistaScan Perio Net | **Plus** | Plaques IQ utilisables, sans RFID |
 
-Cette compatibilité descendante permet aux cabinets équipés de scanners
-VistaScan plus anciens de bénéficier de la **qualité d'image améliorée
-des plaques IQ** sans changer de scanner, en acceptant simplement que
-l'identification RFID ne soit pas active (saisie manuelle du patient
-dans VistaSoft, comme historiquement).
+Ces scanners fonctionnent nativement sur les **écrans Plus** (voir la section
+« Écrans à mémoire Plus » ci-dessous) ; les plaques IQ y sont
+**également lisibles**, en tolérance descendante, mais
+**sans exploitation du RFID**. Cette compatibilité descendante permet aux
+cabinets équipés de scanners VistaScan plus anciens de bénéficier, s'ils le
+souhaitent, de la **qualité d'image améliorée des plaques IQ** sans changer
+de scanner, en acceptant simplement que l'identification RFID ne soit pas
+active (saisie manuelle du patient dans VistaSoft, comme historiquement).
 
 ## Écrans à mémoire « Plus » — sans RFID (parc 1.0 et Combi)
 
