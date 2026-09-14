@@ -61,10 +61,10 @@ source_documents:
     type: "portail documents"
     language: "fr"
   - title: "Brochure VistaVox S et VistaVox S Ceph (FR) — La 3D selon Dürr Dental"
-    ref: "P007100059L03/R05"
+    ref: "P007100059L05 (M6, FR)"
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
-    note: "Source des caractéristiques techniques complètes (dimensions H 1406-2206 mm, poids 180/202 kg, capteur CsI 49,5 µm, FOV Ø 130×85 mm)"
+    note: "Édition la plus récente consultée (supersède P007100059L03/R05). Source des caractéristiques techniques complètes et de la liste exhaustive des volumes 3D : Ø 130×50 mm (maxillaire/mandibulaire/sinus), Ø 130×85 mm (mâchoire complète), Ø 130×70 mm, Ø 130×105 mm et Ø 130×120 mm (cousus), Ø 50×50 mm (10 volumes locaux). Mode Qualité Standard (QS, -62 % de dose vs mode HQ)."
 last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
@@ -124,21 +124,31 @@ d'imagerie sphérique adapté à l'anatomie maxillo-mandibulaire** :
 
 | Paramètre | Valeur |
 |---|---|
-| FOV jaw-shaped (forme mâchoire) | **Ø 130 × 85 mm** |
-| Couverture clinique | **Maxillaire ET mandibule en une seule acquisition** — inclut les molaires postérieures (zone diagnostique mâchoire complète) |
-| Sous-volumes | **10 volumes Ø 50 × 50 mm** ciblés (5 maxillaire + 5 mandibule), résolution 80 ou 120 µm |
+| FOV jaw-shaped (forme mâchoire complète) | **Ø 130 × 85 mm** — maxillaire **et** mandibule en une seule acquisition |
+| Volume mono-arcade | **Ø 130 × 50 mm** — maxillaire, mandibule **ou sinus** au choix, pour réduire la dose ou cibler une seule arcade |
+| Volume intermédiaire | Ø 130 × 70 mm |
+| Sous-volumes locaux | **10 volumes Ø 50 × 50 mm** (5 maxillaire + 5 mandibule), résolution 80 ou 120 µm |
 
-Contrairement à certains CBCT qui nécessitent des acquisitions séparées pour
-le maxillaire et la mandibule, le volume jaw-shaped de VistaVox S **couvre
-les deux arcades en un seul scan** de 18 s (pas de cliché maxillaire et
-cliché mandibulaire distincts pour un examen standard). Les 10 sous-volumes
-Ø 50 × 50 mm, eux, ciblent une région précise au choix (5 positions
-maxillaires, 5 mandibulaires) — voir le tableau détaillé
-« [Volumes 3D](#caractéristiques-techniques) » plus bas.
+Le volume jaw-shaped complet **couvre les deux arcades en un seul scan** de
+18 s, ce que ne permettent pas tous les CBCT cylindriques classiques. Pour
+limiter la dose ou restreindre l'examen à une seule mâchoire, VistaVox S
+propose aussi un **volume mono-arcade dédié** (Ø 130 × 50 mm), disponible en
+trois variantes — **maxillaire**, **mandibulaire** ou **sinus** — indépendant
+des 10 sous-volumes Ø 50 × 50 mm (5 positions maxillaires, 5 mandibulaires),
+plus étroits encore et destinés à une région précise (endodontie,
+implantologie). Un **volume intermédiaire** Ø 130 × 70 mm complète la gamme.
+Voir le tableau détaillé « [Volumes 3D](#volumes-3d--vistavox-s-et-s-ceph) »
+plus bas pour la liste complète (y compris les volumes cousus, plus grands).
+
+En complément du choix de volume, le **mode Qualité Standard (QS)** réduit
+la dose de **62 % par rapport au mode Haute Qualité (HQ)** et s'applique à
+tous les programmes — utile notamment pour la planification implantaire,
+l'évaluation de la qualité osseuse ou la localisation de dents incluses.
 
 Pour les cas dépassant le FOV standard (mâchoires complètes très étendues,
 édentements complets), voir le [Stitching Tool](#stitching-tool-assemblage-de-volumes-cbct)
-qui assemble plusieurs acquisitions CBCT.
+qui assemble plusieurs acquisitions CBCT (volumes cousus Ø 130 × 105 mm et
+Ø 130 × 120 mm).
 
 Selon la page produit officielle (verbatim) : *« The imaging volume is
 based on human anatomy, representing precisely the area needed for
@@ -229,12 +239,16 @@ Le **Stitching Tool VistaVox S** est un outil d'**assemblage logiciel de
 plusieurs acquisitions CBCT** pour obtenir un FOV étendu, utile notamment
 pour :
 
-- L'imagerie de **mâchoires complètes** dépassant le FOV standard.
+- L'imagerie de **mâchoires complètes** dépassant le FOV standard de
+  Ø 130 × 85 mm.
 
-Le Stitching Tool a été présenté publiquement par les filiales nationales
-Dürr Dental (Dürr India et Dürr Italia). Les hauteurs effectives
-documentées via ces filiales : 9,2 cm / 10,4 cm / 10,6 cm / 12 cm selon
-les configurations.
+Le catalogue officiel des volumes VistaVox S liste deux **volumes cousus**
+(« *cousu* » = stitched) : **Ø 130 × 105 mm** et **Ø 130 × 120 mm** (brochure
+`P007100059L05`). Le Stitching Tool a par ailleurs été présenté publiquement
+par les filiales nationales Dürr Dental (Dürr India et Dürr Italia), qui
+documentent des hauteurs effectives voisines : 9,2 cm / 10,4 cm / 10,6 cm /
+12 cm selon les configurations — cohérentes avec les deux tailles officielles
+ci-dessus.
 
 ## Statut réglementaire
 
@@ -326,7 +340,7 @@ VistaVox S signale les anomalies par des **codes d'erreur** documentés dans la 
       "name": "Quel est le FOV de VistaVox S ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "VistaVox S propose un volume sphérique anatomique de Ø 130 × 85 mm en forme de mâchoire, qui couvre la zone diagnostique de l'arcade complète y compris les molaires postérieures. En complément, 10 sous-volumes Ø 50 × 50 mm sont disponibles pour cibler des régions spécifiques."
+        "text": "VistaVox S propose un volume sphérique anatomique de Ø 130 × 85 mm en forme de mâchoire, qui couvre le maxillaire et la mandibule en une seule acquisition, y compris les molaires postérieures. Un volume mono-arcade Ø 130 × 50 mm (maxillaire, mandibulaire ou sinus) permet de réduire la dose ou de cibler une seule mâchoire, un volume intermédiaire Ø 130 × 70 mm est également disponible, et 10 sous-volumes Ø 50 × 50 mm ciblent des régions plus restreintes (5 maxillaire + 5 mandibule)."
       }
     },
     {
@@ -369,7 +383,9 @@ VistaVox S signale les anomalies par des **codes d'erreur** documentés dans la 
 
 ### FOV de VistaVox S ?
 
-**Ø 130 × 85 mm** anatomique (jaw-shaped) + 10 sous-volumes Ø 50 × 50 mm.
+**Ø 130 × 85 mm** anatomique (jaw-shaped, deux arcades) + **Ø 130 × 50 mm**
+mono-arcade (maxillaire/mandibule/sinus) + Ø 130 × 70 mm + 10 sous-volumes
+Ø 50 × 50 mm.
 
 ### Permet aussi la panoramique 2D ?
 
@@ -387,7 +403,7 @@ Ceph = ajout d'un **module céphalométrique** intégré (orthodontie).
 
 Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 
-## Caractéristiques techniques complètes (factsheet P007100059L03)
+## Caractéristiques techniques complètes (factsheet P007100059L05)
 
 ### Générateur HV et tube à rayons X
 
@@ -410,8 +426,10 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 
 | Mode | Champ de vue (FOV) |
 |---|---|
-| **Forme anatomique mâchoire complète** | **Ø 130 × 85 mm** |
-| Mâchoire intermédiaire | Ø 130 × 70 mm |
+| **Forme anatomique mâchoire complète** | **Ø 130 × 85 mm** — maxillaire et mandibule en une acquisition |
+| **Mono-arcade** — maxillaire, mandibule ou sinus | **Ø 130 × 50 mm** (3 variantes, une seule mâchoire ou le sinus par acquisition) |
+| Volume intermédiaire | Ø 130 × 70 mm |
+| **Volumes cousus** (Stitching Tool) | Ø 130 × 105 mm et Ø 130 × 120 mm |
 | **Volume local** (10 volumes — 5 maxillaire + 5 mandibule) | **Ø 50 × 50 mm** en résolution 80 µm ou 120 µm |
 
 > 📌 Selon l'**étude académique de référence (2013, 1 020 patients)**
@@ -420,7 +438,7 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 > **adapté Ø 130 × 85 mm** couvre la zone dentaire de **100 %** des
 > patients. *« Untersuchung zum erforderlichen Field of View für
 > bildgebende 3D-Diagnostik in der Zahnmedizin »* — voir factsheet
-> `P007100059L03` pour les références bibliographiques complètes.
+> `P007100059L05` pour les références bibliographiques complètes.
 
 ### Délais de numérisation
 
@@ -580,6 +598,13 @@ Source : portfolio des mentonnières VistaVox / VistaPano — Dürr Dental (mise
 | Page clinical images | <https://www.duerrdental.com/en/products/imaging/extraoral-diagnostics/vistavox-s/vistavox-s-clinical-images/> |
 | Page VistaSoft 3D / CBCT | <https://www.duerrdental.com/en/products/software/imaging/3d-x-ray/> |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
+
+### Factsheet officielle
+
+- Brochure VistaVox S et VistaVox S Ceph (FR), réf. `P007100059L05` (édition M6) — via le
+  [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/).
+  Source de la liste complète des volumes 3D (Ø 130×50/70/85/105/120 mm, Ø 50×50 mm) et du
+  mode Qualité Standard (QS, -62 % de dose).
 
 ### Presse spécialisée FR
 

@@ -4,6 +4,24 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.2] — 2026-09-14
+
+### Complété — VistaVox S, volume mono-arcade (maxillaire/mandibule/sinus)
+
+Suite du 0.18.1 : la section ne mentionnait pas que VistaVox S propose aussi un **volume
+mono-arcade dédié Ø 130 × 50 mm** (maxillaire, mandibulaire **ou sinus**, au choix), utilisé pour
+réduire la dose ou restreindre l'acquisition à une seule mâchoire — distinct des 10 sous-volumes
+Ø 50 × 50 mm (plus étroits, ciblés). Ajouté aussi le **mode Qualité Standard (QS, -62 % de dose
+vs mode HQ)** et précisé les deux tailles officielles des **volumes cousus** (Stitching Tool) :
+Ø 130 × 105 mm et Ø 130 × 120 mm (recoupent les hauteurs 9,2/10,4/10,6/12 cm déjà documentées via
+les filiales Dürr India/Italia).
+
+Source : dernière édition de la brochure commerciale officielle VistaVox S/Ceph fournie par le
+mainteneur (réf. `P007100059L05`, M6, FR — supersède `P007100059L03/R05` précédemment citée),
+extraite intégralement via PyMuPDF. Corrige au passage une hypothèse provisoire (programmes
+« CBCT Maxillaire »/« CBCT Mandibule » à 200 µm, tirée de l'aide locale VistaSoft sans dimension
+confirmée) par la valeur officielle exacte Ø 130 × 50 mm. Propagé à `llms-full.txt`.
+
 ## [0.18.1] — 2026-09-14
 
 ### Complété — VistaVox S, volume jaw-shaped maxillo-mandibulaire
