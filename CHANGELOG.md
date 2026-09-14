@@ -4,6 +4,18 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.20.2] — 2026-09-14
+
+### Ajouté — jalon 1966 (naissance du secteur imagerie) dans la chronologie entreprise
+
+Tâche restée ouverte dans `tasks/todo.md` depuis le 2026-08-05 : la chronologie de
+`durr-dental-entreprise` sautait de 1965 à 1974 sans mentionner la naissance du secteur imagerie.
+Ajouté **1966 — Procomat**, première développeuse de films de radiographie entièrement automatique
+(réalisée pour Siemens), verbatim confirmé sur la page « Étapes de notre histoire » (déjà citée en
+source). Section renommée « Fondation et premiers développements (1941-1966) ».
+
+`validate.py --warn-as-error` vert. `llms.txt`/`llms-full.txt` régénérés.
+
 ## [0.20.1] — 2026-09-14
 
 ### Corrigé — vérification complète des liens externes (~17 liens duerrdental.com morts)

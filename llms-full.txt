@@ -5568,7 +5568,7 @@ dans **174 pays** et a réalisé en 2025 un chiffre d'affaires
 
 Source officielle : <https://www.duerrdental.com/en/company/duerr-dental-se/milestones/>.
 
-### Fondation et premiers développements (1941-1965)
+### Fondation et premiers développements (1941-1966)
 
 | Année | Étape |
 |---|---|
@@ -5577,6 +5577,7 @@ Source officielle : <https://www.duerrdental.com/en/company/duerr-dental-se/mile
 | **1954** | **Transfert du siège** à Bietigheim — construction du premier hall de production. |
 | **1956** | Démarrage de la **production de compresseurs dentaires** (à l'époque encore lubrifiés à l'huile). |
 | **1965** | **Année charnière** : introduction du **premier compresseur sans huile au monde** pour la médecine dentaire (séchage à membrane Dürr Dental). Lancement simultané d'**Orotol**, premier désinfectant au monde pour systèmes d'aspiration ([fiche Orotol Plus](../hygiene-chimie/desinfection-aspiration/overview/)). |
+| **1966** | **Naissance du secteur imagerie** : une commande de développement fonde cette nouvelle activité avec le **Procomat**, la première développeuse de films de radiographie entièrement automatique, réalisée pour Siemens (du développement à la production). |
 
 ### Évolution des systèmes air comprimé et aspiration (1974-2002)
 
