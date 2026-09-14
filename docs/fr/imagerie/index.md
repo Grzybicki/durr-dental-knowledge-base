@@ -4,7 +4,7 @@ title: "Imagerie dentaire Dürr Dental — Index"
 description: "Catalogue de l'imagerie dentaire Dürr Dental : logiciel VistaSoft 4.0, panoramiques, CBCT, capteurs intraoraux, scanners de plaques au phosphore, caméras intraorales."
 lang: fr
 permalink: /docs/fr/imagerie/
-last_factual_review: 2026-05-29
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -119,7 +119,7 @@ VistaScan IQ et les capteurs VistaRay.
 
 ## Sources publiques de référence
 
-- [Page produits imagerie Dürr Dental France](https://www.duerrdental.com/fr/produits/imagerie-dentaire/)
+- [Page produits imagerie Dürr Dental France](https://www.duerrdental.com/fr/FR/produits/imagerie/)
 - Manuels publics : [qr.duerrdental.com](http://qr.duerrdental.com/)
 - Base européenne des dispositifs médicaux : [Eudamed](https://ec.europa.eu/tools/eudamed/)
 - Index sources complet : [`/sources/`](/durr-dental-knowledge-base/sources/)

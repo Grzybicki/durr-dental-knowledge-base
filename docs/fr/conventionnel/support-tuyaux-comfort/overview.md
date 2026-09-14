@@ -32,10 +32,10 @@ source_documents:
     type: "page produit"
     language: "fr"
   - title: "Page canule universelle III (FR)"
-    url: "https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/"
+    url: "https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/"
     type: "page produit"
     language: "fr"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -322,7 +322,7 @@ Dürr Dental France 2026, tarifs non repris). Canules d'aspiration : voir la
 | Document | Référence |
 |---|---|
 | Brochure Support de tuyaux Comfort (FR) | `P007-173-03/DD-dd.de` |
-| Page canule universelle III (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| Page canule universelle III (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 | Page filtre jetable (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/filtre-jetable/> |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
 
@@ -339,4 +339,4 @@ Dürr Dental France 2026, tarifs non repris). Canules d'aspiration : voir la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

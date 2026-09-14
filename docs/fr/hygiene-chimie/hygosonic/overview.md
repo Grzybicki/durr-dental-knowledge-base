@@ -17,10 +17,11 @@ breadcrumbs:
   - name: "Hygosonic"
     url: /docs/fr/hygiene-chimie/hygosonic/overview/
 source_documents:
-  - title: "Page Hygosonic (FR)"
-    url: "https://www.duerrdental.com/fr/produits/hygiene/appareils-dhygiene/manuelle-aufbereitung/hygosonic/"
+  - title: "Page Hygosonic (DE)"
+    url: "https://www.duerrdental.com/de/DE/produkte/hygiene/hygienetechnik/manuelle-aufbereitung/"
     type: "page produit"
-    language: "fr"
+    language: "de"
+    note: "L'ancienne page produit FR dédiée a disparu (404, vérifié 2026-09-14), aucun équivalent FR retrouvé ; page DE de substitution (catégorie retraitement manuel)."
   - title: "Page Hygosonic (DE)"
     url: "https://www.duerrdental.com/de/DE/produkte/hygiene/hygienetechnik/manuelle-aufbereitung/"
     type: "page produit"
@@ -39,7 +40,7 @@ source_documents:
     type: "site fabricant"
     language: "en"
     note: "Depuis mars 2021 (MDR 2017/745), Sonoswiss AG (Ramsen, Suisse) est le fabricant légal ; Dürr Dental SE est distributeur. La référence et la marque restent identiques."
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -232,7 +233,6 @@ Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 53
 
 | Document | URL publique |
 |---|---|
-| Page Hygosonic (FR) | <https://www.duerrdental.com/fr/produits/hygiene/appareils-dhygiene/manuelle-aufbereitung/hygosonic/> |
 | Page Hygosonic (DE) | <https://www.duerrdental.com/de/DE/produkte/hygiene/hygienetechnik/manuelle-aufbereitung/> |
 | Page Instrument reprocessing | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/> |
 
@@ -247,4 +247,4 @@ Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 53
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

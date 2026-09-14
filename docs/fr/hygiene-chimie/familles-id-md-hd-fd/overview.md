@@ -34,7 +34,7 @@ source_documents:
     type: "page hub"
     language: "en"
   - title: "Page Instruments hygiène (EN)"
-    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/instruments/"
+    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/"
     type: "page hub"
     language: "en"
   - title: "Arrêté du 5 septembre 2025 (exemption santé Certibiocide) — Légifrance"
@@ -45,7 +45,7 @@ source_documents:
     url: "https://www.ordre-chirurgiens-dentistes.fr/actualites/fini-le-certibiocide/"
     type: "source réglementaire officielle (ordre professionnel)"
     language: "fr"
-last_factual_review: 2026-09-13
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -415,7 +415,7 @@ Dürr Dental France 2026, tarifs non repris). Le détail complet des codes de la
 | Préparations spéciales (Orotol, MD) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/> |
 | MD 555 cleaner | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner/> |
 | MD 555 cleaner organic | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner-organic/> |
-| Instruments | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/instruments/> |
+| Instruments | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/> |
 | Arrêté du 5 septembre 2025 (exemption santé Certibiocide) — Légifrance | <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052213013> |
 | « Fini le certibiocide ! » — Ordre National des Chirurgiens-Dentistes | <https://www.ordre-chirurgiens-dentistes.fr/actualites/fini-le-certibiocide/> |
 
@@ -434,4 +434,4 @@ Dürr Dental France 2026, tarifs non repris). Le détail complet des codes de la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

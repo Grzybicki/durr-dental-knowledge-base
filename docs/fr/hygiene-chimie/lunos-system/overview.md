@@ -21,10 +21,6 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/dental-care/"
     type: "page hub"
     language: "en"
-  - title: "World of Lunos — système complet (EN)"
-    url: "https://www.duerrdental.com/en/solutions/practice/world-of-lunos/"
-    type: "page produit"
-    language: "en"
   - title: "MyLunos pièce à main aéropolisseur (EN)"
     url: "https://www.duerrdental.com/en/products/dental-care/devices/powder-jet-handpiece-mylunos/"
     type: "page produit"
@@ -37,8 +33,9 @@ source_documents:
     url: "https://www.duerrdental.com/fr/BE/produits/odontologie-conservatrice/appareils/mylunos-duor/"
     type: "page produit"
     language: "fr"
-  - title: "Poudre prophylactique Lunos Gentle Clean (FR)"
-    url: "https://www.duerrdental.com/fr/produits/odontologie-conservatrice/consommables/poudre-prophylactique/poudre-prophylactique-lunosr-gentle-clean/"
+  - title: "Poudres prophylactiques Lunos (EN)"
+    url: "https://www.duerrdental.com/en/products/dental-care/consumables/lunosr-prophy-powder/"
+    note: "L'ancienne page produit FR dédiée à la variante Gentle Clean a disparu (404, vérifié 2026-09-14) ; page catégorie EN de substitution, couvre toutes les variantes de poudre Lunos."
     type: "page produit"
     language: "fr"
   - title: "Lunos Prophy Pastes (EN)"
@@ -49,7 +46,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/news/detail/well-supplied-all-round-the-lunos-prophylaxis-system-from-duerr-dental-is-compatible-with-any-treatment-philosophy/"
     type: "communiqué officiel"
     language: "en"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -307,11 +304,10 @@ correspondant chacune à un type de raccord rapide de turbine (mêmes contenu et
 | Document | URL publique |
 |---|---|
 | Hub Odontologie conservatrice et prophylaxie | <https://www.duerrdental.com/en/products/dental-care/> |
-| World of Lunos | <https://www.duerrdental.com/en/solutions/practice/world-of-lunos/> |
 | MyLunos pièce à main | <https://www.duerrdental.com/en/products/dental-care/devices/powder-jet-handpiece-mylunos/> |
 | MyLunos Duo | <https://www.duerrdental.com/en/products/dental-care/devices/mylunos-duo/> |
 | MyLunos Duo (FR/BE) | <https://www.duerrdental.com/fr/BE/produits/odontologie-conservatrice/appareils/mylunos-duor/> |
-| Poudre Lunos Gentle Clean (FR) | <https://www.duerrdental.com/fr/produits/odontologie-conservatrice/consommables/poudre-prophylactique/poudre-prophylactique-lunosr-gentle-clean/> |
+| Poudres prophylactiques Lunos (EN) | <https://www.duerrdental.com/en/products/dental-care/consumables/lunosr-prophy-powder/> |
 | Lunos Prophy Pastes | <https://www.duerrdental.com/en/MY/products/dental-care/consumables/lunosr-prophy-pastes/> |
 
 ## Pour aller plus loin
@@ -323,4 +319,4 @@ correspondant chacune à un type de raccord rapide de turbine (mêmes contenu et
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

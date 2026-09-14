@@ -17,14 +17,11 @@ breadcrumbs:
   - name: "Canules universelles"
     url: /docs/fr/conventionnel/canules-universelles/overview/
 source_documents:
-  - title: "Page Canule Universelle Protect (FR)"
-    url: "https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-protect/"
+  - title: "Page Canule Universelle — Protect et III (FR, page fusionnée)"
+    url: "https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/"
     type: "page produit"
     language: "fr"
-  - title: "Page Canule Universelle III (FR)"
-    url: "https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/"
-    type: "page produit"
-    language: "fr"
+    note: "Les anciennes pages produit distinctes Protect et III (404, vérifié 2026-09-14) ont été fusionnées en une seule page présentant les deux variantes."
   - title: "Page Universal Cannula (EN)"
     url: "https://www.duerrdental.com/en/products/suction/materials-and-accessories/cannulas/universal-cannula/"
     type: "page produit"
@@ -33,7 +30,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/AU/news/detail/an-effective-solution-for-reducing-germ-laden-aerosols-the-powerful-range-of-cannulas-from-duerr-dental-protects-the-entire-practice-team-1/"
     type: "communiqué officiel"
     language: "en"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -92,7 +89,7 @@ L'**entrée d'air secondaire** introduit un flux d'air contrôlé qui :
 | Entrée d'air secondaire | **Oui (anti-reflux)** |
 | Niveau sonore | Très silencieuse |
 | Usage typique | Polyvalent — restauration, prothèse, prophylaxie |
-| URL officielle | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-protect/> |
+| URL officielle | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 
 ### Canule Universelle Petito
 
@@ -109,7 +106,7 @@ L'**entrée d'air secondaire** introduit un flux d'air contrôlé qui :
 |---|---|
 | Type | Canule polyvalente standard |
 | Usage typique | Aspiration de fluides au fauteuil |
-| URL officielle | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| URL officielle | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 
 ## Gamme complète — quatre types adaptés par indication
 
@@ -342,8 +339,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 | Document | URL publique |
 |---|---|
-| Canule Universelle Protect (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-protect/> |
-| Canule Universelle III (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| Canule Universelle — Protect et III (FR, page fusionnée) | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 | Universal Cannula (EN) | <https://www.duerrdental.com/en/products/suction/materials-and-accessories/cannulas/universal-cannula/> |
 | News — Réduction aérosols (EN) | <https://www.duerrdental.com/en/AU/news/detail/an-effective-solution-for-reducing-germ-laden-aerosols-the-powerful-range-of-cannulas-from-duerr-dental-protects-the-entire-practice-team-1/> |
 
@@ -359,4 +355,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

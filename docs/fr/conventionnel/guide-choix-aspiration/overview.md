@@ -61,7 +61,7 @@ source_documents:
     type: "catalogue produit Dürr Dental France"
     language: "fr"
     note: "Confirmation des désignations et capacités par modèle clinique (Tyscor V 20–V 60 ; V 6000–V 18000 ; cuves CS 20 / CS 60). Disponible via le service commercial Dürr Dental France ; prix exclus de la présente fiche."
-last_factual_review: 2026-07-22
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -467,7 +467,6 @@ indépendants apportent aussi une **tolérance aux pannes** par commutation auto
 |---|---|
 | Hub Aspiration Dürr Dental | <https://www.duerrdental.com/en/products/suction/> |
 | Systèmes d'aspiration Tyscor | <https://www.duerrdental.com/en/products/suction/devices/tyscor-systems/> |
-| Tyscor Pulse (supervision) | <https://www.duerrdental.com/en/products/suction/tyscor-pulse/> |
 | Systèmes pour cliniques (V 6000–V 18000) | <https://www.duerrdental.com/en/products/suction/clinic-suction-systems/> |
 | Informations sur la planification — Aspiration | réf. `9000-617-03/03` (centre de téléchargements Dürr Dental) |
 | Filtre bactéries/virus — vue d'ensemble | réf. `P007100174L03` (centre de téléchargements Dürr Dental) |
@@ -493,5 +492,5 @@ indépendants apportent aussi une **tolérance aux pannes** par commutation auto
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles Dürr Dental
 et sur les fiches produit du présent dépôt. Mainteneur : salarié de Dürr Dental France (CDI
-déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-07-22.
+déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-09-14.
 Licence : CC-BY 4.0.*

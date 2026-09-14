@@ -29,16 +29,12 @@ source_documents:
     url: "https://www.duerrdental.com/en/GL/products/hygiene/hygiene-technology/water-treatment-for-small-steam-sterilisers/"
     type: "page produit"
     language: "en"
-  - title: "News Hygoclave 90 — chaîne hygiène système (DE)"
-    url: "https://www.duerrdental.com/de/DE/news/detail/keine-chance-fuer-bakterien-und-keime-mit-dem-hygoclave-90-komplettiert-duerr-dental-seine-system-hygienekette-und-bringt-spitzentechnologie-in-die-zahnarztpraxis/"
-    type: "communiqué officiel"
-    language: "de"
   - title: "Brochure Hygoclave 50 (FR) — L'hygiène réside dans son ADN"
     ref: "P007100196L03/N11"
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques complètes (chambre 17L/22L, 484×493×642 mm, 57/61 kg, charges et programmes)"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -341,7 +337,6 @@ Dürr Dental France 2026, tarifs non repris).
 | Page Hygoclave 40 | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/hygoclave-40/> |
 | Page Hygoclave 50 | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/hygoclave-50/> |
 | Page Hygopure 90 + Hygodem 90 | <https://www.duerrdental.com/en/GL/products/hygiene/hygiene-technology/water-treatment-for-small-steam-sterilisers/> |
-| News Hygoclave 90 (DE) | <https://www.duerrdental.com/de/DE/news/detail/keine-chance-fuer-bakterien-und-keime-mit-dem-hygoclave-90-komplettiert-duerr-dental-seine-system-hygienekette-und-bringt-spitzentechnologie-in-die-zahnarztpraxis/> |
 | Norme EN 13060 (référence externe) | <https://www.iso.org/standard/68748.html> |
 
 ## Pour aller plus loin
@@ -355,4 +350,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

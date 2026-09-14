@@ -26,7 +26,7 @@ source_documents:
     type: "page produit"
     language: "en"
   - title: "Page Hygosuc — intégration système aspiration (FR)"
-    url: "https://www.duerrdental.com/fr/produits/aspiration/integration-du-systeme/systeme-daspiration-humide/hygosuc/"
+    url: "https://www.duerrdental.com/fr/FR/produits/aspiration/integration-du-systeme/hygosuc/"
     type: "page produit"
     language: "fr"
   - title: "Page Agents pathogènes de A à Z (FR)"
@@ -45,7 +45,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-07-22
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -132,7 +132,6 @@ dosage) :
 
 Sources publiques :
 - [Documentation officielle Orotol + MD 555 (PDF — Astrodental France)](https://astrodental.fr/wp-content/uploads/2018/09/durr-dental_orotol-et-md555.pdf)
-- [Directions Orotol Plus (PDF — Trycare UK)](https://www.trycare.co.uk/files/ww/merlin/durr_orotolplus_directions.pdf)
 
 ## Protocole d'utilisation MD 555 (combiné à Orotol Plus)
 
@@ -366,7 +365,7 @@ démarrage ; son code article individuel relève de la
 | Page Orotol Plus pH 7 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-plus-ph-7/> |
 | Page MD 555 cleaner organic | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner-organic/> |
 | Hub désinfection aspiration (Orotol expert cleaner, MD 555, Orotol) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/> |
-| Page Hygosuc (FR) | <https://www.duerrdental.com/fr/produits/aspiration/integration-du-systeme/systeme-daspiration-humide/hygosuc/> |
+| Page Hygosuc (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/integration-du-systeme/hygosuc/> |
 | Article Dynamique Dentaire — Système d'hygiène 4 couleurs | <https://www.dynamiquedentaire.com/systeme-dhygiene-a-4-couleurs-de-durr-dental-la-securite-et-lefficacite-au-service-de-votre-cabinet/> |
 
 ## Pour aller plus loin
@@ -380,4 +379,4 @@ démarrage ; son code article individuel relève de la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

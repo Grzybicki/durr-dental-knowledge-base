@@ -119,7 +119,6 @@ préférer le Centre de téléchargements Dürr Dental France.
 | **ID 212 forte plus** | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-forte-instrument-disinfection/> |
 | ID 213 instrument disinfection | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-213-instrument-disinfection/> |
 | ID 215 enzymatic cleaner | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-215-enzymatic-instrument-cleaner/> |
-| Hygojet | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/special-areas/hygojet/> |
 
 ---
 

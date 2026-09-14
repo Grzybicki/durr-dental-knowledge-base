@@ -29,11 +29,11 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/system-integration/separation-systems/"
     type: "page produit"
     language: "en"
-  - title: "Page systèmes V secs (FR)"
-    url: "https://www.duerrdental.com/fr/produits/aspiration/systemes-v-secs/"
+  - title: "Page systèmes d'aspiration — catégorie (FR)"
+    url: "https://www.duerrdental.com/fr/FR/produits/aspiration/appareils/systemes-daspiration/"
     type: "page produit"
     language: "fr"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -189,7 +189,7 @@ Dürr Dental France 2026, tarifs non repris).
 | Page DürrConnect | <https://www.duerrdental.com/en/products/suction/system-integration/duerrconnect/> |
 | Composants d'intégration système | <https://www.duerrdental.com/en/products/suction/system-integration/components/> |
 | Systèmes de séparation | <https://www.duerrdental.com/en/products/suction/system-integration/separation-systems/> |
-| Systèmes V secs (FR) | <https://www.duerrdental.com/fr/produits/aspiration/systemes-v-secs/> |
+| Systèmes d'aspiration — catégorie (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/appareils/systemes-daspiration/> |
 
 ## Pour aller plus loin
 
@@ -202,4 +202,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

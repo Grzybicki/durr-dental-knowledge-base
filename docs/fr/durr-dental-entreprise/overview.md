@@ -27,10 +27,11 @@ source_documents:
     url: "https://www.duerrdental.com/en/company/duerr-dental-se/awards/"
     type: "page corporate"
     language: "en"
-  - title: "Page 80 ans Dürr Dental"
-    url: "https://80.duerrdental.com/en/"
-    type: "site anniversaire officiel"
+  - title: "Milestones of our history — Dürr Dental SE"
+    url: "https://www.duerrdental.com/en/company/duerr-dental-se/milestones/"
+    type: "page produit"
     language: "en"
+    note: "Le microsite anniversaire « 80 ans » (80.duerrdental.com) a été retiré définitivement (404, vérifié 2026-09-14) ; cette page « Milestones » confirme la fondation le 1er novembre 1941 par Wilhelm et Karl Dürr."
   - title: "Page DÜRR DENTAL France (FR/BE)"
     url: "https://www.duerrdental.com/fr/BE/entreprise/duerr-dental-france/"
     type: "page filiale"
@@ -55,7 +56,7 @@ source_documents:
     url: "https://annuaire-entreprises.data.gouv.fr/entreprise/durr-dental-france-311995609"
     type: "registre INSEE / SIRENE"
     language: "fr"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -162,7 +163,7 @@ Source officielle : <https://www.duerrdental.com/en/company/duerr-dental-se/mile
 | **2013** | Lancement du **panoramique VistaPano S** et du **générateur intraoral VistaIntra DC** ([fiche VistaIntra DC](/durr-dental-knowledge-base/docs/fr/imagerie/vistaintra-dc/overview/)). |
 | **2016** | Introduction du **système Lunos®** ([fiche Lunos](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/lunos-system/overview/)), du **CBCT VistaVox S** ([fiche VistaVox S](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/)) et du **stérilisateur Hygoclave 90** ([fiche Hygoclave](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/)). |
 | **2019** | Ouverture d'un **nouveau site à Paris** (bureaux modernes et showroom) pour Dürr Dental France. |
-| **2021** | **80 ans** de l'entreprise. Site anniversaire dédié : <https://80.duerrdental.com/en/>. |
+| **2021** | **80 ans** de l'entreprise (site anniversaire dédié depuis retiré ; voir la page [Milestones](https://www.duerrdental.com/en/company/duerr-dental-se/milestones/)). |
 
 ### Génération récente (2022-2026)
 
@@ -340,4 +341,4 @@ Autour de cinq lignes métier complémentaires formant un système complet pour 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et le registre administratif français (data.gouv.fr). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

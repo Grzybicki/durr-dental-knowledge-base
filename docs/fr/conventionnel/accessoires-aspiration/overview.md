@@ -18,7 +18,7 @@ breadcrumbs:
     url: /docs/fr/conventionnel/accessoires-aspiration/overview/
 source_documents:
   - title: "Page Canule universelle III (FR)"
-    url: "https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/"
+    url: "https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/"
     type: "page produit"
     language: "fr"
   - title: "Page composants d'intégration système (EN)"
@@ -29,7 +29,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -194,7 +194,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 | Document | URL publique |
 |---|---|
-| Canule universelle III (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| Canule universelle III (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 | Composants d'intégration système | <https://www.duerrdental.com/en/products/suction/system-integration/components/> |
 | Page hub aspiration | <https://www.duerrdental.com/en/products/suction/> |
 
@@ -210,4 +210,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

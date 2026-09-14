@@ -17,15 +17,11 @@ breadcrumbs:
   - name: "Désinfection empreintes"
     url: /docs/fr/hygiene-chimie/desinfection-empreintes/overview/
 source_documents:
-  - title: "Page Hygojet (EN)"
-    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/special-areas/hygojet/"
-    type: "page produit"
-    language: "en"
   - title: "Page Hub Hygiène Dürr Dental (EN)"
     url: "https://www.duerrdental.com/en/products/hygiene/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -344,7 +340,6 @@ sous `CCS550C4550` (6 bidons de 750 ml).
 |---|---|
 | Page ID 212 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-instrument-disinfection/> |
 | Page ID 213 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-213-instrument-disinfection/> |
-| Page Hygojet | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/special-areas/hygojet/> |
 | Page Hub Hygiène | <https://www.duerrdental.com/en/products/hygiene/> |
 
 ## Pour aller plus loin
@@ -358,4 +353,4 @@ sous `CCS550C4550` (6 bidons de 750 ml).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

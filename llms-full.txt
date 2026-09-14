@@ -105,7 +105,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 | Document | URL publique |
 |---|---|
-| Canule universelle III (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| Canule universelle III (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 | Composants d'intégration système | <https://www.duerrdental.com/en/products/suction/system-integration/components/> |
 | Page hub aspiration | <https://www.duerrdental.com/en/products/suction/> |
 
@@ -121,7 +121,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Air comprimé clinique (clinic) Dürr Dental — qualité supérieure et point de rosée abaissé
@@ -945,7 +945,7 @@ L'**entrée d'air secondaire** introduit un flux d'air contrôlé qui :
 | Entrée d'air secondaire | **Oui (anti-reflux)** |
 | Niveau sonore | Très silencieuse |
 | Usage typique | Polyvalent — restauration, prothèse, prophylaxie |
-| URL officielle | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-protect/> |
+| URL officielle | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 
 ### Canule Universelle Petito
 
@@ -962,7 +962,7 @@ L'**entrée d'air secondaire** introduit un flux d'air contrôlé qui :
 |---|---|
 | Type | Canule polyvalente standard |
 | Usage typique | Aspiration de fluides au fauteuil |
-| URL officielle | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| URL officielle | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 
 ## Gamme complète — quatre types adaptés par indication
 
@@ -1146,8 +1146,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 | Document | URL publique |
 |---|---|
-| Canule Universelle Protect (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-protect/> |
-| Canule Universelle III (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| Canule Universelle — Protect et III (FR, page fusionnée) | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 | Universal Cannula (EN) | <https://www.duerrdental.com/en/products/suction/materials-and-accessories/cannulas/universal-cannula/> |
 | News — Réduction aérosols (EN) | <https://www.duerrdental.com/en/AU/news/detail/an-effective-solution-for-reducing-germ-laden-aerosols-the-powerful-range-of-cannulas-from-duerr-dental-protects-the-entire-practice-team-1/> |
 
@@ -1163,7 +1162,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Dessiccateur à membrane (colonne à fibres) — technologie et avantages vs colonne à silicate
@@ -1382,7 +1381,7 @@ Dürr Dental France 2026, tarifs non repris).
 | Page DürrConnect | <https://www.duerrdental.com/en/products/suction/system-integration/duerrconnect/> |
 | Composants d'intégration système | <https://www.duerrdental.com/en/products/suction/system-integration/components/> |
 | Systèmes de séparation | <https://www.duerrdental.com/en/products/suction/system-integration/separation-systems/> |
-| Systèmes V secs (FR) | <https://www.duerrdental.com/fr/produits/aspiration/systemes-v-secs/> |
+| Systèmes d'aspiration — catégorie (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/appareils/systemes-daspiration/> |
 
 ## Pour aller plus loin
 
@@ -1395,7 +1394,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Filtres HEPA H14 et ULPA U16 des compresseurs Dürr Dental — Spécifications et normes
@@ -2203,7 +2202,6 @@ indépendants apportent aussi une **tolérance aux pannes** par commutation auto
 |---|---|
 | Hub Aspiration Dürr Dental | <https://www.duerrdental.com/en/products/suction/> |
 | Systèmes d'aspiration Tyscor | <https://www.duerrdental.com/en/products/suction/devices/tyscor-systems/> |
-| Tyscor Pulse (supervision) | <https://www.duerrdental.com/en/products/suction/tyscor-pulse/> |
 | Systèmes pour cliniques (V 6000–V 18000) | <https://www.duerrdental.com/en/products/suction/clinic-suction-systems/> |
 | Informations sur la planification — Aspiration | réf. `9000-617-03/03` (centre de téléchargements Dürr Dental) |
 | Filtre bactéries/virus — vue d'ensemble | réf. `P007100174L03` (centre de téléchargements Dürr Dental) |
@@ -2229,7 +2227,7 @@ indépendants apportent aussi une **tolérance aux pannes** par commutation auto
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles Dürr Dental
 et sur les fiches produit du présent dépôt. Mainteneur : salarié de Dürr Dental France (CDI
-déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-07-22.
+déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-09-14.
 Licence : CC-BY 4.0.*
 
 ================================================================================
@@ -3780,7 +3778,7 @@ Dürr Dental France 2026, tarifs non repris). Canules d'aspiration : voir la
 | Document | Référence |
 |---|---|
 | Brochure Support de tuyaux Comfort (FR) | `P007-173-03/DD-dd.de` |
-| Page canule universelle III (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/canule-universelle-iii/> |
+| Page canule universelle III (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/materiel-accessoires/canules-daspiration/canule-universelle/> |
 | Page filtre jetable (FR) | <https://www.duerrdental.com/fr/produits/aspiration/materiel-accessoires/filtre-jetable/> |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
 
@@ -3797,7 +3795,7 @@ Dürr Dental France 2026, tarifs non repris). Canules d'aspiration : voir la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Systèmes Dürr Dental pour cliniques et CHU
@@ -5146,7 +5144,7 @@ le **Kit Finder** officiel Dürr.
 |---|---|
 | Page systèmes Tyscor | <https://www.duerrdental.com/en/products/suction/devices/tyscor-systems/> |
 | Page hub aspiration | <https://www.duerrdental.com/en/products/suction/> |
-| Page console sol/mur (FR) | <https://www.duerrdental.com/fr/produits/aspiration/systemes-vs-humides/console-pour-le-sol-ou-le-mur/> |
+| Page systèmes d'aspiration — catégorie (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/appareils/systemes-daspiration/> |
 | Page systèmes cliniques | <https://www.duerrdental.com/en/products/suction/devices/clinic-systems/> |
 | Planning Information Tyscor V 20 – V 60 (clinique) | réf. `1802100026L02` (centre de téléchargements Dürr Dental) |
 | Déclaration de Conformité — Clinic Suction Systems | DoC Dürr Dental SE 2025-07-22 (Basic UDI-DI `++E2471042Y4`) |
@@ -5166,7 +5164,7 @@ le **Kit Finder** officiel Dürr.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-23. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Variosuc — Aspiration mobile de brouillard de spray Dürr Dental (300 l/min)
@@ -5597,7 +5595,7 @@ Source officielle : <https://www.duerrdental.com/en/company/duerr-dental-se/mile
 | **2013** | Lancement du **panoramique VistaPano S** et du **générateur intraoral VistaIntra DC** ([fiche VistaIntra DC](../imagerie/vistaintra-dc/overview/)). |
 | **2016** | Introduction du **système Lunos®** ([fiche Lunos](../hygiene-chimie/lunos-system/overview/)), du **CBCT VistaVox S** ([fiche VistaVox S](../imagerie/vistavox-s/overview/)) et du **stérilisateur Hygoclave 90** ([fiche Hygoclave](../hygiene-chimie/hygoclave-hygopure/overview/)). |
 | **2019** | Ouverture d'un **nouveau site à Paris** (bureaux modernes et showroom) pour Dürr Dental France. |
-| **2021** | **80 ans** de l'entreprise. Site anniversaire dédié : <https://80.duerrdental.com/en/>. |
+| **2021** | **80 ans** de l'entreprise (site anniversaire dédié depuis retiré ; voir la page [Milestones](https://www.duerrdental.com/en/company/duerr-dental-se/milestones/)). |
 
 ### Génération récente (2022-2026)
 
@@ -5734,7 +5732,7 @@ Autour de cinq lignes métier complémentaires formant un système complet pour 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental et le registre administratif français (data.gouv.fr). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Désinfection des systèmes d'aspiration — Orotol Plus et gamme Dürr Dental
@@ -5806,7 +5804,6 @@ dosage) :
 
 Sources publiques :
 - [Documentation officielle Orotol + MD 555 (PDF — Astrodental France)](https://astrodental.fr/wp-content/uploads/2018/09/durr-dental_orotol-et-md555.pdf)
-- [Directions Orotol Plus (PDF — Trycare UK)](https://www.trycare.co.uk/files/ww/merlin/durr_orotolplus_directions.pdf)
 
 ## Protocole d'utilisation MD 555 (combiné à Orotol Plus)
 
@@ -5983,7 +5980,7 @@ démarrage ; son code article individuel relève de la
 | Page Orotol Plus pH 7 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-plus-ph-7/> |
 | Page MD 555 cleaner organic | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner-organic/> |
 | Hub désinfection aspiration (Orotol expert cleaner, MD 555, Orotol) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/> |
-| Page Hygosuc (FR) | <https://www.duerrdental.com/fr/produits/aspiration/integration-du-systeme/systeme-daspiration-humide/hygosuc/> |
+| Page Hygosuc (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/integration-du-systeme/hygosuc/> |
 | Article Dynamique Dentaire — Système d'hygiène 4 couleurs | <https://www.dynamiquedentaire.com/systeme-dhygiene-a-4-couleurs-de-durr-dental-la-securite-et-lefficacite-au-service-de-votre-cabinet/> |
 
 ## Pour aller plus loin
@@ -5997,7 +5994,7 @@ démarrage ; son code article individuel relève de la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Désinfection des empreintes — Hygojet et ID 213 Dürr Dental
@@ -6252,7 +6249,6 @@ sous `CCS550C4550` (6 bidons de 750 ml).
 |---|---|
 | Page ID 212 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-212-instrument-disinfection/> |
 | Page ID 213 | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/id-213-instrument-disinfection/> |
-| Page Hygojet | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/special-areas/hygojet/> |
 | Page Hub Hygiène | <https://www.duerrdental.com/en/products/hygiene/> |
 
 ## Pour aller plus loin
@@ -6266,7 +6262,7 @@ sous `CCS550C4550` (6 bidons de 750 ml).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Désinfection des mains — HD 420 plus et gamme Dürr Dental
@@ -6916,7 +6912,7 @@ Dürr Dental France 2026, tarifs non repris). Le détail complet des codes de la
 | Préparations spéciales (Orotol, MD) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/> |
 | MD 555 cleaner | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner/> |
 | MD 555 cleaner organic | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/md-555-cleaner-organic/> |
-| Instruments | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/instruments/> |
+| Instruments | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/> |
 | Arrêté du 5 septembre 2025 (exemption santé Certibiocide) — Légifrance | <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052213013> |
 | « Fini le certibiocide ! » — Ordre National des Chirurgiens-Dentistes | <https://www.ordre-chirurgiens-dentistes.fr/actualites/fini-le-certibiocide/> |
 
@@ -6935,7 +6931,7 @@ Dürr Dental France 2026, tarifs non repris). Le détail complet des codes de la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Hygobox, Hygopac et Hygofol — Transport, emballage et stockage stérile Dürr Dental
@@ -7130,7 +7126,7 @@ Dürr Dental France 2026, tarifs non repris).
 |---|---|
 | Page Hygobox | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/hygobox/> |
 | Page Hygopac (sealing device) | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/sealing-device/hygopac/> |
-| Page Hygopac Plus | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/siegelgeraete/hygopac-plus/> |
+| Page catégorie soudeuses (Hygopac View) | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/sealing-devices/> |
 | Page Hub Hygiène | <https://www.duerrdental.com/en/products/hygiene/> |
 
 ## Pour aller plus loin
@@ -7144,7 +7140,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Hygoclave et Hygopure — Stérilisation et traitement de l'eau Dürr Dental
@@ -7385,7 +7381,6 @@ Dürr Dental France 2026, tarifs non repris).
 | Page Hygoclave 40 | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/hygoclave-40/> |
 | Page Hygoclave 50 | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/hygoclave-50/> |
 | Page Hygopure 90 + Hygodem 90 | <https://www.duerrdental.com/en/GL/products/hygiene/hygiene-technology/water-treatment-for-small-steam-sterilisers/> |
-| News Hygoclave 90 (DE) | <https://www.duerrdental.com/de/DE/news/detail/keine-chance-fuer-bakterien-und-keime-mit-dem-hygoclave-90-komplettiert-duerr-dental-seine-system-hygienekette-und-bringt-spitzentechnologie-in-die-zahnarztpraxis/> |
 | Norme EN 13060 (référence externe) | <https://www.iso.org/standard/68748.html> |
 
 ## Pour aller plus loin
@@ -7399,7 +7394,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Hygosonic — Bac à ultrasons Dürr Dental pour nettoyage des instruments
@@ -7528,7 +7523,6 @@ Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 53
 
 | Document | URL publique |
 |---|---|
-| Page Hygosonic (FR) | <https://www.duerrdental.com/fr/produits/hygiene/appareils-dhygiene/manuelle-aufbereitung/hygosonic/> |
 | Page Hygosonic (DE) | <https://www.duerrdental.com/de/DE/produkte/hygiene/hygienetechnik/manuelle-aufbereitung/> |
 | Page Instrument reprocessing | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/> |
 
@@ -7543,7 +7537,7 @@ Avec les produits chimiques des séries ID (ID 212, ID 213, ID 220) et MD (MD 53
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Hygosuc — Désinfection automatisée du circuit d'aspiration (Dürr Dental)
@@ -8001,11 +7995,10 @@ correspondant chacune à un type de raccord rapide de turbine (mêmes contenu et
 | Document | URL publique |
 |---|---|
 | Hub Odontologie conservatrice et prophylaxie | <https://www.duerrdental.com/en/products/dental-care/> |
-| World of Lunos | <https://www.duerrdental.com/en/solutions/practice/world-of-lunos/> |
 | MyLunos pièce à main | <https://www.duerrdental.com/en/products/dental-care/devices/powder-jet-handpiece-mylunos/> |
 | MyLunos Duo | <https://www.duerrdental.com/en/products/dental-care/devices/mylunos-duo/> |
 | MyLunos Duo (FR/BE) | <https://www.duerrdental.com/fr/BE/produits/odontologie-conservatrice/appareils/mylunos-duor/> |
-| Poudre Lunos Gentle Clean (FR) | <https://www.duerrdental.com/fr/produits/odontologie-conservatrice/consommables/poudre-prophylactique/poudre-prophylactique-lunosr-gentle-clean/> |
+| Poudres prophylactiques Lunos (EN) | <https://www.duerrdental.com/en/products/dental-care/consumables/lunosr-prophy-powder/> |
 | Lunos Prophy Pastes | <https://www.duerrdental.com/en/MY/products/dental-care/consumables/lunosr-prophy-pastes/> |
 
 ## Pour aller plus loin
@@ -8017,7 +8010,7 @@ correspondant chacune à un type de raccord rapide de turbine (mêmes contenu et
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Vector Paro — Thérapie parodontale ultrasonique atraumatique Dürr Dental
@@ -14450,7 +14443,6 @@ Oui (en ligne et hors ligne une fois les données chargées).
 | Document | URL publique |
 |---|---|
 | Page produit VistaSoft Cloud View | <https://www.duerrdental.com/en/products/imaging/software/vistasoft-cloud-view/> |
-| Page alternative VistaSoft Cloud View | <https://www.duerrdental.com/en/products/software/imaging/vistasoft-cloud-view/> |
 | Service Web VistaSoft Cloud View | <https://view.vistasoft.com/> |
 | Centre de téléchargements Dürr Dental France | <https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/> |
 
@@ -14479,7 +14471,7 @@ Oui (en ligne et hors ligne une fois les données chargées).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
 
 ================================================================================
 # VistaSoft Implant & VistaSoft Guide — Planification implantaire et guides chirurgicaux

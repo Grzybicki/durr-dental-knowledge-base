@@ -25,15 +25,16 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/sealing-device/hygopac/"
     type: "page produit"
     language: "en"
-  - title: "Page Hygopac Plus (EN)"
-    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/siegelgeraete/hygopac-plus/"
+  - title: "Page catégorie soudeuses d'emballage stérile (EN)"
+    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-technology/sealing-devices/"
     type: "page produit"
     language: "en"
+    note: "L'ancienne page produit dédiée Hygopac Plus a disparu (404, vérifié 2026-09-14) ; cette page catégorie présente désormais le Hygopac View, successeur commercial."
   - title: "Page Hub Hygiène (EN)"
     url: "https://www.duerrdental.com/en/products/hygiene/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -292,7 +293,7 @@ Dürr Dental France 2026, tarifs non repris).
 |---|---|
 | Page Hygobox | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/hygobox/> |
 | Page Hygopac (sealing device) | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/sealing-device/hygopac/> |
-| Page Hygopac Plus | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/siegelgeraete/hygopac-plus/> |
+| Page catégorie soudeuses (Hygopac View) | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/sealing-devices/> |
 | Page Hub Hygiène | <https://www.duerrdental.com/en/products/hygiene/> |
 
 ## Pour aller plus loin
@@ -306,4 +307,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

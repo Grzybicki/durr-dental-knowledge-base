@@ -25,10 +25,11 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/"
     type: "page hub"
     language: "en"
-  - title: "Page console sol/mur (FR)"
-    url: "https://www.duerrdental.com/fr/produits/aspiration/systemes-vs-humides/console-pour-le-sol-ou-le-mur/"
+  - title: "Page systèmes d'aspiration — catégorie (FR)"
+    url: "https://www.duerrdental.com/fr/FR/produits/aspiration/appareils/systemes-daspiration/"
     type: "page produit"
     language: "fr"
+    note: "L'ancienne page dédiée à la console sol/mur a disparu (404, vérifié 2026-09-14) ; page catégorie de substitution, pas de page dédiée retrouvée."
   - title: "Page systèmes cliniques (EN)"
     url: "https://www.duerrdental.com/en/products/suction/devices/clinic-systems/"
     type: "page produit"
@@ -43,7 +44,7 @@ source_documents:
     type: "notice de planification officielle"
     language: "en"
     note: "Source des REF de la gamme radiale clinique complète : Tyscor V 20 (1802100510, jusqu'à 30 postes), V 30 (1803100510, 50 postes), V 40 (1808000040), V 50 (1808000050), V 60 (1808000060, 100 postes) ; mise à niveau par ajout d'étage RV 10 ; combinaisons avec séparateur de condensat intégré ou cuves CS 20 / CS 60 ; conditions ambiantes +10/+40 °C, conduites d'aspiration dimensionnées pour ≥ −250 mbar, cuve de séparation centrale au point le plus bas."
-last_factual_review: 2026-07-23
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -630,7 +631,7 @@ le **Kit Finder** officiel Dürr.
 |---|---|
 | Page systèmes Tyscor | <https://www.duerrdental.com/en/products/suction/devices/tyscor-systems/> |
 | Page hub aspiration | <https://www.duerrdental.com/en/products/suction/> |
-| Page console sol/mur (FR) | <https://www.duerrdental.com/fr/produits/aspiration/systemes-vs-humides/console-pour-le-sol-ou-le-mur/> |
+| Page systèmes d'aspiration — catégorie (FR) | <https://www.duerrdental.com/fr/FR/produits/aspiration/appareils/systemes-daspiration/> |
 | Page systèmes cliniques | <https://www.duerrdental.com/en/products/suction/devices/clinic-systems/> |
 | Planning Information Tyscor V 20 – V 60 (clinique) | réf. `1802100026L02` (centre de téléchargements Dürr Dental) |
 | Déclaration de Conformité — Clinic Suction Systems | DoC Dürr Dental SE 2025-07-22 (Basic UDI-DI `++E2471042Y4`) |
@@ -650,4 +651,4 @@ le **Kit Finder** officiel Dürr.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-23. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

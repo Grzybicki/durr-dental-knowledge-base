@@ -149,7 +149,6 @@ classes de dispositif médical et organismes notifiés.
 | Désinfection instruments (ID 212 / 213 / 215) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/> |
 | HD 420 plus (désinfection mains) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/skin-and-hands/hd-420-plus/> |
 | FD 350 lingettes (désinfection surfaces) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/disinfection-wipes/fd-350-disinfection-wipes/> |
-| Hygojet (désinfection empreintes) | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/special-areas/hygojet/> |
 | Hygobox (transport et désinfection) | <https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/instruments/hygobox/> |
 | Hygoclave 40 / 50 (autoclaves) | <https://www.duerrdental.com/en/products/hygiene/hygiene-technology/hygoclave-40/> |
 | Hygopac (emballage / scellage) | <https://www.duerrdental.com/en/products/hygiene/hygiene-appliances/sealing-device/hygopac/> |

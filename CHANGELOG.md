@@ -4,6 +4,42 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.20.1] — 2026-09-14
+
+### Corrigé — vérification complète des liens externes (~17 liens duerrdental.com morts)
+
+Audit sur demande utilisateur des **378 liens externes uniques** du dépôt (équivalent local du
+job CI `lychee`, nouveau script `scripts/check_links.py`, mêmes codes acceptés
+200/206/301/302/308/403/429). Après retest des cas ambigus (18 `web.archive.org/web/2026*/...`
+inaccessibles depuis cet environnement — vérifié : timeout même sur la racine du domaine, pas un
+vrai problème de lien ; 2 timeouts transitoires reconfirmés `200` ; `standards.iteh.ai` transitoire
+reconfirmé `200` ; `eur-lex.europa.eu` 202 et `pubmed.ncbi.nlm.nih.gov` 203 = codes non-standard
+mais pages bien vivantes), **~17 liens duerrdental.com réellement morts (404)** identifiés et
+corrigés — le site a réorganisé son arborescence (`hygiene-appliances` → `hygiene-preparations`,
+`fr/produits/` → `fr/FR/produits/` sur plusieurs sections) depuis le sourcing initial :
+
+- **Corrigés avec URL de remplacement confirmée (200)** : Instruments (EN), Hygosuc (FR),
+  Canules Universelles III + Protect (FR — **fusionnées en une seule page** chez Dürr, mise à jour
+  en conséquence dans 3 fiches), page catégorie imagerie (FR), microsite « 80 ans » →
+  page Milestones (EN), PDF Trycare Orotol Plus (citation retirée, doublon avec la source
+  Astrodental déjà présente).
+- **Remplacés par une page catégorie générale** (pas de page dédiée retrouvée, notée dans chaque
+  cas) : Hygopac Plus (→ Hygopac View, successeur), poudre Lunos Gentle Clean (→ catégorie EN),
+  Systèmes V secs + console sol/mur VS humide (→ catégorie systèmes d'aspiration FR), Hygosonic
+  (→ page DE, aucun équivalent FR retrouvé).
+- **Retirés sans remplacement** (aucune page de substitution trouvée, fait non remis en cause) :
+  Hygojet (EN), VistaSoft Cloud View « page alternative » (doublon avec la source primaire déjà
+  présente), Tyscor Pulse, World of Lunos, actualité Hygoclave 90 (DE, 2016).
+
+`validate.py --warn-as-error` vert. `llms.txt`/`llms-full.txt` régénérés (`build_llms_full.py`).
+
+### Ajouté — `scripts/check_links.py`
+
+Vérificateur de liens externes local (concurrent, `requests`), pour audits ponctuels sans dépendre
+du job CI `lychee`. `--include-llms-full` pour couvrir aussi la concaténation (non testée par le
+CI officiel). Limite connue : `web.archive.org` inaccessible depuis cet environnement de
+développement (pas un défaut du script).
+
 ## [0.20.0] — 2026-09-14
 
 ### Ajouté — script de régénération `llms.txt`/`llms-full.txt`, 14 fiches manquantes réintégrées
