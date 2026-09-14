@@ -65,6 +65,12 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Référence imprimée sur le document lui-même (pied de page) ; le fichier de production interne porte le nom DD_100059L05_VistaVoxSCeph_M6_FR.indd, daté 2026-01-19 — ne pas confondre avec la référence citable P007100059L03/U01. Source des caractéristiques techniques complètes et de la liste exhaustive des volumes 3D : Ø 130×50 mm (maxillaire/mandibulaire/sinus), Ø 130×85 mm (mâchoire complète), Ø 130×70 mm, Ø 130×105 mm et Ø 130×120 mm (cousus), Ø 50×50 mm (10 volumes locaux). Mode Qualité Standard (QS, -62 % de dose vs mode HQ)."
+  - title: "VistaVox S and VistaVox S Ceph — Operating Instructions (EN)"
+    url: "http://qr.duerrdental.com/2210200845"
+    type: "manuel utilisateur"
+    reference: "2210200845L02"
+    language: "en"
+    note: "Modèles de capteur (Xmaru 1404CF / 2602CF), tailles de pixel natives et modes binning (99/198 µm pano-CBCT ; 200 µm Ceph), surfaces actives confirmées, distances FDD/FOD/ODD et facteurs d'agrandissement."
 last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
@@ -364,7 +370,7 @@ VistaVox S signale les anomalies par des **codes d'erreur** documentés dans la 
       "name": "Quelle est la résolution du capteur VistaVox S ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le capteur CsI de VistaVox S offre une taille de pixel de 49,5 µm, ce qui est fin pour un CBCT dentaire et contribue à la qualité d'image haute résolution sur les régions d'intérêt."
+        "text": "Le capteur principal pano/CBCT (Xmaru 1404CF) offre une taille de pixel native de 49,5 µm, avec des modes binning à 99 µm et 198 µm. Le capteur Ceph (Xmaru 2602CF, VistaVox S Ceph uniquement) a une taille de pixel native de 100 µm, avec un mode binning à 200 µm. Ces valeurs sont la résolution géométrique théorique (taille physique de pixel) ; Dürr Dental ne publie pas de résolution réelle/effective mesurée distincte pour ces capteurs à capture directe."
       }
     },
     {
@@ -401,7 +407,9 @@ Oui — système hybride 3D + 2D, technologie S-Pan, 17 programmes panoramiques.
 
 ### Résolution capteur ?
 
-Capteur CsI, **49,5 µm**.
+**Pano/CBCT** (Xmaru 1404CF) : **49,5 µm** natif (99/198 µm en binning). **Ceph**
+(Xmaru 2602CF, S Ceph uniquement) : **100 µm** natif (200 µm en binning). Valeurs
+**théoriques** (taille de pixel) — pas de résolution réelle/effective publiée.
 
 ### Différence VistaVox S vs VistaVox S Ceph ?
 
@@ -425,10 +433,20 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 
 ### Détecteurs d'image
 
-| Détecteur | Technologie | Taille pixel | Surface active |
-|---|---|---|---|
-| **Capteur principal pano/CBCT** | **CsI** + matrice photodiodes CMOS | **49,5 µm** | 135,8 × 36,4 mm |
-| **Capteur Ceph (Ceph uniquement)** | CsI + CMOS | **100 µm** | 259,2 × 15,6 mm |
+| Détecteur | Modèle | Technologie | Taille pixel native | Modes binning | Surface active |
+|---|---|---|---|---|---|
+| **Capteur principal pano/CBCT** | Xmaru 1404CF | **CsI** + matrice photodiodes CMOS | **49,5 µm** | 99 µm (2×2), 198 µm (4×4) | 135,8 × 36,4 mm |
+| **Capteur Ceph (Ceph uniquement)** | Xmaru 2602CF | CsI + CMOS | **100 µm** | 200 µm (2×2) | 259,2 × 15,6 mm |
+
+> ⚠️ **Résolution théorique, pas mesurée.** Ces valeurs sont la **taille physique de
+> pixel du capteur** (résolution géométrique/nominale) — la documentation publique
+> VistaVox S ne publie pas de valeur de **résolution réelle/effective** distincte
+> (en lp/mm) pour ces capteurs à capture directe. C'est différent d'autres produits
+> Dürr Dental à écran radioluminescent (ex.
+> [VistaScan Mini View 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-view-2-0/overview/) :
+> **40 LP/mm théorique / 22 LP/mm effective**, la résolution effective étant limitée
+> par l'écran au phosphore). Source des tailles de pixel et modes binning : manuel
+> *VistaVox S and VistaVox S Ceph Operating Instructions* (réf. `2210200845L02`).
 
 ### Volumes 3D — VistaVox S et S Ceph
 
@@ -469,6 +487,23 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 Détail des 17 programmes pano : standard + hémiface droite/gauche/frontale +
 **4 programmes enfants** + **5 programmes orthogonaux** + **2 ATM** (diagnostic
 fonctionnel) + **2 sinus**.
+
+#### Détail des 6 programmes Ceph (VistaVox S Ceph)
+
+| Programme | Description et usage (source : *Operating Instructions*) |
+|---|---|
+| **Tête, latérale complète** (Head, full lateral) | Cliché céphalométrique latéral complet de la tête — qualité **HD** présélectionnée par défaut |
+| **Tête, latérale** (Head, lateral) | Cliché céphalométrique latéral de la tête |
+| **Tête, PA** (Head PA) | Crâne en incidence **postéro-antérieure** — adapté aux clichés crâniens semi-axiaux, vue crânienne excentrée |
+| **SMV** (SubMentoVertex) | Crâne en projection **sous-mento-vertex** (base du crâne) — adapté à l'enregistrement de l'arcade maxillaire et des articulations maxillaires |
+| **Vue occipito-mentale** (Waters View) | Adaptée à l'enregistrement de la tête condylienne dans la cavité glénoïde mandibulaire (ATM) |
+| **Main / Carpus** | Cliché du **carpe** du patient — permet d'évaluer le **stade de croissance** osseuse (orthodontie pédiatrique) |
+
+Chaque programme est disponible en **deux modes qualité** — **SD** (Standard
+Definition) et **HD** (High Definition) — avec des paramètres d'exposition et un
+temps de scan propres (ex. Tête latérale : 90 kV / 14 mA, 0,34 mGy en SD contre
+0,85 mGy en HD). Source : manuel *VistaVox S and VistaVox S Ceph Operating
+Instructions* (réf. `2210200845L02`, annexe dosimétrique).
 
 ### Facteur d'agrandissement
 
@@ -619,6 +654,9 @@ Source : portfolio des mentonnières VistaVox / VistaPano — Dürr Dental (mise
   [Centre de téléchargements Dürr Dental France](https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/).
   Source de la liste complète des volumes 3D (Ø 130×50/70/85/105/120 mm, Ø 50×50 mm) et du
   mode Qualité Standard (QS, -62 % de dose).
+- Manuel *VistaVox S and VistaVox S Ceph Operating Instructions* (EN), réf. `2210200845L02` —
+  <http://qr.duerrdental.com/2210200845>. Source des modèles de capteur (Xmaru 1404CF/2602CF),
+  tailles de pixel natives et modes binning.
 
 ### Presse spécialisée FR
 

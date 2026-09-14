@@ -4,6 +4,28 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.4] — 2026-09-14
+
+### Ajouté — VistaVox S, résolution capteur Ceph (théorique vs réelle) + détail 6 programmes Ceph
+
+Nouvelle source exploitée : manuel officiel *VistaVox S and VistaVox S Ceph Operating
+Instructions* (EN, réf. `2210200845L02`, `qr.duerrdental.com/2210200845` → Centre de
+téléchargements, vérifié fonctionnel).
+
+- **Résolution capteur Ceph ajoutée** : capteur Xmaru 2602CF, **100 µm** natif (200 µm en mode
+  binning 2×2). Capteur principal pano/CBCT précisé de la même façon : Xmaru 1404CF, 49,5 µm
+  natif (99/198 µm en binning 2×2/4×4).
+- **Précision théorique vs réelle** (demande explicite) : ces valeurs sont la **taille physique
+  de pixel** (résolution géométrique/nominale), pas une résolution réelle/effective mesurée en
+  lp/mm — Dürr Dental ne publie pas cette dernière pour ces capteurs à capture directe,
+  contrairement à d'autres produits (ex. VistaScan Mini View 2.0 : 40 LP/mm théorique / 22 LP/mm
+  effective, déjà documenté dans sa propre fiche).
+- **Ajouté — détail des 6 programmes Ceph** (Tête latérale complète, Tête latérale, Tête PA, SMV,
+  Vue occipito-mentale, Main/Carpus) : description et usage clinique de chacun, + mention des
+  2 modes qualité SD/HD avec un exemple de paramètres d'exposition (annexe dosimétrique du manuel).
+
+`validate.py --warn-as-error` vert. Propagé à `llms-full.txt`.
+
 ## [0.18.3] — 2026-09-14
 
 ### Corrigé/complété — VistaVox S, relecture complète de la brochure P007100059L03/U01
