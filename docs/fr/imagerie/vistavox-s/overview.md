@@ -65,7 +65,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques complètes (dimensions H 1406-2206 mm, poids 180/202 kg, capteur CsI 49,5 µm, FOV Ø 130×85 mm)"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -125,8 +125,20 @@ d'imagerie sphérique adapté à l'anatomie maxillo-mandibulaire** :
 | Paramètre | Valeur |
 |---|---|
 | FOV jaw-shaped (forme mâchoire) | **Ø 130 × 85 mm** |
-| Couverture clinique | **Inclut les molaires postérieures** (zone diagnostique mâchoire complète) |
-| Sous-volumes | **10 volumes Ø 50 × 50 mm** pour des régions spécifiques (focus diagnostic) |
+| Couverture clinique | **Maxillaire ET mandibule en une seule acquisition** — inclut les molaires postérieures (zone diagnostique mâchoire complète) |
+| Sous-volumes | **10 volumes Ø 50 × 50 mm** ciblés (5 maxillaire + 5 mandibule), résolution 80 ou 120 µm |
+
+Contrairement à certains CBCT qui nécessitent des acquisitions séparées pour
+le maxillaire et la mandibule, le volume jaw-shaped de VistaVox S **couvre
+les deux arcades en un seul scan** de 18 s (pas de cliché maxillaire et
+cliché mandibulaire distincts pour un examen standard). Les 10 sous-volumes
+Ø 50 × 50 mm, eux, ciblent une région précise au choix (5 positions
+maxillaires, 5 mandibulaires) — voir le tableau détaillé
+« [Volumes 3D](#caractéristiques-techniques) » plus bas.
+
+Pour les cas dépassant le FOV standard (mâchoires complètes très étendues,
+édentements complets), voir le [Stitching Tool](#stitching-tool-assemblage-de-volumes-cbct)
+qui assemble plusieurs acquisitions CBCT.
 
 Selon la page produit officielle (verbatim) : *« The imaging volume is
 based on human anatomy, representing precisely the area needed for
@@ -600,4 +612,4 @@ Source : portfolio des mentonnières VistaVox / VistaPano — Dürr Dental (mise
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

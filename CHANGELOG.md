@@ -4,6 +4,19 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.1] — 2026-09-14
+
+### Complété — VistaVox S, volume jaw-shaped maxillo-mandibulaire
+
+La section « Particularité — volume sphérique anatomique » ne précisait pas que le volume
+Ø 130 × 85 mm couvre **le maxillaire ET la mandibule en une seule acquisition** (pas de cliché
+maxillaire et cliché mandibulaire distincts), ni que les 10 sous-volumes Ø 50 × 50 mm se
+répartissent **5 maxillaire + 5 mandibule** (ce détail existait déjà, mais seulement dans le
+tableau « Volumes 3D » plus loin dans la fiche). Ajouté un renvoi vers le Stitching Tool pour les
+cas dépassant le FOV standard. Confirmé sur la page FOV officielle Dürr Dental (« five each for
+the upper jaw and for the lower jaw » ; volume unique « covers the dental region of all
+patients »). Propagé à `llms-full.txt`.
+
 ## [0.18.0] — 2026-09-14
 
 ### Corrigé — Patient Bridge n'implémente pas VDDS-media/BDW/patimport.txt

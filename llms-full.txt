@@ -10351,9 +10351,20 @@ d'imagerie sphérique adapté à l'anatomie maxillo-mandibulaire** :
 | Paramètre | Valeur |
 |---|---|
 | FOV jaw-shaped (forme mâchoire) | **Ø 130 × 85 mm** |
-| Comparaison FOV cylindrique typique | Ø 80 × 80 mm |
-| Couverture clinique | **Inclut les molaires postérieures** (zone diagnostique mâchoire complète) |
-| Sous-volumes | **10 volumes Ø 50 × 50 mm** pour des régions spécifiques (focus diagnostic) |
+| Couverture clinique | **Maxillaire ET mandibule en une seule acquisition** — inclut les molaires postérieures (zone diagnostique mâchoire complète) |
+| Sous-volumes | **10 volumes Ø 50 × 50 mm** ciblés (5 maxillaire + 5 mandibule), résolution 80 ou 120 µm |
+
+Contrairement à certains CBCT qui nécessitent des acquisitions séparées pour
+le maxillaire et la mandibule, le volume jaw-shaped de VistaVox S **couvre
+les deux arcades en un seul scan** de 18 s (pas de cliché maxillaire et
+cliché mandibulaire distincts pour un examen standard). Les 10 sous-volumes
+Ø 50 × 50 mm, eux, ciblent une région précise au choix (5 positions
+maxillaires, 5 mandibulaires) — voir le tableau détaillé « Volumes 3D »
+plus bas.
+
+Pour les cas dépassant le FOV standard (mâchoires complètes très étendues,
+édentements complets), voir le Stitching Tool qui assemble plusieurs
+acquisitions CBCT.
 
 Selon la page produit officielle (verbatim) : *« The imaging volume is
 based on human anatomy, representing precisely the area needed for
