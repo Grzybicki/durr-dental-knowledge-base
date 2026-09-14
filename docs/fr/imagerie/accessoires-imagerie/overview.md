@@ -29,7 +29,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -75,8 +75,10 @@ besoins intra-oraux.
 
 Génération d'écrans à mémoire **Plus** (sans puce RFID), destinée aux scanners
 **sans lecteur RFID** : le **parc VistaScan série 1.0** (Mini Easy, Mini Plus,
-Perio, Perio Net) et le **Combi View**. Les scanners série 2.0 n'acceptent pas
-ces écrans — ils exigent des plaques IQ à puce. Voir la
+Mini View, Perio, Perio Net) et le **Combi View** — leur plaque **native**.
+Ces scanners de la série 1.0 peuvent aussi lire des plaques IQ en tolérance
+descendante, mais sans exploiter le RFID. Les scanners série 2.0 n'acceptent
+pas les écrans Plus — ils exigent des plaques IQ à puce. Voir la
 [fiche VistaScan IQ — section écrans Plus](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/).
 
 ### Écrans à mémoire extra-oraux
@@ -324,4 +326,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

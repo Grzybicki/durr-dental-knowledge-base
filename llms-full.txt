@@ -5017,8 +5017,10 @@ besoins intra-oraux.
 
 Génération d'écrans à mémoire **Plus** (sans puce RFID), destinée aux scanners
 **sans lecteur RFID** : le **parc VistaScan série 1.0** (Mini Easy, Mini Plus,
-Perio, Perio Net) et le **Combi View**. Les scanners série 2.0 n'acceptent pas
-ces écrans — ils exigent des plaques IQ à puce. Voir la
+Mini View, Perio, Perio Net) et le **Combi View** — leur plaque **native**.
+Ces scanners de la série 1.0 peuvent aussi lire des plaques IQ en tolérance
+descendante, mais sans exploiter le RFID. Les scanners série 2.0 n'acceptent
+pas les écrans Plus — ils exigent des plaques IQ à puce. Voir la
 [fiche VistaScan IQ — section écrans Plus](../vistascan-iq-ecrans/overview/).
 
 ### Écrans à mémoire extra-oraux
@@ -8282,7 +8284,7 @@ le reste de la gamme. Leurs références figurent sur la fiche
 | Critère | VistaScan IQ | Écrans VistaScan Plus |
 |---|---|---|
 | **Puce RFID** | **Oui** | **Non** (pas de puce RFID) |
-| **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Perio, Perio Net) **et Combi (View / Plus)** |
+| **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Mini View, Perio, Perio Net) **et Combi (View / Plus)** |
 | **Compatibilité croisée** | Lisibles aussi par les scanners **sans** lecteur RFID (série 1.0, Combi), la puce étant simplement ignorée | **Non lisibles par la série 2.0** (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View), qui exige une plaque IQ à puce |
 | **Workflow automatisé via [Smart Reader](../smart-reader/overview/)** | **Oui** — Mini Easy 2.0 et Mini View 2.0 uniquement | Non |
 | **Suivi qualité par IA (VistaSoft AI)** | **Oui** | Non |

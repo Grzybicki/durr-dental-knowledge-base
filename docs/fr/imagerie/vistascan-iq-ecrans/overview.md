@@ -152,7 +152,7 @@ le reste de la gamme. Leurs références figurent sur la fiche
 | Critère | VistaScan IQ | Écrans VistaScan Plus |
 |---|---|---|
 | **Puce RFID** | **Oui** | **Non** (pas de puce RFID) |
-| **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Perio, Perio Net) **et Combi View** |
+| **Scanners concernés** | Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View (RFID actif) | Parc série 1.0 (Mini Easy, Mini Plus, Mini View, Perio, Perio Net) **et Combi View** |
 | **Compatibilité croisée** | Lisibles aussi par les scanners **sans** lecteur RFID (série 1.0, Combi), la puce étant simplement ignorée | **Non lisibles par la série 2.0** (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View), qui exige une plaque IQ à puce |
 | **Workflow automatisé via [Smart Reader](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/)** | **Oui** — Mini Easy 2.0 et Mini View 2.0 uniquement | Non |
 | **Suivi qualité par IA (VistaSoft AI)** | **Oui** | Non |
