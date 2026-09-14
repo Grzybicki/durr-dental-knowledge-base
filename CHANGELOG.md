@@ -4,6 +4,25 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.6] — 2026-09-14
+
+### Corrigé/complété — VistaSoft Trace : VistaVox S Ceph manquant + bibliothèque de méthodes d'analyse
+
+- **Corrigé** : la fiche ne mentionnait que **VistaPano S Ceph 2.0** comme appareil d'acquisition
+  compatible, alors que **VistaVox S Ceph** (fiche `vistavox-s`) le cite déjà explicitement comme
+  destiné à être utilisé avec VistaSoft Trace. Les deux appareils à module céphalométrique sont
+  désormais listés (corps de texte, FAQ JSON-LD + Questions fréquentes, « Pour aller plus loin »).
+- **Ajouté — bibliothèque de méthodes d'analyse céphalométrique** : la technologie Audax Ceph
+  sous-jacente propose une **bibliothèque de 200+ analyses** (personnalisables), avec des méthodes
+  nommées par l'éditeur (Ricketts, Björk, Yosh Jefferson, Steiner, Tweed, Sassouni, Mahony, Downs,
+  VOEK). Source : texte fourni directement par le mainteneur depuis `audaxceph.com` (« Analysis
+  type library »), le site officiel n'étant pas accessible en direct via l'outil de fetch web
+  (erreur de certificat SSL persistante, y compris via Wayback Machine) — recoupé avec une page
+  revendeur (OHI-S) citant le même verbatim. Précisé que ce catalogue est une capacité de la
+  techno sous-jacente, sans confirmation Dürr qu'il est exposé à l'identique dans VistaSoft Trace.
+
+`validate.py --warn-as-error` vert. Propagé à `llms-full.txt`.
+
 ## [0.18.5] — 2026-09-14
 
 ### Ajouté — VistaVox S Ceph : position fixe du bras (gauche) + non upgradable après achat

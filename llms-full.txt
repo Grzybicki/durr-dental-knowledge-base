@@ -10251,9 +10251,14 @@ Selon la [page produit VistaSoft Trace (Orthodontie)](https://www.duerrdental.co
 
 VistaSoft Trace est une **extension logicielle** simple à utiliser, qui
 fonctionne au sein de l'écosystème VistaSoft. Le logiciel socle VistaSoft
-gère l'acquisition du cliché céphalométrique (typiquement via un appareil
-comme la [VistaPano S Ceph 2.0](../vistapano-2-0/overview/)) et VistaSoft
-Trace en assure l'analyse céphalométrique.
+gère l'acquisition du cliché céphalométrique — via l'un des **deux appareils
+Dürr Dental à module céphalométrique** :
+
+- [VistaPano S Ceph 2.0](../vistapano-2-0/overview/) — panoramique 2D + céphalométrie.
+- [VistaVox S Ceph](../vistavox-s/overview/) — hybride CBCT 3D + panoramique 2D + céphalométrie.
+
+— et VistaSoft Trace en assure l'analyse céphalométrique, quel que soit
+l'appareil d'acquisition.
 
 ## Technologie partenaire — Audax Ceph
 
@@ -10265,6 +10270,22 @@ qui dispose d'une expertise reconnue en céphalométrie depuis environ 30 ans.
 Voir [audaxceph.com](https://www.audaxceph.com/) pour le détail technique de
 la technologie sous-jacente.
 
+### Bibliothèque de méthodes d'analyse
+
+Selon la page officielle Audax Ceph (« Analysis type library »), la technologie
+sous-jacente à VistaSoft Trace propose une **bibliothèque de plus de 200 types
+d'analyses** céphalométriques (latérales, PA et de profil tissus mous),
+prêtes à l'emploi et **personnalisables** selon les préférences du praticien.
+
+Méthodes citées nommément par Audax Ceph (liste non exhaustive, exemples
+donnés par l'éditeur) : **Ricketts**, **Björk**, **Yosh Jefferson**,
+**Steiner**, **Tweed**, **Sassouni**, **Mahony**, **Downs**, **VOEK**.
+
+Verbatim (EN) : *« A huge set of lateral, PA and soft tissue profile analysis
+types are available for download and use such as Ricketts, Björk, Yosh
+Jefferson, Steiner, Tweed, Sassouni, Mahony, Downs, VOEK, ... Analyses can be
+finetuned in line with the doctor's wishes. »*
+
 ## Limites et précisions
 
 - VistaSoft Trace est un **outil d'analyse céphalométrique** ; le diagnostic
@@ -10274,6 +10295,10 @@ la technologie sous-jacente.
   acquisition correcte (positionnement, exposition) est indispensable.
 - Les simulations de traitement sont des aides à la planification et ne
   garantissent pas un résultat clinique précis.
+- La bibliothèque de 200+ analyses est une capacité de la **technologie
+  Audax Ceph sous-jacente** ; Dürr Dental ne publie pas de liste séparée
+  confirmant que l'intégralité de ce catalogue est exposée telle quelle dans
+  l'interface VistaSoft Trace.
 
 ## Questions fréquentes
 
@@ -10287,6 +10312,17 @@ contours des tissus mous, simulation de traitement.
 ### Quelle technologie sous-tend VistaSoft Trace ?
 
 Partenariat industriel avec **Audax Ceph** (Slovénie, ~30 ans d'expertise en céphalométrie).
+
+### Quelles méthodes d'analyse céphalométrique sont disponibles ?
+
+**200+ analyses** (Audax Ceph), personnalisables. Exemples nommés par l'éditeur :
+Ricketts, Björk, Yosh Jefferson, Steiner, Tweed, Sassouni, Mahony, Downs, VOEK.
+
+### Avec quels appareils fonctionne-t-il ?
+
+Les deux appareils Dürr Dental à module céphalométrique : **VistaPano S Ceph 2.0**
+(pano 2D + céphalométrie) et **VistaVox S Ceph** (hybride CBCT 3D + pano 2D +
+céphalométrie).
 
 ### Permet-il de simuler les traitements orthodontiques ?
 
@@ -10319,6 +10355,7 @@ Oui — superposition multi-étapes et simulation de planification.
 
 - [VistaSoft 4.0 — logiciel d'imagerie diagnostique (socle)](../vistasoft-4-0/overview/)
 - [VistaPano S Ceph 2.0 — appareil céphalométrique compatible](../vistapano-2-0/overview/)
+- [VistaVox S Ceph — appareil hybride CBCT/pano/céphalométrique compatible](../vistavox-s/overview/)
 - [Index imagerie dentaire](../)
 
 ---
