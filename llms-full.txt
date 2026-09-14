@@ -10450,6 +10450,14 @@ logiciel d'imagerie diagnostique (DM IIb).
 Pour la planification implantaire à partir des volumes CBCT VistaVox S,
 voir la fiche [VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/).
 
+Les volumes CBCT VistaVox S alimentent aussi le flux numérique d'implants avec
+**SICAT** (coopération officielle Dürr Dental) : cliché CBCT VistaVox S → empreinte
+numérique STL ouvert → planification implantaire **SICAT Implant** (DICOM ouvert) →
+réalisation de guides chirurgicaux, avec compatibilité **CEREC Guide**. La brochure
+VistaVox S signale également la disponibilité de **SICAT Endo**. Détail de
+l'intégration SICAT dans la fiche
+[VistaSoft Implant & Guide](../vistasoft-implant-guide/overview/).
+
 ## VistaVox S Ceph — module céphalométrique
 
 La version **VistaVox S Ceph** ajoute un **module céphalométrique intégré**
@@ -10472,7 +10480,7 @@ pour :
 
 Le catalogue officiel des volumes VistaVox S liste deux **volumes cousus**
 (« *cousu* » = stitched) : **Ø 130 × 105 mm** et **Ø 130 × 120 mm** (brochure
-`P007100059L05`). Le Stitching Tool a par ailleurs été présenté publiquement
+`P007100059L03/U01`). Le Stitching Tool a par ailleurs été présenté publiquement
 par les filiales nationales Dürr Dental (Dürr India et Dürr Italia), qui
 documentent des hauteurs effectives voisines : 9,2 cm / 10,4 cm / 10,6 cm /
 12 cm selon les configurations — cohérentes avec les deux tailles officielles
@@ -10599,7 +10607,7 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 | Détecteur | Technologie | Taille pixel | Surface active |
 |---|---|---|---|
 | **Capteur principal pano/CBCT** | **CsI** + matrice photodiodes CMOS | **49,5 µm** | 135,8 × 36,4 mm |
-| **Capteur Ceph (Ceph uniquement)** | CsI + CMOS | **100 µm** | 157,2 × 16,3 mm |
+| **Capteur Ceph (Ceph uniquement)** | CsI + CMOS | **100 µm** | 259,2 × 15,6 mm |
 
 ### Volumes 3D — VistaVox S et S Ceph
 
@@ -10617,7 +10625,7 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 > **adapté Ø 130 × 85 mm** couvre la zone dentaire de **100 %** des
 > patients. *« Untersuchung zum erforderlichen Field of View für
 > bildgebende 3D-Diagnostik in der Zahnmedizin »* — voir factsheet
-> `P007100059L05` pour les références bibliographiques complètes.
+> `P007100059L03/U01` pour les références bibliographiques complètes.
 
 ### Délais de numérisation
 
@@ -10635,7 +10643,7 @@ Assemblage de plusieurs CBCT → FOV étendu (9,2 à 12 cm).
 | **Programmes panoramiques** | **17** | 17 |
 | Programmes pano enfants (≥ 7 ans, dose -45 à -56 %) | **4** | 4 |
 | **Programmes Ceph** | n.a. | **6** (Tête latérale, Tête complète Latérale, Tête frontale PA, **SMV** SubMentoVertex, Vue occipito-mentale, Main carpe) |
-| **Mode SQ** (Standard Quality) | **Dose −62 % vs HQ** sur tous programmes | idem |
+| **Mode QS** (Qualité Standard) | **Dose −62 % vs mode HQ** sur tous programmes | idem |
 
 Détail des 17 programmes pano : standard + hémiface droite/gauche/frontale +
 **4 programmes enfants** + **5 programmes orthogonaux** + **2 ATM** (diagnostic
@@ -10698,6 +10706,12 @@ D'après la brochure VistaVox S :
 - **Écran tactile 7"** — interface intuitive.
 - **3 faisceaux** pour les clichés 2D (plan sagittal + plan de Francfort + canines).
 - **2 faisceaux** pour les clichés 3D (plan sagittal + plan de Francfort).
+- **Pièces à mordre « confort »** — support plus large et souple pour une
+  immobilisation plus stable du patient (moins de mouvements pendant la
+  prise de vue) ; convient également aux **patients édentés**.
+- **Mentonnières** autoclavables et thermodésinfectables, dédiées par
+  indication (sinus, ATM, mâchoires édentées) — voir le portfolio
+  mentonnières plus bas.
 
 ## Sources publiques
 

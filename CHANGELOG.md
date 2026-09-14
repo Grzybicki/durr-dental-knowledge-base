@@ -4,6 +4,36 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.3] — 2026-09-14
+
+### Corrigé/complété — VistaVox S, relecture complète de la brochure P007100059L03/U01
+
+Relecture exhaustive de la brochure officielle (extraction PyMuPDF, blocks positionnels pour
+fiabiliser les tableaux techniques) après la correction 0.18.2, pour vérifier si d'autres
+informations manquaient ou étaient inexactes.
+
+- **Corrigé — référence du document** : la fiche citait `P007100059L05` (nom du fichier de
+  production interne, `DD_100059L05_VistaVoxSCeph_M6_FR.indd`) ; la **référence réellement
+  imprimée en pied de page du document** est `P007100059L03/U01`. Remplacé partout (5 occurrences
+  + `llms-full.txt`).
+- **Corrigé — surface active du capteur Ceph** : `157,2 × 16,3 mm` → **`259,2 × 15,6 mm`**
+  (valeur confirmée par extraction positionnelle du tableau technique, pour éviter un mauvais
+  appariement colonne/valeur).
+- **Corrigé — nom du mode dose réduite** : « Mode SQ (Standard Quality) » → **« Mode QS (Qualité
+  Standard) »** (la brochure nomme explicitely « QS », pas « SQ » — les initiales étaient inversées).
+- **Ajouté — intégration SICAT** (absente de la fiche) : flux CBCT VistaVox S → empreinte STL
+  ouverte → **SICAT Implant** (DICOM ouvert) → guides chirurgicaux, compatibilité **CEREC Guide**,
+  disponibilité de **SICAT Endo**. Renvoi vers la fiche `vistasoft-implant-guide` (SICAT déjà
+  documenté en détail là-bas).
+- **Ajouté — pièces à mordre « confort »** dans la section Positionnement patient (support plus
+  large/souple, immobilisation stable, adapté aux patients édentés) — les références produit
+  existaient déjà dans le tableau, la description manquait.
+- **Vérifié sans changement** : programmes panoramiques (17 + détail), dimensions/poids/installation,
+  générateur HV, IA (MAR, rotation auto, traçage nerveux, pano IA), S-Pan — tout concordait déjà
+  avec la brochure.
+
+`validate.py --warn-as-error` vert. Propagé à `llms-full.txt`.
+
 ## [0.18.2] — 2026-09-14
 
 ### Complété — VistaVox S, volume mono-arcade (maxillaire/mandibule/sinus)
