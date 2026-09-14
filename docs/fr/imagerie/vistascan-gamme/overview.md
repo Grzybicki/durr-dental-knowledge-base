@@ -280,14 +280,24 @@ valeur est transmise aux logiciels tiers via VistaSoft Connect.
 
 ## Firmware par modèle
 
-Dernières versions connues (référence mai 2026) :
+Dernières versions connues (référence avril 2026) :
 
 | Modèle | Firmware | Date |
 |---|---|---|
 | VistaScan Mini Easy 2.0 | R1.5.4 | nov. 2025 |
 | VistaScan Mini View 2.0 | R1.5.4 | nov. 2025 |
-| VistaScan Ultra View | R1.5.2 | mai 2025 |
-| VistaScan Combi View | R1.8 | 2022 |
+| VistaScan Nano Easy | V1.5.1 | avr. 2025 |
+| VistaScan Ultra View | R1.5.3 | avr. 2026 |
+| VistaScan Combi View | R1.8 | nov. 2022 |
+
+Mini Easy 2.0 et Mini View 2.0 partagent la **même plateforme firmware**
+(moteur de scan PCS commun), d'où une version identique.
+
+### Génération précédente (parc installé)
+
+Toujours maintenus (mises à jour disponibles) pour les modèles **VistaScan
+1.0** encore en service : **Mini** (R2.7), **Mini View** (R1.8.1) et **Perio
+Net** (2.4.0).
 
 ## Dépannage
 

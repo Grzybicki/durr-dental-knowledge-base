@@ -4,6 +4,26 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.9] — 2026-09-14
+
+### Mis à jour — firmware VistaScan (Ultra View + Nano Easy manquant + génération précédente)
+
+Liste firmware fournie par le mainteneur (copie du Download Center partenaire `duerrdental.net`,
+**portail non public** — même statut que le MediaPortal déjà exclu ailleurs dans cette base ;
+seuls les couples version+date sont publiés, sans URL de téléchargement ni nom de fichier, comme
+pour le reste du tableau « Firmware par modèle » déjà en place) :
+
+- **VistaScan Ultra View** : R1.5.2 (mai 2025) → **R1.5.3 (avril 2026)**.
+- **VistaScan Nano Easy** ajouté au tableau (manquait) : **V1.5.1 (avril 2025)**.
+- **VistaScan Combi View** : date précisée « 2022 » → **novembre 2022**.
+- Ajouté une note « Mini Easy 2.0 et Mini View 2.0 partagent la même plateforme firmware » (même
+  version R1.5.4, cohérent avec le partage de moteur de scan PCS déjà documenté ailleurs).
+- Ajoutée une sous-section « Génération précédente (parc installé) » : Mini (R2.7), Mini View
+  (R1.8.1), Perio Net (2.4.0) — toujours maintenus, cohérent avec la section « Générations
+  précédentes » déjà présente dans la fiche.
+
+`validate.py --warn-as-error` vert. Propagé à `llms-full.txt`.
+
 ## [0.18.8] — 2026-09-14
 
 ### Corrigé — technologie PCS : Ultra View et Combi View manquants
