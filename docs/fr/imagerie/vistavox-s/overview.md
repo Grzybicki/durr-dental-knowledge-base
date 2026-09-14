@@ -64,7 +64,7 @@ source_documents:
     ref: "P007100059L03/U01"
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
-    note: "Référence imprimée sur le document lui-même (pied de page) ; le fichier de production interne porte le nom DD_100059L05_VistaVoxSCeph_M6_FR.indd, daté 2026-01-19 — ne pas confondre avec la référence citable P007100059L03/U01. Source des caractéristiques techniques complètes et de la liste exhaustive des volumes 3D : Ø 130×50 mm (maxillaire/mandibulaire/sinus), Ø 130×85 mm (mâchoire complète), Ø 130×70 mm, Ø 130×105 mm et Ø 130×120 mm (cousus), Ø 50×50 mm (10 volumes locaux). Mode Qualité Standard (QS, -62 % de dose vs mode HQ)."
+    note: "Référence imprimée sur le document lui-même (pied de page) ; le fichier de production interne porte le nom DD_100059L05_VistaVoxSCeph_M6_FR.indd, daté 2026-01-19 — ne pas confondre avec la référence citable P007100059L03/U01. Source des caractéristiques techniques complètes et de la liste exhaustive des volumes 3D : Ø 130×50 mm (maxillaire/mandibulaire/sinus), Ø 130×85 mm (mâchoire complète), Ø 130×70 mm, Ø 130×105 mm et Ø 130×120 mm (cousus), Ø 50×50 mm (10 volumes locaux). Mode Qualité Standard (QS, -62 % de dose vs mode HQ). Schémas techniques (p.18-19, vues face/profil) : bras Ceph monté à gauche de l'unité pano/CBCT."
   - title: "VistaVox S and VistaVox S Ceph — Operating Instructions (EN)"
     url: "http://qr.duerrdental.com/2210200845"
     type: "manuel utilisateur"
@@ -247,6 +247,15 @@ au système CBCT hybride :
 - Idéale pour l'orthodontie (utiliser conjointement avec
   [VistaSoft Trace](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) pour l'analyse).
 
+**Position du bras céphalométrique.** Le bras Ceph est monté **à gauche** de
+l'unité panoramique/CBCT (vue de face comme en vue de profil sur les schémas
+techniques officiels) — position **fixe, non réversible**. Ce montage
+asymétrique explique la largeur au sol plus importante de VistaVox S Ceph par
+rapport à VistaVox S (1 941 × 1 615 mm contre 1 212 × 1 545 mm, voir
+[dimensions](#dimensions-et-installation)) : à prendre en compte dans
+l'implantation de la salle (sens d'accès du patient, mur disponible côté
+gauche).
+
 ## Stitching Tool (assemblage de volumes CBCT)
 
 Le **Stitching Tool VistaVox S** est un outil d'**assemblage logiciel de
@@ -292,6 +301,12 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/).
   [configs système requises](http://qr.duerrdental.com/9000-618-148)).
 - L'utilisation des fonctions IA suplémentaire de planification implantaire suppose
   l'installation des modules dédiés (VistaSoft 4.0 et Implant & Guide). ou de VistaSoft Trace pour les tracés ceph automatique
+- **Le choix Ceph se fait à l'achat, pas après coup** : un VistaVox S vendu sans le module
+  céphalométrique **ne peut pas être mis à niveau vers VistaVox S Ceph ultérieurement**. Ce sont
+  deux appareils distincts (réfs `2210200726` / `2210200728`, voir
+  [références produit](#références-produit-et-accessoires)), avec un second générateur/capteur et
+  un bras dédié — pas un module logiciel ou un kit d'ajout. Le choix S vs S Ceph doit donc être
+  arbitré avant la commande.
 
 ## Installation et planning local
 
@@ -383,6 +398,22 @@ VistaVox S signale les anomalies par des **codes d'erreur** documentés dans la 
     },
     {
       "@type": "Question",
+      "name": "Le bras céphalométrique de VistaVox S Ceph peut-il être installé à droite ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Le bras céphalométrique de VistaVox S Ceph est monté à gauche de l'unité panoramique/CBCT, une position fixe et non réversible d'après les schémas techniques officiels. Ce montage asymétrique doit être anticipé dans l'implantation de la salle."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on ajouter le module céphalométrique à un VistaVox S déjà installé ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. VistaVox S et VistaVox S Ceph sont deux appareils distincts (générateur, capteur et bras céphalométrique dédiés), avec des références produit séparées. Le choix Ceph doit être fait à la commande ; un VistaVox S de base ne peut pas être mis à niveau vers VistaVox S Ceph ultérieurement."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Qu'est-ce que le Stitching Tool VistaVox S ?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -414,6 +445,18 @@ Oui — système hybride 3D + 2D, technologie S-Pan, 17 programmes panoramiques.
 ### Différence VistaVox S vs VistaVox S Ceph ?
 
 Ceph = ajout d'un **module céphalométrique** intégré (orthodontie).
+
+### Le bras Ceph peut-il être installé à droite ?
+
+Non — le bras céphalométrique est monté **à gauche** de l'unité pano/CBCT, une
+position **fixe** sur les schémas techniques officiels. À anticiper dans
+l'implantation de la salle.
+
+### Peut-on ajouter le Ceph après coup ?
+
+**Non.** VistaVox S et VistaVox S Ceph sont **deux appareils distincts**
+(réfs séparées). Le choix se fait **à la commande** — pas de mise à niveau
+ultérieure d'un VistaVox S de base.
 
 ### Stitching Tool ?
 

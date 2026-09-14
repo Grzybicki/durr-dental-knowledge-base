@@ -10468,6 +10468,14 @@ au système CBCT hybride :
 - Idéale pour l'orthodontie (utiliser conjointement avec
   [VistaSoft Trace](../vistasoft-trace/overview/) pour l'analyse).
 
+**Position du bras céphalométrique.** Le bras Ceph est monté **à gauche** de
+l'unité panoramique/CBCT (vue de face comme en vue de profil sur les schémas
+techniques officiels) — position **fixe, non réversible**. Ce montage
+asymétrique explique la largeur au sol plus importante de VistaVox S Ceph par
+rapport à VistaVox S (1 941 × 1 615 mm contre 1 212 × 1 545 mm, voir
+dimensions plus bas) : à prendre en compte dans l'implantation de la salle
+(sens d'accès du patient, mur disponible côté gauche).
+
 ## Stitching Tool (assemblage de volumes CBCT)
 
 Le **Stitching Tool VistaVox S** est un outil d'**assemblage logiciel de
@@ -10517,6 +10525,11 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/).
 - L'exposition aux rayonnements ionisants doit respecter le principe
   ALARA et la réglementation française de radioprotection (Code de la
   santé publique, IRSN, ASN).
+- **Le choix Ceph se fait à l'achat, pas après coup** : un VistaVox S vendu sans le module
+  céphalométrique **ne peut pas être mis à niveau vers VistaVox S Ceph ultérieurement**. Ce sont
+  deux appareils distincts (réfs `2210200726` / `2210200728`, voir références produit plus bas),
+  avec un second générateur/capteur et un bras dédié — pas un module logiciel ou un kit d'ajout.
+  Le choix S vs S Ceph doit donc être arbitré avant la commande.
 
 ## Installation et planning local
 
@@ -10587,6 +10600,18 @@ Oui — système hybride 3D + 2D, technologie S-Pan, 17 programmes panoramiques.
 ### Différence VistaVox S vs VistaVox S Ceph ?
 
 Ceph = ajout d'un **module céphalométrique** intégré (orthodontie).
+
+### Le bras Ceph peut-il être installé à droite ?
+
+Non — le bras céphalométrique est monté **à gauche** de l'unité pano/CBCT, une
+position **fixe** sur les schémas techniques officiels. À anticiper dans
+l'implantation de la salle.
+
+### Peut-on ajouter le Ceph après coup ?
+
+**Non.** VistaVox S et VistaVox S Ceph sont **deux appareils distincts**
+(réfs séparées). Le choix se fait **à la commande** — pas de mise à niveau
+ultérieure d'un VistaVox S de base.
 
 ### Stitching Tool ?
 

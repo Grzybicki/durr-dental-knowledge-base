@@ -4,6 +4,23 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.5] — 2026-09-14
+
+### Ajouté — VistaVox S Ceph : position fixe du bras (gauche) + non upgradable après achat
+
+- **Bras céphalométrique monté à gauche, position fixe non réversible** : confirmé visuellement
+  sur les schémas techniques officiels de la brochure `P007100059L03/U01` (rendu de page via
+  PyMuPDF, vues face/profil concordantes) — précision demandée par le mainteneur. Expliqué le
+  lien avec l'empreinte au sol plus large de VistaVox S Ceph (1 941×1 615 mm vs 1 212×1 545 mm).
+- **Pas de mise à niveau S → S Ceph après achat** : confirmé par le mainteneur (Dürr Dental
+  France). VistaVox S et VistaVox S Ceph sont deux appareils distincts (réfs `2210200726` /
+  `2210200728`), pas un module logiciel/kit d'ajout — cohérent avec le contenu de livraison déjà
+  documenté (plaque carpus incluse uniquement sur le modèle Ceph) et l'absence de toute réf
+  « kit upgrade Ceph » au catalogue. Le choix doit être arbitré à la commande.
+
+Propagé aux FAQ (JSON-LD + Questions fréquentes) et à `llms-full.txt`. `validate.py
+--warn-as-error` vert.
+
 ## [0.18.4] — 2026-09-14
 
 ### Ajouté — VistaVox S, résolution capteur Ceph (théorique vs réelle) + détail 6 programmes Ceph
