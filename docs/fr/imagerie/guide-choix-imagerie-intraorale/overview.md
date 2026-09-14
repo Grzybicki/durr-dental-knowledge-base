@@ -47,7 +47,7 @@ source_documents:
     type: "catalogue commercial public"
     language: "fr"
     note: "Catalogue commercial public présentant la gamme imagerie Dürr Dental France. Source des formats de plaques de série vs en option par scanner et des résolutions effectives par modèle. Données déjà consignées et sourcées dans les fiches produit du présent dépôt."
-last_factual_review: 2026-07-23
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -227,8 +227,8 @@ la résolution**.
 |---|---|---|
 | **Le plus compact / installation au fauteuil, formats S0–S2 seulement** | **Nano Easy** | Le plus petit de la gamme ; **scan + effacement en une seule étape** ; **un par salle de soins** (chairside, non mutualisable). Résolution la plus basse de la gamme : **16,7 LP/mm théoriques**. |
 | **Chairside polyvalent, tous formats** | **Mini Easy 2.0** | **Technologie PCS**, formats S0–S4, résolution effective **22 LP/mm**. Compatible workflow **Smart Reader**. |
-| **Prévisualisation à côté du fauteuil** | **Mini View 2.0** | **Écran d'aperçu intégré** (contrôle du cliché avant transmission au logiciel) + **Wi-Fi**. Compatible **Smart Reader**. |
-| **Fort volume / haut débit intra-oral** | **Ultra View** | Numérisation à **2 fentes en parallèle** → **plus rapide**. Tous formats S0–S4. |
+| **Prévisualisation à côté du fauteuil** | **Mini View 2.0** | **Technologie PCS**. **Écran d'aperçu intégré** (contrôle du cliché avant transmission au logiciel) + **Wi-Fi**. Compatible **Smart Reader**. |
+| **Fort volume / haut débit intra-oral** | **Ultra View** | **Technologie PCS**. Numérisation à **2 fentes en parallèle** → **plus rapide**. Tous formats S0–S4. |
 | **Un seul appareil pour intra + extra-oral (pano, céphalo)** | **Combi View** | Modèle **combi** ; fonctionne sur les **plaques Plus** (sans RFID), à distinguer des plaques IQ. |
 
 ### Point de vigilance résolution
@@ -425,5 +425,5 @@ formats, il faut choisir un **Mini Easy 2.0** ou supérieur.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles Dürr Dental
 et sur les fiches produit du présent dépôt. Mainteneur : salarié de Dürr Dental France (CDI
-déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-07-23.
+déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-09-14.
 Licence : CC-BY 4.0.*

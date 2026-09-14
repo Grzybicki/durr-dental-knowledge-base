@@ -7967,8 +7967,8 @@ extra-oral reste sur les plaques **VistaScan Plus** (sans RFID).
 
 | Modèle | Particularité |
 |---|---|
-| **VistaScan Combi View** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). Écran d'aperçu intégré. Fonctionne sur **plaques Plus** (sans RFID). |
-| **VistaScan Ultra View** | Modèle **intra-oral** haut de gamme et haut débit : lit **tous les formats intra-oraux S0 à S4** en montant l'adaptateur correspondant. Plaques **IQ** (RFID actif). |
+| **VistaScan Combi View** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). **Technologie PCS**. Écran d'aperçu intégré. Fonctionne sur **plaques Plus** (sans RFID). |
+| **VistaScan Ultra View** | Modèle **intra-oral** haut de gamme et haut débit : lit **tous les formats intra-oraux S0 à S4** en montant l'adaptateur correspondant. **Technologie PCS**. Plaques **IQ** (RFID actif). |
 
 ## Plaques au phosphore — VistaScan Image Plates IQ
 
@@ -8011,12 +8011,14 @@ sachets et formats sur la fiche [Accessoires imagerie](../accessoires-imagerie/o
 
 Source : *Mémento Imagerie Dürr Dental France* (catalogue commercial public).
 
-## Technologie PCS (modèles 2.0)
+## Technologie PCS
 
-Les modèles **VistaScan Mini Easy 2.0** et **Mini View 2.0** intègrent la
-**technologie PCS** (Plate Carrier Scanning) qui permet, selon la page
-produit officielle, la **détection fiable des lésions carieuses D1** (les
-plus précoces) et des **structures osseuses les plus fines**.
+Les modèles **VistaScan Mini Easy 2.0**, **Mini View 2.0**,
+**Ultra View** et **Combi View** intègrent la **technologie PCS** (Plate
+Carrier Scanning) qui permet, selon la page produit officielle, la
+**détection fiable des lésions carieuses D1** (les plus précoces) et des
+**structures osseuses les plus fines**. Le **Nano Easy** (série 2.0
+également, formats 0/1/2) n'utilise pas la technologie PCS.
 
 ## Intégration logicielle
 
@@ -8139,9 +8141,12 @@ Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie
 
 Les modèles intra-oraux Mini Easy 2.0, Mini View 2.0, Nano Easy et Ultra View (série 2.0, plaques IQ à puce RFID), et le modèle combi intra-oral + extra-oral Combi View (plaques Plus, sans RFID).
 
-### Qu'apporte la technologie PCS des modèles 2.0 ?
+### Qu'apporte la technologie PCS ?
 
-La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lésions carieuses D1 (les plus précoces) et des structures osseuses les plus fines.
+Présente sur **Mini Easy 2.0**, **Mini View 2.0**, **Ultra View** et **Combi
+View** (pas sur le Nano Easy). Permet une détection fiable des **lésions
+carieuses D1** (les plus précoces) et des **structures osseuses les plus
+fines**.
 
 ### Quelles sont les caractéristiques des plaques VistaScan IQ ?
 

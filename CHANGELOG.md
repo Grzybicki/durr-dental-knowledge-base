@@ -4,6 +4,25 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.18.8] — 2026-09-14
+
+### Corrigé — technologie PCS : Ultra View et Combi View manquants
+
+La section « Technologie PCS (modèles 2.0) » de `vistascan-gamme` ne citait que **Mini Easy 2.0**
+et **Mini View 2.0**. Vérifié sur les fiches produit dédiées (déjà sourcées) :
+**VistaScan Ultra View** et **VistaScan Combi View** intègrent aussi la technologie PCS — la
+section a été renommée « Technologie PCS » (retrait de « modèles 2.0 », trompeur puisque Combi
+View n'est pas de cette série) et complétée (corps de texte, FAQ JSON-LD + Questions fréquentes,
+lignes du tableau comparatif Ultra View/Combi View). Précisé que le **Nano Easy** (série 2.0
+également) n'utilise pas PCS. Même correction appliquée au tableau comparatif de
+`guide-choix-imagerie-intraorale` (Mini View 2.0 et Ultra View n'affichaient pas PCS alors qu'ils
+l'ont).
+
+`validate.py --warn-as-error` vert. Propagé à `llms-full.txt` (constat annexe : la fiche
+`guide-choix-imagerie-intraorale` est **absente** de `llms-full.txt` — créée après la dernière
+resynchronisation complète, jamais ajoutée ; à traiter séparément lors d'une prochaine
+régénération).
+
 ## [0.18.7] — 2026-09-14
 
 ### Complété — DICOM VistaSoft : stockage interne systématique, quelle que soit la modalité

@@ -41,7 +41,7 @@ source_documents:
     type: "catalogue commercial public"
     language: "fr"
     note: "Catalogue commercial public présentant la gamme imagerie. Source des formats de plaques de série vs en option par scanner, et de la résolution par modèle."
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -52,7 +52,7 @@ license: CC-BY-4.0
   "name": "Dürr Dental VistaScan gamme — Image Plate Scanners",
   "alternateName": ["VistaScan Mini Easy 2.0", "VistaScan Mini View 2.0", "VistaScan Nano Easy", "VistaScan Combi View", "VistaScan Ultra View"],
   "category": "Phosphor Plate Scanner for dental radiography",
-  "description": "Famille de scanners de plaques au phosphore Dürr Dental pour radiographie intraorale et extra-orale. Les modèles intra-oraux série 2.0 (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View) utilisent les plaques VistaScan Image Plates IQ à puce RFID ; le Combi View utilise les plaques VistaScan Plus sans RFID. Technologie PCS (Plate Scanning) sur les modèles 2.0.",
+  "description": "Famille de scanners de plaques au phosphore Dürr Dental pour radiographie intraorale et extra-orale. Les modèles intra-oraux série 2.0 (Mini Easy 2.0, Mini View 2.0, Nano Easy, Ultra View) utilisent les plaques VistaScan Image Plates IQ à puce RFID ; le Combi View utilise les plaques VistaScan Plus sans RFID. Technologie PCS (Plate Carrier Scanning) sur Mini Easy 2.0, Mini View 2.0, Ultra View et Combi View (pas sur le Nano Easy).",
   "url": "https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/",
   "inLanguage": "fr",
   "manufacturer": { "@type": "Organization", "name": "Dürr Dental SE", "url": "https://www.duerrdental.com" }
@@ -83,8 +83,8 @@ extra-oral reste sur les plaques **VistaScan Plus** (sans RFID).
 
 | Modèle | Particularité |
 |---|---|
-| **[VistaScan Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-combi-view/overview/)** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). Écran tactile 4,3" avec **fenêtre de prévisualisation**. Fonctionne sur **plaques Plus** (sans RFID). |
-| **[VistaScan Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-ultra-view/overview/)** | Modèle **intra-oral** haut de gamme et haut débit (**2 fentes**, lecture simultanée de 2 plaques) : lit **tous les formats intra-oraux S0 à S4**. Plaques **IQ** (RFID actif). |
+| **[VistaScan Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-combi-view/overview/)** | Modèle combi intra-oral + extra-oral (formats panoramique et céphalométrique). **Technologie PCS**. Écran tactile 4,3" avec **fenêtre de prévisualisation**. Fonctionne sur **plaques Plus** (sans RFID). |
+| **[VistaScan Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-ultra-view/overview/)** | Modèle **intra-oral** haut de gamme et haut débit (**2 fentes**, lecture simultanée de 2 plaques) : lit **tous les formats intra-oraux S0 à S4**. **Technologie PCS**. Plaques **IQ** (RFID actif). |
 
 ## Plaques au phosphore — VistaScan Image Plates IQ
 
@@ -127,12 +127,15 @@ sachets et formats sur la fiche [Accessoires imagerie](/durr-dental-knowledge-ba
 
 Source : *Mémento Imagerie Dürr Dental France* (catalogue commercial public).
 
-## Technologie PCS (modèles 2.0)
+## Technologie PCS
 
-Les modèles **VistaScan Mini Easy 2.0** et **Mini View 2.0** intègrent la
-**technologie PCS** (Plate Carrier Scanning) qui permet, selon la page
-produit officielle, la **détection fiable des lésions carieuses D1** (les
-plus précoces) et des **structures osseuses les plus fines**.
+Les modèles **VistaScan Mini Easy 2.0**, **Mini View 2.0**,
+**[Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-ultra-view/overview/)**
+et **[Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-combi-view/overview/)**
+intègrent la **technologie PCS** (Plate Carrier Scanning) qui permet, selon
+la page produit officielle, la **détection fiable des lésions carieuses D1**
+(les plus précoces) et des **structures osseuses les plus fines**. Le **Nano
+Easy** (série 2.0 également, formats 0/1/2) n'utilise pas la technologie PCS.
 
 ## Intégration logicielle
 
@@ -177,10 +180,10 @@ L'ensemble de la gamme VistaScan s'intègre nativement à
     },
     {
       "@type": "Question",
-      "name": "Qu'apporte la technologie PCS des modèles 2.0 ?",
+      "name": "Qu'apporte la technologie PCS ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lésions carieuses D1 (les plus précoces) et des structures osseuses les plus fines."
+        "text": "La technologie PCS (Plate Carrier Scanning), présente sur VistaScan Mini Easy 2.0, Mini View 2.0, Ultra View et Combi View, permet une détection fiable des lésions carieuses D1 (les plus précoces) et des structures osseuses les plus fines. Le Nano Easy, autre modèle de la série 2.0, n'utilise pas cette technologie."
       }
     },
     {
@@ -300,9 +303,12 @@ Les scanners de plaques au phosphore (Image Plate Scanners) pour la radiographie
 
 Les modèles intra-oraux Mini Easy 2.0, Mini View 2.0, Nano Easy et Ultra View (série 2.0, plaques IQ à puce RFID), et le modèle combi intra-oral + extra-oral Combi View (plaques Plus, sans RFID).
 
-### Qu'apporte la technologie PCS des modèles 2.0 ?
+### Qu'apporte la technologie PCS ?
 
-La technologie PCS (Plate Carrier Scanning) permet une détection fiable des lésions carieuses D1 (les plus précoces) et des structures osseuses les plus fines.
+Présente sur **Mini Easy 2.0**, **Mini View 2.0**, **Ultra View** et **Combi
+View** (pas sur le Nano Easy). Permet une détection fiable des **lésions
+carieuses D1** (les plus précoces) et des **structures osseuses les plus
+fines**.
 
 ### Quelles sont les caractéristiques des plaques VistaScan IQ ?
 
@@ -347,4 +353,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
