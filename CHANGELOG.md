@@ -4,6 +4,34 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.19.0] — 2026-09-14
+
+### Corrigé — relecture complète des 7 fiches VistaScan
+
+Relecture systématique de toutes les fiches VistaScan (`gamme`, `mini-easy-2-0`, `mini-view-2-0`,
+`nano-easy`, `combi-view`, `ultra-view`, `iq-ecrans`) pour vérifier la cohérence croisée après les
+corrections récentes (PCS, firmware).
+
+- **Corrigé — vrai bug trouvé** : la fiche dédiée `vistascan-ultra-view` affichait encore l'ancien
+  firmware **R1.5.2 (mai 2025)** dans sa propre section « Firmware », alors que `vistascan-gamme`
+  avait déjà été mis à jour vers **R1.5.3 (avril 2026)** (CHANGELOG 0.18.9) — incohérence
+  inter-fiches corrigée.
+- **Corrigé — omission** : le tableau « Ancienne génération (série 1.0) » de `vistascan-iq-ecrans`
+  listait 5 scanners compatibles plaques IQ sans RFID mais **oubliait VistaScan Mini View (1.0)**,
+  pourtant cité dans le reste de la même fiche (section Plus, tableau références). Ajouté.
+- **Harmonisé** : dates de référence firmware (« mai 2026 » → « avril 2026 ») sur les 5 fiches
+  concernées, cohérentes avec la mise à jour Ultra View. Ajouté une note de plateforme firmware
+  partagée Mini Easy 2.0 / Mini View 2.0 (moteur PCS commun) dans les deux fiches dédiées.
+- **Vérifié sans changement** : `vistascan-mini-easy-2-0` (hors firmware), `vistascan-combi-view`,
+  `vistascan-mini-view-2-0` (hors firmware) — contenu déjà cohérent et bien sourcé.
+
+`validate.py --warn-as-error` vert. Propagé à `llms-full.txt`.
+
+**Constat annexe (déjà noté dans CLAUDE.md)** : `llms-full.txt` est **totalement absent** pour
+3 des 7 fiches VistaScan (`mini-view-2-0`, `ultra-view`, `combi-view`) en plus de
+`guide-choix-imagerie-intraorale` déjà repérée — confirme le besoin d'un script de régénération
+plutôt que des patches manuels au cas par cas.
+
 ## [0.18.9] — 2026-09-14
 
 ### Mis à jour — firmware VistaScan (Ultra View + Nano Easy manquant + génération précédente)

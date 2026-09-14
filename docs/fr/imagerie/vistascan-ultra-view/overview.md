@@ -30,7 +30,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-07-24
+last_factual_review: 2026-09-14
 license: CC-BY-4.0
 ---
 
@@ -111,7 +111,7 @@ VistaSoft Connect/TWAIN.
 
 ## Firmware
 
-**Dernière version connue** (référence mai 2026) : **R1.5.2** (mai 2025).
+**Dernière version connue** (référence avril 2026) : **R1.5.3** (avril 2026).
 
 <script type="application/ld+json">
 {
@@ -211,4 +211,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-24. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*

@@ -8249,6 +8249,7 @@ fonctionnalités RFID**. Les modèles concernés :
 |---|---|
 | VistaScan Mini Easy (1.0) | Plaques IQ utilisables, sans RFID |
 | VistaScan Mini Plus | Plaques IQ utilisables, sans RFID |
+| VistaScan Mini View (1.0) | Plaques IQ utilisables, sans RFID |
 | VistaScan Combi (sans View) | Plaques IQ utilisables, sans RFID |
 | VistaScan Perio | Plaques IQ utilisables, sans RFID |
 | VistaScan Perio Net | Plaques IQ utilisables, sans RFID |
@@ -8436,7 +8437,8 @@ D'après la page produit officielle Dürr Dental :
 
 ## Firmware
 
-**Dernière version connue** (référence mai 2026) : **R1.5.4** (novembre 2025).
+**Dernière version connue** (référence avril 2026) : **R1.5.4** (novembre 2025).
+Partage la même plateforme firmware que le Mini View 2.0 (moteur de scan PCS commun).
 
 ## Résolution de lecture
 
@@ -8547,7 +8549,7 @@ D'après la page produit officielle Dürr Dental :
 
 ## Firmware
 
-**Dernière version connue** (référence mai 2026) : **V1.5.1** (avril 2025).
+**Dernière version connue** (référence avril 2026) : **V1.5.1** (avril 2025).
 
 ## Questions fréquentes
 
