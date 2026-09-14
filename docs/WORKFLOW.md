@@ -100,6 +100,15 @@ Le script vérifie automatiquement :
 **Code de retour 0** = aucune erreur, commit autorisé.
 **Code de retour 1** = erreurs bloquantes, corriger avant commit.
 
+Après toute création ou modification de fiche, régénérer l'index et la concaténation LLM :
+
+```bash
+python scripts/build_llms_full.py
+```
+
+`--check` compare sans écrire (utile pour vérifier si une régénération est nécessaire).
+Ne jamais éditer `llms.txt` ou `llms-full.txt` à la main — ils sont dérivés de `docs/fr/`.
+
 ## Étape 4 — Commit (signé)
 
 ```bash

@@ -4,6 +4,37 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.20.0] — 2026-09-14
+
+### Ajouté — script de régénération `llms.txt`/`llms-full.txt`, 14 fiches manquantes réintégrées
+
+Audit complet sur demande utilisateur : comparaison programmatique de toutes les fiches
+`docs/fr/**/overview.md` (70) contre les URLs présentes dans `llms.txt` et `llms-full.txt`.
+Résultat : **14 fiches totalement absentes des deux fichiers**, bien au-delà des 4 déjà repérées
+en session (`guide-choix-imagerie-intraorale`, `vistascan-mini-view-2-0`, `vistascan-ultra-view`,
+`vistascan-combi-view`) — s'y ajoutent 9 fiches `conventionnel` (`air-clinic`,
+`aspiration-chirurgicale-vc-45`, `dessiccateur-membrane`, `guide-choix-aspiration`,
+`guide-choix-compresseur`, `local-technique-compresseur`, `qualite-air-comprime-dentaire`,
+`variosuc`, `vsa`) et `hygosuc`.
+
+- **Ajouté `scripts/build_llms_full.py`** : parse le frontmatter YAML de chaque fiche, strip les
+  blocs `<script>` JSON-LD, réécrit tout lien interne absolu (`/durr-dental-knowledge-base/...` ou
+  URL complète) en chemin relatif calculé depuis le permalink (`posixpath.relpath`) — validé par
+  comparaison avant/après sur plusieurs fiches, y compris un lien inter-catégories réel
+  (imagerie → hygiène-chimie, `vistavox-s` → `desinfection-surfaces`). Régénère `llms.txt` (index
+  groupé par catégorie, trié par titre complet du frontmatter) et `llms-full.txt` (concaténation).
+  Mode `--check` : compare sans écrire.
+- **Régénéré les deux fichiers** : 70 fiches désormais présentes et synchronisées avec `docs/fr/`
+  (au passage, corrige aussi toute la dérive de contenu déjà repérée en 0.18.x/0.19.x — plus
+  besoin de resynchronisation manuelle au cas par cas). `llms-full.txt` passe de ~523 Ko à ~825 Ko.
+- **`.pre-commit-config.yaml`** : exclu `llms-full.txt` du hook `check-added-large-files`
+  (limite 500 Ko) — fichier volumineux par nature (concaténation de 70 fiches pour ingestion LLM).
+- **`docs/WORKFLOW.md`** : ajouté l'étape de régénération après toute édition de fiche.
+
+`validate.py --warn-as-error` vert (inchangé, ne couvre pas ces deux fichiers). **À partir de
+maintenant : toujours relancer `python scripts/build_llms_full.py` après une édition de fiche —
+ne plus jamais éditer `llms.txt`/`llms-full.txt` à la main.**
+
 ## [0.19.2] — 2026-09-14
 
 ### Corrigé — même omission « Mini View (1.0) » retrouvée dans 2 endroits supplémentaires
