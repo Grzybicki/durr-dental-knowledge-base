@@ -4,6 +4,32 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.21.1] — 2026-09-15
+
+### Ajouté — guide de choix imagerie extra-orale (VistaPano vs VistaVox)
+
+Nouvelle fiche `guide-choix-imagerie-extraorale` : dernier chantier de contenu sans doc identifié
+depuis plusieurs sessions. Sur cadrage du mainteneur — le choix se résume surtout à la question
+du **CBCT en complément du panoramique** — structuré en deux étapes indépendantes :
+
+1. **Panoramique 2D seul (VistaPano S 2.0) ou CBCT hybride (VistaVox S)** : les deux gammes
+   partagent la même technologie **S-Pan** (17 programmes panoramiques) — VistaVox S ajoute le
+   volume 3D (jaw-shaped Ø 130×85 mm, mono-arcade, sous-volumes locaux, Stitching Tool) sans rien
+   retirer côté 2D. Usages du CBCT sourcés sur la documentation officielle déjà consignée sur la
+   fiche VistaVox S (planification implantaire/SICAT Implant, évaluation osseuse, dents incluses,
+   endodontie/SICAT Endo). Tableau comparatif complet (temps d'acquisition, capteur, statut
+   réglementaire — MDD/DNV 2460 pour VistaPano vs MDR direct/DQS 0297 pour VistaVox —,
+   encombrement, poids).
+2. **Céphalométrie (Ceph) — question indépendante** : les deux gammes ont une version Ceph
+   (compatibles VistaSoft Trace), avec le point de vigilance déjà sourcé sur VistaVox : le choix
+   Ceph se fait à l'achat, non réversible après coup (deux appareils distincts).
+
+Synthèse à 4 configurations (Pano seul / Pano Ceph / Vox seul / Vox Ceph). Ajoutée à l'index
+imagerie (§ Guides de choix) + liens réciproques `vistapano-2-0`/`vistavox-s`.
+`llms.txt`/`llms-full.txt` régénérés (71 fiches). Vérifié par un **vrai build Jekyll local**
+(nouveau depuis 0.21.0) : page générée au bon permalink, 6 blocs JSON-LD tous valides, entrée
+correctement intégrée au `feed.xml` et au `sitemap.xml`.
+
 ## [0.21.0] — 2026-09-15
 
 ### Ajouté — flux `feed.xml` réel (Option 2) + toolchain Jekyll locale

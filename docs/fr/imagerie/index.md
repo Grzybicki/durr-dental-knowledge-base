@@ -4,7 +4,7 @@ title: "Imagerie dentaire Dürr Dental — Index"
 description: "Catalogue de l'imagerie dentaire Dürr Dental : logiciel VistaSoft 4.0, panoramiques, CBCT, capteurs intraoraux, scanners de plaques au phosphore, caméras intraorales."
 lang: fr
 permalink: /docs/fr/imagerie/
-last_factual_review: 2026-09-14
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -19,6 +19,7 @@ au phosphore, caméras intraorales.
 | Guide | Objet |
 |---|---|
 | **[Choisir son imagerie intra-orale](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/)** | Capteur filaire (VistaRay 7) ou plaque ERLM (VistaScan IQ), puis quel scanner VistaScan (Nano Easy, Mini Easy 2.0, Mini View 2.0, Ultra View, Combi View). |
+| **[Choisir son imagerie extra-orale](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-extraorale/overview/)** | Panoramique 2D seul (VistaPano S 2.0) ou CBCT 3D hybride (VistaVox S), puis besoin ou non d'un module céphalométrique (Ceph). |
 
 ## Logiciel d'imagerie — VistaSoft (gamme complète)
 

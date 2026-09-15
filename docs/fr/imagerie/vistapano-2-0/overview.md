@@ -750,6 +750,8 @@ Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.
 
 ## Pour aller plus loin
 
+- [Comment choisir son imagerie extra-orale — panoramique seul ou CBCT hybride](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-extraorale/overview/)
+- [VistaVox S — CBCT hybride (intègre le même panoramique S-Pan)](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/)
 - [Index imagerie dentaire](/durr-dental-knowledge-base/docs/fr/imagerie/) — autres produits de la gamme imagerie Dürr Dental
 - [Documentation française](/durr-dental-knowledge-base/docs/fr/) — index général en français
 - [Page d'accueil du dépôt](/durr-dental-knowledge-base/)

@@ -727,6 +727,7 @@ Source : portfolio des mentonnières VistaVox / VistaPano — Dürr Dental (mise
 
 ## Pour aller plus loin
 
+- [Comment choisir son imagerie extra-orale — panoramique seul ou CBCT hybride](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-extraorale/overview/)
 - [VistaPano S 2.0 / Ceph 2.0 — panoramique 2D dédié (même technologie S-Pan)](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)
 - [VistaSoft 4.0 — logiciel d'imagerie diagnostique CBCT](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/)
 - [VistaSoft Implant & Guide — planification implantaire sur volumes CBCT](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/)
