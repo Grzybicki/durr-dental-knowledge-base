@@ -4,6 +4,47 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.20.4] — 2026-09-15
+
+### Durci — `validate.py` résout les liens internes contre la table des permalinks déclarés
+
+Angle mort restant depuis l'audit P5 (2026-07-19) : `_resolve_internal_link()` dérivait l'URL
+attendue d'un lien interne **depuis le chemin fichier** (`docs/fr/x/overview.md` →
+`.../x/overview/`), une heuristique correcte tant que le `permalink:` du frontmatter reste
+aligné avec le chemin FS — mais qui validerait à tort un lien si un jour un permalink
+personnalisé divergeait de son fichier source (Jekyll sert la page à l'URL **déclarée**, pas au
+chemin deviné).
+
+Ajouté `build_permalink_index()` (première passe : `permalink` frontmatter → fichier source,
+table de vérité identique à celle que Jekyll utilise pour construire le site). Pour toute cible
+de lien racine-absolue « de type page » (finit par `/` ou sans extension), la résolution passe
+désormais **exclusivement** par cette table — plus de repli sur l'heuristique FS pour ces cas.
+Les liens relatifs (docs de dev non publiées) et les assets (images, PDF…) restent résolus comme
+avant (aucun changement de comportement pour eux). Détecte en bonus les **collisions de
+permalink** (`permalink-duplicate`, ERROR) — deux fichiers déclarant la même URL de sortie,
+un échec de build Jekyll silencieux sinon.
+
+Testé sur un corpus synthétique (`scratchpad/`, non versionné) : un fichier dont le permalink
+déclaré divergeait de son chemin FS était accepté par l'ancienne logique (fichier trouvé au
+chemin deviné) — correctement rejeté par la nouvelle. Collision de permalink également détectée
+sur cas synthétique. `validate.py --warn-as-error` toujours vert (0/0) sur le corpus réel — aucun
+changement de comportement sur les 98 fichiers actuels, tous alignés par convention.
+
+## [0.20.3] — 2026-09-15
+
+### Ajouté — archivage automatique Wayback Machine
+
+Nouveau workflow `.github/workflows/wayback-archive.yml` : job mensuel (+ déclenchement manuel
+`workflow_dispatch`) qui récupère le sitemap publié et soumet chaque URL à l'API **Save Page Now**
+de `web.archive.org`, pour constituer un historique de snapshots publics indépendant de GitHub
+Pages. Tourne sur les runners GitHub (accès réseau normal à `archive.org`, contrairement à
+l'environnement de développement sandboxé qui ne l'atteint pas). Les échecs individuels sont
+loggés en warning et ne font pas échouer le job (service tiers, pas de garantie de disponibilité).
+
+Point « suivi Cloudflare (bots IA par nom) » écarté du périmètre de ce projet : le site est servi
+en domaine par défaut `grzybicki.github.io` (pas de domaine personnalisé, donc pas de Cloudflare
+dans la chaîne).
+
 ## [0.20.2] — 2026-09-14
 
 ### Ajouté — jalon 1966 (naissance du secteur imagerie) dans la chronologie entreprise

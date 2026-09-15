@@ -1,0 +1,51 @@
+name: Wayback archive
+
+# Soumet chaque URL publiée du sitemap à la Wayback Machine (Save Page Now)
+# pour constituer un historique de snapshots, en cas de disparition/modification
+# du contenu. Tourne sur les runners GitHub (accès réseau normal à archive.org,
+# contrairement à l'environnement de développement sandboxé qui ne l'atteint pas).
+
+on:
+  schedule:
+    # Le 1er de chaque mois à 7h UTC — le contenu de la KB ne change pas assez
+    # vite pour justifier un rythme plus rapproché.
+    - cron: "0 7 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  archive:
+    name: "Soumettre le sitemap à web.archive.org"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le sitemap publié
+        run: |
+          curl -sSf "https://grzybicki.github.io/durr-dental-knowledge-base/sitemap.xml" -o sitemap.xml
+          grep -c "<loc>" sitemap.xml
+
+      - name: Extraire les URLs
+        id: urls
+        run: |
+          grep -oP '(?<=<loc>)[^<]+' sitemap.xml > urls.txt
+          echo "count=$(wc -l < urls.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: Soumettre chaque URL à Save Page Now
+        run: |
+          ok=0
+          fail=0
+          while IFS= read -r url; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "https://web.archive.org/save/${url}")
+            if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
+              ok=$((ok+1))
+            else
+              fail=$((fail+1))
+              echo "::warning::Échec archivage ($code) — $url"
+            fi
+            sleep 3
+          done < urls.txt
+          echo "Archivées avec succès : $ok / échouées : $fail (total ${{ steps.urls.outputs.count }})"
+
+      - name: Résumé
+        run: echo "### Wayback archive — $(date -u +%Y-%m-%d)" >> "$GITHUB_STEP_SUMMARY"

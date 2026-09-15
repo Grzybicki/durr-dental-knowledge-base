@@ -431,8 +431,65 @@ def check_jsonld_blocks(report: Report, path: Path, content: str) -> None:
             ))
 
 
-def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
-    """Vrai si le lien interne correspond à un fichier source existant.
+def _normalize_permalink_key(permalink: str) -> str:
+    """Normalise un permalink déclaré (frontmatter) ou une cible de lien en clé
+    comparable : racine-absolue, slash final sauf extension de fichier explicite
+    (``/404.html``, flux ``.xml``…)."""
+    if not permalink.startswith("/"):
+        permalink = "/" + permalink
+    if permalink.endswith("/") or Path(permalink).suffix:
+        return permalink
+    return permalink + "/"
+
+
+def build_permalink_index(root: Path, report: Report) -> dict[str, Path]:
+    """Table de vérité permalink → fichier source, construite depuis le
+    frontmatter réel de chaque page (c'est la donnée que Jekyll utilise pour
+    construire l'URL de sortie — PAS le chemin fichier).
+
+    Corrige l'angle mort de ``_resolve_internal_link`` v1 : celle-ci dérivait
+    l'URL attendue depuis le chemin FS (``docs/fr/x/overview.md`` →
+    ``.../x/overview/``), une heuristique correcte tant que permalink et chemin
+    fichier restent alignés par convention — mais qui validerait à tort un lien
+    si un jour un permalink personnalisé divergeait du chemin FS (ou l'inverse).
+    Détecte au passage les collisions de permalink (deux fichiers déclarant la
+    même URL de sortie = échec de build Jekyll silencieux sinon).
+    """
+    index: dict[str, Path] = {}
+    for path in iter_files(root):
+        try:
+            content = path.read_text(encoding="utf-8")
+        except (OSError, UnicodeDecodeError):
+            continue
+        try:
+            fm, _ = split_frontmatter(content)
+        except ValueError:
+            continue
+        if not fm:
+            continue
+        permalink = fm.get("permalink")
+        if not isinstance(permalink, str) or not permalink:
+            continue
+        key = _normalize_permalink_key(permalink)
+        if key in index and index[key] != path:
+            report.add(Issue(
+                path=path,
+                severity="ERROR",
+                rule="permalink-duplicate",
+                message=(
+                    f"permalink '{permalink}' déjà déclaré par "
+                    f"{index[key].relative_to(root).as_posix()} — collision de build Jekyll"
+                ),
+            ))
+            continue
+        index[key] = path
+    return index
+
+
+def _resolve_internal_link(
+    root: Path, path: Path, target: str, permalink_index: dict[str, Path]
+) -> bool:
+    """Vrai si le lien interne correspond à une page/fichier réellement servi.
 
     Gère deux conventions :
     - chemin de fichier direct (``../x/overview.md``, ``./img.png``) ;
@@ -461,6 +518,16 @@ def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
         # lien racine-absolu SANS baseurl depuis une page publiée = 404 live
         # (ex. `/docs/fr/` au lieu de `/durr-dental-knowledge-base/docs/fr/`).
         return False
+
+    # --- Résolution par la table des permalinks (vérité Jekyll) ---
+    # S'applique aux cibles racine-absolues « de type page » (finissant par `/`
+    # ou sans extension explicite) : c'est la convention systématique de ce
+    # dépôt pour tout lien interne publié (audit P5). Pour ces cibles, la table
+    # des permalinks déclarés fait AUTORITÉ — pas de repli FS : un fichier qui
+    # existerait au chemin deviné mais dont le permalink déclaré diverge de la
+    # cible ne doit PAS être accepté (Jekyll ne le servira pas à cette URL).
+    if target.startswith("/") and (target.endswith("/") or not Path(target).suffix):
+        return _normalize_permalink_key(target) in permalink_index
 
     stem = target.rstrip("/")
     if target.startswith("/"):
@@ -501,7 +568,9 @@ def _resolve_internal_link(root: Path, path: Path, target: str) -> bool:
     return False
 
 
-def check_internal_links(report: Report, root: Path, path: Path, body: str) -> None:
+def check_internal_links(
+    report: Report, root: Path, path: Path, body: str, permalink_index: dict[str, Path]
+) -> None:
     """Liens Markdown vers des fichiers locaux doivent exister."""
     for m in MD_LINK_RE.finditer(body):
         href = m.group(2)
@@ -516,7 +585,7 @@ def check_internal_links(report: Report, root: Path, path: Path, body: str) -> N
         if not target_path:
             continue
         # Résolution Jekyll-aware (permalink ../x/overview/ → fichier ../x/overview.md)
-        if not _resolve_internal_link(root, path, target_path):
+        if not _resolve_internal_link(root, path, target_path, permalink_index):
             report.add(Issue(
                 path=path,
                 severity="WARN",
@@ -541,7 +610,9 @@ def iter_files(root: Path):
         yield path
 
 
-def validate_file(report: Report, root: Path, path: Path) -> None:
+def validate_file(
+    report: Report, root: Path, path: Path, permalink_index: dict[str, Path]
+) -> None:
     try:
         content = path.read_text(encoding="utf-8")
     except (OSError, UnicodeDecodeError) as e:
@@ -571,7 +642,7 @@ def validate_file(report: Report, root: Path, path: Path) -> None:
     check_internal_markers(report, path, body)
     check_pii(report, path, body)
     check_jsonld_blocks(report, path, content)
-    check_internal_links(report, root, path, body)
+    check_internal_links(report, root, path, body, permalink_index)
 
 
 # ------------------------------------------------------------------
@@ -597,8 +668,12 @@ def main() -> int:
     root = Path(args.root).resolve()
     report = Report()
 
+    # Première passe : table de vérité permalink → fichier (détecte aussi les
+    # collisions de permalink au passage).
+    permalink_index = build_permalink_index(root, report)
+
     for path in iter_files(root):
-        validate_file(report, root, path)
+        validate_file(report, root, path, permalink_index)
 
     # Rapport humain
     print()
