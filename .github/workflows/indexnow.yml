@@ -1,0 +1,66 @@
+name: IndexNow
+
+# Notifie Bing/Yandex (protocole IndexNow) des URLs publiées, pour accélérer
+# la réindexation au lieu d'attendre le prochain crawl périodique. Complète
+# le sitemap déjà soumis manuellement sur Bing Webmaster Tools.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "sources/**"
+      - "index.md"
+      - "llms.txt"
+      - "llms-full.txt"
+  schedule:
+    # Filet de sécurité hebdomadaire (le site peut avoir changé sans déclencher
+    # les chemins ci-dessus, ex. layout).
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    name: "Soumettre le sitemap à IndexNow"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le sitemap publié
+        run: |
+          curl -sSf "https://grzybicki.github.io/durr-dental-knowledge-base/sitemap.xml" -o sitemap.xml
+          grep -c "<loc>" sitemap.xml
+
+      - name: Construire la liste d'URLs
+        id: urls
+        run: |
+          grep -oP '(?<=<loc>)[^<]+' sitemap.xml > urls.txt
+          echo "count=$(wc -l < urls.txt)" >> "$GITHUB_OUTPUT"
+          python3 - <<'PYEOF'
+          import json
+          with open("urls.txt", encoding="utf-8") as f:
+              urls = [u.strip() for u in f if u.strip()]
+          payload = {
+              "host": "grzybicki.github.io",
+              "key": "4a7b47ac0bb6c4c625e3715bbb9b1137",
+              "keyLocation": "https://grzybicki.github.io/durr-dental-knowledge-base/4a7b47ac0bb6c4c625e3715bbb9b1137.txt",
+              "urlList": urls,
+          }
+          with open("payload.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f)
+          PYEOF
+
+      - name: Soumettre à IndexNow (Bing/Yandex)
+        run: |
+          code=$(curl -s -o response.txt -w "%{http_code}" \
+            -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data @payload.json)
+          echo "HTTP $code"
+          cat response.txt || true
+          if [ "$code" -ge 200 ] && [ "$code" -lt 300 ]; then
+            echo "::notice::IndexNow OK — ${{ steps.urls.outputs.count }} URLs soumises"
+          else
+            echo "::warning::IndexNow a répondu $code"
+          fi

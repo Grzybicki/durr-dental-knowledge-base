@@ -4,7 +4,7 @@ title: "Sources — Certificats et conformité réglementaire (matrice MDR compl
 description: "Matrice MDR complète des produits Dürr Dental : classe de dispositif médical (I, IIa, IIb), Notified Body, références de certificats, sources publiques."
 lang: fr
 permalink: /sources/certificates/
-last_factual_review: 2026-08-31
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -52,6 +52,26 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
   retraitement / sporicides) : **FD 333 forte**, **ID 220** et **B 33** (+ leurs lingettes).
   NB : **HD** (mains) relève du **règlement biocides** (hors ce certificat DM) ; **FD 312**
   a un **double statut** DM IIa + biocide TP2 (cf. lignes chimie).
+- **BSI Group The Netherlands B.V.** — code Notified Body **2797** — certifie le système de
+  management qualité de **exocad GmbH** (Darmstadt, Allemagne, SRN DE-MF-000007341), partenaire
+  d'intégration STL de **VistaSoft Implant & Guide** (planification implantaire/CAO laboratoire),
+  sous MDR EU 2017/745 (Annexe IX ch. I+III), **certificat `MDR 738262 R000`** (valide jusqu'au
+  **2027-04-07**), catégorie **« Dental implant planning software / Dental restoration design
+  software »**, **classe IIa**. ⚠️ Ce certificat couvre les **produits exocad eux-mêmes**
+  (DentalCAD, exoplan…) — l'intégration Dürr Dental/exocad est une interopérabilité par **export
+  STL ouvert** (fichiers échangés entre logiciels distincts), pas un OEM/marque blanche comme pour
+  VistaSoft Trace/Audax Ceph. Il ne permet donc **pas** de déduire la classe MDR propre de
+  **VistaSoft Implant & Guide** (reste « à confirmer » ci-dessous). Source publique :
+  [page Certifications exocad](https://exocad.com/company/certifications) →
+  [certificat MDR 738262 R000 (PDF)](https://exocad.com/fileadmin/content/company/03_MDR_738262_RPS2.pdf).
+- **SIQ Ljubljana** — code Notified Body **1304** — certifie le **logiciel de céphalométrie**
+  (fabricant **AUDAX d.o.o.**, Ljubljana, Slovénie, SRN SI-MF-000030083) sous MDR EU 2017/745
+  (Annexe IX), **certificat `MDR-0029`** (délivré 2025-05-23, valide jusqu'au 2030-05-22),
+  **classe IIa**. Ce certificat couvre plusieurs **éditions commerciales rebrandées** de la même
+  technologie logicielle sous-jacente (« Model 7 ») — **VistaSoft Trace** y est nommément listé
+  comme l'une de ces éditions, confirmant que le module Dürr Dental est un **OEM/marque blanche
+  Audax Ceph** et n'a pas de certificat CE distinct au nom de Dürr Dental SE. Source publique :
+  [certificat MDR-0029 (PDF, audaxceph.com)](https://www.audaxceph.com/uploads/files/ceph-mdr.pdf).
 
 ## Matrice MDR — Logiciels d'imagerie (gamme VistaSoft)
 
@@ -59,8 +79,8 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 |---|---|---|---|---|---|---|
 | **VistaSoft 4.0** | **IIb** | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-13 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/) |
 | **VistaSoft AID** | **IIa** | MDR EU 2017/745 (Annexe IX ch. I+III) | DQS Medizinprodukte (0297) | 518373 MDR2017Q (valide jusqu'au 2027-03-10) | 2026-04-01 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-aid/overview/) |
-| **VistaSoft Trace** | À confirmer (probable IIa via socle Audax Ceph) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) |
-| **VistaSoft Implant & Guide** | À confirmer (probable IIa) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/) |
+| **VistaSoft Trace** | **IIa** | MDR EU 2017/745 (Annexe IX) | SIQ Ljubljana (1304) — certificat au nom du fabricant du socle logiciel, AUDAX d.o.o. | MDR-0029 (valide jusqu'au 2030-05-22) | 2025-05-23 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-trace/overview/) |
+| **VistaSoft Implant & Guide** | À confirmer¹ (probable IIa) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-implant-guide/overview/) |
 | **VistaSoft Inspect** | À confirmer | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-inspect/overview/) |
 | **VistaSoft Monitor** | **Non-DM** (IoT surveillance équipement) | — | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-monitor/overview/) |
 | **VistaSoft Cloud View** | **Non-DM** (visualisation) | — | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-cloud-view/overview/) |
@@ -69,6 +89,12 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **VistaSoft Mobile Connect** | **Non-DM** (consultation iPad) | — | — | — | — | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-mobile-connect/overview/) |
 | **Patient Bridge** | À confirmer (interface logicielle, probable composant de VistaSoft 4.0 IIb) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/patient-bridge/overview/) |
 | **Image Bridge** | À confirmer (idem) | MDR EU 2017/745 | DQS Medizinprodukte (0297) | À confirmer | À confirmer | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/image-bridge/overview/) |
+
+¹ Le partenaire d'intégration **exocad** dispose de son propre certificat MDR (BSI Group
+Netherlands, NB 2797, `MDR 738262 R000`, classe IIa — cf. § Notified Body ci-dessus), mais
+l'intégration Dürr Dental/exocad se fait par **export STL ouvert** entre logiciels distincts,
+pas par OEM/marque blanche — ce certificat ne classe donc pas VistaSoft Implant & Guide
+lui-même, qui reste sans certificat MDR individuel identifié à ce jour.
 
 ## Matrice MDR — Appareils d'imagerie
 
@@ -155,6 +181,9 @@ ou la base [Eudamed](https://ec.europa.eu/tools/eudamed/screen/search?type=basic
 | **Orotol expert cleaner / Vector cleaner** (nettoyants) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) |
 | **Vector / RinsEndo** (désinfectant) | **DM IIa** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/vector-paro/overview/) |
 | **Lingette de nettoyage écrans VistaScan** | **DM I** | MDR 2017/745 — NB DEKRA 0124 | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/) |
+| **Sachets de protection contre la lumière** (écrans VistaScan, gamme + Plus + Plus White) | **DM I** | MDR 2017/745 — auto-déclaration (Dürr Dental SE, technical file CE-230-A) | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/) |
+| **Sachets/pochettes de protection hygiénique** (capteur VistaRay, mordus VistaPano/VistaVox) | **DM I** | MDR 2017/745 — auto-déclaration (Dürr Dental SE, technical files CE-220-A/230-A/240-B) | [Fiche VistaRay 7](/durr-dental-knowledge-base/docs/fr/imagerie/vistaray-7/overview/) |
+| **Écrans à mémoire extra-oraux** (VistaScan, pano/céphalo 5 formats) | **IIa** | MDR 2017/745 (Annexe IX ch. I+III) — DQS Medizinprodukte (0297), cert `518373 MDR2017Q` | [Fiche](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/) |
 | **Automat XR/C⁺ / Periomat Intra/C⁺** (chimies radiographiques film) | **DM I** | MDR 2017/745 — NB DEKRA 0124 | — |
 | **HD 410 / HD 420 plus** (désinfection mains) | **Biocide TP1** (hors périmètre Certibiocide — couvre TP2/3/4) | BPR — Règlement (UE) 528/2012 | [Fiche](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/) |
 
@@ -202,5 +231,5 @@ Dürr Dental publiés dans la base européenne.
 Dürr Dental, Eudamed et les normes EN / ISO publiquement référencées. Les classes et
 références marquées « À confirmer » nécessitent vérification dans la DoC publique
 spécifique du produit. Mainteneur : salarié de Dürr Dental France (CDI déclaré) —
-initiative personnelle, non officielle. Dernière revue factuelle : 2026-09-13.
+initiative personnelle, non officielle. Dernière revue factuelle : 2026-09-15.
 Licence : CC-BY 4.0.*

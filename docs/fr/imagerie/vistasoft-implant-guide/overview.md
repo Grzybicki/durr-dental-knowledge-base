@@ -29,6 +29,10 @@ source_documents:
     url: "https://exocad.com/you-exocad/for-integration-partners"
     type: "page partenaire"
     language: "en"
+  - title: "Certifications exocad — certificat MDR 738262 R000 (BSI, classe IIa)"
+    url: "https://exocad.com/fileadmin/content/company/03_MDR_738262_RPS2.pdf"
+    type: "certificat MDR"
+    language: "en"
   - title: "Site partenaire SICAT"
     url: "https://www.sicat.com/"
     type: "page partenaire"
@@ -37,7 +41,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -127,6 +131,14 @@ d'intégration sur sa page [for integration partners](https://exocad.com/you-exo
 
 Cette intégration permet la circulation fluide des données STL entre la
 planification implantaire VistaSoft et la conception prothétique exocad.
+
+exocad GmbH (Darmstadt, Allemagne) dispose de son propre [certificat MDR](https://exocad.com/fileadmin/content/company/03_MDR_738262_RPS2.pdf)
+(`MDR 738262 R000`, organisme notifié **BSI Group Netherlands**, code **2797**, valide jusqu'au
+**2027-04-07**) couvrant ses propres logiciels de planification implantaire/CAO en **classe IIa**.
+Cette certification s'applique aux **produits exocad eux-mêmes** — l'intégration avec Dürr Dental
+étant une interopérabilité par export STL ouvert (fichiers échangés entre logiciels distincts),
+elle ne détermine pas la classe MDR propre de VistaSoft Implant & Guide (cf.
+[sources/certificates.md](/durr-dental-knowledge-base/sources/certificates/)).
 
 ## Prérequis
 
@@ -231,4 +243,4 @@ planification implantaire compatible CEREC à partir d'appareils Dürr Dental).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*

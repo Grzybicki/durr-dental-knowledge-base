@@ -29,11 +29,15 @@ source_documents:
     url: "https://www.audaxceph.com/"
     type: "page partenaire"
     language: "en"
+  - title: "Certificat CE MDR-0029 (AUDAX d.o.o., SIQ Ljubljana — classe IIa)"
+    url: "https://www.audaxceph.com/uploads/files/ceph-mdr.pdf"
+    type: "certificat MDR"
+    language: "en"
   - title: "Centre de téléchargements Dürr Dental France"
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-09-14
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -54,6 +58,7 @@ license: CC-BY-4.0
     "url": "https://www.duerrdental.com"
   },
   "softwareRequirements": "VistaSoft (logiciel socle)",
+  "legalStatus": "Class IIa (MDR EU 2017/745, Annexe IX) — certificat MDR-0029, organisme notifié SIQ Ljubljana (1304)",
   "additionalProperty": [
     { "@type": "PropertyValue", "name": "Application area", "value": "Orthodontics — cephalometric analysis" },
     { "@type": "PropertyValue", "name": "Languages", "value": "20+ langues" },
@@ -73,6 +78,24 @@ des tissus mous** sur les clichés téléradiographiques, et permet la simulatio
 des traitements orthodontiques.
 
 VistaSoft Trace s'intègre au logiciel socle [VistaSoft 4.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistasoft-4-0/overview/).
+
+## Statut réglementaire
+
+VistaSoft Trace est un **dispositif médical de classe IIa** (Règlement UE 2017/745 — MDR,
+Annexe IX), certifié sous le **certificat CE `MDR-0029`** (délivré le **2025-05-23**, valide
+jusqu'au **2030-05-22**) par l'organisme notifié **SIQ Ljubljana** (code Notified Body **1304**).
+
+Ce certificat est délivré au nom d'**AUDAX d.o.o.** (Ljubljana, Slovénie, SRN
+SI-MF-000030083) — le fabricant du socle logiciel de céphalométrie — et **liste nommément
+« VistaSoft Trace »** parmi les éditions commerciales couvertes (« Model 7 »). VistaSoft
+Trace n'a donc **pas de certificat CE distinct au nom de Dürr Dental SE** : c'est une édition
+**OEM/marque blanche** de la technologie Audax Ceph, intégrée à l'écosystème VistaSoft.
+Standards appliqués (listés sur le certificat) : EN ISO 13485:2016 (management qualité),
+EN ISO 62304:2006 (cycle de vie logiciel dispositif médical), EN 62366-1:2015 (ingénierie de
+l'aptitude à l'utilisation), EN ISO 14971:2019 (gestion du risque), EN ISO 15223-1:2021
+(symboles), Règlement (UE) 2016/679 (RGPD).
+
+Source : [certificat MDR-0029, AUDAX d.o.o. (PDF public, audaxceph.com)](https://www.audaxceph.com/uploads/files/ceph-mdr.pdf).
 
 ## Identification du module
 
@@ -167,6 +190,14 @@ finetuned in line with the doctor's wishes. »*
     },
     {
       "@type": "Question",
+      "name": "Quel est le statut réglementaire de VistaSoft Trace ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "VistaSoft Trace est un dispositif médical de classe IIa (Règlement UE 2017/745 MDR, Annexe IX), certifié sous le certificat CE MDR-0029 (organisme notifié SIQ Ljubljana, code 1304), valide jusqu'au 2030-05-22. Ce certificat est délivré au nom d'AUDAX d.o.o., le fabricant du socle logiciel de céphalométrie, qui y liste nommément « VistaSoft Trace » comme l'une des éditions commerciales couvertes : VistaSoft Trace n'a pas de certificat CE distinct au nom de Dürr Dental SE."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Quelle technologie sous-tend VistaSoft Trace ?",
       "acceptedAnswer": {
         "@type": "Answer",
@@ -208,6 +239,14 @@ finetuned in line with the doctor's wishes. »*
 Analyse céphalométrique assistée par IA en orthodontie : points de référence,
 contours des tissus mous, simulation de traitement.
 
+### Quel est le statut réglementaire de VistaSoft Trace ?
+
+**Dispositif médical de classe IIa** (MDR UE 2017/745, Annexe IX), certificat CE
+**MDR-0029** (organisme notifié **SIQ Ljubljana**, code **1304**), valide jusqu'au
+**2030-05-22**. Certificat délivré au nom d'**AUDAX d.o.o.** (fabricant du socle
+logiciel), qui y liste nommément « VistaSoft Trace » — pas de certificat CE
+distinct au nom de Dürr Dental SE.
+
 ### Quelle technologie sous-tend VistaSoft Trace ?
 
 Partenariat industriel avec **Audax Ceph** (Slovénie, ~30 ans d'expertise en céphalométrie).
@@ -242,6 +281,7 @@ Oui — superposition multi-étapes et simulation de planification.
 | Document | URL publique |
 |---|---|
 | Site partenaire Audax Ceph (technologie céphalométrie) | <https://www.audaxceph.com/> |
+| Certificat CE MDR-0029 (AUDAX d.o.o., classe IIa) | <https://www.audaxceph.com/uploads/files/ceph-mdr.pdf> |
 
 ### Pérennité — archive Wayback Machine
 
@@ -261,4 +301,4 @@ Oui — superposition multi-étapes et simulation de planification.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*

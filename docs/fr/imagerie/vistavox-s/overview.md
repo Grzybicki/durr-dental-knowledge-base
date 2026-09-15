@@ -52,6 +52,10 @@ source_documents:
   - title: "Déclaration de Conformité VistaVox S"
     type: "Déclaration de Conformité"
     note: "Dispositif médical de classe IIb. Récupérable via le Centre de téléchargements Dürr Dental France ou Eudamed."
+  - title: "Déclaration de Conformité UE — Hygienic Protection Covers (Dürr Dental SE)"
+    type: "Déclaration de Conformité"
+    date: "2025-05-03"
+    note: "Classe I (MDR EU 2017/745, auto-déclaration, technical files CE-220-A/230-A/240-B, SRN DE-MF-000006032). Couvre notamment les sachets de protection hygiénique pour mordus (2207-010-50). Récupérable via le Centre de téléchargements Dürr Dental France."
   - title: "Base européenne Eudamed"
     url: "https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental"
     type: "registre réglementaire"
@@ -71,7 +75,7 @@ source_documents:
     reference: "2210200845L02"
     language: "en"
     note: "Modèles de capteur (Xmaru 1404CF / 2602CF), tailles de pixel natives et modes binning (99/198 µm pano-CBCT ; 200 µm Ceph), surfaces actives confirmées, distances FDD/FOD/ODD et facteurs d'agrandissement."
-last_factual_review: 2026-09-14
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -648,7 +652,9 @@ tableau de références sans code produit unique.
 | `2210200527` | Lot de mires de résolution de contrôle qualité 3D | DIN 6868-15 |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
-Dürr Dental France 2026, tarifs non repris).
+Dürr Dental France 2026, tarifs non repris). Les **sachets de protection hygiénique**
+(`2207-010-50`) sont des **dispositifs médicaux de classe I** (MDR EU 2017/745,
+auto-déclaration Dürr Dental SE — cf. [matrice réglementaire](/durr-dental-knowledge-base/sources/certificates/)).
 
 ### Portfolio mentonnières (VistaVox / VistaPano)
 
@@ -732,4 +738,4 @@ Source : portfolio des mentonnières VistaVox / VistaPano — Dürr Dental (mise
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*

@@ -95,6 +95,10 @@ source_documents:
     url: "https://ec.europa.eu/tools/eudamed/screen/search?type=basicUDIInformation&deviceManufacturer=D%C3%BCrr+Dental"
     type: "registre réglementaire"
     language: "multi"
+  - title: "Déclaration de Conformité UE — Hygienic Protection Covers (Dürr Dental SE)"
+    type: "Déclaration de Conformité"
+    date: "2025-05-03"
+    note: "Classe I (MDR EU 2017/745, auto-déclaration, technical files CE-220-A/230-A/240-B, SRN DE-MF-000006032). Couvre notamment les sachets de protection hygiénique pour mordus (2207-010-50). Récupérable via le Centre de téléchargements Dürr Dental France."
   # === Vidéos officielles YouTube ===
   - title: "Vidéo officielle FR — Panoramique 2D VistaPano S — DÜRR DENTAL"
     url: "https://www.youtube.com/watch?v=UJsXEaJcLmQ"
@@ -134,7 +138,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -586,7 +590,9 @@ tableau de références sans code produit unique.
 | `2207-900-50` | Support de la mire de résolution Pano | — |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
-Dürr Dental France 2026, tarifs non repris).
+Dürr Dental France 2026, tarifs non repris). Les **sachets de protection hygiénique**
+(`2207-010-50`) sont des **dispositifs médicaux de classe I** (MDR EU 2017/745,
+auto-déclaration Dürr Dental SE — cf. [matrice réglementaire](/durr-dental-knowledge-base/sources/certificates/)).
 
 ### Portfolio mentonnières (VistaVox / VistaPano)
 
@@ -752,6 +758,6 @@ Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative personnelle,
-non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
 *Pour signaler une inexactitude factuelle, ouvrir une Issue sur [le dépôt GitHub](https://github.com/Grzybicki/durr-dental-knowledge-base/issues/new).*

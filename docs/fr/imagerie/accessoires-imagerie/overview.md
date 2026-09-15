@@ -29,7 +29,19 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-09-14
+  - title: "ScanX Accessories Infographic (Air Techniques, filiale Dürr Dental US)"
+    url: "https://www.airtechniques.com/wp-content/uploads/2022/08/ScanX-Accessories-V3.pdf"
+    type: "infographie produit"
+    language: "en"
+    note: "Source des équivalents US des écrans à mémoire VistaScan IQ/Plus : IDX PSPs (avec RFID) et PSPs (sans RFID), marque ScanX / logiciel VisionX."
+  - title: "Non-interchangeabilité des références Europe/États-Unis (écrans à mémoire)"
+    type: "connaissance professionnelle"
+    note: "Confirmé par le responsable produit (relayé par le mainteneur, Responsable Département Imagerie Dürr Dental France) : les écrans IQ/Plus européens et les PSP/IDX PSP américains (Air Techniques ScanX) ne sont pas interchangeables entre les deux marchés — encodage RFID différent entre les puces des écrans IQ et des IDX PSP."
+  - title: "Déclaration de Conformité UE — Hygienic Protection Covers / Light Protection Cover (Dürr Dental SE)"
+    type: "certificat DoC"
+    language: "de/en"
+    note: "DoC officielle Dürr Dental SE (technical files CE-220-A/230-A/240-B), datée 2025-05-03, classe I (MDR 2017/745, auto-déclaration, SRN DE-MF-000006032). Disponible via le Centre de téléchargements Dürr Dental France (pas d'URL directe publique stable)."
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -98,6 +110,28 @@ ergonomique** des plaques.
 Sachets de protection contre la lumière, à usage unique, pour les plaques intra-orales, qui
 **protègent la plaque** lors de l'acquisition et facilitent la mise en
 bouche pour le confort patient. Compatibles avec les tailles 0, 1, 2, 3, 4.
+
+### Équivalent US — Air Techniques ScanX
+
+Aux États-Unis, [Air Techniques](https://www.airtechniques.com/), filiale officielle Dürr
+Dental (déjà documentée sur les fiches [VistaPano S 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/)
+et [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)),
+commercialise des plaques au phosphore **équivalentes** sous la marque **ScanX**, avec une
+nomenclature de référence propre au marché américain (distincte des codes Dürr `2130-xxx`) :
+les **« IDX PSPs »** (Phosphor Storage Plates avec puce RFID, équivalent des écrans **IQ**) et
+les **« PSPs »** simples (sans RFID, équivalent des écrans **Plus**), toutes deux disponibles en
+tailles intra-orales 0 à 4. La technologie **IDX** assure la traçabilité de la plaque et du
+nombre de scans dans le logiciel d'imagerie **VisionX** (équivalent américain de VistaSoft),
+avec détection automatique d'une exposition « mauvais côté ». Des sachets de protection
+(« barrier envelopes ») équivalents sont également proposés. Source :
+[ScanX Accessories Infographic (Air Techniques)](https://www.airtechniques.com/wp-content/uploads/2022/08/ScanX-Accessories-V3.pdf).
+
+⚠️ **Les références ne sont pas interchangeables entre les deux marchés** : les écrans IQ/Plus
+européens (Dürr Dental) ne fonctionnent pas sur les scanners ScanX (Air Techniques), et
+réciproquement les PSP/IDX PSP américains ne fonctionnent pas sur les scanners VistaScan
+européens. Confirmé par le **responsable produit** : les puces **RFID** des écrans **IQ** et
+des **IDX PSP** utilisent un **encodage différent** entre les deux marchés, ce qui explique
+la non-interchangeabilité côté plaques à puce.
 
 ### Lingette de nettoyage des écrans à mémoire
 
@@ -186,6 +220,14 @@ pour les filtres bactériologiques ULPA U16 / ISO 65U.
         "@type": "Answer",
         "text": "La tête Cam (lumière blanche HD), la tête Proof (fluorescence 405 nm pour la détection de plaque sans révélateur) et la tête Proxi (NIR 850 nm pour la détection des caries approximales)."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Existe-t-il un équivalent des écrans à mémoire VistaScan IQ/Plus aux États-Unis ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, via Air Techniques, filiale officielle Dürr Dental aux États-Unis, sous la marque ScanX : les « IDX PSPs » (Phosphor Storage Plates avec puce RFID) équivalent aux écrans IQ, et les « PSPs » simples (sans RFID) équivalent aux écrans Plus, avec une nomenclature de référence propre au marché américain. Ces références ne sont toutefois pas interchangeables entre les deux marchés : les écrans européens ne fonctionnent pas sur les scanners ScanX, et inversement — les puces RFID des écrans IQ et des IDX PSP utilisent un encodage différent entre les deux marchés (confirmé par le responsable produit)."
+      }
     }
   ]
 }
@@ -208,6 +250,15 @@ Ce sont des sachets de protection contre la lumière, à usage unique, qui prot�
 ### Quelles sont les têtes interchangeables de la VistaCam ?
 
 La tête Cam (lumière blanche HD), la tête Proof (fluorescence 405 nm pour la détection de plaque sans révélateur) et la tête Proxi (NIR 850 nm pour la détection des caries approximales).
+
+### Existe-t-il un équivalent des écrans à mémoire VistaScan IQ/Plus aux États-Unis ?
+
+Oui, via **Air Techniques** (filiale officielle Dürr Dental US) sous la marque **ScanX** : les
+« **IDX PSPs** » (avec RFID) équivalent aux écrans **IQ**, les « **PSPs** » simples (sans RFID)
+équivalent aux écrans **Plus** — nomenclature de référence propre au marché américain. **Ces
+références ne sont pas interchangeables entre les deux marchés** (écrans européens ↔ scanners
+ScanX, et inversement) : les puces **RFID** des écrans IQ et des IDX PSP utilisent un
+**encodage différent** entre les deux marchés (confirmé par le responsable produit).
 
 ## Références produit et accessoires
 
@@ -246,6 +297,10 @@ tableau de références sans code produit unique.
 
 ### Écrans à mémoire extra-oraux
 
+Comme les écrans intra-oraux IQ/Plus, ces écrans extra-oraux sont des **dispositifs
+médicaux de classe IIa** (MDR EU 2017/745, organisme notifié DQS Medizinprodukte 0297,
+certificat `518373 MDR2017Q`).
+
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
 | `2130-050-00` | Écran à mémoire 12,7 × 30,5 pano | + 1 support d'écran |
@@ -256,12 +311,27 @@ tableau de références sans code produit unique.
 
 ### Sachets de protection contre la lumière
 
+Selon la Déclaration de Conformité publique dédiée (« Light Protection Cover »), ces
+sachets sont des **dispositifs médicaux de classe I** (MDR EU 2017/745,
+auto-déclaration — technical file CE-230-A, fabricant Dürr Dental SE, SRN
+DE-MF-000006032) : ils protègent l'écran à mémoire de la lumière (contre l'effacement
+accidentel) **et** contre la contamination croisée.
+
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
+| `2130-070-00` | Sachet de protection Taille 0 (100 pièces) | 2 × 3 |
+| `2130-071-00` | Sachet de protection Taille 1 (100 pièces) | 2 × 4 |
+| `2130-072-00` | Sachet de protection Taille 2 (300 pièces) | 3 × 4 |
+| `2130-072-55` | Sachet de protection Taille 2 (1 000 pièces) | 3 × 4 |
+| `2130-073-00` | Sachet de protection Taille 3 (100 pièces) | 2,7 × 5,4 |
+| `2130-074-00` | Sachet de protection Taille 4 (100 pièces) | 5,7 × 7,6 |
+| `2130-074-03` | Protection de mordure Taille 4 — occlusal (100 pièces) | 5,7 × 7,6 — pour écran de taille 4 en position occlusale (mordu) |
 | `2130-080-00` | Sachet de protection Plus Taille 0 (100 pièces) | 2 × 3 |
+| `2130-080-50` | Sachet de protection Plus White Taille 0 (100 pièces) | 2 × 3 |
 | `2130-081-00` | Sachet de protection Plus Taille 1 (100 pièces) | 2 × 4 |
 | `2130108251` | Sachet de protection Plus Taille 2 (100 pièces) | 3 × 4 |
 | `2130-082-00` | Sachet de protection Plus Taille 2 (300 pièces) | 3 × 4 |
+| `2130-082-50` | Sachet de protection Plus White Taille 2 (300 pièces) | 3 × 4 |
 | `2130-082-55` | Sachet de protection Plus Taille 2 (1 000 pièces) | 3 × 4 |
 | `2130-083-00` | Sachet de protection Plus Taille 3 (100 pièces) | 2,7 × 5,4 |
 | `2130-084-00` | Sachet de protection Plus Taille 4 (100 pièces) | 5,7 × 7,6 |
@@ -326,4 +396,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*

@@ -4,6 +4,111 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.20.8] — 2026-09-15
+
+### Ajouté — IndexNow (Bing/Yandex) + audit du flux feed.xml
+
+Nouveau workflow `.github/workflows/indexnow.yml` : soumet le sitemap publié à l'API
+**IndexNow** (`api.indexnow.org`) à chaque push touchant `docs/`, `sources/`, `index.md` ou
+`llms*.txt`, + filet hebdomadaire et déclenchement manuel. Accélère la réindexation Bing (et
+donc Copilot/Bing Chat, qui s'appuient sur cet index) au lieu d'attendre le prochain crawl
+périodique — complète la soumission manuelle du sitemap déjà faite sur Bing Webmaster Tools.
+Clé de vérification déposée à la racine du dépôt (`4a7b47ac0bb6c4c625e3715bbb9b1137.txt`,
+servie sous `/durr-dental-knowledge-base/`, référencée par `keyLocation` dans le payload —
+pas besoin de dépôt racine séparé, contrairement à `robots.txt`/`llms.txt`).
+
+**Audit flux `feed.xml`** : le tag `<link rel="alternate" ... href="/feed.xml">` était déjà
+présent dans `_layouts/default.html` (aucun ajout nécessaire côté lien). Mais `jekyll-feed`
+n'indexe par défaut que la collection `site.posts` — **absente de ce dépôt** (pas de `_posts/`,
+uniquement des pages `docs/fr/**/overview.md`) — donc le flux généré est **vide** (XML Atom
+valide, zéro entrée). Le rendre réellement utile nécessiterait de déclarer `docs/fr` comme
+collection Jekyll et de configurer `jekyll-feed` dessus — changement structurel plus risqué
+(impact potentiel sur la résolution des permalinks), **non fait dans cette session**, à évaluer
+séparément si le signal de fraîcheur s'avère utile.
+
+## [0.20.7] — 2026-09-15
+
+### Ajouté — statut réglementaire des consommables imagerie (sachets protection, écrans)
+
+Sur fourniture par le mainteneur de 3 Déclarations de Conformité UE officielles Dürr Dental SE
+(fichiers locaux, PDF scannés — lus via rendu image MuPDF) :
+- **Hygienic Protection Covers** (2025-05-03, technical files CE-220-A/230-A/240-B) — **classe I**,
+  auto-déclaration. Couvre les sachets de protection hygiénique VistaRay (`2121-010-50`/`-51`) et
+  les protections de mordu VistaPano/VistaVox (`2207-010-50`).
+- **Light Protection Cover** (2025-05-03, technical file CE-230-A) — **classe I**, auto-déclaration.
+  Couvre les sachets de protection lumière VistaScan (gamme + Plus + Plus White, S0-S4).
+- **Image Plates / Speicherfolien** (2026-04-13, MDN 1207) — **classe IIa**, DQS Medizinprodukte
+  (0297), certificat `518373 MDR2017Q` (déjà documenté pour les écrans IQ ; confirmé identique
+  pour les écrans Plus/Plus ID et les 5 formats extra-oraux pano/céphalo).
+
+`sources/certificates.md` : 2 nouvelles lignes classe I (sachets lumière, sachets hygiéniques) +
+1 ligne IIa (écrans extra-oraux, déjà connus mais non classés explicitement). Fiches mises à
+jour avec notes de classification courtes : `accessoires-imagerie` (table sachets lumière
+complétée — refs de base S0-S4 et variantes Plus White manquantes ajoutées), `vistaray-7`,
+`vistapano-2-0`, `vistavox-s`, `vistascan-combi-view`. `llms.txt`/`llms-full.txt` régénérés.
+
+⚠️ Les deux DoC « Hygienic/Light Protection Covers » et « Image Plates » listent aussi des
+**éditions rebrandées pour un fabricant concurrent** (plaques et sachets vendus sous marque
+tierce via des réfs Dürr dédiées) — **volontairement non publiées** (règle d'or n°2,
+`rule-of-gold` vérifié vert). Détail en mémoire interne uniquement.
+
+**Research gap résolu ✅ (même jour)** : les deux familles « Phosphor Storage Plate IDX » et
+« Phosphor Storage Plate » (réfs `G36xx`/`7344x`) sont les équivalents **Air Techniques**
+(filiale officielle Dürr Dental US) des écrans VistaScan IQ/Plus, sous la marque **ScanX** —
+confirmé sur l'infographie produit officielle Air Techniques (« IDX PSPs » avec RFID = écrans
+IQ, « PSPs » sans RFID = écrans Plus, logiciel VisionX). Nouvelle section « Équivalent US — Air
+Techniques ScanX » ajoutée à `accessoires-imagerie` (+ FAQ/FAQPage), sourcée sur
+`airtechniques.com/wp-content/uploads/2022/08/ScanX-Accessories-V3.pdf`.
+
+## [0.20.6] — 2026-09-15
+
+### Ajouté — contexte réglementaire exocad (VistaSoft Implant & Guide reste « à confirmer »)
+
+Sur demande du mainteneur, vérification de `https://exocad.com/company/certifications`
+(téléchargé via `curl` avec un User-Agent navigateur ; `WebFetch` renvoie 403 sur ce domaine —
+bot-protection, pas un problème de certificat SSL). La page liste 5 certificats téléchargeables ;
+récupéré le **certificat MDR (EU) 2017/745** : `MDR 738262 R000`, organisme notifié **BSI Group
+The Netherlands B.V.** (code **2797**), fabricant **exocad GmbH** (Darmstadt, Allemagne, SRN
+DE-MF-000007341), catégorie « Dental implant planning software / Dental restoration design
+software », **classe IIa**, valide jusqu'au **2027-04-07**.
+
+**Contrairement au cas VistaSoft Trace/Audax Ceph (CHANGELOG 0.20.5)**, ce certificat ne
+résout **pas** la classe MDR de VistaSoft Implant & Guide : il couvre les **produits exocad
+eux-mêmes**, et l'intégration Dürr Dental/exocad documentée sur la fiche est une
+**interopérabilité par export STL ouvert** entre logiciels distincts — pas un OEM/marque blanche
+où exocad serait le moteur sous-jacent du module Dürr. `sources/certificates.md` : nouvelle
+entrée Notified Body **BSI Group Netherlands (2797)** + note¹ explicative sur la ligne VistaSoft
+Implant & Guide (reste « à confirmer »). Fiche `vistasoft-implant-guide` : paragraphe de contexte
+ajouté dans la section « Intégration avec exocad ». `llms.txt`/`llms-full.txt` régénérés.
+
+## [0.20.5] — 2026-09-15
+
+### Résolu — statut réglementaire VistaSoft Trace (classe IIa, certificat MDR-0029)
+
+Le mainteneur a fourni le certificat CE public d'AUDAX d.o.o. (fabricant du socle logiciel de
+céphalométrie) : `https://www.audaxceph.com/uploads/files/ceph-mdr.pdf` (PDF scanné, extrait par
+rendu image MuPDF — pas de couche texte). Récupéré via `curl` (le téléchargement direct
+fonctionne ; `WebFetch` échoue systématiquement sur `audaxceph.com` avec une erreur de chaîne de
+certificats SSL, problème déjà documenté — cf. mémoire `audaxceph-ssl-fetch-issue`).
+
+**VistaSoft Trace = dispositif médical classe IIa** (MDR UE 2017/745, Annexe IX), certificat
+**MDR-0029** délivré le 2025-05-23 (valide jusqu'au 2030-05-22) par l'organisme notifié **SIQ
+Ljubljana** (code **1304**), au nom d'**AUDAX d.o.o.** (Ljubljana, Slovénie, SRN
+SI-MF-000030083) — **pas** au nom de Dürr Dental SE. Le certificat liste nommément
+« VistaSoft Trace » (Model 7) parmi les éditions commerciales de la même technologie
+logicielle sous-jacente, confirmant le statut **OEM/marque blanche Audax Ceph** déjà pressenti
+(CHANGELOG 0.18.6). Standards listés : EN ISO 13485:2016, EN ISO 62304:2006, EN 62366-1:2015,
+EN ISO 14971:2019, EN ISO 15223-1:2021, RGPD (UE 2016/679).
+
+`sources/certificates.md` : nouvelle entrée Notified Body **SIQ Ljubljana (1304)**, ligne
+VistaSoft Trace de la matrice MDR logiciels résolue (classe + certificat + date, jusqu'ici
+« à confirmer »). Fiche `vistasoft-trace` : section **Statut réglementaire** ajoutée (+ FAQ/
+FAQPage, `legalStatus` JSON-LD). `llms.txt`/`llms-full.txt` régénérés.
+
+⚠️ Le certificat liste par ailleurs d'autres éditions rebrandées de la même technologie, dont une
+porte le nom d'un éditeur concurrent — **volontairement non nommée** dans le dépôt public (règle
+d'or n°2, `rule-of-gold` vérifié vert).
+
 ## [0.20.4] — 2026-09-15
 
 ### Durci — `validate.py` résout les liens internes contre la table des permalinks déclarés

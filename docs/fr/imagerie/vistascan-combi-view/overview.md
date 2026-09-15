@@ -30,7 +30,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-09-14
+last_factual_review: 2026-09-15
 license: CC-BY-4.0
 ---
 
@@ -63,7 +63,10 @@ autonome** et la connexion **Wi-Fi**. En mode intra-oral, il peut lire
 
 Le **VistaScan Combi View** est, en tant que **scanner** (lecteur de plaques au
 phosphore sans fonction de mesure), un **dispositif médical de classe I** —
-**auto-déclaration** MDR EU 2017/745, **sans** organisme notifié.
+**auto-déclaration** MDR EU 2017/745, **sans** organisme notifié. Les **écrans à
+mémoire** qu'il lit (intra-oraux Plus et extra-oraux pano/céphalo) sont, eux, des
+**dispositifs médicaux de classe IIa** (organisme notifié DQS Medizinprodukte 0297,
+certificat `518373 MDR2017Q`).
 
 ## Caractéristiques principales
 
@@ -202,4 +205,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*

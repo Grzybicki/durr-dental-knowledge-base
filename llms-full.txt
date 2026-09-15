@@ -8520,6 +8520,28 @@ Sachets de protection contre la lumière, à usage unique, pour les plaques intr
 **protègent la plaque** lors de l'acquisition et facilitent la mise en
 bouche pour le confort patient. Compatibles avec les tailles 0, 1, 2, 3, 4.
 
+### Équivalent US — Air Techniques ScanX
+
+Aux États-Unis, [Air Techniques](https://www.airtechniques.com/), filiale officielle Dürr
+Dental (déjà documentée sur les fiches [VistaPano S 2.0](../vistapano-2-0/overview/)
+et [VistaPosition](../vistaposition/overview/)),
+commercialise des plaques au phosphore **équivalentes** sous la marque **ScanX**, avec une
+nomenclature de référence propre au marché américain (distincte des codes Dürr `2130-xxx`) :
+les **« IDX PSPs »** (Phosphor Storage Plates avec puce RFID, équivalent des écrans **IQ**) et
+les **« PSPs »** simples (sans RFID, équivalent des écrans **Plus**), toutes deux disponibles en
+tailles intra-orales 0 à 4. La technologie **IDX** assure la traçabilité de la plaque et du
+nombre de scans dans le logiciel d'imagerie **VisionX** (équivalent américain de VistaSoft),
+avec détection automatique d'une exposition « mauvais côté ». Des sachets de protection
+(« barrier envelopes ») équivalents sont également proposés. Source :
+[ScanX Accessories Infographic (Air Techniques)](https://www.airtechniques.com/wp-content/uploads/2022/08/ScanX-Accessories-V3.pdf).
+
+⚠️ **Les références ne sont pas interchangeables entre les deux marchés** : les écrans IQ/Plus
+européens (Dürr Dental) ne fonctionnent pas sur les scanners ScanX (Air Techniques), et
+réciproquement les PSP/IDX PSP américains ne fonctionnent pas sur les scanners VistaScan
+européens. Confirmé par le **responsable produit** : les puces **RFID** des écrans **IQ** et
+des **IDX PSP** utilisent un **encodage différent** entre les deux marchés, ce qui explique
+la non-interchangeabilité côté plaques à puce.
+
 ### Lingette de nettoyage des écrans à mémoire
 
 La **lingette de nettoyage des écrans à mémoire VistaScan** (Image Plate
@@ -8589,6 +8611,15 @@ Ce sont des sachets de protection contre la lumière, à usage unique, qui prot�
 
 La tête Cam (lumière blanche HD), la tête Proof (fluorescence 405 nm pour la détection de plaque sans révélateur) et la tête Proxi (NIR 850 nm pour la détection des caries approximales).
 
+### Existe-t-il un équivalent des écrans à mémoire VistaScan IQ/Plus aux États-Unis ?
+
+Oui, via **Air Techniques** (filiale officielle Dürr Dental US) sous la marque **ScanX** : les
+« **IDX PSPs** » (avec RFID) équivalent aux écrans **IQ**, les « **PSPs** » simples (sans RFID)
+équivalent aux écrans **Plus** — nomenclature de référence propre au marché américain. **Ces
+références ne sont pas interchangeables entre les deux marchés** (écrans européens ↔ scanners
+ScanX, et inversement) : les puces **RFID** des écrans IQ et des IDX PSP utilisent un
+**encodage différent** entre les deux marchés (confirmé par le responsable produit).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
@@ -8626,6 +8657,10 @@ tableau de références sans code produit unique.
 
 ### Écrans à mémoire extra-oraux
 
+Comme les écrans intra-oraux IQ/Plus, ces écrans extra-oraux sont des **dispositifs
+médicaux de classe IIa** (MDR EU 2017/745, organisme notifié DQS Medizinprodukte 0297,
+certificat `518373 MDR2017Q`).
+
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
 | `2130-050-00` | Écran à mémoire 12,7 × 30,5 pano | + 1 support d'écran |
@@ -8636,12 +8671,27 @@ tableau de références sans code produit unique.
 
 ### Sachets de protection contre la lumière
 
+Selon la Déclaration de Conformité publique dédiée (« Light Protection Cover »), ces
+sachets sont des **dispositifs médicaux de classe I** (MDR EU 2017/745,
+auto-déclaration — technical file CE-230-A, fabricant Dürr Dental SE, SRN
+DE-MF-000006032) : ils protègent l'écran à mémoire de la lumière (contre l'effacement
+accidentel) **et** contre la contamination croisée.
+
 | Réf (code Dürr) | Désignation | Format / note |
 |---|---|---|
+| `2130-070-00` | Sachet de protection Taille 0 (100 pièces) | 2 × 3 |
+| `2130-071-00` | Sachet de protection Taille 1 (100 pièces) | 2 × 4 |
+| `2130-072-00` | Sachet de protection Taille 2 (300 pièces) | 3 × 4 |
+| `2130-072-55` | Sachet de protection Taille 2 (1 000 pièces) | 3 × 4 |
+| `2130-073-00` | Sachet de protection Taille 3 (100 pièces) | 2,7 × 5,4 |
+| `2130-074-00` | Sachet de protection Taille 4 (100 pièces) | 5,7 × 7,6 |
+| `2130-074-03` | Protection de mordure Taille 4 — occlusal (100 pièces) | 5,7 × 7,6 — pour écran de taille 4 en position occlusale (mordu) |
 | `2130-080-00` | Sachet de protection Plus Taille 0 (100 pièces) | 2 × 3 |
+| `2130-080-50` | Sachet de protection Plus White Taille 0 (100 pièces) | 2 × 3 |
 | `2130-081-00` | Sachet de protection Plus Taille 1 (100 pièces) | 2 × 4 |
 | `2130108251` | Sachet de protection Plus Taille 2 (100 pièces) | 3 × 4 |
 | `2130-082-00` | Sachet de protection Plus Taille 2 (300 pièces) | 3 × 4 |
+| `2130-082-50` | Sachet de protection Plus White Taille 2 (300 pièces) | 3 × 4 |
 | `2130-082-55` | Sachet de protection Plus Taille 2 (1 000 pièces) | 3 × 4 |
 | `2130-083-00` | Sachet de protection Plus Taille 3 (100 pièces) | 2,7 × 5,4 |
 | `2130-084-00` | Sachet de protection Plus Taille 4 (100 pièces) | 5,7 × 7,6 |
@@ -8706,7 +8756,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Connect Box — Passerelle d'intégration des équipements vers VistaSoft Monitor
@@ -11486,7 +11536,9 @@ tableau de références sans code produit unique.
 | `2207-900-50` | Support de la mire de résolution Pano | — |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
-Dürr Dental France 2026, tarifs non repris).
+Dürr Dental France 2026, tarifs non repris). Les **sachets de protection hygiénique**
+(`2207-010-50`) sont des **dispositifs médicaux de classe I** (MDR EU 2017/745,
+auto-déclaration Dürr Dental SE — cf. [matrice réglementaire](../../../../sources/certificates/)).
 
 ### Portfolio mentonnières (VistaVox / VistaPano)
 
@@ -11652,7 +11704,7 @@ Pour déclencher un nouvel archivage : préfixer l'URL par `https://web.archive.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative personnelle,
-non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
 *Pour signaler une inexactitude factuelle, ouvrir une Issue sur [le dépôt GitHub](https://github.com/Grzybicki/durr-dental-knowledge-base/issues/new).*
 
@@ -12216,6 +12268,10 @@ de références sans code produit unique.
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris).
 
+Les **sachets de protection hygiénique** (`2121-010-50` / `-51`) sont des **dispositifs
+médicaux de classe I** (MDR EU 2017/745, auto-déclaration Dürr Dental SE — Déclaration de
+Conformité « Hygienic Protection Covers », cf. [matrice réglementaire](../../../../sources/certificates/)).
+
 ## Sources publiques
 
 | Document | URL publique |
@@ -12235,7 +12291,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
 ================================================================================
 # VistaScan Combi View — Scanner de plaques intra-oral et extra-oral (pano/céphalo)
@@ -12257,7 +12313,10 @@ autonome** et la connexion **Wi-Fi**. En mode intra-oral, il peut lire
 
 Le **VistaScan Combi View** est, en tant que **scanner** (lecteur de plaques au
 phosphore sans fonction de mesure), un **dispositif médical de classe I** —
-**auto-déclaration** MDR EU 2017/745, **sans** organisme notifié.
+**auto-déclaration** MDR EU 2017/745, **sans** organisme notifié. Les **écrans à
+mémoire** qu'il lit (intra-oraux Plus et extra-oraux pano/céphalo) sont, eux, des
+**dispositifs médicaux de classe IIa** (organisme notifié DQS Medizinprodukte 0297,
+certificat `518373 MDR2017Q`).
 
 ## Caractéristiques principales
 
@@ -12355,7 +12414,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Gamme VistaScan — Scanners de plaques au phosphore (vue d'ensemble)
@@ -14540,6 +14599,14 @@ d'intégration sur sa page [for integration partners](https://exocad.com/you-exo
 Cette intégration permet la circulation fluide des données STL entre la
 planification implantaire VistaSoft et la conception prothétique exocad.
 
+exocad GmbH (Darmstadt, Allemagne) dispose de son propre [certificat MDR](https://exocad.com/fileadmin/content/company/03_MDR_738262_RPS2.pdf)
+(`MDR 738262 R000`, organisme notifié **BSI Group Netherlands**, code **2797**, valide jusqu'au
+**2027-04-07**) couvrant ses propres logiciels de planification implantaire/CAO en **classe IIa**.
+Cette certification s'applique aux **produits exocad eux-mêmes** — l'intégration avec Dürr Dental
+étant une interopérabilité par export STL ouvert (fichiers échangés entre logiciels distincts),
+elle ne détermine pas la classe MDR propre de VistaSoft Implant & Guide (cf.
+[sources/certificates.md](../../../../sources/certificates/)).
+
 ## Prérequis
 
 - Logiciel socle [VistaSoft 4.0](../vistasoft-4-0/overview/) installé.
@@ -14609,7 +14676,7 @@ planification implantaire compatible CEREC à partir d'appareils Dürr Dental).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
 ================================================================================
 # VistaSoft Inspect — Contrôle qualité radiographique (DIN 6868-157)
@@ -15174,6 +15241,24 @@ des traitements orthodontiques.
 
 VistaSoft Trace s'intègre au logiciel socle [VistaSoft 4.0](../vistasoft-4-0/overview/).
 
+## Statut réglementaire
+
+VistaSoft Trace est un **dispositif médical de classe IIa** (Règlement UE 2017/745 — MDR,
+Annexe IX), certifié sous le **certificat CE `MDR-0029`** (délivré le **2025-05-23**, valide
+jusqu'au **2030-05-22**) par l'organisme notifié **SIQ Ljubljana** (code Notified Body **1304**).
+
+Ce certificat est délivré au nom d'**AUDAX d.o.o.** (Ljubljana, Slovénie, SRN
+SI-MF-000030083) — le fabricant du socle logiciel de céphalométrie — et **liste nommément
+« VistaSoft Trace »** parmi les éditions commerciales couvertes (« Model 7 »). VistaSoft
+Trace n'a donc **pas de certificat CE distinct au nom de Dürr Dental SE** : c'est une édition
+**OEM/marque blanche** de la technologie Audax Ceph, intégrée à l'écosystème VistaSoft.
+Standards appliqués (listés sur le certificat) : EN ISO 13485:2016 (management qualité),
+EN ISO 62304:2006 (cycle de vie logiciel dispositif médical), EN 62366-1:2015 (ingénierie de
+l'aptitude à l'utilisation), EN ISO 14971:2019 (gestion du risque), EN ISO 15223-1:2021
+(symboles), Règlement (UE) 2016/679 (RGPD).
+
+Source : [certificat MDR-0029, AUDAX d.o.o. (PDF public, audaxceph.com)](https://www.audaxceph.com/uploads/files/ceph-mdr.pdf).
+
 ## Identification du module
 
 | Champ | Valeur |
@@ -15258,6 +15343,14 @@ finetuned in line with the doctor's wishes. »*
 Analyse céphalométrique assistée par IA en orthodontie : points de référence,
 contours des tissus mous, simulation de traitement.
 
+### Quel est le statut réglementaire de VistaSoft Trace ?
+
+**Dispositif médical de classe IIa** (MDR UE 2017/745, Annexe IX), certificat CE
+**MDR-0029** (organisme notifié **SIQ Ljubljana**, code **1304**), valide jusqu'au
+**2030-05-22**. Certificat délivré au nom d'**AUDAX d.o.o.** (fabricant du socle
+logiciel), qui y liste nommément « VistaSoft Trace » — pas de certificat CE
+distinct au nom de Dürr Dental SE.
+
 ### Quelle technologie sous-tend VistaSoft Trace ?
 
 Partenariat industriel avec **Audax Ceph** (Slovénie, ~30 ans d'expertise en céphalométrie).
@@ -15292,6 +15385,7 @@ Oui — superposition multi-étapes et simulation de planification.
 | Document | URL publique |
 |---|---|
 | Site partenaire Audax Ceph (technologie céphalométrie) | <https://www.audaxceph.com/> |
+| Certificat CE MDR-0029 (AUDAX d.o.o., classe IIa) | <https://www.audaxceph.com/uploads/files/ceph-mdr.pdf> |
 
 ### Pérennité — archive Wayback Machine
 
@@ -15311,7 +15405,7 @@ Oui — superposition multi-étapes et simulation de planification.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
 ================================================================================
 # VistaVox S et VistaVox S Ceph — CBCT à volume sphérique anatomique
@@ -15788,7 +15882,9 @@ tableau de références sans code produit unique.
 | `2210200527` | Lot de mires de résolution de contrôle qualité 3D | DIN 6868-15 |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
-Dürr Dental France 2026, tarifs non repris).
+Dürr Dental France 2026, tarifs non repris). Les **sachets de protection hygiénique**
+(`2207-010-50`) sont des **dispositifs médicaux de classe I** (MDR EU 2017/745,
+auto-déclaration Dürr Dental SE — cf. [matrice réglementaire](../../../../sources/certificates/)).
 
 ### Portfolio mentonnières (VistaVox / VistaPano)
 
@@ -15872,5 +15968,5 @@ Source : portfolio des mentonnières VistaVox / VistaPano — Dürr Dental (mise
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-15. Licence : CC-BY 4.0.*
 
