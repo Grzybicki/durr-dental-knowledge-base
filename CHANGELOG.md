@@ -4,6 +4,43 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.21.0] — 2026-09-15
+
+### Ajouté — flux `feed.xml` réel (Option 2) + toolchain Jekyll locale
+
+Ruby 3.2 + Bundler installés localement (`winget install RubyInstallerTeam.RubyWithDevKit.3.2`,
+même version que le job CI `jekyll-build`) pour pouvoir tester un vrai build Jekyll avant de
+pousser des changements structurels — jusqu'ici seule la CI pouvait le faire. `wdm` (dépendance
+Windows `--watch` uniquement) commentée dans le `Gemfile` : échec de compilation natif sur Ruby
+3.2/MinGW-UCRT (`rb_thread_call_without_gvl`), sans impact sur `jekyll build` ni sur la CI (gem à
+plateforme restreinte, jamais installée sur les runners Linux).
+
+Confirmé par un vrai build local : `jekyll-feed` ne génère un `<entry>` que depuis `site.posts`
+— **absent de ce dépôt** (pas de `_posts/`) — donc `feed.xml` était bien un flux Atom valide mais
+**vide** (0 entrée), comme diagnostiqué le 2026-09-15 plus tôt dans la journée. Confirmé aussi que
+`jekyll-feed` **ne régénère pas** son flux si un fichier `feed.xml` existe déjà à la racine du
+dépôt (`next if file_exists?(path)` dans son générateur) — c'est la voie propre pour le
+remplacer, sans toucher `_config.yml` ni déclarer de collection (option écartée le 2026-09-15,
+risque sur la résolution des permalinks).
+
+**Nouveau `feed.xml`** (racine du dépôt, frontmatter `layout: null` + `permalink: /feed.xml`) :
+liste les pages ayant un `last_factual_review` (whatever fiche/page publiée), triées par cette
+date décroissante — le vrai signal de fraîcheur de ce projet (pas de date de publication de
+« post », mais une date de dernière revue factuelle). Limité à 30 entrées. `sitemap: false` pour
+ne pas apparaître dans `sitemap.xml` (déjà couvert par les pages elles-mêmes).
+
+Vérifié en local (build réel, pas juste `validate.py`) :
+- XML bien formé, 30 `<entry>`, triées correctement (les fiches éditées le 2026-09-15 en tête).
+- Bug de double-échappement HTML corrigé en cours de route : `smartify` échappe déjà les `&` en
+  `&amp;` — enchaîner `| xml_escape` après produisait `&amp;amp;` sur les titres avec « & »
+  (ex. VistaSoft Implant & Guide). Retiré le filtre redondant.
+- `feed.xml` bien absent de `sitemap.xml` généré (82 URLs, cohérent).
+- `validate.py --warn-as-error` toujours vert (`.xml` hors périmètre du scanner de contenu).
+
+`docs/WORKFLOW.md` : section « Build Jekyll local » ajoutée (étape 3), documentant la procédure
+et le contournement `wdm`. `.gitignore` : `.bundle/` ajouté (config bundler locale, pas de
+secret).
+
 ## [0.20.9] — 2026-09-15
 
 ### Corrigé — clé IndexNow déplacée à la racine de l'hôte (Option 1 recommandée)

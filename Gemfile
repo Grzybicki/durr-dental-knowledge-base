@@ -11,4 +11,4 @@ end
 
 # Windows / JRuby compatibility
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem "wdm", "~> 0.1.1", platforms: [:mingw, :mswin, :x64_mingw]
+# gem "wdm", "~> 0.1.1", platforms: [:mingw, :mswin, :x64_mingw]  # TEMP: échec compilation locale (rb_thread_call_without_gvl), non requis pour `jekyll build` (seulement --watch)

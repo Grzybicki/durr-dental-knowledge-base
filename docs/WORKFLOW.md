@@ -109,6 +109,25 @@ python scripts/build_llms_full.py
 `--check` compare sans écrire (utile pour vérifier si une régénération est nécessaire).
 Ne jamais éditer `llms.txt` ou `llms-full.txt` à la main — ils sont dérivés de `docs/fr/`.
 
+### Build Jekyll local (optionnel, recommandé pour les changements touchant `_config.yml`,
+### `_layouts/`, ou tout fichier root traité par Jekyll hors `docs/fr/`)
+
+`validate.py` vérifie le contenu source, pas le rendu Jekyll réel. Pour un changement structurel
+(layout, config, nouveau fichier à la racine avec frontmatter comme `feed.xml`), un vrai build
+local est plus fiable que d'attendre le job CI `jekyll-build` :
+
+```bash
+bundle config set --local path 'vendor/bundle'   # une seule fois
+bundle install
+JEKYLL_ENV=production bundle exec jekyll build --strict_front_matter --trace
+```
+
+Sur Windows, `wdm` (dépendance `--watch` uniquement) peut échouer à la compilation sur Ruby ≥ 3.2
+(MinGW-UCRT, `rb_thread_call_without_gvl` non déclarée) — sans impact sur `jekyll build` (juste le
+live-reload) ni sur la CI (gem à plateforme restreinte, jamais installée sur les runners Linux) ;
+commenter la ligne `gem "wdm"` du `Gemfile` en local si besoin. `vendor/bundle/` et `.bundle/`
+sont gitignorés.
+
 ## Étape 4 — Commit (signé)
 
 ```bash
