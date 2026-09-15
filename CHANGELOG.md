@@ -4,6 +4,21 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.20.9] — 2026-09-15
+
+### Corrigé — clé IndexNow déplacée à la racine de l'hôte (Option 1 recommandée)
+
+Suite au retour du mainteneur (Bing Webmaster Tools → documentation officielle indexnow.org) :
+la clé de vérification était déposée sous `/durr-dental-knowledge-base/` (Option 2 du
+protocole), qui **restreint les URLs soumissibles au même sous-chemin** que la clé — risque
+inutile alors que la documentation recommande explicitement l'**Option 1** (clé à la racine de
+l'hôte, sans restriction). Clé déplacée vers le dépôt racine `Grzybicki/grzybicki.github.io`
+(déjà utilisé pour `robots.txt`/`llms.txt`/`security.txt` à la racine de l'hôte, même
+justification structurelle), bundle `deploy/root-site/` de la KB mis à jour en conséquence, et
+`keyLocation` du workflow `.github/workflows/indexnow.yml` repointé vers
+`https://grzybicki.github.io/4a7b47ac0bb6c4c625e3715bbb9b1137.txt`. Ancienne clé sous-chemin
+retirée de la racine de la KB (devenue redondante).
+
 ## [0.20.8] — 2026-09-15
 
 ### Ajouté — IndexNow (Bing/Yandex) + audit du flux feed.xml

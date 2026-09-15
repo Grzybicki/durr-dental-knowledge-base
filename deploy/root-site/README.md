@@ -53,3 +53,9 @@ aussi robots.txt/llms.txt visibles à la racine, sans dépôt séparé.
 - `llms.txt` — pointeur racine renvoyant vers le `llms.txt` complet et le
   `llms-full.txt` de la KB.
 - `.well-known/security.txt` — contact sécurité (RFC 9116).
+- `4a7b47ac0bb6c4c625e3715bbb9b1137.txt` — clé de vérification **IndexNow**
+  (Bing/Yandex). La documentation officielle recommande fortement l'**Option 1**
+  (clé à la racine de l'hôte) plutôt que l'Option 2 (clé sous un sous-chemin,
+  qui limite les URLs soumissibles à ce même sous-chemin) — d'où son dépôt ici
+  plutôt que sous `/durr-dental-knowledge-base/`. Référencée via `keyLocation`
+  dans `.github/workflows/indexnow.yml` de la KB.
