@@ -4,6 +4,14 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.21.2] — 2026-10-12
+
+### Corrigé — fiche VistaIntra DC : plaque d'adaptation `2202100035`
+
+La réf `2202100035` n'est plus présentée comme « générique » : c'est la plaque d'adaptation d'un
+appareil intra-oral tiers spécifique (disponible depuis 2025, comme `2202100042/043`) ; aucune
+plaque n'est générique. Revue factuelle 2026-09-18. `llms-full.txt` aligné.
+
 ## [0.21.1] — 2026-09-15
 
 ### Ajouté — guide de choix imagerie extra-orale (VistaPano vs VistaVox)

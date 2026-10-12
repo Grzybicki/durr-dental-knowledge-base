@@ -37,7 +37,7 @@ source_documents:
   - title: "Déclaration de Conformité VistaIntra DC"
     type: "Déclaration de Conformité"
     note: "Dispositif médical. Récupérable via Centre de téléchargements ou Eudamed."
-last_factual_review: 2026-07-19
+last_factual_review: 2026-09-18
 license: CC-BY-4.0
 ---
 
@@ -263,7 +263,7 @@ distincts) : tableau de références sans code produit unique.
 | `2202-300-05` | Faisceau (harness) pour **panneau de commande externe** | complète le kit `2202100012` |
 | `2202100030` | Bloc de fixation murale (2 entretoises) | montage mural |
 | `2202-303-50` | Plaque de montage murale **universelle** (8 points d'ancrage) | parois instables |
-| `2202100035` | **Plaque d'adaptation** VistaIntra DC (générique) | remplacement d'un appareil intra-oral tiers |
+| `2202100035` | **Plaque d'adaptation** VistaIntra DC | remplacement d'un appareil intra-oral tiers spécifique (réf disponible depuis 2025, comme `2202100042/043`) |
 
 > **Options d'installation déportées** : le **raccord d'un bouton de déclenchement (poussoir) externe
 > est inclus de série** — le bouton peut donc être **déporté sans accessoire**. Le **pupitre de
@@ -277,9 +277,9 @@ distincts) : tableau de références sans code produit unique.
 > **Plaques d'adaptation (remplacement d'un générateur intra-oral existant)** — permettent de monter
 > la VistaIntra DC **sur la fixation murale déjà en place**, sans re-perçage. Références (codes Dürr) :
 > `2202-303-51`, `2202-303-52`, `2202-303-53`, `2202-303-54`, `2202-303-55` ; nouvelles réfs (depuis
-> 2025) : `2202100042`, `2202100043`. Chaque plaque correspond à la **fixation d'un appareil intra-oral
-> existant**. **Rapprochez-vous d'un revendeur Dürr Dental pour obtenir la référence exacte
-> correspondant à votre appareil en place.**
+> 2025) : `2202100042`, `2202100043`, `2202100035`. Chaque plaque correspond à la **fixation d'un appareil
+> intra-oral existant** précis (une réf par appareil tiers, aucune n'est générique). **Rapprochez-vous
+> d'un revendeur Dürr Dental pour obtenir la référence exacte correspondant à votre appareil en place.**
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris).
@@ -313,4 +313,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-18. Licence : CC-BY 4.0.*
