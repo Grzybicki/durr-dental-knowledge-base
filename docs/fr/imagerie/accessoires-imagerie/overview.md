@@ -325,7 +325,7 @@ accidentel) **et** contre la contamination croisée.
 | `2130-072-55` | Sachet de protection Taille 2 (1 000 pièces) | 3 × 4 |
 | `2130-073-00` | Sachet de protection Taille 3 (100 pièces) | 2,7 × 5,4 |
 | `2130-074-00` | Sachet de protection Taille 4 (100 pièces) | 5,7 × 7,6 |
-| `2130-074-03` | Protection de mordure Taille 4 — occlusal (100 pièces) | 5,7 × 7,6 — pour écran de taille 4 en position occlusale (mordu) |
+| `2130-074-03` | Protection de mordure Taille 4 — occlusal (100 pièces) | 5,7 × 7,6 — pour écran de taille 4 en position occlusale (mordu) ; carton, à utiliser **en plus** du sachet T4 |
 | `2130-080-00` | Sachet de protection Plus Taille 0 (100 pièces) | 2 × 3 |
 | `2130-080-50` | Sachet de protection Plus White Taille 0 (100 pièces) | 2 × 3 |
 | `2130-081-00` | Sachet de protection Plus Taille 1 (100 pièces) | 2 × 4 |

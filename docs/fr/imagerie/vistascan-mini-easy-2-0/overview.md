@@ -170,7 +170,7 @@ livré de série est **2 écrans T0 + 4 écrans T2** avec 100 + 300 sachets de p
 | `2144110001` | VistaScan Mini Easy 2.0 (scanner) | appareil |
 | `2144100188` | Guide de plaque (en option) | T1 |
 | `2144100193` | Guide de plaque (en option) | T3 |
-| `2144100194` | Guide de plaque (en option) | T4 |
+| `2144100194` | Guide de plaque (en option) — aussi appelé « adaptateur » / *Plate Guide* S4 | T4 |
 | `2144100079` | Rack de rangement des guides de plaque | — |
 | `2144100195` | Housse de protection VistaScan Mini Easy 2.0 | — |
 | `2144100021` | Support mural (tablette murale) VistaScan Mini 2.0 | — |
@@ -183,12 +183,27 @@ livré de série est **2 écrans T0 + 4 écrans T2** avec 100 + 300 sachets de p
 | `2130104250` | Écran à mémoire VistaScan IQ (4 pièces, à l'unité) | T2 (3×4) |
 | `2130-080-00` | Sachets de protection contre la lumière Plus (100) | T0 |
 | `2130-082-00` | Sachets de protection contre la lumière Plus (300) | T2 |
+| `2130-084-00` | Sachet de protection contre la lumière Plus Taille 4 VistaScan (100) — protège contre la lumière et la contamination ; commun IQ et Plus | T4 (5,7 × 7,6) |
+| `2130-074-03` | Protection Taille 4 (100) — protection de mordure en carton pour écrans à mémoire de taille 4 (occlusal), **en plus** du sachet | T4 (5,7 × 7,6) |
 | `2130100500` | Kit de positionnement [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/) PSP antérieur/postérieur (titane) | — |
 | `CCB351B1001` | Lingettes de nettoyage écrans à mémoire (10) | — |
 
 Source : codes article Dürr Dental (page produit officielle + catalogue matériel
 Dürr Dental France 2026, tarifs non repris). Les **packs** `2130106xxx` associent
 **2 écrans à mémoire IQ + les sachets de protection** correspondants (T4 : 1 écran).
+
+**Utiliser un écran IQ taille 4 (occlusal) sur Mini Easy 2.0** : il faut réunir
+**quatre éléments** — (1) l'écran IQ T4 (`2130104450`, ou le pack `2130106451` qui
+inclut déjà 100 sachets), (2) le **guide de plaque T4** `2144100194` (non livré avec
+le scanner, seuls T0 et T2 le sont ; certains clients le nomment « adaptateur »),
+(3) les **sachets de protection T4** `2130-084-00` et (4) la **protection de mordure
+occlusale en carton** `2130-074-03`, indispensable en plus du sachet pour la prise en
+position occlusale.
+
+> **Ne pas confondre IQ et Plus en T4** : l'écran **Plus** Taille 4 (`2130-044-50`,
+> « Écran à mémoire intra-oral, format 5,7 × 7,6 », sans puce RFID) n'est **pas lisible
+> par le Mini Easy 2.0** ; il est réservé au parc série 1.0 et au Combi View. Le sachet
+> `2130-084-00` et la protection `2130-074-03` sont en revanche communs aux deux.
 Le système de positionnement [VistaPosition](/durr-dental-knowledge-base/docs/fr/imagerie/vistaposition/overview/)
 (`2130100500`) se monte sur les écrans à mémoire intra-oraux VistaScan pour un
 repositionnement reproductible.

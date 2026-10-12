@@ -228,7 +228,7 @@ Plus, Mini View, Perio, Perio Net).
 | `2130-082-55` | 1000 pièces | T2 |
 | `2130-083-00` | 100 pièces | T3 |
 | `2130-084-00` | 100 pièces | T4 |
-| `2130-074-03` | Protection de mordu occlusale (100) | T4 |
+| `2130-074-03` | Protection Taille 4 (100) — protection de mordure en carton pour écrans à mémoire de taille 4 (occlusal), à prévoir **en plus** du sachet T4 (`2130-084-00`) | T4 |
 
 ### Supports d'écran (cassettes) et rangement
 

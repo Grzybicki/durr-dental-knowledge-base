@@ -4,6 +4,18 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.21.3] — 2026-10-12
+
+### Ajouté — écran IQ taille 4 (occlusal) sur VistaScan Mini Easy 2.0
+
+Cas terrain (demande « référence adaptateur écran IQ taille 4 », Mini Easy 2.0) : la fiche
+`vistascan-mini-easy-2-0` décrit désormais les quatre éléments d'une configuration T4 — écran IQ
+`2130104450` (ou pack `2130106451`), guide de plaque `2144100194` (alias « adaptateur » / *Plate
+Guide* S4, non livré de série), sachet `2130-084-00` (commun IQ et Plus) et protection de mordure
+occlusale `2130-074-03` **en plus** du sachet. Précision IQ ≠ Plus : l'écran Plus T4 `2130-044-50`
+n'est pas lisible par la série 2.0. Libellés alignés sur le catalogue général 2026 ; mêmes
+précisions sur `vistascan-iq-ecrans` et `accessoires-imagerie`. `llms-full.txt` régénéré (71 fiches).
+
 ## [0.21.2] — 2026-10-12
 
 ### Corrigé — fiche VistaIntra DC : plaque d'adaptation `2202100035`
