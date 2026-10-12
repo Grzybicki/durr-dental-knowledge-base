@@ -4,6 +4,15 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.21.4] — 2026-10-12
+
+### Corrigé — fiche VistaIntra DC : disponibilité des plaques `2202100xx`
+
+Suppression de la date « depuis 2025 » (non établie pour `2202100035`, absente du catalogue
+général 2026 p. 123) : les trois réfs `2202100042`, `2202100043` et `2202100035` sont désormais
+indiquées simplement comme disponibles. Aucun nom de modèle concurrent ajouté (règle d'or).
+`llms-full.txt` régénéré.
+
 ## [0.21.3] — 2026-10-12
 
 ### Ajouté — écran IQ taille 4 (occlusal) sur VistaScan Mini Easy 2.0
