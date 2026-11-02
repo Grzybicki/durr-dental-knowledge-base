@@ -4,6 +4,15 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.22.3] — 2026-11-02
+
+### Ajouté — FAQ Orotol : empreintes / usage en bouche → MD 520
+
+Requêtes Bing réelles de mésusage (« orotol pour désinfecter les empreintes », « orotol
+désinfection buccale implantologie »). FAQ ajoutée sur `desinfection-aspiration` (visible +
+FAQPage, 8 questions) : Orotol Plus est réservé au système d'aspiration ; pour les empreintes,
+**MD 520** (lien vers `desinfection-empreintes`). Consigne du mainteneur.
+
 ## [0.22.2] — 2026-11-02
 
 ### Ajouté — FAQ « odeur, que faire ? » sur toutes les aspirations entretenues à l'Orotol

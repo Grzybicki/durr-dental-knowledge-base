@@ -306,6 +306,14 @@ spécifiques.
         "@type": "Answer",
         "text": "Appliquer le protocole d'entretien de l'aspiration Dürr Dental : Orotol Plus dilué à 2 % au moins une fois par jour (le soir, après avoir aspiré 2 litres d'eau), et MD 555 cleaner à 5 % au moins deux fois par semaine (trois fois en cas de poudre prophylactique), suivi d'un rinçage abondant. Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel)."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on utiliser l'Orotol pour les empreintes ou en bouche ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Orotol Plus est destiné exclusivement à la désinfection et au nettoyage du système d'aspiration ; il n'est pas prévu pour un usage en bouche ni pour les empreintes. Pour décontaminer les empreintes, utiliser le MD 520."
+      }
     }
   ]
 }
@@ -342,6 +350,12 @@ La ligne durable comprend l'**Orotol plus pH 7** (désinfectant neutre, > 95 % d
 Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
 prophylactique), suivi d'un rinçage abondant. Détail : [protocole ci-dessus](#protocole-dutilisation-orotol-plus).
 Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
+
+### Peut-on utiliser l'Orotol pour les empreintes ou en bouche ?
+
+Non. **Orotol Plus** est destiné **exclusivement** à la désinfection et au nettoyage du
+**système d'aspiration** ; il n'est pas prévu pour un usage en bouche ni pour les empreintes.
+Pour décontaminer les **empreintes**, utiliser le [**MD 520**](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/).
 
 ## Références produit et accessoires
 

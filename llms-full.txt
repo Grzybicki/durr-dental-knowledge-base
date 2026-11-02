@@ -6008,6 +6008,12 @@ Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol P
 prophylactique), suivi d'un rinçage abondant. Détail : [protocole ci-dessus](#protocole-dutilisation-orotol-plus).
 Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
 
+### Peut-on utiliser l'Orotol pour les empreintes ou en bouche ?
+
+Non. **Orotol Plus** est destiné **exclusivement** à la désinfection et au nettoyage du
+**système d'aspiration** ; il n'est pas prévu pour un usage en bouche ni pour les empreintes.
+Pour décontaminer les **empreintes**, utiliser le [**MD 520**](../desinfection-empreintes/overview/).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** pour la désinfection/entretien des systèmes d'aspiration
