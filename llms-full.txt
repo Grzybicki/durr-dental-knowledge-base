@@ -5859,7 +5859,7 @@ de la gamme :
 
 ### Orotol Plus, Orotol Plus pH 7 ou Orotol ultra : comparatif
 
-| | **Orotol Plus** | **Orotol Plus pH 7** | **Orotol ultra** |
+| | **Orotol Plus** | **Orotol Plus pH 7** (« Orotol green ») | **Orotol ultra** |
 |---|---|---|---|
 | **Forme** | Concentré liquide (1 l, 2,5 l) | Concentré liquide (2,5 l) | **Concentré en poudre** (sachet 500 g) |
 | **Principe actif** | Ammoniums quaternaires | Ammoniums quaternaires | Percarbonate de sodium (peroxohydrate) |
@@ -6025,7 +6025,7 @@ Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif
 
 **Orotol Plus** est le concentré liquide de référence (ammoniums quaternaires ; bactéricide,
 levuricide, virucide limité aux virus enveloppés, plus adénovirus et norovirus).
-**Orotol Plus pH 7** est sa déclinaison à **pH neutre**, plus durable (> 95 % d'ingrédients
+**Orotol Plus pH 7** (la version « green ») est sa déclinaison à **pH neutre**, plus durable (> 95 % d'ingrédients
 organiques biodégradables selon OECD). **Orotol ultra** est un **concentré en poudre** à base de
 percarbonate de sodium, **entièrement virucide** (virus enveloppés et non enveloppés), également
 tuberculocide, fongicide et sporicide (*Clostridium difficile*), utilisable dès 1 %.

@@ -19,6 +19,8 @@ et orotol plus », « orotol plus est-il enzymatique »). Sur `desinfection-aspi
 - Sources : pages produit officielles **Orotol ultra EN + DE** ajoutées ; Orotol Plus / pH 7 déjà
   citées (principes actifs et spectres relus sur les pages en ligne). Brochure distributeur
   `gerl-dental` écartée (lien mort, 404).
+- **« Orotol green » = Orotol Plus pH 7** (confirmé par le mainteneur) : rendu explicite dans le
+  comparatif, la FAQ « différence » et les mots-clés (requête Bing « orotol plus vs orotol plus green »).
 
 ## [0.22.3] — 2026-11-02
 

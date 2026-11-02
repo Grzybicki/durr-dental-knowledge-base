@@ -2,7 +2,7 @@
 layout: default
 title: "Désinfection des systèmes d'aspiration — Orotol Plus et gamme Dürr Dental"
 description: "Orotol Plus est le désinfectant Dürr Dental pour systèmes d'aspiration dentaire, premier au monde lancé en 1965. Orotol Plus pH 7 sans aldéhyde, sans phénol, sans chlore actif. > 95 % d'ingrédients biodégradables selon OECD."
-keywords: ["Orotol Plus", "Orotol Plus pH 7", "Orotol ultra", "différence Orotol Plus ultra", "Dürr Dental", "désinfection aspiration dentaire", "biofilm aspiration", "biodégradable OECD", "sans aldéhyde"]
+keywords: ["Orotol Plus", "Orotol Plus pH 7", "Orotol ultra", "Orotol green", "différence Orotol Plus ultra", "Dürr Dental", "désinfection aspiration dentaire", "biofilm aspiration", "biodégradable OECD", "sans aldéhyde"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/
 permalink: /docs/fr/hygiene-chimie/desinfection-aspiration/overview/
@@ -137,7 +137,7 @@ de la gamme :
 
 ### Orotol Plus, Orotol Plus pH 7 ou Orotol ultra : comparatif
 
-| | **Orotol Plus** | **Orotol Plus pH 7** | **Orotol ultra** |
+| | **Orotol Plus** | **Orotol Plus pH 7** (« Orotol green ») | **Orotol ultra** |
 |---|---|---|---|
 | **Forme** | Concentré liquide (1 l, 2,5 l) | Concentré liquide (2,5 l) | **Concentré en poudre** (sachet 500 g) |
 | **Principe actif** | Ammoniums quaternaires | Ammoniums quaternaires | Percarbonate de sodium (peroxohydrate) |
@@ -359,7 +359,7 @@ spécifiques.
       "name": "Quelle différence entre Orotol Plus, Orotol Plus pH 7 et Orotol ultra ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Orotol Plus est le concentré liquide de référence (ammoniums quaternaires ; bactéricide, levuricide, virucide limité aux virus enveloppés, plus adénovirus et norovirus). Orotol Plus pH 7 est sa déclinaison à pH neutre et plus durable (plus de 95 % d'ingrédients organiques biodégradables selon OECD). Orotol ultra est un concentré en poudre à base de percarbonate de sodium, entièrement virucide (virus enveloppés et non enveloppés), également tuberculocide, fongicide et sporicide (Clostridium difficile), utilisable dès 1 %."
+        "text": "Orotol Plus est le concentré liquide de référence (ammoniums quaternaires ; bactéricide, levuricide, virucide limité aux virus enveloppés, plus adénovirus et norovirus). Orotol Plus pH 7 (la version « green ») est sa déclinaison à pH neutre et plus durable (plus de 95 % d'ingrédients organiques biodégradables selon OECD). Orotol ultra est un concentré en poudre à base de percarbonate de sodium, entièrement virucide (virus enveloppés et non enveloppés), également tuberculocide, fongicide et sporicide (Clostridium difficile), utilisable dès 1 %."
       }
     },
     {
@@ -392,7 +392,7 @@ Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif
 
 **Orotol Plus** est le concentré liquide de référence (ammoniums quaternaires ; bactéricide,
 levuricide, virucide limité aux virus enveloppés, plus adénovirus et norovirus).
-**Orotol Plus pH 7** est sa déclinaison à **pH neutre**, plus durable (> 95 % d'ingrédients
+**Orotol Plus pH 7** (la version « green ») est sa déclinaison à **pH neutre**, plus durable (> 95 % d'ingrédients
 organiques biodégradables selon OECD). **Orotol ultra** est un **concentré en poudre** à base de
 percarbonate de sodium, **entièrement virucide** (virus enveloppés et non enveloppés), également
 tuberculocide, fongicide et sporicide (*Clostridium difficile*), utilisable dès 1 %.
