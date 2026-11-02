@@ -26,7 +26,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Brochure imprimée Dürr Dental France — disponible via le service commercial et le Centre de téléchargements. Source des caractéristiques techniques (910 mbar, 44 dB(A), 35×33×37 cm, 16 kg, bocal 2 L gélifiant, aspiration 75 % plus rapide que VC 45)"
-last_factual_review: 2026-07-22
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -179,6 +179,14 @@ VC 65 est un **dispositif médical de classe IIa** selon le règlement
         "@type": "Answer",
         "text": "Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100188L03."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon VC 65 dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remplacer la poche à sécrétions (bocal 2 L à gélifiant intégré) par une neuve : elle est à usage unique et ne se vide, ne se nettoie ni ne se désinfecte. Cette aspiration chirurgicale ne s'entretient pas à l'Orotol Plus ni au MD 555."
+      }
     }
   ]
 }
@@ -205,6 +213,12 @@ Oui, c'est un dispositif médical de classe IIa selon le règlement MDR EU 2017/
 ### Quelles sont les dimensions du VC 65 ?
 
 Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100188L03.
+
+### Mon VC 65 dégage une odeur : que faire ?
+
+Remplacer la **poche à sécrétions** (bocal 2 L à gélifiant intégré) par une neuve : elle est à **usage unique** et ne se
+vide, ne se nettoie ni ne se désinfecte. Cette aspiration chirurgicale ne s'entretient
+**pas** à l'Orotol Plus ni au MD 555.
 
 ## Références produit et accessoires
 
@@ -251,4 +265,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

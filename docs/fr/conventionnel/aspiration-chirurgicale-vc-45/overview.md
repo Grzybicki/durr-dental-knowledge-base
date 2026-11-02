@@ -26,7 +26,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Brochure Dürr Dental France — source des caractéristiques techniques (45 l/min, 910 mbar, 48 dB(A), 33×24×36 cm, 6,7 kg, bocaux 1,5/3 L autoclavables ou poche 2 L jetable, pompe à membrane)."
-last_factual_review: 2026-07-22
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -193,6 +193,14 @@ est classé **IIa** (marquage CE 0297).
         "@type": "Answer",
         "text": "Le VC 45 utilise une pompe à membrane (45 l/min, 48 dB(A)). Le VC 65, plus récent, utilise une pompe à pistons plus puissante et plus silencieuse (65/75 l/min, 44 dB(A), aspiration environ 75 % plus rapide)."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon VC 45 dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remplacer la poche à sécrétions par une neuve : elle est à usage unique et ne se vide, ne se nettoie ni ne se désinfecte. Cette aspiration chirurgicale ne s'entretient pas à l'Orotol Plus ni au MD 555."
+      }
     }
   ]
 }
@@ -216,6 +224,12 @@ Non. Contrairement aux aspirations de soin, l'aspiration chirurgicale VC 45 fonc
 
 Le VC 45 utilise une pompe à membrane (45 l/min, 48 dB(A)). Le VC 65, plus récent, utilise une pompe à pistons plus puissante et plus silencieuse (65/75 l/min, 44 dB(A), aspiration environ 75 % plus rapide).
 
+### Mon VC 45 dégage une odeur : que faire ?
+
+Remplacer la **poche à sécrétions** par une neuve : elle est à **usage unique** et ne se
+vide, ne se nettoie ni ne se désinfecte. Cette aspiration chirurgicale ne s'entretient
+**pas** à l'Orotol Plus ni au MD 555.
+
 ## Sources publiques
 
 | Document | URL / référence |
@@ -236,4 +250,4 @@ Le VC 45 utilise une pompe à membrane (45 l/min, 48 dB(A)). Le VC 65, plus réc
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

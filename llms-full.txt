@@ -471,6 +471,12 @@ Non. Contrairement aux aspirations de soin, l'aspiration chirurgicale VC 45 fonc
 
 Le VC 45 utilise une pompe à membrane (45 l/min, 48 dB(A)). Le VC 65, plus récent, utilise une pompe à pistons plus puissante et plus silencieuse (65/75 l/min, 44 dB(A), aspiration environ 75 % plus rapide).
 
+### Mon VC 45 dégage une odeur : que faire ?
+
+Remplacer la **poche à sécrétions** par une neuve : elle est à **usage unique** et ne se
+vide, ne se nettoie ni ne se désinfecte. Cette aspiration chirurgicale ne s'entretient
+**pas** à l'Orotol Plus ni au MD 555.
+
 ## Sources publiques
 
 | Document | URL / référence |
@@ -491,7 +497,7 @@ Le VC 45 utilise une pompe à membrane (45 l/min, 48 dB(A)). Le VC 65, plus réc
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # VC 65 — Unité d'aspiration chirurgicale Dürr Dental (910 mbar, 65 l/min, 44 dB(A))
@@ -602,6 +608,12 @@ Oui, c'est un dispositif médical de classe IIa selon le règlement MDR EU 2017/
 
 Environ 35 × 33 × 37 cm (H × L × P) sans chariot. Source : factsheet P007100188L03.
 
+### Mon VC 65 dégage une odeur : que faire ?
+
+Remplacer la **poche à sécrétions** (bocal 2 L à gélifiant intégré) par une neuve : elle est à **usage unique** et ne se
+vide, ne se nettoie ni ne se désinfecte. Cette aspiration chirurgicale ne s'entretient
+**pas** à l'Orotol Plus ni au MD 555.
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
@@ -647,7 +659,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Compresseurs CAD/CAM Dürr Dental — Air comprimé pour CFAO dentaire

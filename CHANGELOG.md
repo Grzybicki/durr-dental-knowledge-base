@@ -14,6 +14,10 @@ les aspirations ») : `desinfection-aspiration` (ancre interne vers le protocole
 l'installation). **Exclues** : VC 45 / VC 65 (aspiration chirurgicale à consommables à usage
 unique, sans Orotol). FAQ visible + FAQPage sur les 6 fiches (JSON-LD valide au build).
 
+**VC 45 / VC 65** (consigne du mainteneur) : FAQ « odeur » dédiée → **remplacer la poche à
+sécrétions** (usage unique, ni vidée ni désinfectée), sans Orotol ni MD 555 — cohérent avec la
+section hygiène de ces fiches.
+
 ## [0.22.1] — 2026-11-02
 
 ### Ajouté — Power Tower : FAQ « odeur, que faire ? »
