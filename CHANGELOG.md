@@ -4,6 +4,22 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.23.0] — 2026-11-02
+
+### Ajouté — Orotol ultra + comparatif Orotol Plus / pH 7 / ultra + FAQ
+
+Cluster de requêtes Bing le plus fréquent (« orotol plus ou orotol ultra », « différence orotol
+et orotol plus », « orotol plus est-il enzymatique »). Sur `desinfection-aspiration` :
+- **Section Orotol ultra** (absente jusqu'ici) : concentré **en poudre** (500 g), percarbonate de
+  sodium, **entièrement virucide** (enveloppés + non enveloppés), tuberculocide, mycobactéricide,
+  fongicide, sporicide (*C. difficile*), dès 1 %, normes EN listées.
+- **Tableau comparatif** des trois (forme, principe actif, spectre, particularité).
+- **FAQ** (+2, FAQPage 10 questions) : différence entre les trois ; « enzymatique ? » → aucun Orotol
+  n'est présenté comme enzymatique (principes actifs : ammoniums quaternaires / percarbonate).
+- Sources : pages produit officielles **Orotol ultra EN + DE** ajoutées ; Orotol Plus / pH 7 déjà
+  citées (principes actifs et spectres relus sur les pages en ligne). Brochure distributeur
+  `gerl-dental` écartée (lien mort, 404).
+
 ## [0.22.3] — 2026-11-02
 
 ### Ajouté — FAQ Orotol : empreintes / usage en bouche → MD 520

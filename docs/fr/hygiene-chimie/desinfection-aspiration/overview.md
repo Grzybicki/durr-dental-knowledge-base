@@ -2,7 +2,7 @@
 layout: default
 title: "Désinfection des systèmes d'aspiration — Orotol Plus et gamme Dürr Dental"
 description: "Orotol Plus est le désinfectant Dürr Dental pour systèmes d'aspiration dentaire, premier au monde lancé en 1965. Orotol Plus pH 7 sans aldéhyde, sans phénol, sans chlore actif. > 95 % d'ingrédients biodégradables selon OECD."
-keywords: ["Orotol Plus", "Orotol Plus pH 7", "Dürr Dental", "désinfection aspiration dentaire", "biofilm aspiration", "biodégradable OECD", "sans aldéhyde"]
+keywords: ["Orotol Plus", "Orotol Plus pH 7", "Orotol ultra", "différence Orotol Plus ultra", "Dürr Dental", "désinfection aspiration dentaire", "biofilm aspiration", "biodégradable OECD", "sans aldéhyde"]
 lang: fr
 canonical_url: https://grzybicki.github.io/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/
 permalink: /docs/fr/hygiene-chimie/desinfection-aspiration/overview/
@@ -25,6 +25,14 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-plus-ph-7/"
     type: "page produit"
     language: "en"
+  - title: "Page Orotol ultra (EN)"
+    url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/orotol-ultra/"
+    type: "page produit"
+    language: "en"
+  - title: "Page Orotol ultra (DE)"
+    url: "https://www.duerrdental.com/de/DE/produkte/hygiene/hygienepraeparate/spezialbereiche/orotol-ultra/"
+    type: "page produit"
+    language: "de"
   - title: "Page Hygosuc — intégration système aspiration (FR)"
     url: "https://www.duerrdental.com/fr/FR/produits/aspiration/integration-du-systeme/hygosuc/"
     type: "page produit"
@@ -109,6 +117,37 @@ d'amalgame** :
 bactéricide/levuricide ; 2 % – 15 min virucide enveloppés). Rincer le système à **≥ 1 L
 d'eau avant et après**. Cette formulation à pH 7 minimise les risques de corrosion et
 facilite l'usage quotidien. *(Source : information produit Orotol plus pH 7, 2023-06.)*
+
+### Orotol ultra
+
+**Orotol ultra** est un **concentré en poudre** (sachet de **500 g**) pour la désinfection, le
+nettoyage, la désodorisation et le soin simultanés de tous les systèmes d'aspiration et
+récupérateurs d'amalgame. Dürr Dental le présente comme **la solution entièrement virucide**
+de la gamme :
+
+- **Principe actif** : **peroxohydrate de carbonate de sodium** (percarbonate de sodium).
+- **Spectre** : bactéricide, **tuberculocide**, **mycobactéricide**, fongicide, **sporicide**
+  (*Clostridium difficile*), virucide sur virus **enveloppés** (dont VHB, VHC, VIH, coronavirus)
+  **et non enveloppés** (adénovirus, norovirus, poliovirus, polyomavirus SV40).
+- **Concentration d'application faible** : **à partir de 1 %**.
+- Testé sous **charge élevée** selon EN 13727, 14561, 13624, 14562, 14348, 14563, 17126, 14476,
+  17111 et la directive DVV/RKI.
+
+*(Source : pages produit officielles Orotol ultra, EN et DE.)*
+
+### Orotol Plus, Orotol Plus pH 7 ou Orotol ultra : comparatif
+
+| | **Orotol Plus** | **Orotol Plus pH 7** | **Orotol ultra** |
+|---|---|---|---|
+| **Forme** | Concentré liquide (1 l, 2,5 l) | Concentré liquide (2,5 l) | **Concentré en poudre** (sachet 500 g) |
+| **Principe actif** | Ammoniums quaternaires | Ammoniums quaternaires | Percarbonate de sodium (peroxohydrate) |
+| **Virucidie** | Limitée (virus enveloppés) + adénovirus et norovirus | Limitée (virus enveloppés) | **Complète** (enveloppés **et** non enveloppés) |
+| **Autres activités** | Bactéricide, levuricide | Bactéricide, levuricide | Bactéricide, **tuberculocide**, **mycobactéricide**, fongicide, **sporicide** (*C. difficile*) |
+| **Particularité** | Désinfectant de référence, le plus utilisé | **pH neutre**, > 95 % d'ingrédients organiques biodégradables (OECD) — déclinaison durable | Spectre le plus large de la gamme, dès 1 % |
+
+Les trois se complètent du même nettoyant : **MD 555 cleaner**
+(ou MD 555 cleaner organic). *(Sources : pages produit officielles Orotol Plus, Orotol Plus pH 7
+et Orotol ultra.)*
 
 ## Intégration
 
@@ -314,6 +353,22 @@ spécifiques.
         "@type": "Answer",
         "text": "Non. Orotol Plus est destiné exclusivement à la désinfection et au nettoyage du système d'aspiration ; il n'est pas prévu pour un usage en bouche ni pour les empreintes. Pour décontaminer les empreintes, utiliser le MD 520."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle différence entre Orotol Plus, Orotol Plus pH 7 et Orotol ultra ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Orotol Plus est le concentré liquide de référence (ammoniums quaternaires ; bactéricide, levuricide, virucide limité aux virus enveloppés, plus adénovirus et norovirus). Orotol Plus pH 7 est sa déclinaison à pH neutre et plus durable (plus de 95 % d'ingrédients organiques biodégradables selon OECD). Orotol ultra est un concentré en poudre à base de percarbonate de sodium, entièrement virucide (virus enveloppés et non enveloppés), également tuberculocide, fongicide et sporicide (Clostridium difficile), utilisable dès 1 %."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Orotol Plus est-il un produit enzymatique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les pages produit officielles ne présentent aucun Orotol comme enzymatique. Les principes actifs indiqués sont des ammoniums quaternaires pour Orotol Plus et Orotol Plus pH 7, et le percarbonate de sodium (peroxohydrate) pour Orotol ultra."
+      }
     }
   ]
 }
@@ -332,6 +387,22 @@ Une dilution à 2 % (20 ml d'Orotol Plus pour 1 litre de solution), au moins une
 ### Qu'apporte la variante Orotol Plus pH 7 ?
 
 Une formulation à pH neutre, sans aldéhydes, sans phénol et sans chlore actif, avec plus de 95 % d'ingrédients organiques biodégradables selon les directives OECD.
+
+### Quelle différence entre Orotol Plus, Orotol Plus pH 7 et Orotol ultra ?
+
+**Orotol Plus** est le concentré liquide de référence (ammoniums quaternaires ; bactéricide,
+levuricide, virucide limité aux virus enveloppés, plus adénovirus et norovirus).
+**Orotol Plus pH 7** est sa déclinaison à **pH neutre**, plus durable (> 95 % d'ingrédients
+organiques biodégradables selon OECD). **Orotol ultra** est un **concentré en poudre** à base de
+percarbonate de sodium, **entièrement virucide** (virus enveloppés et non enveloppés), également
+tuberculocide, fongicide et sporicide (*Clostridium difficile*), utilisable dès 1 %.
+Voir le [comparatif](#orotol-plus-orotol-plus-ph-7-ou-orotol-ultra--comparatif).
+
+### Orotol Plus est-il un produit enzymatique ?
+
+Les pages produit officielles ne présentent **aucun Orotol comme enzymatique**. Les principes
+actifs indiqués sont des **ammoniums quaternaires** pour Orotol Plus et Orotol Plus pH 7, et le
+**percarbonate de sodium** (peroxohydrate) pour Orotol ultra.
 
 ### Quel est le rôle du MD 555 par rapport à Orotol Plus ?
 
