@@ -51,7 +51,7 @@ source_documents:
     type: "notice officielle"
     language: "en"
     note: "Source des temps de mise sous pression (0→7,5 bar), volumes aspirés, pressions d'enclenchement 6 bar / arrêt 7,8 bar (réglable 9,5), point de rosée ≤ +5 °C à 7 bar, dimensions et poids. Récupérable via le Centre de téléchargements (qr.duerrdental.com/5152100003)."
-last_factual_review: 2026-07-22
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -219,7 +219,7 @@ Quattro Tandem, cf. tableaux) ; valeurs sonores moyennes **à 5 bar et
 > Le **temps de mise sous pression** (cuve vide → pression d'arrêt) est une valeur nominale
 > de mise en service ; le **volume aspiré** (*suction power*) est l'air aspiré **en amont** du
 > séchage — le « débit @ 5 bar » ci-dessus est l'air **délivré**. Valeurs à **50 / 60 Hz**.
-> *(Point de rosée à 7 bar : ≤ +5 °C ; enclenchement 6 bar / arrêt 7,8 bar, réglable jusqu'à 9,5 bar.)*
+> *(Point de rosée à 7 bar : ≤ +5 °C ; enclenchement 6 bar / arrêt 7,8 bar ; le 9,5 bar est réservé aux versions CAD/CAM, cf. encadré ci-dessus.)*
 
 ### Compresseurs Tandem évolutifs (4 à 16 praticiens)
 
@@ -440,4 +440,4 @@ Dürr Dental France 2026, tarifs non repris). Le nombre de kits de filtres suit 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Les tarifs ne sont pas reproduits (susceptibles d'évoluer). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

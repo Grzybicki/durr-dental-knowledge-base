@@ -643,6 +643,62 @@ def validate_file(
     check_pii(report, path, body)
     check_jsonld_blocks(report, path, content)
     check_internal_links(report, root, path, body, permalink_index)
+    check_footer_date(report, path, fm, body)
+
+
+FOOTER_DATE_RE = re.compile(r"Dernière revue factuelle\s*:\s*(\d{4}-\d{2}-\d{2})")
+
+
+def check_footer_date(report: Report, path: Path, fm: dict | None, body: str) -> None:
+    """La date du pied de page doit être celle de `last_factual_review`."""
+    if not fm or not fm.get("last_factual_review"):
+        return
+    expected = str(fm["last_factual_review"])
+    for m in FOOTER_DATE_RE.finditer(body):
+        if m.group(1) != expected:
+            report.add(Issue(
+                path=path,
+                severity="WARN",
+                rule="footer-date-mismatch",
+                message=f"pied de page « {m.group(1)} » différente de last_factual_review {expected}",
+                line=get_line_number(body, m.start()),
+            ))
+
+
+HOME_COUNT_RE = re.compile(r"\b(\d+) fiches\b")
+
+
+def check_home_index(report: Report, root: Path) -> None:
+    """L'accueil doit annoncer le bon nombre de fiches et toutes les relier."""
+    home = root / "index.md"
+    if not home.exists():
+        return
+    text = home.read_text(encoding="utf-8")
+    fiches = {
+        p.parent.relative_to(root / "docs" / "fr").as_posix()
+        for p in (root / "docs" / "fr").rglob("overview.md")
+    }
+    # Compteurs globaux uniquement (on ignore les lignes « [Index …] — N fiches »).
+    for m in HOME_COUNT_RE.finditer(text):
+        line_start = text.rfind("\n", 0, m.start()) + 1
+        if text.startswith("[Index ", line_start):
+            continue
+        if int(m.group(1)) != len(fiches):
+            report.add(Issue(
+                path=home,
+                severity="WARN",
+                rule="home-count-mismatch",
+                message=f"accueil annonce {m.group(1)} fiches, le dépôt en compte {len(fiches)}",
+                line=get_line_number(text, m.start()),
+            ))
+    linked = set(re.findall(r"/docs/fr/([\w\-/]+?)/overview/", text))
+    for missing in sorted(fiches - linked):
+        report.add(Issue(
+            path=home,
+            severity="WARN",
+            rule="home-orphan",
+            message=f"fiche non reliée depuis l'accueil : {missing}",
+        ))
 
 
 # ------------------------------------------------------------------
@@ -674,6 +730,7 @@ def main() -> int:
 
     for path in iter_files(root):
         validate_file(report, root, path, permalink_index)
+    check_home_index(report, root)
 
     # Rapport humain
     print()

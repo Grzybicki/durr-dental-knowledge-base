@@ -30,7 +30,7 @@ source_documents:
     url: "https://www.duerrdental.com/fr/FR/service-clientele/le-centre-de-telechargements/"
     type: "portail documents"
     language: "fr"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -176,7 +176,7 @@ Image Bridge **n'est pas un substitut** à VistaSoft 4.0 :
       "name": "Image Bridge supporte-t-il TWAIN ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui. VistaSoft et Image Bridge supportent le standard TWAIN pour les capteurs intra-oraux, ce qui permet l'intégration dans tout logiciel tiers supportant TWAIN."
+        "text": "Non, ce n'est pas le rôle d'Image Bridge. Image Bridge est l'intégration dédiée aux logiciels Sidexis et VixWin (co-développement). Le support TWAIN générique, qui expose les appareils Dürr Dental à tout logiciel tiers compatible TWAIN, relève de VistaSoft Connect."
       }
     }
   ]
@@ -197,7 +197,8 @@ installation complète.
 
 ### Supporte-t-il TWAIN ?
 
-Oui, pour les capteurs intra-oraux.
+Non, ce n'est pas le rôle d'Image Bridge : il cible Sidexis et VixWin
+(co-développement). Le **support TWAIN générique** relève de **VistaSoft Connect**.
 
 ## Sources publiques
 
@@ -226,4 +227,4 @@ Oui, pour les capteurs intra-oraux.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

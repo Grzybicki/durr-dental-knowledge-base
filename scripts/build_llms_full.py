@@ -166,6 +166,10 @@ def build_llms_txt(fiches):
         "IA autorisée." % len(fiches)
     )
     lines.append("")
+    # Date déterministe (dernière revue factuelle parmi les fiches) : `--check` reste stable.
+    last_review = max(str(fm.get("last_factual_review", "")) for _, fm in fiches)
+    lines.append("Dernière mise à jour du contenu : %s." % last_review)
+    lines.append("")
     lines.append(
         "Toutes les sources sont strictement publiques : manuels qr.duerrdental.com, "
         "brochures et factsheets publiques, Déclarations de Conformité publiques, Eudamed, "

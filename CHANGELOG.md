@@ -4,6 +4,39 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.22.0] — 2026-11-02
+
+### Corrigé — constats du suivi IA mensuel (test du 01/11/2026)
+
+- **Accueil** : compteurs alignés sur le dépôt (**71 fiches** ; index 36 / 22 / 12), date de
+  revue mise à jour, **15 fiches orphelines reliées** (guides de choix, Mini View 2.0,
+  Ultra View, Combi View, VSA, Variosuc, VC 45, Air Clinic, dessiccateur, qualité d'air,
+  local technique, Hygosuc).
+- **Image Bridge** : la FAQ (visible + FAQPage) répondait « Oui » au support TWAIN, en
+  contradiction avec la section Périmètre → corrigée : TWAIN générique = VistaSoft Connect.
+- **Silver Airline** : la note « réglable jusqu'à 9,5 bar » contredisait l'encadré
+  (9,5 bar = versions CAD/CAM uniquement) → alignée.
+- **Pieds de page** : `desinfection-surfaces` (07-22 → 09-13) et `vector-paro`
+  (07-19 → 08-05) alignés sur `last_factual_review`.
+
+### Ajouté
+
+- **`sitemap.xml` avec `<lastmod>`** : template personnalisé (remplace celui de
+  `jekyll-sitemap`, qui ne lit que `last_modified_at`) alimenté par `last_factual_review`.
+  Vérifié par build local : mêmes 81 URL qu'en ligne, toutes datées.
+- **`llms.txt`** : ligne « Dernière mise à jour du contenu » (max des `last_factual_review`,
+  déterministe pour `--check`).
+- **`validate.py`** : règles `footer-date-mismatch`, `home-count-mismatch`, `home-orphan`
+  (testées sur l'état précédent : tous les défauts ci-dessus détectés).
+- **`robots.txt` racine** : `Claude-SearchBot` et `Claude-User` nommés explicitement.
+
+### Faux positifs écartés du rapport
+
+`llms-full.txt` « tronqué » (fichier en ligne complet, 866 Ko — limite de lecture de l'outil),
+YAML brut sur l'accueil et JSON-LD absent (présents et valides dans le HTML servi),
+2:4:0/2:4:2 (écart déjà expliqué dans la fiche), classe des récupérateurs (la notice VSA
+vise un autre appareil). Lettre **C = Centrifugation** confirmée par le mainteneur.
+
 ## [0.21.4] — 2026-10-12
 
 ### Corrigé — fiche VistaIntra DC : disponibilité des plaques `2202100xx`

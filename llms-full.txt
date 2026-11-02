@@ -3383,7 +3383,7 @@ Quattro Tandem, cf. tableaux) ; valeurs sonores moyennes **à 5 bar et
 > Le **temps de mise sous pression** (cuve vide → pression d'arrêt) est une valeur nominale
 > de mise en service ; le **volume aspiré** (*suction power*) est l'air aspiré **en amont** du
 > séchage — le « débit @ 5 bar » ci-dessus est l'air **délivré**. Valeurs à **50 / 60 Hz**.
-> *(Point de rosée à 7 bar : ≤ +5 °C ; enclenchement 6 bar / arrêt 7,8 bar, réglable jusqu'à 9,5 bar.)*
+> *(Point de rosée à 7 bar : ≤ +5 °C ; enclenchement 6 bar / arrêt 7,8 bar ; le 9,5 bar est réservé aux versions CAD/CAM, cf. encadré ci-dessus.)*
 
 ### Compresseurs Tandem évolutifs (4 à 16 praticiens)
 
@@ -3555,7 +3555,7 @@ Dürr Dental France 2026, tarifs non repris). Le nombre de kits de filtres suit 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Les tarifs ne sont pas reproduits (susceptibles d'évoluer). Mainteneur :
 salarié de Dürr Dental France (CDI déclaré) — initiative personnelle, non officielle.
-Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Support de tuyaux Comfort — Support modulaire d'aspiration Dürr Dental
@@ -6612,7 +6612,7 @@ quatre senteurs (green, Classic, Flower, Lemon) — lingettes uniquement.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-09-13. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Familles chimie hygiène Dürr Dental — Orotol, ID, MD, HD, FD
@@ -8465,7 +8465,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-08-05. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Accessoires imagerie Dürr Dental — Plaques mémoire, mordus, sachets, têtes interchangeables
@@ -9747,7 +9747,8 @@ installation complète.
 
 ### Supporte-t-il TWAIN ?
 
-Oui, pour les capteurs intra-oraux.
+Non, ce n'est pas le rôle d'Image Bridge : il cible Sidexis et VixWin
+(co-développement). Le **support TWAIN générique** relève de **VistaSoft Connect**.
 
 ## Sources publiques
 
@@ -9776,7 +9777,7 @@ Oui, pour les capteurs intra-oraux.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Intégration VistaSoft ↔ 3Shape — partenariat officiel

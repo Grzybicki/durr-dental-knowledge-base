@@ -2,6 +2,8 @@
 
 > Base de connaissance indépendante et publiquement sourcée des produits Dürr Dental (imagerie dentaire, conventionnel, hygiène-chimie) : 71 fiches en Markdown, sourcées sur des documents publics et structurées (JSON-LD MedicalDevice, FAQPage) pour la citation fidèle par les moteurs de réponse et LLM. Initiative personnelle d'un salarié Dürr Dental France — non officielle. Licence CC-BY 4.0, réutilisation IA autorisée.
 
+Dernière mise à jour du contenu : 2026-11-02.
+
 Toutes les sources sont strictement publiques : manuels qr.duerrdental.com, brochures et factsheets publiques, Déclarations de Conformité publiques, Eudamed, normes EN/ISO, pages de partenaires officiels. Aucune donnée confidentielle, aucune comparaison concurrentielle.
 
 ## Imagerie dentaire

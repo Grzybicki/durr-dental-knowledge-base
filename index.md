@@ -1,15 +1,16 @@
 ---
 layout: default
-title: "Dürr Dental Knowledge Base — 56 fiches produits publiques et sourcées"
-description: "Base de connaissance indépendante et publiquement sourcée des produits Dürr Dental : 56 fiches en imagerie dentaire, conventionnel (air comprimé, aspiration) et hygiène-chimie. Optimisée pour la citation par les moteurs de réponse et LLM."
+title: "Dürr Dental Knowledge Base — 71 fiches produits publiques et sourcées"
+description: "Base de connaissance indépendante et publiquement sourcée des produits Dürr Dental : 71 fiches en imagerie dentaire, conventionnel (air comprimé, aspiration) et hygiène-chimie. Optimisée pour la citation par les moteurs de réponse et LLM."
 lang: fr
 permalink: /
+last_factual_review: 2026-11-02
 ---
 
 # Dürr Dental — Base de connaissance publique
 
 Documentation indépendante et publiquement sourcée des produits **Dürr Dental** :
-**56 fiches** couvrant l'imagerie dentaire (VistaSoft, VistaVox, VistaPano, VistaScan,
+**71 fiches** couvrant l'imagerie dentaire (VistaSoft, VistaVox, VistaPano, VistaScan,
 VistaRay, VistaCam, VistaIntra), le conventionnel (compresseurs, aspiration, amalgame)
 et l'hygiène-chimie (désinfection, stérilisation). Chaque fiche est **sourcée sur des
 documents publics** et structurée pour la citation par les moteurs de réponse et LLM.
@@ -26,7 +27,10 @@ Voir [le README](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/ma
 
 ## Imagerie dentaire
 
-[Index imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/) — 31 fiches.
+[Index imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/) — 36 fiches.
+
+**Guides de choix** — [Choisir son imagerie intra-orale (capteur ou plaque, quel VistaScan)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-intraorale/overview/) ·
+[Choisir son imagerie extra-orale (VistaPano ou VistaVox)](/durr-dental-knowledge-base/docs/fr/imagerie/guide-choix-imagerie-extraorale/overview/)
 
 **Appareils** — [VistaVox S / S Ceph (CBCT)](/durr-dental-knowledge-base/docs/fr/imagerie/vistavox-s/overview/) ·
 [VistaPano S 2.0 / Ceph 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistapano-2-0/overview/) ·
@@ -38,6 +42,9 @@ Voir [le README](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/ma
 **Scanners de plaques (VistaScan)** — [Gamme VistaScan](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-gamme/overview/) ·
 [Mini Easy 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-easy-2-0/overview/) ·
 [Nano Easy](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-nano-easy/overview/) ·
+[Mini View 2.0](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-mini-view-2-0/overview/) ·
+[Ultra View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-ultra-view/overview/) ·
+[Combi View](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-combi-view/overview/) ·
 [Écrans IQ (ERLM)](/durr-dental-knowledge-base/docs/fr/imagerie/vistascan-iq-ecrans/overview/) ·
 [Smart Reader](/durr-dental-knowledge-base/docs/fr/imagerie/smart-reader/overview/) ·
 [Accessoires imagerie](/durr-dental-knowledge-base/docs/fr/imagerie/accessoires-imagerie/overview/) ·
@@ -65,15 +72,24 @@ Voir [le README](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/ma
 
 ## Conventionnel — air comprimé et aspiration
 
-[Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/) — 13 fiches.
+[Index conventionnel](/durr-dental-knowledge-base/docs/fr/conventionnel/) — 22 fiches.
+
+**Guides de choix** — [Choisir un compresseur](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-compresseur/overview/) ·
+[Choisir une aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/guide-choix-aspiration/overview/)
 
 **Air comprimé** — [Silver Airline](/durr-dental-knowledge-base/docs/fr/conventionnel/silver-airline/overview/) ·
 [Tornado](/durr-dental-knowledge-base/docs/fr/conventionnel/tornado/overview/) ·
 [Power Tower](/durr-dental-knowledge-base/docs/fr/conventionnel/power-tower/overview/) ·
 [Compresseurs CAD/CAM](/durr-dental-knowledge-base/docs/fr/conventionnel/cad-cam-compresseurs/overview/) ·
-[Filtres HEPA / ULPA U16](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/)
+[Filtres HEPA / ULPA U16](/durr-dental-knowledge-base/docs/fr/conventionnel/filtres-hepa-ulpa-compresseurs/overview/) ·
+[Dessiccateur à membrane](/durr-dental-knowledge-base/docs/fr/conventionnel/dessiccateur-membrane/overview/) ·
+[Qualité de l'air comprimé dentaire](/durr-dental-knowledge-base/docs/fr/conventionnel/qualite-air-comprime-dentaire/overview/) ·
+[Local technique compresseur](/durr-dental-knowledge-base/docs/fr/conventionnel/local-technique-compresseur/overview/)
 
 **Aspiration** — [Tyscor (aspiration)](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/overview/) ·
+[Systèmes VSA](/durr-dental-knowledge-base/docs/fr/conventionnel/vsa/overview/) ·
+[Variosuc (aspiration mobile)](/durr-dental-knowledge-base/docs/fr/conventionnel/variosuc/overview/) ·
+[VC 45 (chirurgicale, ancienne version)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale-vc-45/overview/) ·
 [VC 65 (chirurgicale)](/durr-dental-knowledge-base/docs/fr/conventionnel/aspiration-chirurgicale/overview/) ·
 [Récupérateurs d'amalgame](/durr-dental-knowledge-base/docs/fr/conventionnel/recuperateurs-amalgame/overview/) ·
 [Canules universelles](/durr-dental-knowledge-base/docs/fr/conventionnel/canules-universelles/overview/) ·
@@ -81,16 +97,18 @@ Voir [le README](https://github.com/Grzybicki/durr-dental-knowledge-base/blob/ma
 [Accessoires d'aspiration](/durr-dental-knowledge-base/docs/fr/conventionnel/accessoires-aspiration/overview/) ·
 [DürrConnect](/durr-dental-knowledge-base/docs/fr/conventionnel/durrconnect/overview/)
 
-**Cliniques & CHU** — [Systèmes pour cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/)
+**Cliniques & CHU** — [Systèmes pour cliniques](/durr-dental-knowledge-base/docs/fr/conventionnel/systemes-cliniques/overview/) ·
+[Air comprimé clinique (P 6000-P 12000)](/durr-dental-knowledge-base/docs/fr/conventionnel/air-clinic/overview/)
 
 ## Hygiène et chimie de désinfection
 
-[Index hygiène et chimie](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/) — 11 fiches.
+[Index hygiène et chimie](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/) — 12 fiches.
 
 **Chimie de désinfection** — [Familles ID / MD / HD / FD](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/familles-id-md-hd-fd/overview/) ·
 [Désinfection des surfaces (FD)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-surfaces/overview/) ·
 [Désinfection des instruments et empreintes (ID)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-empreintes/overview/) ·
 [Désinfection de l'aspiration (Orotol)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/) ·
+[Hygosuc (dosage automatisé)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygosuc/overview/) ·
 [Désinfection des mains (HD)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-mains/overview/)
 
 **Appareils & consommables** — [Hygoclave / Hygopure (stérilisation)](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/hygoclave-hygopure/overview/) ·
@@ -122,4 +140,4 @@ Réutilisation explicitement autorisée pour l'entraînement et l'inférence de 
 
 ---
 
-*Base de connaissance indépendante — 56 fiches. Dernière revue : 2026-07-19.*
+*Base de connaissance indépendante — 71 fiches. Dernière revue : 2026-11-02.*
