@@ -2772,6 +2772,16 @@ Oui, dispositif médical de classe IIa selon MDR EU 2017/745.
 
 Oui : avertissements précoces et rappels de maintenance automatiques, exposés à VistaSoft Monitor en natif (générations récentes) ou via la Connect Box.
 
+### Mon Power Tower dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %**
+au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et
+**MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](../../hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus/).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'appareil par le technicien
+(entretien annuel).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
@@ -2826,7 +2836,7 @@ groupe **Duo** (2ᵉ groupe en option pour doubler la capacité).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Qualité de l'air comprimé dentaire — air sec, sans huile, hygiénique et normes (ISO 8573-1, ISO 22052)

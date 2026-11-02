@@ -4,6 +4,16 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.22.1] — 2026-11-02
+
+### Ajouté — Power Tower : FAQ « odeur, que faire ? »
+
+Requête Bing réelle la plus cliquée (« power tower … problème odeur que faire »), sujet absent
+de la fiche. Réponse = renvoi vers le **protocole d'entretien Orotol Plus / MD 555** de
+`desinfection-aspiration` (valeurs reprises de cette fiche, ancre vers la section protocole),
+puis contrôle technicien si l'odeur persiste (consigne du mainteneur). FAQ visible + FAQPage
+(6 questions, JSON-LD valide au build). `llms*.txt` régénérés.
+
 ## [0.22.0] — 2026-11-02
 
 ### Corrigé — constats du suivi IA mensuel (test du 01/11/2026)

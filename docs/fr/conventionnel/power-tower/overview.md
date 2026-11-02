@@ -38,7 +38,7 @@ source_documents:
     type: "factsheet officielle Dürr Dental France"
     language: "fr"
     note: "Source des caractéristiques techniques (208×64×61 cm, 265-275 kg, 56 dB(A) à 35 °C, débits 115/230 l/min)"
-last_factual_review: 2026-07-19
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -277,6 +277,14 @@ paramètres des deux fonctions dans un même équipement.
         "@type": "Answer",
         "text": "Oui : avertissements précoces et rappels de maintenance automatiques, exposés à VistaSoft Monitor en natif (générations récentes) ou via la Connect Box."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon Power Tower dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliquer le protocole d'entretien de l'aspiration Dürr Dental : Orotol Plus dilué à 2 % au moins une fois par jour (le soir, après avoir aspiré 2 litres d'eau), et MD 555 cleaner à 5 % au moins deux fois par semaine (trois fois en cas de poudre prophylactique), suivi d'un rinçage abondant. Si l'odeur persiste malgré ce protocole, faire contrôler l'appareil par le technicien (entretien annuel)."
+      }
     }
   ]
 }
@@ -307,6 +315,16 @@ Oui, dispositif médical de classe IIa selon MDR EU 2017/745.
 ### Peut-on superviser un Power Tower à distance ?
 
 Oui : avertissements précoces et rappels de maintenance automatiques, exposés à VistaSoft Monitor en natif (générations récentes) ou via la Connect Box.
+
+### Mon Power Tower dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %**
+au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et
+**MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'appareil par le technicien
+(entretien annuel).
 
 ## Références produit et accessoires
 
@@ -362,4 +380,4 @@ groupe **Duo** (2ᵉ groupe en option pour doubler la capacité).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-19. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
