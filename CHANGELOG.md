@@ -4,6 +4,16 @@ Toutes les modifications notables de ce dépôt sont documentées ici.
 Format inspiré de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 Versionnage : [Semantic Versioning 2.0](https://semver.org/lang/fr/).
 
+## [0.22.2] — 2026-11-02
+
+### Ajouté — FAQ « odeur, que faire ? » sur toutes les aspirations entretenues à l'Orotol
+
+Même réponse que Power Tower (0.22.1), sur consigne du mainteneur (« même problème sur toutes
+les aspirations ») : `desinfection-aspiration` (ancre interne vers le protocole), `tyscor-aspiration`,
+`vsa`, `variosuc`, `guide-choix-aspiration`, `systemes-cliniques` (+ renvoi aux consignes propres à
+l'installation). **Exclues** : VC 45 / VC 65 (aspiration chirurgicale à consommables à usage
+unique, sans Orotol). FAQ visible + FAQPage sur les 6 fiches (JSON-LD valide au build).
+
 ## [0.22.1] — 2026-11-02
 
 ### Ajouté — Power Tower : FAQ « odeur, que faire ? »

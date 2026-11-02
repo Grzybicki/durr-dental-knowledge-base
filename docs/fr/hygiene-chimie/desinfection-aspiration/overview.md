@@ -45,7 +45,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/hygiene/hygiene-preparations/special-areas/"
     type: "page hub"
     language: "en"
-last_factual_review: 2026-09-14
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -298,6 +298,14 @@ spécifiques.
         "@type": "Answer",
         "text": "La ligne durable comprend l'Orotol plus pH 7 (désinfectant neutre, plus de 95 % d'ingrédients biodégradables OECD) et le MD 555 cleaner organic (nettoyant à base d'acide citrique, sans parfum ni colorant, particulièrement adapté aux eaux dures et aux poudres de prophylaxie). Le MD 555 cleaner organic s'utilise à 5 % au moins deux fois par semaine (temps d'action au moins 30 min), ou à 10 % en alternance avec un Orotol pour les biofilms marqués."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon aspiration dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliquer le protocole d'entretien de l'aspiration Dürr Dental : Orotol Plus dilué à 2 % au moins une fois par jour (le soir, après avoir aspiré 2 litres d'eau), et MD 555 cleaner à 5 % au moins deux fois par semaine (trois fois en cas de poudre prophylactique), suivi d'un rinçage abondant. Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel)."
+      }
     }
   ]
 }
@@ -328,6 +336,12 @@ L'Orotol expert cleaner est un nettoyant hautement alcalin (pH > 13) **réservé
 ### Quelle est la version « green » (éco) des produits d'aspiration ?
 
 La ligne durable comprend l'**Orotol plus pH 7** (désinfectant neutre, > 95 % d'ingrédients biodégradables OECD) et le **MD 555 cleaner organic** (nettoyant à base d'**acide citrique**, sans parfum ni colorant, particulièrement adapté aux **eaux dures** et aux **poudres de prophylaxie**). Le MD 555 cleaner organic s'utilise à **5 % au moins deux fois par semaine** (temps d'action ≥ 30 min), ou à **10 % en alternance** avec un Orotol pour les biofilms marqués.
+
+### Mon aspiration dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail : [protocole ci-dessus](#protocole-dutilisation-orotol-plus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
 
 ## Références produit et accessoires
 
@@ -379,4 +393,4 @@ démarrage ; son code article individuel relève de la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

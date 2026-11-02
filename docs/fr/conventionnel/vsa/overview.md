@@ -31,7 +31,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-07-22
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -202,6 +202,14 @@ récupération d'amalgame satisfait à la norme **ISO 11143:2008** et au
         "@type": "Answer",
         "text": "De 1 fauteuil (VSA 300 S) jusqu'à 6 fauteuils selon le modèle. Source : factsheet P007100068L03."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon aspiration VSA dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliquer le protocole d'entretien de l'aspiration Dürr Dental : Orotol Plus dilué à 2 % au moins une fois par jour (le soir, après avoir aspiré 2 litres d'eau), et MD 555 cleaner à 5 % au moins deux fois par semaine (trois fois en cas de poudre prophylactique), suivi d'un rinçage abondant. Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel)."
+      }
     }
   ]
 }
@@ -224,6 +232,13 @@ Parce que le récupérateur d'amalgame CA 4 nécessite un réservoir d'équilibr
 ### Combien de fauteuils un système VSA dessert-il ?
 
 De 1 fauteuil (VSA 300 S) jusqu'à 6 fauteuils selon le modèle. Source : factsheet P007100068L03.
+
+### Mon aspiration VSA dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
 
 ## Références produit et accessoires
 
@@ -286,4 +301,4 @@ anti-retour**, une solution de **120 ml d'Orotol Expert cleaner**, la **fiche pr
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

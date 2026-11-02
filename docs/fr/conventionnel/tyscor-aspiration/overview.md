@@ -44,7 +44,7 @@ source_documents:
     type: "notice de planification officielle"
     language: "en"
     note: "Source des REF de la gamme radiale clinique complète : Tyscor V 20 (1802100510, jusqu'à 30 postes), V 30 (1803100510, 50 postes), V 40 (1808000040), V 50 (1808000050), V 60 (1808000060, 100 postes) ; mise à niveau par ajout d'étage RV 10 ; combinaisons avec séparateur de condensat intégré ou cuves CS 20 / CS 60 ; conditions ambiantes +10/+40 °C, conduites d'aspiration dimensionnées pour ≥ −250 mbar, cuve de séparation centrale au point le plus bas."
-last_factual_review: 2026-09-14
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -531,6 +531,14 @@ etc.) et la facilité de maintenance.
         "@type": "Answer",
         "text": "Selon la Planning Information Dürr Dental 1802100026L02, chaque station Tyscor clinique est faite d'unités d'aspiration (module RV 10) regroupées en tours de 3 unités maximum, deux tours pouvant être couplées via bus CAN (une tour principale pilote les auxiliaires). Le Tyscor V 20 = 1 tour de 2 unités, le V 30 = 1 tour de 3 unités. Les grands modèles sont des combinaisons : le V 40 = deux V 20 (2 × 2 unités), le V 50 = un V 20 + un V 30 (2 + 3 unités), et le V 60 = deux V 30 (2 × 3 unités)."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon aspiration Tyscor dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliquer le protocole d'entretien de l'aspiration Dürr Dental : Orotol Plus dilué à 2 % au moins une fois par jour (le soir, après avoir aspiré 2 litres d'eau), et MD 555 cleaner à 5 % au moins deux fois par semaine (trois fois en cas de poudre prophylactique), suivi d'un rinçage abondant. Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel)."
+      }
     }
   ]
 }
@@ -573,6 +581,13 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 ### Comment sont composés les Tyscor cliniques V 40, V 50 et V 60 ?
 
 Selon la Planning Information Dürr Dental `1802100026L02`, chaque station Tyscor clinique est faite d'**unités d'aspiration** (module **RV 10**) regroupées en **tours de 3 unités maximum**, deux tours pouvant être **couplées via bus CAN** (une tour principale pilote les auxiliaires). Le **Tyscor V 20 = 1 tour de 2 unités**, le **V 30 = 1 tour de 3 unités**. Les grands modèles sont des **combinaisons** : le **V 40 = deux V 20** (2 × 2 unités), le **V 50 = un V 20 + un V 30** (2 + 3 unités), et le **V 60 = deux V 30** (2 × 3 unités).
+
+### Mon aspiration Tyscor dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
 
 ## Références produit et accessoires
 
@@ -651,4 +666,4 @@ le **Kit Finder** officiel Dürr.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

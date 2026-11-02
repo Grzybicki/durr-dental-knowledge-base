@@ -2196,6 +2196,13 @@ La montée en capacité se fait par **clé de licence logicielle** (un Tyscor V/
 couplés en **Tandem** couvrent **8 praticiens** et **trois VS 4** jusqu'à **12**. Plusieurs moteurs
 indépendants apportent aussi une **tolérance aux pannes** par commutation automatique.
 
+### Une aspiration dentaire dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](../../hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus/).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
+
 ## Sources publiques
 
 | Document | Référence / URL |
@@ -2227,7 +2234,7 @@ indépendants apportent aussi une **tolérance aux pannes** par commutation auto
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles Dürr Dental
 et sur les fiches produit du présent dépôt. Mainteneur : salarié de Dürr Dental France (CDI
-déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-09-14.
+déclaré) — initiative personnelle, non officielle. Dernière revue factuelle : 2026-11-02.
 Licence : CC-BY 4.0.*
 
 ================================================================================
@@ -4131,6 +4138,13 @@ de l'**élément du filtre bactérien à 3500 h**, contrôle général à **12 m
 kit dédié à 24 mois**. La maintenance est réalisée par un **technicien qualifié** ou le **SAV Dürr
 Dental**.
 
+### Une aspiration de clinique dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](../../hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus/). Sur les installations cliniques, respecter en plus les consignes d'entretien propres à l'installation (voir ci-dessus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
@@ -4204,7 +4218,7 @@ et [Tyscor](../tyscor-aspiration/overview/).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-08-06. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Tornado — Compresseurs dentaires Dürr Dental (1, 2, 4)
@@ -5097,6 +5111,13 @@ Oui. L'ensemble des systèmes Tyscor est connectable à VistaSoft Monitor, soit 
 
 Selon la Planning Information Dürr Dental `1802100026L02`, chaque station Tyscor clinique est faite d'**unités d'aspiration** (module **RV 10**) regroupées en **tours de 3 unités maximum**, deux tours pouvant être **couplées via bus CAN** (une tour principale pilote les auxiliaires). Le **Tyscor V 20 = 1 tour de 2 unités**, le **V 30 = 1 tour de 3 unités**. Les grands modèles sont des **combinaisons** : le **V 40 = deux V 20** (2 × 2 unités), le **V 50 = un V 20 + un V 30** (2 + 3 unités), et le **V 60 = deux V 30** (2 × 3 unités).
 
+### Mon aspiration Tyscor dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](../../hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus/).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
@@ -5174,7 +5195,7 @@ le **Kit Finder** officiel Dürr.
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Variosuc — Aspiration mobile de brouillard de spray Dürr Dental (300 l/min)
@@ -5297,6 +5318,13 @@ Oui. Le Variosuc est une aspiration de soin (technologie VS/VSA), il se désinfe
 
 Oui : un filtre viro-bactérien de qualité HEPA H13 (EN 1822-1:2019-10) est intégré de série, avec une rétention vérifiée supérieure à 99,999 % (Staphylococcus aureus) et 99,99 % (virus PhiX174).
 
+### Mon Variosuc dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](../../hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus/).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
@@ -5341,7 +5369,7 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Systèmes VSA Dürr Dental — Aspiration + séparation + récupération d'amalgame
@@ -5477,6 +5505,13 @@ Parce que le récupérateur d'amalgame CA 4 nécessite un réservoir d'équilibr
 
 De 1 fauteuil (VSA 300 S) jusqu'à 6 fauteuils selon le modèle. Source : factsheet P007100068L03.
 
+### Mon aspiration VSA dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](../../hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus/).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** (identifiants publics, résolvables sur la page produit
@@ -5538,7 +5573,7 @@ anti-retour**, une solution de **120 ml d'Orotol Expert cleaner**, la **fiche pr
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Dürr Dental SE — Présentation de l'entreprise et histoire
@@ -5955,6 +5990,12 @@ L'Orotol expert cleaner est un nettoyant hautement alcalin (pH > 13) **réservé
 
 La ligne durable comprend l'**Orotol plus pH 7** (désinfectant neutre, > 95 % d'ingrédients biodégradables OECD) et le **MD 555 cleaner organic** (nettoyant à base d'**acide citrique**, sans parfum ni colorant, particulièrement adapté aux **eaux dures** et aux **poudres de prophylaxie**). Le MD 555 cleaner organic s'utilise à **5 % au moins deux fois par semaine** (temps d'action ≥ 30 min), ou à **10 % en alternance** avec un Orotol pour les biofilms marqués.
 
+### Mon aspiration dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail : [protocole ci-dessus](#protocole-dutilisation-orotol-plus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
+
 ## Références produit et accessoires
 
 Codes article **Dürr Dental** pour la désinfection/entretien des systèmes d'aspiration
@@ -6005,7 +6046,7 @@ démarrage ; son code article individuel relève de la
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-09-14. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
 
 ================================================================================
 # Désinfection des empreintes — Hygojet et ID 213 Dürr Dental

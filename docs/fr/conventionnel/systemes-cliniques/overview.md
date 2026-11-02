@@ -69,7 +69,7 @@ source_documents:
     type: "notice de planification officielle"
     language: "en"
     note: "Source des REF de la gamme radiale clinique : Tyscor V 20 (1802100510), V 30 (1803100510), V 40 (1808000040), V 50 (1808000050), V 60 (1808000060) ; postes desservis (V 20 → 30, V 30 → 50, V 60 → 100) ; combinaisons avec séparateur de condensat intégré ou cuves CS 20 / CS 60."
-last_factual_review: 2026-08-06
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -427,6 +427,14 @@ RIS / PACS hospitalier. Voir
         "@type": "Answer",
         "text": "Pour l'aspiration clinique V 6000-V 18000 (notice 1806100009L02) : contrôle fonctionnel et mesure du débit à la grande canule (250-350 l/min) à 12 mois, remplacement de la cartouche du filtre de refoulement à 24 mois ou 3500 h, inspection des silencieux, clapets anti-retour et soupape d'air auxiliaire à 24 mois. Pour les compresseurs cliniques P 6000-P 12000 (notice 5922100049L02) : contrôles mensuels (condensat, grilles du sécheur frigorifique), remplacement de l'élément du filtre bactérien à 3500 h, contrôle général à 12 mois, maintenance avec le kit dédié à 24 mois. La maintenance est réalisée par un technicien qualifié ou le SAV Dürr Dental."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Une aspiration de clinique dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliquer le protocole d'entretien de l'aspiration Dürr Dental : Orotol Plus dilué à 2 % au moins une fois par jour (le soir, après avoir aspiré 2 litres d'eau), et MD 555 cleaner à 5 % au moins deux fois par semaine (trois fois en cas de poudre prophylactique), suivi d'un rinçage abondant. Sur les installations cliniques, respecter en plus les consignes d'entretien propres à l'installation (voir ci-dessus). Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel)."
+      }
     }
   ]
 }
@@ -490,6 +498,13 @@ soupape d'air auxiliaire à 24 mois. Pour les **compresseurs cliniques P 6000–
 de l'**élément du filtre bactérien à 3500 h**, contrôle général à **12 mois**, **maintenance avec le
 kit dédié à 24 mois**. La maintenance est réalisée par un **technicien qualifié** ou le **SAV Dürr
 Dental**.
+
+### Une aspiration de clinique dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus). Sur les installations cliniques, respecter en plus les consignes d'entretien propres à l'installation (voir ci-dessus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
 
 ## Références produit et accessoires
 
@@ -564,4 +579,4 @@ et [Tyscor](/durr-dental-knowledge-base/docs/fr/conventionnel/tyscor-aspiration/
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-08-06. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*

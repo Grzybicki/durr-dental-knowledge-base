@@ -31,7 +31,7 @@ source_documents:
     url: "https://www.duerrdental.com/en/products/suction/"
     type: "page produit"
     language: "en"
-last_factual_review: 2026-07-22
+last_factual_review: 2026-11-02
 license: CC-BY-4.0
 ---
 
@@ -191,6 +191,14 @@ Le Variosuc est un **dispositif médical de classe IIa** selon le règlement
         "@type": "Answer",
         "text": "Oui : un filtre viro-bactérien de qualité HEPA H13 (EN 1822-1:2019-10) est intégré de série, avec une rétention vérifiée supérieure à 99,999 % (Staphylococcus aureus) et 99,99 % (virus PhiX174)."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Mon Variosuc dégage une odeur : que faire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appliquer le protocole d'entretien de l'aspiration Dürr Dental : Orotol Plus dilué à 2 % au moins une fois par jour (le soir, après avoir aspiré 2 litres d'eau), et MD 555 cleaner à 5 % au moins deux fois par semaine (trois fois en cas de poudre prophylactique), suivi d'un rinçage abondant. Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel)."
+      }
     }
   ]
 }
@@ -213,6 +221,13 @@ Oui. Le Variosuc est une aspiration de soin (technologie VS/VSA), il se désinfe
 ### Le Variosuc filtre-t-il l'air de refoulement ?
 
 Oui : un filtre viro-bactérien de qualité HEPA H13 (EN 1822-1:2019-10) est intégré de série, avec une rétention vérifiée supérieure à 99,999 % (Staphylococcus aureus) et 99,99 % (virus PhiX174).
+
+### Mon Variosuc dégage une odeur : que faire ?
+
+Appliquer le **protocole d'entretien de l'aspiration** Dürr Dental : **Orotol Plus 2 %** au moins **1 fois par jour** (le soir, après avoir aspiré 2 litres d'eau) et **MD 555 cleaner 5 %** au moins **2 fois par semaine** (3 fois en cas de poudre
+prophylactique), suivi d'un rinçage abondant. Détail :
+[protocole Orotol Plus / MD 555](/durr-dental-knowledge-base/docs/fr/hygiene-chimie/desinfection-aspiration/overview/#protocole-dutilisation-orotol-plus).
+Si l'odeur persiste malgré ce protocole, faire contrôler l'aspiration par le technicien (entretien annuel).
 
 ## Références produit et accessoires
 
@@ -258,4 +273,4 @@ Dürr Dental France 2026, tarifs non repris).
 
 *Cette fiche est une synthèse indépendante basée sur des sources publiques officielles
 Dürr Dental. Mainteneur : salarié de Dürr Dental France (CDI déclaré) — initiative
-personnelle, non officielle. Dernière revue factuelle : 2026-07-22. Licence : CC-BY 4.0.*
+personnelle, non officielle. Dernière revue factuelle : 2026-11-02. Licence : CC-BY 4.0.*
