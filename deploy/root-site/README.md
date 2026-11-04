@@ -48,6 +48,9 @@ aussi robots.txt/llms.txt visibles à la racine, sans dépôt séparé.
 
 ## Contenu du bundle
 
+- `sitemap.xml` — **sitemap index** pointant vers le sitemap de la KB : à soumettre dans Google
+  Search Console (`sitemap.xml` à la racine de la propriété), contournement du « Impossible de
+  récupérer » persistant sur le sitemap en sous-dossier (2026-11-04).
 - `robots.txt` — copie du robots.txt de la KB (couverture bots IA + `Sitemap:`
   pointant vers le sitemap de la KB sous `/durr-dental-knowledge-base/`).
 - `llms.txt` — pointeur racine renvoyant vers le `llms.txt` complet et le
